@@ -2,7 +2,7 @@
  * Base structure
  */
 
-body {
+ body {
 	padding-top: 54px;
 }
 @media (min-width: 992px) {
@@ -217,6 +217,7 @@ content: "";
 display: table;
 clear: both;
 } */
+#summCat label { display: block;}
 
 .google-visualization-table-th {
 	background-color: #eee;
