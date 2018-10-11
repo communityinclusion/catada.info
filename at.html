@@ -404,13 +404,26 @@ layout: chart
 								</div>
 							</div>
 						</div>
-
+						<div id="summCat"><h4>1) Select an Activity Category</h4>
+							<div id="accordion5">
+									<div class="card">
+										<div class="card-header" id="headingTen">
+											<h5 class="mb-0"><button aria-controls="collapseTen" aria-expanded="false" class="btn btn-link" data-target="#collapseTen" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button></div>
+											</div>
+											<div aria-labelledby="headingNine" class="collapse show" data-parent="#accordion5" id="collapseTen">
+													<div class="card-body row">
+															<label for="summ_31"><input id="summ_31" name="summCategory" type="radio" value="31"> Device Demonstrations</label> <br /><label for="summ_32"><input id="summ_32" name="summCategory" type="radio" value="32"> Device Loans</label> <br /> <label for="summ_33"><input id="summ_33" name="summCategory" type="radio" value="33"> Device Reutilization</label> <br /> <label for="summ_34"><input id="summ_34" name="summCategory" type="radio" value="34"> State Financing</label> <br /> <label for="summ_35"><input id="summ_35" name="summCategory" type="radio" value="35"> State Leadership</label> <br />
+															<label for="summ_35"><input id="summ_35" name="summCategory" type="radio" value="35"> State Financing</label> <br /> <label for="summ_36"><input id="summ_36" name="summCategory" type="radio" value="36"> Federal and Leveraged Funding</label>
+													</div>
+												</div>
+										</div>
+									</div>
 
 					<div id="summYear"><h4>Select a Year</h4>
 							<div id="accordion4">
 									<div class="card">
 										<div class="card-header" id="headingNine">
-											<h5 class="mb-0"><button aria-controls="collapseNine" aria-expanded="false" class="btn btn-link" data-target="#collapseNine" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button><div id="yearCountText" class="clearable"></span></h5>
+											<h5 class="mb-0"><button aria-controls="collapseNine" aria-expanded="false" class="btn btn-link" data-target="#collapseNine" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button></h5>
 										</div>
 		
 										<div aria-labelledby="headingNine" class="collapse show" data-parent="#accordion4" id="collapseNine">
@@ -423,7 +436,9 @@ layout: chart
 									</div>
 							</div>
 						</div>
-					</div><br>
+					</div>
+					
+					<br>
 					<br>
 					<button aria-label="Generate chart, tables, and text download for the selected values" class="btn" id="chartRedraw" type="button">Generate</button><br>
 					<button aria-label="Clear form choices" class="float-left" id="clearForm" type="button">Clear the form</button>
