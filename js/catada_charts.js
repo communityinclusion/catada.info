@@ -149,7 +149,7 @@ function getStateYearArray(choiceType) {
     }); 
     
     
-    var years1 = jQuery('input[name="reportChoose"]:checked').val() == '31' ? jQuery('input[name="summChoose"]:checked').val() : jQuery('input:checkbox[name="regionYear[]"]:checked').each(function(){
+    var years1 = summReportChecked() ? jQuery('input[name="summChoose"]:checked').val() : jQuery('input:checkbox[name="regionYear[]"]:checked').each(function(){
         yeararray1.push(jQuery(this).val());
     }); 
     
@@ -164,7 +164,7 @@ function summReportChecked() {
      // console.log('It is checked');
      var summYes = getUrlString('report') ;
     
-     if(jQuery('input[name="reportChoose"]:checked').val() == '31' || summYes == 'summary') {
+     if(summYes == 'summary') {
          jQuery('#summYear').show();
          jQuery('#summCat').show();
          jQuery('#accordion').hide();
@@ -240,9 +240,10 @@ function drawSheetName() {
    
     years = !summReportChecked() ? yeararray1.length < 1 ? '2012' : yeararray1.join(' OR E = ') : years1;
     yearstext = !summReportChecked() ?  yeararray1.length < 1 ? '2012' : yeararray1.join(', ') : years1;
-    var reportchoice = !summReportChecked() ? jQuery('input[name="reportChoose"]:checked').val() : '31';
+    var reportchoice = !summReportChecked() ? jQuery('input[name="reportChoose"]:checked').val() : jQuery('input[name="summCategory"]:radio:checked').val();
+    console.log(reportchoice);
 
-    reporttitle = !summReportChecked() ? jQuery('input[name="reportChoose"]:checked').parent('label').text() : 'Summary Report';
+    reporttitle = !summReportChecked() ? jQuery('input[name="reportChoose"]:checked').parent('label').text() : 'Summary Report' + ': ' + jQuery('input[name="summCategory"]:radio:checked').parent('label').text();
     var statesFilenm = statenametext;
     if(statenametext.length > 14) {
         statesFilenm = statenametext.substring(0,14);
@@ -691,22 +692,36 @@ function drawSheetName() {
         tableStringContent[0] = "SELECT A,Q,Z,BC WHERE E = " + years + " ORDER BY C";
         sheetName[0] = 'sheet=x_dd_export_full&';
         reportHeading[0] = "Device Demonstrations: summary of programs";
+        break;
+        case '32':
         // device loans
-        tableStringContent[1] = "SELECT A,K,W,BN WHERE E = " + years + " ORDER BY C";
-        sheetName[1] = 'sheet=x_dl_export_full&';
-        reportHeading[1] = "Device Loans: summary of programs";
-        tableStringContent[2] = "SELECT A,O,P,Q,R,S WHERE E = " + years + " ORDER BY C";
-        sheetName[2] = 'sheet=x_fa_sat_export_and_summaries&';
-        reportHeading[2] = "Device Reutilization: summary of programs";
-        tableStringContent[3] = "SELECT A,V,W,X,Y,Z,AA,AB WHERE E = " + years + " ORDER BY C";
-        sheetName[3] = 'sheet=x_fa_sat_export_and_summaries&';
-        reportHeading[3] = "State Financing: summary of programs";
-        tableStringContent[4] = "SELECT A,T,U WHERE E = " + years + " ORDER BY C";
-        sheetName[4] = 'sheet=x_fa_sat_export_and_summaries&';
-        reportHeading[4] = "State Leadership: summary of activities";
-        tableStringContent[5] = "SELECT A,F,G WHERE E = " + years + " ORDER BY C";
-        sheetName[5] = 'sheet=x_ga_and_x_lf_export&';
-        reportHeading[5] = "Federal and Leveraged Funding: summary";
+        tableStringContent[0] = "SELECT A,K,W,BN WHERE E = " + years + " ORDER BY C";
+        sheetName[0] = 'sheet=x_dl_export_full&';
+        reportHeading[0] = "Device Loans: summary of programs";
+        break;
+        case '33':
+        // device reutilization
+        tableStringContent[0] = "SELECT A,O,P,Q,R,S WHERE E = " + years + " ORDER BY C";
+        sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
+        reportHeading[0] = "Device Reutilization: summary of programs";
+        break;
+        case '34':
+        //state financing
+        tableStringContent[0] = "SELECT A,V,W,X,Y,Z,AA,AB WHERE E = " + years + " ORDER BY C";
+        sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
+        reportHeading[0] = "State Financing: summary of programs";
+        break;
+        case '35':
+        // state leadership
+        tableStringContent[0] = "SELECT A,T,U WHERE E = " + years + " ORDER BY C";
+        sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
+        reportHeading[0] = "State Leadership: summary of activities";
+        break;
+        case '36':
+        //federal and leveraged funding
+        tableStringContent[0] = "SELECT A,F,G WHERE E = " + years + " ORDER BY C";
+        sheetName[0] = 'sheet=x_ga_and_x_lf_export&';
+        reportHeading[0] = "Federal and Leveraged Funding: summary";
         break;
 
 
@@ -718,7 +733,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Demonstrations: Type of AT";
         break;
     }
-    var csvFileName = reportchoice == '31' ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
+    var csvFileName = summReportChecked() ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
     csvFileName = csvFileName.replace(/ /g,"_").replace( /,/g,"");
     
     
@@ -750,20 +765,20 @@ function drawSheetName() {
     doQuery(queryTable, i,reportHeading[i],reportchoice);
         
        jQuery('#csvDL #urlInputs').append('<input type="hidden" name="sendString[]" value="' + queryStringTable + '" />');
-       jQuery('#csvDL #titleInputs').append((reportchoice == '31' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
+       jQuery('#csvDL #titleInputs').append((summReportChecked() ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
        jQuery('#csvDL #sheetnameInputs').append('<input type="hidden" name="sendSheetname[]" value="' + sheetName[i] + '" />');
     }
     //var toolbarChart = handleToolbarDataQueryResponse(chartURL + '/gviz/tq?' +  sheetName + 'headers=1&tq=' + queryString);
     var csvReqString = '&tqx=reqId:1;out:csv;outFileName:' + csvFileName + '.csv';
     //jQuery("a#chartCSVlink").attr("href", chartURL + '/gviz/tq?' +  sheetName[i] + 'headers=1&tq=' + queryString + csvReqString);
     jQuery("a#tableCSVlink").attr("href", chartURL + '/gviz/tq?' + sheetName[i] + 'headers=1&tq=' + queryStringTable + csvReqString);
-    } else if (countChecks('state') == 0 && countChecks('year') != 0 && jQuery('input[name="reportChoose"]:checked').val() != '31') {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide(); jQuery('.selectWarn').remove();
+    } else if (countChecks('state') == 0 && countChecks('year') != 0 && !summReportChecked()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide(); jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more states above.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
-    } else if (countChecks('state') != 0 && countChecks('year') == 0 && jQuery('input[name="reportChoose"]:checked').val() != '31') {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
+    } else if (countChecks('state') != 0 && countChecks('year') == 0 && !summReportChecked()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years above.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
-    }  else if (countChecks('state') == 0 && countChecks('year') == 0  && jQuery('input[name="reportChoose"]:checked').val() != '31') {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
+    }  else if (countChecks('state') == 0 && countChecks('year') == 0  && summReportChecked()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
     jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose a category at left, and one or more years, and one or more states above.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
-    }  else if (jQuery('input[name="reportChoose"]:checked').val() == '31' && !jQuery('input[name="summChoose"]:checked').val()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide(); jQuery('.selectWarn').remove();
+    }  else if (summReportChecked() && !jQuery('input[name="summChoose"]:checked').val()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide(); jQuery('.selectWarn').remove();
     jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year above for your summary report.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
     }
 
@@ -779,7 +794,7 @@ function handleChartDataQueryResponse(response) {
     chartHeight = checkCount > 3 ? (checkCount > 5 ? '500':'450'): '175';
     areaHeight = checkCount > 3 ? (checkCount > 5 ? '650':'600'): '300';
     var groupWid = checkCount > 3 ? (checkCount > 5 ? '22':'32') : '22';
-    reportchoice= jQuery('input[name="reportChoose"]:checked').val();
+    reportchoice= !summReportChecked() ? jQuery('input[name="reportChoose"]:checked').val() : jQuery('input[name="summCategory"]:radio:checked').val() ;
     var container = document.getElementById('chart_div');
     formatVAxis = reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23' ? "#%" : "$#,###";
     var chart = new google.visualization.BarChart(container);
@@ -837,11 +852,11 @@ function doQuery(q,i,reportHeader,reportchoice) {
     
     var tableTarget = 'table_div_' + i;
     var tableTitleTarget = 'table_div_' + i + '_title';
-    if(reportchoice == '31') {
+    /* if(summReportChecked()) {
         jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h5><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h5>' ); 
         if(!jQuery('#' + tableTarget).hasClass('collapse'))jQuery('#' + tableTarget).addClass('collapse'); jQuery('#' + tableTarget).attr('aria-labelledby',tableTitleTarget).attr('data-parent','#summ_accordion').attr('aria-expanded',false);
     
-    } else if (reportchoice == '30'){
+    } else */ if (reportchoice == '30'){
         return;
     } else {
             jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h5>');

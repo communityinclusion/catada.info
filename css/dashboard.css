@@ -217,7 +217,7 @@ content: "";
 display: table;
 clear: both;
 } */
-#summCat label { display: block;}
+#summCat label{ display: block; clear: both; width: 90%;}
 
 .google-visualization-table-th {
 	background-color: #eee;
