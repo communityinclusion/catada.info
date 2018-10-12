@@ -27,7 +27,7 @@ jQuery( document ).ready(function() {
     var checkYears = countChecks('year'); 
     var checkCats = countChecks('category');
  if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) { jQuery('.selectWarn').remove();
-    jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose a category at left and state(s) and year(s) above to begin.</p>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
+    jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose an activity, state(s) and year(s) at left to begin.</p>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
 
  }
 
@@ -191,7 +191,7 @@ function summReportChecked() {
         jQuery('#accordion2').show();
         jQuery('#accordion3').show();
         jQuery('#sidebar h4.p-2').show();
-        
+        jQuery('#sidebar h4#categoryRadios.p-2').hide();
         return 'download';
            
     } else {
@@ -201,6 +201,7 @@ function summReportChecked() {
         jQuery('#accordion2').show();
         jQuery('#accordion3').show();
         jQuery('#sidebar h4.p-2').show();
+        jQuery('#sidebar h4.p-2').hide();
         return 'activity';
     }
     
@@ -785,7 +786,7 @@ function drawSheetName() {
     } else if (countChecks('state') != 0 && countChecks('year') == 0 && summReportChecked() != 'summary') {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years above.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
     }  else if (countChecks('state') == 0 && countChecks('year') == 0  && summReportChecked() == 'summary') {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();jQuery('.selectWarn').remove();
-    jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose a category at left, and one or more years, and one or more states above.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
+    jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose an activity, state(s) and year(s) at left to begin.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
     }  else if (summReportChecked() == 'summary' && !jQuery('input[name="summChoose"]:checked').val()) {jQuery('.clearable').empty(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide(); jQuery('.selectWarn').remove();
     jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year above for your summary report.</h5>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
     }
