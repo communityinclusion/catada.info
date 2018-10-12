@@ -201,7 +201,8 @@ function summReportChecked() {
         jQuery('#accordion2').show();
         jQuery('#accordion3').show();
         jQuery('#sidebar h4.p-2').show();
-        jQuery('#sidebar h4.p-2').hide();
+
+        jQuery('#sidebar h4#categoryRadios.p-2').show();
         return 'activity';
     }
     
