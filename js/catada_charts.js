@@ -166,6 +166,7 @@ function summReportChecked() {
      var summYes = getUrlString('report') ;
     
      if(summYes == 'summary') {
+        jQuery('h1#chartTitle').text('AT Activity Summaries');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
          jQuery('#accordion').hide();
@@ -185,6 +186,8 @@ function summReportChecked() {
              
         //jQuery('button.multiselect.dropdown-toggle').removeAttr('disabled');
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
+
+        jQuery('h1#chartTitle').text('Download AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion').hide();
@@ -195,6 +198,7 @@ function summReportChecked() {
         return 'download';
            
     } else {
+        jQuery('h1#chartTitle').text('AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion').show();
