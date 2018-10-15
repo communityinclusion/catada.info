@@ -42,7 +42,7 @@ jQuery( document ).ready(function() {
  jQuery('select').change(countChecks);
  
  jQuery('select').change(countChecks);
- jQuery('#accordion label').accessibleSimpleTooltipAria({
+ jQuery('#accordion1 label').accessibleSimpleTooltipAria({
    // simpletooltipText: 'title'
   });
   jQuery("#chartSelector").submit(function(event)
@@ -169,7 +169,7 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('AT Activity Summaries');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
-         jQuery('#accordion').hide();
+         jQuery('#accordion1').hide();
          jQuery('#accordion2').hide();
          jQuery('#accordion3').hide();
          jQuery('#sidebar h4.p-2').hide();
@@ -190,7 +190,7 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('Download AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
-        jQuery('#accordion').hide();
+        jQuery('#accordion1').hide();
         jQuery('#accordion2').show();
         jQuery('#accordion3').show();
         jQuery('#sidebar h4.p-2').show();
@@ -201,7 +201,7 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
-        jQuery('#accordion').show();
+        jQuery('#accordion1').show();
         jQuery('#accordion2').show();
         jQuery('#accordion3').show();
         jQuery('#sidebar h4.p-2').show();
