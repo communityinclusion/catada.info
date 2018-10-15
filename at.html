@@ -14,8 +14,9 @@ layout: chart
 		<nav class="col-md-3 py-2" id="sidebar">
 			<form action="#" id="chartSelector" method="post" name="chartSelector">
 				<h4 class="p-2" id="categoryRadios">1. Select AT Activity</h4>
-				<fieldset aria-labelledby="categoryRadios" role="radiogroup">
+
 					<div id="accordion">
+						<fieldset aria-labelledby="categoryRadios" role="radiogroup">
 						<div class="card">
 							<div class="card-header" id="headingOne">
 								<h5 class="mb-0"><button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseOne" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Device Demonstrations</button></h5>
@@ -166,12 +167,12 @@ layout: chart
 				</fieldset>
 				<h4 class="p-2">2. Select State(s)</h4>
 
-					<div id="accordion2">
+
 						<div class="card">
 							<div class="card-header" id="headingSeven">
 								<h5 class="mb-0 clearfix"><button aria-controls="collapseSeven" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseSeven" data-toggle="collapse"><i aria-hidden="true" class="fa"></i> Select State(s)</button><div id="stateCountText" class="clearable"></div></h5>
 							</div>
-							<div aria-labelledby="headingSeven" class="collapse" data-parent="#accordion2" id="collapseSeven"><div class="checkbox">
+							<div aria-labelledby="headingSeven" class="collapse" data-parent="#accordion" id="collapseSeven"><div class="checkbox">
 									<label class="form-check-label" for="Checkall"><input class="yearCheck checkAll" type="checkbox" value="Checkall"> Select/Clear all</label>
 							   </div>
 								<div class="card-body row">
@@ -348,10 +349,10 @@ layout: chart
 									</div>
 								</div>
 							</div>
-						</div>
+
 
 					<h4 class="p-2">3. Select Year(s)</h4>
-					<div id="accordion3">
+
 						<div class="card">
 							<div class="card-header" id="headingEight">
 								<h5 class="mb-0">
@@ -359,7 +360,7 @@ layout: chart
 									<div id="yearCountText" class="clearable"></div></h5>
 							</div>
 
-							<div aria-labelledby="headingEight" class="collapse" data-parent="#accordion3" id="collapseEight"><div class="checkbox">
+							<div aria-labelledby="headingEight" class="collapse" data-parent="#accordion" id="collapseEight"><div class="checkbox">
 									<label class="form-check-label" for="Checkall"><input class="yearCheck checkAll" type="checkbox" value="Checkall"> Select/Clear all</label>
 							   </div>
 								<div class="card-body row">
@@ -405,14 +406,14 @@ layout: chart
 
 								</div>
 							</div>
-						</div>
+
 						<div id="summCat"><h4>1) Select an Activity Category</h4>
-							<div id="accordion5">
+
 									<div class="card">
 										<div class="card-header" id="headingTen">
 											<h5 class="mb-0"><button aria-controls="collapseTen" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseTen" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Category</button></h5>
 											</div>
-											<div aria-labelledby="headingNine" class="collapse hide" data-parent="#accordion5" id="collapseTen">
+											<div aria-labelledby="headingNine" class="collapse hide" data-parent="#accordion" id="collapseTen">
 													<div class="card-body row">
 															<label for="summ_31"><input id="summ_31" name="summCategory" type="radio" value="31"> Device Demonstrations</label>
 															<br />
@@ -427,17 +428,17 @@ layout: chart
 													</div>
 												</div>
 										</div>
-									</div>
+
 								</div>
 
 					<div id="summYear"><h4>2) Select a Year</h4>
-							<div id="accordion4">
+
 									<div class="card">
 										<div class="card-header" id="headingNine">
 											<h5 class="mb-0"><button aria-controls="collapseNine" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseNine" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button></h5>
 										</div>
 
-										<div aria-labelledby="headingNine" class="collapse hide" data-parent="#accordion4" id="collapseNine">
+										<div aria-labelledby="headingNine" class="collapse hide" data-parent="#accordion" id="collapseNine">
 											<div class="card-body row">
 
 
