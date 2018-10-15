@@ -169,10 +169,12 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('AT Activity Summaries');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
-         jQuery('#accordion').hide();
-         jQuery('#accordion2').hide();
-         jQuery('#accordion3').hide();
+         jQuery('#accordion > fieldset').hide();
+         jQuery('#accordion .groupYear').hide();
+         jQuery('#accordion .groupState').hide();
          jQuery('#sidebar h4.p-2').hide();
+         jQuery('#sidebar h4.p-2.summCatHed').show();
+         jQuery('#sidebar h4.p-2.summYearHed').show();
         
        
         //jQuery('button.multiselect.dropdown-toggle').prop('disabled',true);
@@ -190,10 +192,14 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('Download AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
-        jQuery('#accordion').hide();
-        jQuery('#accordion2').show();
-        jQuery('#accordion3').show();
-        jQuery('#sidebar h4.p-2').show();
+        jQuery('#accordion > fieldset').hide();
+        jQuery('#accordion .groupYear').show();
+        jQuery('#accordion .groupState').show();
+        jQuery('#sidebar h4.p-2').hide();
+        jQuery('#sidebar h4.p-2.downloadStates').show();
+        jQuery('#sidebar h4.p-2.downloadYears').show();
+        jQuery('#sidebar h4.p-2.summCatHed').hide();
+        jQuery('#sidebar h4.p-2.summYearHed').hide();
         jQuery('#sidebar h4#categoryRadios.p-2').hide();
         return 'download';
            
@@ -201,10 +207,14 @@ function summReportChecked() {
         jQuery('h1#chartTitle').text('AT Activities');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
-        jQuery('#accordion').show();
-        jQuery('#accordion2').show();
-        jQuery('#accordion3').show();
-        jQuery('#sidebar h4.p-2').show();
+        jQuery('#accordion > fieldset').show();
+        jQuery('#accordion .groupYear').show();
+        jQuery('#accordion .groupState').show();
+        jQuery('#sidebar h4.p-2').hide();
+        jQuery('#sidebar h4.p-2.activityStates').show();
+        jQuery('#sidebar h4.p-2.activityYears').show();
+        jQuery('#sidebar h4.p-2.summCatHed').hide();
+        jQuery('#sidebar h4.p-2.summYearHed').hide();
 
         jQuery('#sidebar h4#categoryRadios.p-2').show();
         return 'activity';

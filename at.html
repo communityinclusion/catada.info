@@ -165,10 +165,11 @@ layout: chart
 
 
 				</fieldset>
-				<h4 class="p-2">2. Select State(s)</h4>
+				<h4 class="p-2 activityStates">2. Select State(s)</h4>
+				<h4 class="p-2 downloadStates">1. Select State(s)</h4>
 
 
-						<div class="card">
+						<div class="card groupState">
 							<div class="card-header" id="headingSeven">
 								<h5 class="mb-0 clearfix"><button aria-controls="collapseSeven" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseSeven" data-toggle="collapse"><i aria-hidden="true" class="fa"></i> Select State(s)</button><div id="stateCountText" class="clearable"></div></h5>
 							</div>
@@ -351,9 +352,10 @@ layout: chart
 							</div>
 
 
-					<h4 class="p-2">3. Select Year(s)</h4>
+					<h4 class="p-2 activityYears">3. Select Year(s)</h4>
+					<h4 class="p-2 downloadYears">2. Select Year(s)</h4>
 
-						<div class="card">
+						<div class="card groupYear">
 							<div class="card-header" id="headingEight">
 								<h5 class="mb-0">
 									<button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseEight" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select Year(s)</button>
@@ -407,9 +409,10 @@ layout: chart
 								</div>
 							</div>
 
-						<div id="summCat"><h4>1) Select an Activity Category</h4>
-
-									<div class="card">
+						
+							<h4 class="p-2 summCatHed">1. Select an Activity Category</h4>
+									<div class="card" id="summCat">
+										
 										<div class="card-header" id="headingTen">
 											<h5 class="mb-0"><button aria-controls="collapseTen" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseTen" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Category</button></h5>
 											</div>
@@ -429,11 +432,10 @@ layout: chart
 												</div>
 										</div>
 
-								</div>
+										<h4 class="p-2 summYearHed">2. Select a Year</h4>
+									<div class="card" id="summYear">
+											
 
-					<div id="summYear"><h4>2) Select a Year</h4>
-
-									<div class="card">
 										<div class="card-header" id="headingNine">
 											<h5 class="mb-0"><button aria-controls="collapseNine" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseNine" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button></h5>
 										</div>
@@ -448,7 +450,7 @@ layout: chart
 									</div>
 							</div>
 						</div>
-					</div>
+					
 
 					<br>
 					<br>
