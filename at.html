@@ -455,9 +455,15 @@ layout: chart
 					<br>
 					<br>
 					<button aria-label="Generate chart, tables, and text download for the selected values" class="btn" id="chartRedraw" type="button">GENERATE<br />Charts &amp; Tables</button><br>
-					<button aria-label="Clear form choices" class="float-left" id="clearForm" type="button">Clear the form</button>
-
+					
+					
 			</form>
+			<div id="otherOpts"><h4 class="p-2">Other Options</h4>
+					<a href="{{ site.baseurl }}/at.html" aria-label="Generate chart, tables, and text download for the selected activities" class="otherAct" id="otherActiv" type="button">GENERATE custom charts<br />&amp; tables by AT Activity<br />State, and Year</a>
+					<a href="{{ site.baseurl }}/at.html?report=summary" aria-label="Generate tables, and text download for selected activity cattegories" class="otherSum" id="otherSumm" type="button">GENERATE Key AT<br />Activities Tables<br />by Year</a>
+					<a href="{{ site.baseurl }}/at.html?report=download" aria-label="Generate chart, tables, and text download for the selected values" class="otherDow" id="otherDown" type="button">Download AT Activities<br />in all categories by State<br />and Year</a>
+			</div>
+			<button aria-label="Clear form choices" id="clearForm" type="button">CLEAR FORM</button>
 		</nav>
 
 	<!-- <input type="submit" value="Submit"> -->
@@ -470,7 +476,7 @@ layout: chart
 				<div class="clearable" id="titleInputs"></div>
 				<div class="clearable" id="sheetnameInputs"></div>
 				<div class="downloadButton">
-					<input aria-label="A tabular representation of the data in the chart above." id="spreadDL" type="submit" value="Download">
+					<button aria-label="A tabular representation of the data in the chart above." id="spreadDL" type="submit" value="Download"></button>
 				</div>
 			</form>
 			<div id="summ_accordion">
