@@ -226,6 +226,7 @@ clear: both;
 #summCat span.simpletooltip_container{  width: 90%;}
 .navbar-nav div.dropdown-menu.show {z-index: 10000; }
 
+
 .google-visualization-table-th {
 	background-color: #eee;
 }
@@ -316,11 +317,47 @@ button.multiselect.dropdown-toggle {
 	border: none;
 	background-color: #fff;
 }
+/* PF redesigning chart generation button 
 button#chartRedraw {
 	margin-left: 70%;
 	background-color: #1477d5;
 	color: #fff;
 }
+*/
+button#chartRedraw {
+	padding-left: 25%;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 5%;
+	width: 70%;
+	background-position: 5px 5px;
+	background-repeat: no-repeat;
+	line-height: 1.1em;
+	min-width: 175px;
+}
+.sideActivity button#chartRedraw {
+	background-color:#b22d27;
+	margin-left: 5%;
+	color: #fff;
+	width: 70%;
+	background-image: url("../assets/red_chart.png");
+	line-height: 1.5em;
+}
+
+.sideSumm button#chartRedraw {
+	background-color:#64a9d9;
+	width: 70%;
+	color: #fff;
+	background-image: url("../assets/blue_chart.png");
+}
+
+.sideDown button#chartRedraw {
+	background-color:#f7f7f7;
+	color: #97999c;
+	background-image: url("../assets/green_chart.png");
+	border: 1px solid black;
+}
+
 .checkAll { margin: 20px 0 0 25px; }
 h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size: 70%; margin-top: 12px;}
 #headingSeven h5 button, #headingEight h5 button { float:left; width: 45%; }

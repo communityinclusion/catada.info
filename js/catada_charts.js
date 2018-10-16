@@ -166,7 +166,10 @@ function summReportChecked() {
      var summYes = getUrlString('report') ;
     
      if(summYes == 'summary') {
+        jQuery('nav#sidebar').removeClass('sideActivity sideDown');
+        jQuery('nav#sidebar').addClass('sideSumm');
         jQuery('h1#chartTitle').text('AT Activity Summaries');
+        jQuery('button#chartRedraw').html('GENERATE Key<br />AT Activities<br />Report');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
          jQuery('#accordion > fieldset').hide();
@@ -185,11 +188,13 @@ function summReportChecked() {
 
         
         } else if (summYes == 'download') {
-             
+        jQuery('nav#sidebar').removeClass('sideActivity sideSumm');
+        jQuery('nav#sidebar').addClass('sideDown');
         //jQuery('button.multiselect.dropdown-toggle').removeAttr('disabled');
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
         jQuery('h1#chartTitle').text('Download AT Activities');
+        jQuery('button#chartRedraw').html('GENERATE<br />Data for<br />Download');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').hide();
@@ -203,8 +208,11 @@ function summReportChecked() {
         jQuery('#sidebar h4#categoryRadios.p-2').hide();
         return 'download';
            
-    } else {
+        } else {
+        jQuery('nav#sidebar').removeClass('sideDown sideSumm');
+        jQuery('nav#sidebar').addClass('sideActivity');
         jQuery('h1#chartTitle').text('AT Activities');
+        jQuery('button#chartRedraw').html('GENERATE<br />Charts &amp; Tables');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').show();
