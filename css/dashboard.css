@@ -381,6 +381,7 @@ button#chartRedraw {
 	background-repeat: no-repeat;
 	line-height: 1.2em;
 	min-width: 175px;
+	border: 1px solid black;
  }
  #otherOpts a#otherActiv {
 	background-image: url("../assets/other_activity.png");
@@ -391,6 +392,11 @@ button#chartRedraw {
  #otherOpts a#otherDown {
 	background-image: url("../assets/other_down.png");
  }
+ #summ_accordion .google-visualization-table-tr-head th {
+	background: none !important;
+	background-color: #eee !important;}
+	#summ_accordion table.google-visualization-table-table th {border-bottom: solid 2px black; border-top: solid 2px black; }
+	 #summ_accordion table.google-visualization-table-table td {border-bottom: solid 2px black; }
  
 
 .checkAll { margin: 20px 0 0 25px; }

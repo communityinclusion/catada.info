@@ -815,6 +815,7 @@ function drawSheetName() {
        jQuery('#csvDL #titleInputs').append((summReportChecked() == 'summary' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
        jQuery('#csvDL #sheetnameInputs').append('<input type="hidden" name="sendSheetname[]" value="' + sheetName[i] + '" />');
     }
+    
     //var toolbarChart = handleToolbarDataQueryResponse(chartURL + '/gviz/tq?' +  sheetName + 'headers=1&tq=' + queryString);
     var csvReqString = '&tqx=reqId:1;out:csv;outFileName:' + csvFileName + '.csv';
     //jQuery("a#chartCSVlink").attr("href", chartURL + '/gviz/tq?' +  sheetName[i] + 'headers=1&tq=' + queryString + csvReqString);
@@ -920,8 +921,11 @@ function doQuery(q,i,reportHeader,reportchoice) {
              return; 
         }
         data.setProperty(0, 0, 'style', 'width:100px');
-       if (reportchoice != '30') { var table = new google.visualization.Table(
-            document.getElementById(tableTarget));
+       
+       if (reportchoice != '30') { 
+            var container = document.getElementById(tableTarget);
+            var table = new google.visualization.Table(
+            container);
             table.draw(data, {
             showRowNumber: false,
             allowHtml: true
