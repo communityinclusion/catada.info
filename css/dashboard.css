@@ -400,6 +400,18 @@ button#chartRedraw {
  
 
 .checkAll { margin: 20px 0 0 25px; }
+#stateHolder > div { display: none; }
+#stateHolder div.stateDisplay {display: block; }
+.svgHide { display: none; }
+#stateHolder div.stateCompare, .block-content-glider {
+display: block; 
+    background-color: #fff;
+    border-radius: 6px 6px 6px 6px;
+    margin-bottom: 30px;
+    padding: 8px;
+    border: 1px solid #5157AD;
+        width: 80%;
+}
 h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size: 70%; margin-top: 12px;}
 #headingSeven h5 button, #headingEight h5 button { float:left; width: 45%; }
 /*
