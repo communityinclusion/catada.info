@@ -170,7 +170,7 @@ function summReportChecked() {
      if(summYes == 'summary') {
         jQuery('nav#sidebar').removeClass('sideActivity sideDown');
         jQuery('nav#sidebar').addClass('sideSumm');
-        jQuery('h1#chartTitle').text('AT Activity Summaries');
+        jQuery('h1#chartTitle').text('Key Summary Tables');
         jQuery('button#chartRedraw').html('GENERATE Key<br />AT Activities<br />Report');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
@@ -199,7 +199,7 @@ function summReportChecked() {
         //jQuery('button.multiselect.dropdown-toggle').removeAttr('disabled');
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
-        jQuery('h1#chartTitle').text('Download AT Activities');
+        jQuery('h1#chartTitle').text('Raw Data Files');
         jQuery('button#chartRedraw').html('GENERATE<br />Data for<br />Download');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
@@ -221,7 +221,7 @@ function summReportChecked() {
         } else {
         jQuery('nav#sidebar').removeClass('sideDown sideSumm');
         jQuery('nav#sidebar').addClass('sideActivity');
-        jQuery('h1#chartTitle').text('AT Activities');
+        jQuery('h1#chartTitle').text('Custom Charts and Tables');
         jQuery('button#chartRedraw').html('GENERATE<br />Charts &amp; Tables');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
