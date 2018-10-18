@@ -450,6 +450,7 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 .legendText {
 	padding-left: 33px;
 }
+/*
 .legendNum0 {
 	background-color: #b82e2e;
 }
@@ -484,6 +485,50 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 .legendNum9 {
 	background-color: #316395;
 }
+*/
 
+.legendNum0 {
+	background-color: #006e82;
+}
+.legendNum1 {
+	background-color: #fae6be;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum2 {
+	background-color: #00a0fa;
+	
+}
+.legendNum3 {
+	background-color: #8214a0;
+	border: 4px solid #ccc;
+	border-width: 4px 0;
+
+}
+.legendNum4 {
+	background-color: #a0fa82;
+}
+.legendNum5 {
+	background-color: #fa7850;
+
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum6 {
+	background-color: #005ac8;
+}
+.legendNum7 {
+	background-color: #f0f032;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum8 {
+	background-color: #0ab45a;
+}
+.legendNum9 {
+	background-color: #000;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
 
 

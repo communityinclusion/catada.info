@@ -848,7 +848,7 @@ function handleChartDataQueryResponse(response) {
     var chart = new google.visualization.BarChart(container);
     var observer = new MutationObserver(function (mutations) {
 
-        jQuery('rect[fill="#3366cc"],rect[fill="#b82e2e"],rect[fill="#ff9900"],rect[fill="#109618"],rect[fill="#990099"],rect[fill="#0099c6"],rect[fill="#dd4477"],rect[fill="#66aa00"], rect[fill="#dc3912"],rect[fill="#316395"]').each(function(i, obj) {
+        jQuery('rect[fill="#006e82"],rect[fill="#fae6be"],rect[fill="#00a0fa"],rect[fill="#8214a0"],rect[fill="#a0fa82"],rect[fill="#fa7850"],rect[fill="#005ac8"],rect[fill="#f0f032"], rect[fill="#0ab45a"],rect[fill="#000000"]').each(function(i, obj) {
 
             rectWid = jQuery(this).attr('width');
             rectHeight = jQuery(this).attr('height');
@@ -857,26 +857,26 @@ function handleChartDataQueryResponse(response) {
             
         });
        
-        jQuery('rect[fill="#3366cc"]').attr('stroke', '#000000');
-        jQuery('rect[fill="#3366cc"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#b82e2e"]').attr('stroke', '#b82e2e');
-        jQuery('rect[fill="#b82e2e"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#ff9900"]').attr('stroke', '#ff9900');
-        jQuery('rect[fill="#ff9900"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#109618"]').attr('stroke', '#109618');
-        jQuery('rect[fill="#109618"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#990099"]').attr('stroke', '#990099');
-        jQuery('rect[fill="#990099"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#0099c6"]').attr('stroke', '#0099c6');
-        jQuery('rect[fill="#0099c6"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#dd4477"]').attr('stroke', '#dd4477');
-        jQuery('rect[fill="#dd4477"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#66aa00"]').attr('stroke', '#66aa00');
-        jQuery('rect[fill="#66aa00"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#dc3912"]').attr('stroke', '#000000');
-        jQuery('rect[fill="#dc3912"]').attr('stroke-width', '4');
-        jQuery('rect[fill="#316395"]').attr('stroke', '#316395');
-        jQuery('rect[fill="#316395"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#006e82"]').attr('stroke', '#006e82');
+        jQuery('rect[fill="#006e82"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#fae6be"]').attr('stroke', '#000000');
+        jQuery('rect[fill="#fae6be"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#00a0fa"]').attr('stroke', '#00a0fa');
+        jQuery('rect[fill="#00a0fa"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#8214a0"]').attr('stroke', '#cccccc');
+        jQuery('rect[fill="#8214a0"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#a0fa82"]').attr('stroke', '#a0fa82');
+        jQuery('rect[fill="#a0fa82"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#fa7850"]').attr('stroke', '#000000');
+        jQuery('rect[fill="#fa7850"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#005ac8"]').attr('stroke', '#005ac8');
+        jQuery('rect[fill="#005ac8"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#f0f032"]').attr('stroke', '#000000');
+        jQuery('rect[fill="#f0f032"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#0ab45a"]').attr('stroke', '#0ab45a');
+        jQuery('rect[fill="#0ab45a"]').attr('stroke-width', '4');
+        jQuery('rect[fill="#000000"]').attr('stroke', '#000000');
+        jQuery('rect[fill="#000000"]').attr('stroke-width', '4');
       });
       observer.observe(container, {
         childList: true,
@@ -892,7 +892,7 @@ function handleChartDataQueryResponse(response) {
             textStyle: {
               fontSize: 13
             }
-        },'height':areaHeight,/*'width': 1400,*/'title': reportHeading[0] + ' in ' + statenametext + ' for ' + yearstext,bar: { groupWidth: groupWid},isStacked: true,colors: ['#b82e2e','#3366cc', '#ff9900','#109618' ,'#990099', '#0099c6' , '#dd4477' ,'#66aa00' ,'#dc3912' , '#316395']});
+        },'height':areaHeight,/*'width': 1400,*/'title': reportHeading[0] + ' in ' + statenametext + ' for ' + yearstext,bar: { groupWidth: groupWid},isStacked: true,colors: ['#006e82','#fae6be', '#00a0fa','#8214a0' ,'#a0fa82', '#fa7850' , '#005ac8' ,'#f0f032' ,'#0ab45a' , '#000000']});
     jQuery('#legend_div').append(legendHTML);
 }
 
