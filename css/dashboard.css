@@ -419,7 +419,14 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 	padding:7px 4px;
 }
 */
-
+p.hiddenText {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
 #bodyDiv {
 	border: 1px #bbb solid;
 	padding: 5px;
