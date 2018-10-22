@@ -920,7 +920,13 @@ function handleChartDataQueryResponse(response) {
 
 
     chart.draw(data, {
-        hAxis: { format: formatVAxis },
+        hAxis: { format: formatVAxis,
+         viewWindow:{
+                max:1,
+                min:0
+              },
+              ticks: [0, .1, .2, .30, .40, .50, .60, .70, .80, .90, 1]
+             },
         chartArea: { left: 160, /*width:1000,*/ height: chartHeight, top: 75 },
         legend: {
             maxLines: 2,
