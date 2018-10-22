@@ -226,6 +226,7 @@ clear: both;
 #summCat span.simpletooltip_container{  width: 90%;}
 .navbar-nav div.dropdown-menu.show {z-index: 10000; }
 
+
 .google-visualization-table-th {
 	background-color: #eee;
 }
@@ -240,6 +241,11 @@ clear: both;
 }
 .downloadButton {
 	padding: 8px 0;
+}
+.downloadButton #spreadDL {
+width: 328px;
+height: 70px;
+background-image: url('../assets/download_lg.png');
 }
 .card-body h6 {
 	margin-left: 15px;
@@ -310,18 +316,102 @@ button.multiselect.dropdown-toggle {
 }
 #clearForm {
 	float: right;
-	/* margin: -55px 10px 0 0; */
-	color: blue;
-	text-decoration: underline;
-	border: none;
-	background-color: #fff;
+	margin: 18px 30px 0 0;
+	color: #fff;
+	border: 1px solid black;
+	background-color: #00b4e6;
+	display: block;
+	width: 130px;
+	height: 45px;
+	text-align: center;
+	z-index: 20000;
 }
+/* PF redesigning chart generation button 
 button#chartRedraw {
 	margin-left: 70%;
 	background-color: #1477d5;
 	color: #fff;
 }
+*/
+button#chartRedraw {
+	padding-left: 25%;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 5%;
+	width: 70%;
+	background-position: 5px 5px;
+	background-repeat: no-repeat;
+	line-height: 1.1em;
+	min-width: 175px;
+}
+.sideActivity button#chartRedraw {
+	background-color:#b22d27;
+	margin-left: 5%;
+	color: #fff;
+	width: 70%;
+	background-image: url("../assets/red_chart.png");
+	line-height: 1.5em;
+}
+
+.sideSumm button#chartRedraw {
+	background-color:#64a9d9;
+	width: 70%;
+	color: #fff;
+	background-image: url("../assets/blue_chart.png");
+}
+
+.sideDown button#chartRedraw {
+	background-color:#f7f7f7;
+	color: #97999c;
+	background-image: url("../assets/green_chart.png");
+	border: 1px solid black;
+}
+#otherOpts { background-color: #dff3fd; border: 1px solid black; width: 85%; min-width: 200px;margin-top: 20px;}
+#otherOpts a { margin: 8px 4px;
+	display: block;
+	color: #97999c;
+	background-color: #fff;
+	padding: 3px 3px 3px 20%;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 5%;
+	width: 88%;
+	font-size: 85%;
+	background-position: 5px 5px;
+	background-repeat: no-repeat;
+	line-height: 1.2em;
+	min-width: 175px;
+	border: 1px solid black;
+ }
+ #otherOpts a#otherActiv {
+	background-image: url("../assets/other_activity.png");
+ }
+ #otherOpts a#otherSumm {
+	background-image: url("../assets/other_summ.png");
+ }
+ #otherOpts a#otherDown {
+	background-image: url("../assets/other_down.png");
+ }
+ #summ_accordion .google-visualization-table-tr-head th {
+	background: none !important;
+	background-color: #eee !important;}
+	#summ_accordion table.google-visualization-table-table th {border-bottom: solid 2px black; border-top: solid 2px black; }
+	 #summ_accordion table.google-visualization-table-table td {border-bottom: solid 2px black; }
+ 
+
 .checkAll { margin: 20px 0 0 25px; }
+#stateHolder > div { display: none; }
+#stateHolder div.stateDisplay {display: block; }
+.svgHide { display: none; }
+#stateHolder div.stateCompare, .block-content-glider {
+display: block; 
+    background-color: #fff;
+    border-radius: 6px 6px 6px 6px;
+    margin-bottom: 30px;
+    padding: 8px;
+    border: 1px solid #5157AD;
+        width: 80%;
+}
 h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size: 70%; margin-top: 12px;}
 #headingSeven h5 button, #headingEight h5 button { float:left; width: 45%; }
 /*
@@ -329,7 +419,14 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 	padding:7px 4px;
 }
 */
-
+p.hiddenText {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
 #bodyDiv {
 	border: 1px #bbb solid;
 	padding: 5px;
@@ -360,6 +457,7 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 .legendText {
 	padding-left: 33px;
 }
+/*
 .legendNum0 {
 	background-color: #b82e2e;
 }
@@ -394,7 +492,51 @@ h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size
 .legendNum9 {
 	background-color: #316395;
 }
+*/
 
+.legendNum0 {
+	background-color: #006e82;
+}
+.legendNum1 {
+	background-color: #fae6be;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum2 {
+	background-color: #00a0fa;
+	
+}
+.legendNum3 {
+	background-color: #8214a0;
+	border: 4px solid #ccc;
+	border-width: 4px 0;
+
+}
+.legendNum4 {
+	background-color: #a0fa82;
+}
+.legendNum5 {
+	background-color: #fa7850;
+
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum6 {
+	background-color: #005ac8;
+}
+.legendNum7 {
+	background-color: #f0f032;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
+.legendNum8 {
+	background-color: #0ab45a;
+}
+.legendNum9 {
+	background-color: #000;
+	border: 4px solid #000;
+	border-width: 4px 0;
+}
 
 
 /*Front Page */
