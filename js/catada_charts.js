@@ -917,7 +917,6 @@ function handleChartDataQueryResponse(response) {
     });
 
 
-
     if(reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23') {
         chart.draw(data, {
             hAxis: { format: formatVAxis,

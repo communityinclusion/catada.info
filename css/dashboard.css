@@ -246,6 +246,13 @@ clear: both;
 width: 328px;
 height: 70px;
 background-image: url('../assets/download_lg.png');
+text-align:left;
+font-size:110%;
+color: #217346;
+font-weight: bold;
+padding-left:75px;
+padding-top: 14px;
+line-height: 1em;
 }
 .card-body h6 {
 	margin-left: 15px;
