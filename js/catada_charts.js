@@ -918,29 +918,50 @@ function handleChartDataQueryResponse(response) {
 
 
 
+    if(reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23') {
+        chart.draw(data, {
+            hAxis: { format: formatVAxis,
+            viewWindow:{
+                    max:1,
+                    min:0
+                },
+                ticks: [0, .1, .2, .3, .4, .5, .6, .7, .8, .9, 1]
+                },
+            chartArea: { left: 160, /*width:1000,*/ height: chartHeight, top: 75 },
+            legend: {
+                maxLines: 2,
+                position: "none",
+                textStyle: {
+                    fontSize: 13
+                }
+            },
+            'height': areaHeight,
+            /*'width': 1400,*/ 'title': reportHeading[0] + ' in ' + statenametext + ' for ' + yearstext,
+            bar: { groupWidth: groupWid },
+            isStacked: true,
+            colors: ['#006e82', '#fae6be', '#00a0fa', '#8214a0', '#a0fa82', '#fa7850', '#005ac8', '#f0f032', '#0ab45a', '#000000']
+        });
+    } else {
+        chart.draw(data, {
+            hAxis: { format: formatVAxis,
+            
+                },
+            chartArea: { left: 160, /*width:1000,*/ height: chartHeight, top: 75 },
+            legend: {
+                maxLines: 2,
+                position: "none",
+                textStyle: {
+                    fontSize: 13
+                }
+            },
+            'height': areaHeight,
+            /*'width': 1400,*/ 'title': reportHeading[0] + ' in ' + statenametext + ' for ' + yearstext,
+            bar: { groupWidth: groupWid },
+            isStacked: true,
+            colors: ['#006e82', '#fae6be', '#00a0fa', '#8214a0', '#a0fa82', '#fa7850', '#005ac8', '#f0f032', '#0ab45a', '#000000']
+        });
 
-    chart.draw(data, {
-        hAxis: { format: formatVAxis,
-         viewWindow:{
-                max:1,
-                min:0
-              },
-              ticks: [0, .1, .2, .30, .40, .50, .60, .70, .80, .90, 1]
-             },
-        chartArea: { left: 160, /*width:1000,*/ height: chartHeight, top: 75 },
-        legend: {
-            maxLines: 2,
-            position: "none",
-            textStyle: {
-                fontSize: 13
-            }
-        },
-        'height': areaHeight,
-        /*'width': 1400,*/ 'title': reportHeading[0] + ' in ' + statenametext + ' for ' + yearstext,
-        bar: { groupWidth: groupWid },
-        isStacked: true,
-        colors: ['#006e82', '#fae6be', '#00a0fa', '#8214a0', '#a0fa82', '#fa7850', '#005ac8', '#f0f032', '#0ab45a', '#000000']
-    });
+    }
     jQuery('#legend_div').append(legendHTML);
 }
 
