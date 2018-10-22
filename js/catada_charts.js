@@ -23,8 +23,8 @@ jQuery( document ).ready(function() {
     var summaryCheck = summReportChecked();
     console.log(summaryCheck);
  // var updateSelections = readSelections();
-    var checkState = countChecks('state'); 
-    var checkYears = countChecks('year'); 
+    var checkState = countChecks('state');
+    var checkYears = countChecks('year');
     var checkCats = countChecks('category');
  if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) { jQuery('.selectWarn').remove();
     jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose an activity, state(s) and year(s) at left to begin.</p>'); jQuery('#chart_div > div').remove(); jQuery('input#spreadDL').hide();
@@ -38,9 +38,9 @@ jQuery( document ).ready(function() {
       var checked = jQuery(this).prop('checked');
      jQuery('#' + parentID).find('.col input:checkbox').prop('checked', checked);
     });
-  
+
  jQuery('select').change(countChecks);
- 
+
  jQuery('select').change(countChecks);
  jQuery('#accordion label').accessibleSimpleTooltipAria({
    // simpletooltipText: 'title'
@@ -48,20 +48,20 @@ jQuery( document ).ready(function() {
   jQuery("#chartSelector").submit(function(event)
   {
     event.preventDefault(); // cancel default behavior
- 
- 
+
+
   });
   updateSelectCount('state');
   updateSelectCount('year');
-       
+
  jQuery('#chartRedraw').click(function(){
      var newChart = drawSheetName();
     });
     jQuery('input[name="reportChoose"]').click( function(event) {
-        
+
         checkit = summReportChecked();
     });
-    
+
     jQuery('#clearForm').click(function(){
         jQuery('input[name="reportChoose"]').prop('checked',false);
         jQuery('input[name="regionStates[]"]').prop('checked',false);
@@ -78,7 +78,7 @@ jQuery( document ).ready(function() {
         updateSelectCount('year');
 
     });
-    
+
     if (checkState != 0 && checkYears != 0 && checkCats != 0) google.charts.setOnLoadCallback(drawSheetName);
     var reportType = getUrlString('report');
    console.log(reportType);
@@ -103,7 +103,7 @@ function getUrlString(reportVars) {
 
 // checkbox count
 function countChecks(typeCount = null) {
-        
+
         countStates = jQuery('input[name="regionStates[]"]:checked').length;
         countYears = jQuery('input[name="regionYear[]"]:checked').length;
         checkCount = countStates * countYears;
@@ -112,7 +112,7 @@ function countChecks(typeCount = null) {
         // console.log('count states: ' + countStates + ' count year: ' + countYears);
         return !typeCount ? checkCount : (typeCount == 'state' ? countStates : ( typeCount == 'year' ? countYears :catCount));
 }
-// counting states and years 
+// counting states and years
 function updateSelectCount(checkType) {
     if (checkType == 'year') {
         yeararray1 = getStateYearArray('year');
@@ -147,14 +147,14 @@ function getStateYearArray(choiceType) {
     yeararray1=[];
     var statename1 = jQuery('input:checkbox[name="regionStates[]"]:checked').each(function(){
         statearray1.push(jQuery(this).val());
-    }); 
-    
-    
+    });
+
+
     var years1 = summReportChecked()== 'summary' ? jQuery('input[name="summChoose"]:checked').val() : jQuery('input:checkbox[name="regionYear[]"]:checked').each(function(){
         yeararray1.push(jQuery(this).val());
-    }); 
-    
-    
+    });
+
+
     return choiceType == 'year' ? yeararray1 : statearray1;
 
 }
@@ -164,9 +164,9 @@ function getStateYearArray(choiceType) {
 function summReportChecked() {
      // console.log('It is checked');
      var summYes = getUrlString('report') ;
-    
+
      if(summYes == 'summary') {
-        jQuery('h1#chartTitle').text('AT Activity Summaries');
+        jQuery('h1#chartTitle').text('Key Summary Tables');
          jQuery('#summYear').show();
          jQuery('#summCat').show();
          jQuery('#accordion > fieldset').hide();
@@ -175,21 +175,21 @@ function summReportChecked() {
          jQuery('#sidebar h4.p-2').hide();
          jQuery('#sidebar h4.p-2.summCatHed').show();
          jQuery('#sidebar h4.p-2.summYearHed').show();
-        
-       
+
+
         //jQuery('button.multiselect.dropdown-toggle').prop('disabled',true);
         jQuery('#stateDrop').hide(); jQuery('#yearDrop').hide();
 
         return 'summary';
-        
 
-        
+
+
         } else if (summYes == 'download') {
-             
+
         //jQuery('button.multiselect.dropdown-toggle').removeAttr('disabled');
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
-        jQuery('h1#chartTitle').text('Download AT Activities');
+        jQuery('h1#chartTitle').text('Raw Data Files');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').hide();
@@ -202,9 +202,9 @@ function summReportChecked() {
         jQuery('#sidebar h4.p-2.summYearHed').hide();
         jQuery('#sidebar h4#categoryRadios.p-2').hide();
         return 'download';
-           
+
     } else {
-        jQuery('h1#chartTitle').text('AT Activities');
+        jQuery('h1#chartTitle').text('Custom Charts and Tables');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').show();
@@ -219,7 +219,7 @@ function summReportChecked() {
         jQuery('#sidebar h4#categoryRadios.p-2').show();
         return 'activity';
     }
-    
+
 
 
 }
@@ -252,16 +252,16 @@ function drawSheetName() {
 
     tableStringContent = [];
     legendHTML = null;
- 
+
     tableDiv = 0;
     statearray1= getStateYearArray('state');
     yeararray1= getStateYearArray('year');
-   
-    
+
+
     statenames = statearray1.join("' OR D = '");
     statenametext = statearray1.length < 1 ? ' ' : statearray1.join(", ");
     var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : yeararray1;
-   
+
     years = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '2012' : yeararray1.join(' OR E = ') : years1;
     yearstext = summReportChecked() != 'summary' ?  yeararray1.length < 1 ? '2012' : yeararray1.join(', ') : years1;
     var reportchoice = summReportChecked() != 'summary' ? (summReportChecked() == 'download' ? '30' : jQuery('input[name="reportChoose"]:checked').val()) :jQuery('input[name="summCategory"]:radio:checked').val();
@@ -280,7 +280,7 @@ function drawSheetName() {
     }
     // yrsSelectText = "Selected: (" + countChecks('year') + ") " + yrsSelect;
     // jQuery('#yearCountText').append(yrsSelectText);
-    
+
     sheetName = [];
     chartURL = 'https://docs.google.com/spreadsheets/d/1Zutzmq6IFxyHqOpwwjKqUeRhPt8WxY3a5TpvYdQYYf8';
     switch(reportchoice) {
@@ -292,7 +292,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Demonstrations: Type of AT";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '2':
         stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Z > 0 ORDER BY C LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,Z,R,S,T,U,V,W,X,Y WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -301,7 +301,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Demonstrations: Participants";
         legendHTML = legendBuild(1);
         break;
-        
+
         case '3':
         stringContent = "SELECT B,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AE > 0 ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,AE,AA,AB,AC,AD WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -310,7 +310,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Demonstrations: Customer Satisfaction";
         legendHTML = legendBuild(2);
         break;
-        
+
         case '4':
         stringContent = "SELECT B,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") AND K > 0 ORDER BY A, E LIMIT 8";
         //tableStringContent[0] = "SELECT A,E,K,F,G,H,I,J WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -327,7 +327,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Loans: Type of AT";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '6':
         stringContent = "SELECT B,BB,BC,BD,BE,BF,BG,BH WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,AF,X,Y,Z,AA,AB,AC,AD,AE WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -336,7 +336,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Loans: Device Borrowers";
         legendHTML = legendBuild(1);
         break;
-        
+
         case '7':
         stringContent = "SELECT B,BJ,BK,BL,BM WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AK > 0 ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,AK,AG,AH,AI,AJ WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -345,7 +345,7 @@ function drawSheetName() {
         reportHeading[0] = "Device Loans: Customer Satisfaction";
         legendHTML = legendBuild(2);
         break;
-        
+
         case '8':
         stringContent = "SELECT B,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
          // tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -408,7 +408,7 @@ function drawSheetName() {
         reportHeading[0] = "Financial Loans: Loan Value";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '15':
         stringContent = "SELECT B,AD,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -417,7 +417,7 @@ function drawSheetName() {
         reportHeading[0] = "Other Financing: Type of AT";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '16':
         stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -426,7 +426,7 @@ function drawSheetName() {
         reportHeading[0] = "Other Financing: Dollar Value";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '17':
         stringContent = "SELECT B,K,L,M,N WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,J,F,G,H,I WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -435,7 +435,7 @@ function drawSheetName() {
         reportHeading[0] = "State Financing Activities: Customer Satisfaction";
         legendHTML = legendBuild(2);
         break;
-        
+
         case '18':
         stringContent = "SELECT B,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,N,F,G,H,I,J,K,L,M WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -444,7 +444,7 @@ function drawSheetName() {
         reportHeading[0] = "Information and Assistance: Recipients of AT Device/Service Content";
         legendHTML = legendBuild(1);
         break;
-        
+
         case '19':
         stringContent = "SELECT B,AP,AQ,AR,AS,AT,AU,AV WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT A,E,W,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -461,7 +461,7 @@ function drawSheetName() {
         reportHeading[0] = "Training: Participants";
         legendHTML = legendBuild(1);
         break;
-        
+
         case '21':
         stringContent = "SELECT B,AF,AG,AH,AI,AJ WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         // tableStringContent[0] = "SELECT  A,E,V,P,Q,R,S,T,U WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -470,7 +470,7 @@ function drawSheetName() {
         reportHeading[4] = "Training: Topics";
 
         break;
-        
+
         case '22':
         stringContent = "SELECT B,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
        tableStringContent[0] = "SELECT  A,E,Q,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -478,7 +478,7 @@ function drawSheetName() {
         reportHeading[0] = "Financing that Reduces Cost: Type of AT";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '23':
         stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         tableStringContent[0] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -486,7 +486,7 @@ function drawSheetName() {
         reportHeading[0] = "Financing that Reduces Cost: Dollar Value of Savings";
         legendHTML = legendBuild(0);
         break;
-        
+
         case '24':
         stringContent = null;
         //item 1
@@ -502,7 +502,7 @@ function drawSheetName() {
         sheetName[2] = 'sheet=x_dd_export_full&';
         reportHeading[2] = "Device Demonstrations: Customer Satisfaction";
         break;
-        
+
         case '25':
         stringContent = null;
         // item 4
@@ -522,7 +522,7 @@ function drawSheetName() {
         sheetName[3] = 'sheet=x_dl_export_full&';
         reportHeading[3] = "Device Loans: Customer Satisfaction";
         break;
-        
+
         case '26':
         stringContent = null;
         // item 8
@@ -534,7 +534,7 @@ function drawSheetName() {
         sheetName[1] = 'sheet=x_de_export_full&';
         reportHeading[1] = "Device Exchange: Savings";
         // item 10
-        tableStringContent[2] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E"; 
+        tableStringContent[2] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
         sheetName[2] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
         reportHeading[2] = "Device Refurbishment: Type of AT";
         // item 11
@@ -606,7 +606,7 @@ function drawSheetName() {
         break;
 
 
-       
+
 
         case '30':
         stringContent = null;
@@ -647,7 +647,7 @@ function drawSheetName() {
         sheetName[8] = 'sheet=x_de_export_full&';
         reportHeading[8] = "Device Exchange: Savings";
         // item 10
-        tableStringContent[9] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E"; 
+        tableStringContent[9] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
         sheetName[9] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
         reportHeading[9] = "Device Refurbishment: Type of AT";
         // item 11
@@ -749,7 +749,7 @@ function drawSheetName() {
         break;
 
 
-      
+
         default:
         stringContent = "SELECT B,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
         tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
@@ -759,16 +759,16 @@ function drawSheetName() {
     }
     var csvFileName = summReportChecked() == 'summary' ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
     csvFileName = csvFileName.replace(/ /g,"_").replace( /,/g,"");
-    
-    
-    
+
+
+
     if(stringContent) {
         var queryString = encodeURIComponent(stringContent);
         query = new google.visualization.Query( chartURL + '/gviz/tq?' +  sheetName[0] + 'headers=1&tq=' + queryString);
         query.send(handleChartDataQueryResponse);
-        
-    } 
-    else 
+
+    }
+    else
     {
             jQuery('#chart_div').empty();
     }
@@ -779,15 +779,15 @@ function drawSheetName() {
     updateSelectCount('state');
     updateSelectCount('year');
     for(i = 0;  i < tableStringContent.length; i++) {
-        
-        
+
+
        queryStringTable = encodeURIComponent(tableStringContent[i]);
         queryTable = new google.visualization.Query(chartURL + '/gviz/tq?' +  sheetName[i] + 'headers=1&tq=' + queryStringTable);
-       
-        
-       
+
+
+
     doQuery(queryTable, i,reportHeading[i],reportchoice);
-        
+
        jQuery('#csvDL #urlInputs').append('<input type="hidden" name="sendString[]" value="' + queryStringTable + '" />');
        jQuery('#csvDL #titleInputs').append((summReportChecked() == 'summary' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
        jQuery('#csvDL #sheetnameInputs').append('<input type="hidden" name="sendSheetname[]" value="' + sheetName[i] + '" />');
@@ -812,7 +812,7 @@ function handleChartDataQueryResponse(response) {
           alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
           return;
     }
-   
+
     var data = response.getDataTable();
     checkCount = countChecks();
     chartHeight = checkCount > 3 ? (checkCount > 5 ? '500':'450'): '175';
@@ -828,11 +828,11 @@ function handleChartDataQueryResponse(response) {
 
             rectWid = jQuery(this).attr('width');
             rectHeight = jQuery(this).attr('height');
-           
+
             jQuery(this).attr('stroke-dasharray', rectWid + ',' + rectHeight);
-            
+
         });
-       
+
         jQuery('rect[fill="#3366cc"]').attr('stroke', '#000000');
         jQuery('rect[fill="#3366cc"]').attr('stroke-width', '4');
         jQuery('rect[fill="#b82e2e"]').attr('stroke', '#b82e2e');
@@ -861,7 +861,7 @@ function handleChartDataQueryResponse(response) {
 
 
 
-       
+
     chart.draw(data, {hAxis: {format: formatVAxis}, chartArea:{left:160,/*width:1000,*/height:chartHeight,top: 75},  legend: {
             maxLines: 2,
             position: "none",
@@ -873,19 +873,19 @@ function handleChartDataQueryResponse(response) {
 }
 
 function doQuery(q,i,reportHeader,reportchoice) {
-    
+
     var tableTarget = 'table_div_' + i;
     var tableTitleTarget = 'table_div_' + i + '_title';
     /* if(summReportChecked()) {
-        jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h5><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h5>' ); 
+        jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h5><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h5>' );
         if(!jQuery('#' + tableTarget).hasClass('collapse'))jQuery('#' + tableTarget).addClass('collapse'); jQuery('#' + tableTarget).attr('aria-labelledby',tableTitleTarget).attr('data-parent','#summ_accordion').attr('aria-expanded',false);
-    
+
     } else */ if (reportchoice == '30'){
         return;
     } else {
             jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h5>');
             if(jQuery('#' + tableTarget).hasClass('collapse'))jQuery('#' + tableTarget).removeClass('collapse'); jQuery('#' + tableTarget).attr('aria-labelledby',tableTitleTarget).attr('data-parent','#summ_accordion').attr('aria-expanded',true);
-        
+
         }
     q.send( function(response) {
         var data = response.getDataTable();
@@ -894,7 +894,7 @@ function doQuery(q,i,reportHeader,reportchoice) {
         if (numrows === 0 && i=== 0) {
             jQuery('#chart_div').prepend('<h5>Your query produced no results.  Try again.</h5>');
             jQuery('#' + tableTitleTarget + ' h5').remove(); jQuery('#chart_div > div').remove(); jQuery('#legend_div').empty(); jQuery('#spreadDL').hide();
-             return; 
+             return;
         }
         data.setProperty(0, 0, 'style', 'width:100px');
        if (reportchoice != '30') { var table = new google.visualization.Table(
@@ -904,13 +904,13 @@ function doQuery(q,i,reportHeader,reportchoice) {
             allowHtml: true
         });
         }
-        
 
-      
+
+
     });
-    
-    
-   
+
+
+
 
  }
 
