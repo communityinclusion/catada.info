@@ -246,6 +246,13 @@ clear: both;
 width: 328px;
 height: 70px;
 background-image: url('../assets/download_lg.png');
+text-align:left;
+font-size:110%;
+color: #217346;
+font-weight: bold;
+padding-left:75px;
+padding-top: 14px;
+line-height: 1em;
 }
 .card-body h6 {
 	margin-left: 15px;
@@ -456,6 +463,8 @@ p.hiddenText {
 }
 .legendText {
 	padding-left: 33px;
+}
+.legendColorBlock img { width: 30px; height: 10px;  display: block;
 }
 /*
 .legendNum0 {
@@ -721,4 +730,14 @@ ul {
 .huge {
 	font-size: 50px;
 	padding: 10px;
+}
+@media print { nav#sidebar, .container-fluid .downloadButton {display: none !important; }
+.legendColorBlock img { height: 12px; }
+.container-fluid #body_div .legendColorBlock {display: block important!;}
+	#summ_accordion div { overflow: visible !important; }
+	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
+	#chart_div, #chart_div div { display: block;}
+
+	
+
 }

@@ -173,7 +173,7 @@ function summReportChecked() {
         jQuery('nav#sidebar').removeClass('sideActivity sideDown');
         jQuery('nav#sidebar').addClass('sideSumm');
         jQuery('h1#chartTitle').text('Key Summary Tables');
-        jQuery('button#chartRedraw').html('GENERATE Key<br />AT Activities<br />Report');
+        jQuery('button#chartRedraw').html('GENERATE Key<br />Summary<br />Tables');
         jQuery('#summYear').show();
         jQuery('#summCat').show();
         jQuery('#accordion > fieldset').hide();
@@ -203,7 +203,7 @@ function summReportChecked() {
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
         jQuery('h1#chartTitle').text('Raw Data Files');
-        jQuery('button#chartRedraw').html('GENERATE<br />Data for<br />Download');
+        jQuery('button#chartRedraw').html('GENERATE<br />Raw Data for<br />Download');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').hide();
@@ -267,7 +267,7 @@ function legendBuild(legendNum) {
     if (numCount < 1) return;
     //legendStruct = '<div class="legendElem"><div class="legendColorBlock legendNum' + legendNum + '"></div>' + legNumText + '</div>';
     for (i = 0; i < numCount; i++) {
-        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"></div><div class="legendText">' + arraySub[i] + '</div></div>');
+        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"><img src="assets/legend' + i + '.png" /></div><div class="legendText">' + arraySub[i] + '</div></div>');
 
     }
     return legendOut;
@@ -915,7 +915,6 @@ function handleChartDataQueryResponse(response) {
         childList: true,
         subtree: true
     });
-
 
 
     if(reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23') {
