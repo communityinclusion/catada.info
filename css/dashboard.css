@@ -464,6 +464,8 @@ p.hiddenText {
 .legendText {
 	padding-left: 33px;
 }
+.legendColorBlock img { width: 30px; height: 10px;  display: block;
+}
 /*
 .legendNum0 {
 	background-color: #b82e2e;
@@ -728,4 +730,14 @@ ul {
 .huge {
 	font-size: 50px;
 	padding: 10px;
+}
+@media print { nav#sidebar, .container-fluid .downloadButton {display: none !important; }
+.legendColorBlock img { height: 12px; }
+.container-fluid #body_div .legendColorBlock {display: block important!;}
+	#summ_accordion div { overflow: visible !important; }
+	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
+	#chart_div, #chart_div div { display: block;}
+
+	
+
 }
