@@ -471,14 +471,16 @@ layout: chart
 		<div id="bodyDiv">
 			<div id="chart_div"></div>
 			<div class="clearable" id="legend_div"></div>
-			<form action="https://www.statedata.info/sites/default/csvpull.php" id="csvDL" method="post" name="csvDL">
-				<div class="clearable" id="urlInputs"></div>
-				<div class="clearable" id="titleInputs"></div>
-				<div class="clearable" id="sheetnameInputs"></div>
-				<div class="downloadButton">
-					<button aria-label="A tabular representation of the data in the chart above." id="spreadDL" type="submit" value="Download">Download Excel data<br />for this selection</button>
+			
+				<div class="downloadButton"><form action="https://www.statedata.info/sites/default/csvpull.php" id="csvDL" method="post" name="csvDL">
+					<div class="clearable" id="urlInputs"></div>
+					<div class="clearable" id="titleInputs"></div>
+					<div class="clearable" id="sheetnameInputs"></div>
+					<button aria-label="A tabular representation of the data in the chart above." id="spreadDL" type="submit" value="Download">Download Excel data<br />for this selection</button></form>
+					
+					<button aria-label="Print this page." id="printButton"  value="Print this page">Print<br />this page.</button>
 				</div>
-			</form>
+			
 			<div id="summ_accordion">
 				<div class="clearable" id="table_div_0_title"></div>
 				<div class="tablePad clearable" id="table_div_0"></div>

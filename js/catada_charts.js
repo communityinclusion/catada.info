@@ -18,6 +18,7 @@ var typeCount = null;
 var countStates = null;
 var countYears = null;
 var countCats = null;
+var clearAll = false;
 
 jQuery(document).ready(function() {
     var summaryCheck = summReportChecked();
@@ -31,6 +32,8 @@ jQuery(document).ready(function() {
         jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose an activity, state(s) and year(s) at left to begin.</p>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+         jQuery('button#printButton').hide();
+
 
     }
 
@@ -59,6 +62,11 @@ jQuery(document).ready(function() {
     jQuery('#chartRedraw').click(function() {
         var newChart = drawSheetName();
     });
+
+    jQuery('#printButton').click(function() {
+    window.print();
+    });
+
     jQuery('input[name="reportChoose"]').click(function(event) {
 
         checkit = summReportChecked();
@@ -71,6 +79,7 @@ jQuery(document).ready(function() {
         jQuery('input[name="summChoose"]').prop('checked', false);
         jQuery('#stateCountText').empty();
         jQuery('#yearCountText').empty();
+        clearAll = true;
         var redraw = drawSheetName();
 
     });
@@ -122,7 +131,7 @@ function updateSelectCount(checkType) {
         yeararray1 = getStateYearArray('year');
         if (yeararray1.length < 1) return;
         var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : yeararray1;
-        yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '2012' : yeararray1.join(', ') : years1;
+        yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(', ') : years1;
         jQuery('#yearCountText').empty();
         var yrsSelect = yearstext;
         if (yearstext.length > 20) {
@@ -275,7 +284,7 @@ function legendBuild(legendNum) {
 
 function drawSheetName() {
 
-    if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summChoose"]:checked').val())) {
+    if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summChoose"]:checked').val()) || clearAll) {
 
         tableStringContent = [];
         legendHTML = null;
@@ -494,7 +503,7 @@ function drawSheetName() {
                 // tableStringContent[0] = "SELECT  A,E,V,P,Q,R,S,T,U WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT  A,E,V,AF,AG,AH,AI,AJ,AK WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_tp_export_full&';
-                reportHeading[4] = "Training: Topics";
+                reportHeading[0] = "Training: Topics";
 
                 break;
 
@@ -778,10 +787,12 @@ function drawSheetName() {
 
 
             default:
+                clearAll = true;
                 stringContent = "SELECT B,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
                 tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
                 reportHeading[0] = "Device Demonstrations: Type of AT";
+        
                 break;
         }
         var csvFileName = summReportChecked() == 'summary' ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
@@ -801,10 +812,13 @@ function drawSheetName() {
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         jQuery('#spreadDL').show()
+        if (summReportChecked() != 'download') jQuery('button#printButton').show();
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
+        else if (clearAll) jQuery('#body_div').empty();
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
         updateSelectCount('state');
         updateSelectCount('year');
+        
         for (i = 0; i < tableStringContent.length; i++) {
 
 
@@ -819,18 +833,21 @@ function drawSheetName() {
             jQuery('#csvDL #titleInputs').append((summReportChecked() == 'summary' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
             jQuery('#csvDL #sheetnameInputs').append('<input type="hidden" name="sendSheetname[]" value="' + sheetName[i] + '" />');
         }
+        
 
         //var toolbarChart = handleToolbarDataQueryResponse(chartURL + '/gviz/tq?' +  sheetName + 'headers=1&tq=' + queryString);
         var csvReqString = '&tqx=reqId:1;out:csv;outFileName:' + csvFileName + '.csv';
         //jQuery("a#chartCSVlink").attr("href", chartURL + '/gviz/tq?' +  sheetName[i] + 'headers=1&tq=' + queryString + csvReqString);
         jQuery("a#tableCSVlink").attr("href", chartURL + '/gviz/tq?' + sheetName[i] + 'headers=1&tq=' + queryStringTable + csvReqString);
+        clearAll = false;
     } else if (countChecks('state') == 0 && countChecks('year') != 0 && summReportChecked() != 'summary') {
         jQuery('.clearable').empty();
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('#printButton').hide();
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more states above.</h5>');
+        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more states at left.</h5>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
     } else if (countChecks('state') != 0 && countChecks('year') == 0 && summReportChecked() != 'summary') {
@@ -838,15 +855,18 @@ function drawSheetName() {
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years above.</h5>');
+        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years at left.</h5>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
     } else if (countChecks('state') == 0 && countChecks('year') == 0 && summReportChecked() == 'summary') {
         jQuery('.clearable').empty();
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
         jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose an activity, state(s) and year(s) at left to begin.</h5>');
         jQuery('#chart_div > div').remove();
@@ -857,10 +877,26 @@ function drawSheetName() {
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year above for your summary report.</h5>');
+        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year at left for your summary report.</h5>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
     }
+    else if (clearAll) {
+        jQuery('.clearable').empty();
+        jQuery('#chart_div > div').remove();
+        jQuery('#chart_div').empty();
+        jQuery('#legend_div').empty();
+        jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
+        jQuery('.selectWarn').remove();
+        jQuery('.downloadButton').empty();
+        jQuery('#chart_div > div').remove();
+        jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
+        clearAll = false;
+    }
+   
 
 }
 
@@ -985,12 +1021,13 @@ function doQuery(q, i, reportHeader, reportchoice) {
         var data = response.getDataTable();
         var dataView = new google.visualization.DataView(data);
         var numrows = dataView.getNumberOfRows();
-        if (numrows === 0 && i === 0) {
+        if (numrows === 0 && i === 0 && !clearAll) {
             jQuery('#chart_div').prepend('<h5>Your query produced no results.  Try again.</h5>');
             jQuery('#' + tableTitleTarget + ' h5').remove();
             jQuery('#chart_div > div').remove();
             jQuery('#legend_div').empty();
             jQuery('#spreadDL').hide();
+            jQuery('#printButton').hide();
             return;
         }
         data.setProperty(0, 0, 'style', 'width:100px');
