@@ -22,7 +22,6 @@ var clearAll = false;
 
 jQuery(document).ready(function() {
     var summaryCheck = summReportChecked();
-    console.log(summaryCheck);
     // var updateSelections = readSelections();
     var checkState = countChecks('state');
     var checkYears = countChecks('year');
@@ -94,7 +93,6 @@ jQuery(document).ready(function() {
 
     if (checkState != 0 && checkYears != 0 && checkCats != 0) google.charts.setOnLoadCallback(drawSheetName);
     var reportType = getUrlString('report');
-    console.log(reportType);
     // end of document.ready functions
 
 });
@@ -142,7 +140,6 @@ function updateSelectCount(checkType) {
     }
     if (checkType == 'state') {
         statearray1 = getStateYearArray('state');
-        console.log(statearray1);
         
         statenametext = statearray1.length < 1 ? ' ' : statearray1.join(", ");
         // if (statearray1.length < 1) return;
@@ -789,8 +786,9 @@ function drawSheetName() {
 
 
             default:
+                
+                stringContent = null;
                 clearAll = true;
-                stringContent = "SELECT B,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
                 tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
                 reportHeading[0] = "Device Demonstrations: Type of AT";
@@ -816,7 +814,7 @@ function drawSheetName() {
         jQuery('#spreadDL').show()
         if (summReportChecked() != 'download') jQuery('button#printButton').show();
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
-        else if (clearAll) jQuery('#body_div').empty();
+        else if (clearAll) {jQuery('#body_div').empty(); jQuery('.downloadButton').empty(); jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Choose variables at left for another search</h5>"); }
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
         updateSelectCount('state');
         updateSelectCount('year');
@@ -829,7 +827,7 @@ function drawSheetName() {
 
 
 
-            doQuery(queryTable, i, reportHeading[i], reportchoice);
+           if (!clearAll) doQuery(queryTable, i, reportHeading[i], reportchoice);
 
             jQuery('#csvDL #urlInputs').append('<input type="hidden" name="sendString[]" value="' + queryStringTable + '" />');
             jQuery('#csvDL #titleInputs').append((summReportChecked() == 'summary' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
