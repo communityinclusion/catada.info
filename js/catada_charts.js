@@ -32,6 +32,8 @@ jQuery(document).ready(function() {
         jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose an activity, state(s) and year(s) at left to begin.</p>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+         jQuery('button#printButton').hide();
+
 
     }
 
@@ -60,6 +62,11 @@ jQuery(document).ready(function() {
     jQuery('#chartRedraw').click(function() {
         var newChart = drawSheetName();
     });
+
+    jQuery('#printButton').click(function() {
+    window.print();
+    });
+
     jQuery('input[name="reportChoose"]').click(function(event) {
 
         checkit = summReportChecked();
@@ -496,7 +503,7 @@ function drawSheetName() {
                 // tableStringContent[0] = "SELECT  A,E,V,P,Q,R,S,T,U WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT  A,E,V,AF,AG,AH,AI,AJ,AK WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_tp_export_full&';
-                reportHeading[4] = "Training: Topics";
+                reportHeading[0] = "Training: Topics";
 
                 break;
 
@@ -805,6 +812,7 @@ function drawSheetName() {
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         jQuery('#spreadDL').show()
+        if (summReportChecked() != 'download') jQuery('button#printButton').show();
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
         else if (clearAll) jQuery('#body_div').empty();
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
@@ -837,6 +845,7 @@ function drawSheetName() {
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('#printButton').hide();
         jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more states at left.</h5>');
         jQuery('#chart_div > div').remove();
@@ -846,15 +855,18 @@ function drawSheetName() {
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
         jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years at left.</h5>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
     } else if (countChecks('state') == 0 && countChecks('year') == 0 && summReportChecked() == 'summary') {
         jQuery('.clearable').empty();
         jQuery('#chart_div > div').remove();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
         jQuery('.selectWarn').remove();
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose an activity, state(s) and year(s) at left to begin.</h5>');
         jQuery('#chart_div > div').remove();
@@ -868,6 +880,7 @@ function drawSheetName() {
         jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year at left for your summary report.</h5>');
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
     }
     else if (clearAll) {
         jQuery('.clearable').empty();
@@ -875,10 +888,12 @@ function drawSheetName() {
         jQuery('#chart_div').empty();
         jQuery('#legend_div').empty();
         jQuery('#spreadDL').hide();
+        jQuery('button#printButton').hide();
         jQuery('.selectWarn').remove();
         jQuery('.downloadButton').empty();
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
+        jQuery('button#printButton').hide();
         clearAll = false;
     }
    
@@ -1012,6 +1027,7 @@ function doQuery(q, i, reportHeader, reportchoice) {
             jQuery('#chart_div > div').remove();
             jQuery('#legend_div').empty();
             jQuery('#spreadDL').hide();
+            jQuery('#printButton').hide();
             return;
         }
         data.setProperty(0, 0, 'style', 'width:100px');
