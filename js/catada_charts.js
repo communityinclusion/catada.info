@@ -90,6 +90,10 @@ jQuery(document).ready(function() {
         updateSelectCount('year');
 
     });
+    jQuery('#collapseNine input').click(function(event) {
+        updateSelectCount('year');
+
+    });
 
     if (checkState != 0 && checkYears != 0 && checkCats != 0) google.charts.setOnLoadCallback(drawSheetName);
     var reportType = getUrlString('report');
@@ -127,9 +131,10 @@ function countChecks(typeCount = null) {
 function updateSelectCount(checkType) {
     if (checkType == 'year') {
         yeararray1 = getStateYearArray('year');
-        // if (yeararray1.length < 1) return;
+        if (yeararray1.length < 1 && summReportChecked() == 'summary') return;
         var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : yeararray1;
         yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(', ') : years1;
+        console.log(years1);
         jQuery('#yearCountText').empty();
         var yrsSelect = yearstext;
         if (yearstext.length > 20) {
