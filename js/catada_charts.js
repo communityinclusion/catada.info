@@ -129,7 +129,7 @@ function countChecks(typeCount = null) {
 function updateSelectCount(checkType) {
     if (checkType == 'year') {
         yeararray1 = getStateYearArray('year');
-        if (yeararray1.length < 1) return;
+        // if (yeararray1.length < 1) return;
         var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : yeararray1;
         yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(', ') : years1;
         jQuery('#yearCountText').empty();
@@ -142,8 +142,10 @@ function updateSelectCount(checkType) {
     }
     if (checkType == 'state') {
         statearray1 = getStateYearArray('state');
-        if (statearray1.length < 1) return;
+        console.log(statearray1);
+        
         statenametext = statearray1.length < 1 ? ' ' : statearray1.join(", ");
+        // if (statearray1.length < 1) return;
         jQuery('#stateCountText').empty();
         var staSelect = statenametext;
         if (statenametext.length > 14) {
@@ -298,8 +300,8 @@ function drawSheetName() {
         statenametext = statearray1.length < 1 ? ' ' : statearray1.join(", ");
         var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : yeararray1;
 
-        years = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '2012' : yeararray1.join(' OR E = ') : years1;
-        yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '2012' : yeararray1.join(', ') : years1;
+        years = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(' OR E = ') : years1;
+        yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(', ') : years1;
         var reportchoice = summReportChecked() != 'summary' ? (summReportChecked() == 'download' ? '30' : jQuery('input[name="reportChoose"]:checked').val()) : jQuery('input[name="summCategory"]:radio:checked').val();
         console.log(reportchoice);
 
@@ -1027,6 +1029,7 @@ function doQuery(q, i, reportHeader, reportchoice) {
             jQuery('#chart_div > div').remove();
             jQuery('#legend_div').empty();
             jQuery('#spreadDL').hide();
+            jQuery('.dlHeading').hide();
             jQuery('#printButton').hide();
             return;
         }
