@@ -13,10 +13,13 @@ layout: chart
 	<div class="row">
 		<nav class="col-md-3 py-2" id="sidebar">
 			<form action="#" id="chartSelector" method="post" name="chartSelector">
-				<h4 class="p-2" id="categoryRadios">1. Select AT Activity</h4>
+
 
 					<div id="accordion">
 						<fieldset aria-labelledby="categoryRadios" role="radiogroup">
+						<div class="chartsection">
+								<h4 class="pt-1" id="categoryRadios">1. Select AT Activity</h4>
+
 						<div class="card">
 							<div class="card-header" id="headingOne">
 								<h5 class="mb-0"><button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseOne" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Device Demonstrations</button></h5>
@@ -162,10 +165,12 @@ layout: chart
 								</div>
 							</div>
 						</div>
+						</div>
 
 
 				</fieldset>
-				<h4 class="p-2 activityStates">2. Select State(s)</h4>
+				<div class="chartsection">
+				<h4 class="pt-3 activityStates">2. Select State(s)</h4>
 				<h4 class="p-2 downloadStates">1. Select State(s)</h4>
 
 
@@ -263,7 +268,7 @@ layout: chart
 											<div class="checkbox">
 												<label><input class="stateCheck" name="regionStates[]" type="checkbox" value="MS"> Mississippi</label>
 											</div>
-										
+
 											<div class="checkbox">
 												<label><input class="stateCheck" name="regionStates[]" type="checkbox" value="MT"> Montana</label>
 											</div>
@@ -357,9 +362,10 @@ layout: chart
 									</div>
 								</div>
 							</div>
+</div>
+<div class="chartsection">
 
-
-					<h4 class="p-2 activityYears">3. Select Year(s)</h4>
+					<h4 class="pt-3 activityYears">3. Select Year(s)</h4>
 					<h4 class="p-2 downloadYears">2. Select Year(s)</h4>
 
 						<div class="card groupYear">
@@ -415,11 +421,11 @@ layout: chart
 
 								</div>
 							</div>
-
-						
+</div>
+<div class="chartsection">
 							<h4 class="p-2 summCatHed">1. Select an Activity Category</h4>
 									<div class="card" id="summCat">
-										
+
 										<div class="card-header" id="headingTen">
 											<h5 class="mb-0"><button aria-controls="collapseTen" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseTen" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Category</button></h5>
 											</div>
@@ -438,10 +444,12 @@ layout: chart
 													</div>
 												</div>
 										</div>
+									</div>
+									<div class="chartsection">
 
 										<h4 class="p-2 summYearHed">2. Select a Year</h4>
 									<div class="card" id="summYear">
-											
+
 
 										<div class="card-header" id="headingNine">
 											<h5 class="mb-0"><button aria-controls="collapseNine" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapseNine" data-toggle="collapse"><i aria-hidden="true" class="fa"></i>Select a Year</button></h5>
@@ -457,13 +465,13 @@ layout: chart
 									</div>
 							</div>
 						</div>
-					
+					</div>
 
 					<br>
 					<br>
 					<button aria-label="Generate chart, tables, and text download for the selected values" class="btn" id="chartRedraw" type="button">GENERATE<br />Charts &amp; Tables</button><br>
-					
-					
+
+
 			</form>
 			<div id="otherOpts"><h4 class="p-2">Other Options</h4>
 					<a href="{{ site.baseurl }}/at.html" aria-label="Generate chart, tables, and text download for the selected activities" class="otherAct" id="otherActiv" type="button">GENERATE custom charts<br />&amp; tables by AT Activity<br />State, and Year</a>
@@ -478,16 +486,16 @@ layout: chart
 		<div id="bodyDiv">
 			<div id="chart_div"></div>
 			<div class="clearable" id="legend_div"></div>
-			
+
 				<div class="downloadButton"><form action="https://www.statedata.info/sites/default/csvpull.php" id="csvDL" method="post" name="csvDL">
 					<div class="clearable" id="urlInputs"></div>
 					<div class="clearable" id="titleInputs"></div>
 					<div class="clearable" id="sheetnameInputs"></div>
 					<button aria-label="A tabular representation of the data in the chart above." id="spreadDL" type="submit" value="Download">Download Excel data<br />for this selection</button></form>
-					
+
 					<button aria-label="Print this page." id="printButton"  value="Print this page">Print<br />this page.</button>
 				</div>
-			
+
 			<div id="summ_accordion">
 				<div class="clearable" id="table_div_0_title"></div>
 				<div class="tablePad clearable" id="table_div_0"></div>
