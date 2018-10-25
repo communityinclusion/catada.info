@@ -36,17 +36,5 @@
 	<script src="{{ site.baseurl }}/js/jquery-accessible-simple-tooltip-aria.js" type="text/javascript">
 	</script><script src="{{ site.baseurl }}/js/statemap.js" type="text/javascript">
 </script>
-<script>
 
-jQuery(function(){
-   jQuery(".chartsection").hover(function(e){
-        if (e.BorderDrawn) return;
-
-        jQuery(e.currentTarget).css({"border-left": "solid gray 5px"});
-        e.BorderDrawn = true;
-    }, function(e){
-        jQuery(e.currentTarget).css({"border-left": "solid white 5px"})
-    })
-});
-</script>
   </head>

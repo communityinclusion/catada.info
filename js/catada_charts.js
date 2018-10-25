@@ -147,7 +147,7 @@ function updateSelectCount(checkType) {
     }
     if (checkType == 'state') {
         statearray1 = getStateYearArray('state');
-        
+
         statenametext = statearray1.length < 1 ? ' ' : statearray1.join(", ");
         // if (statearray1.length < 1) return;
         jQuery('#stateCountText').empty();
@@ -798,13 +798,13 @@ function drawSheetName() {
 
 
             default:
-                
+
                 stringContent = null;
                 clearAll = true;
                 tableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
                 reportHeading[0] = "Device Demonstrations: Type of AT";
-        
+
                 break;
         }
         var csvFileName = summReportChecked() == 'summary' ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
@@ -830,7 +830,7 @@ function drawSheetName() {
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
         updateSelectCount('state');
         updateSelectCount('year');
-        
+
         for (i = 0; i < tableStringContent.length; i++) {
 
 
@@ -845,7 +845,7 @@ function drawSheetName() {
             jQuery('#csvDL #titleInputs').append((summReportChecked() == 'summary' ? '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' for ' + yearstext + '" />' : '<input type="hidden" name="sendTitle[]" value="' + reportHeading[i] + ' in ' + statenametext + ' for ' + yearstext + '" />'));
             jQuery('#csvDL #sheetnameInputs').append('<input type="hidden" name="sendSheetname[]" value="' + sheetName[i] + '" />');
         }
-        
+
 
         //var toolbarChart = handleToolbarDataQueryResponse(chartURL + '/gviz/tq?' +  sheetName + 'headers=1&tq=' + queryString);
         var csvReqString = '&tqx=reqId:1;out:csv;outFileName:' + csvFileName + '.csv';
@@ -908,7 +908,7 @@ function drawSheetName() {
         jQuery('button#printButton').hide();
         clearAll = false;
     }
-   
+
 
 }
 
@@ -991,7 +991,7 @@ function handleChartDataQueryResponse(response) {
     } else {
         chart.draw(data, {
             hAxis: { format: formatVAxis,
-            
+
                 },
             chartArea: { left: 160, /*width:1000,*/ height: chartHeight, top: 75 },
             legend: {

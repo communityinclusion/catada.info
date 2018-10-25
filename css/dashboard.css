@@ -357,7 +357,7 @@ button.multiselect.dropdown-toggle {
 	text-align: center;
 	z-index: 20000;
 }
-/* PF redesigning chart generation button 
+/* PF redesigning chart generation button
 button#chartRedraw {
 	margin-left: 70%;
 	background-color: #1477d5;
@@ -428,14 +428,14 @@ button#chartRedraw {
 	background-color: #eee !important;}
 	#summ_accordion table.google-visualization-table-table th {border-bottom: solid 2px black; border-top: solid 2px black; }
 	 #summ_accordion table.google-visualization-table-table td {border-bottom: solid 2px black; }
- 
+
 
 .checkAll { margin: 20px 0 0 25px; }
 #stateHolder > div { display: none; }
 #stateHolder div.stateDisplay {display: block; }
 .svgHide { display: none; }
 #stateHolder div.stateCompare, .block-content-glider {
-display: block; 
+display: block;
     background-color: #fff;
     border-radius: 6px 6px 6px 6px;
     margin-bottom: 30px;
@@ -537,7 +537,7 @@ p.hiddenText {
 }
 .legendNum2 {
 	background-color: #00a0fa;
-	
+
 }
 .legendNum3 {
 	background-color: #8214a0;
@@ -762,6 +762,13 @@ ul {
 	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
 	#chart_div, #chart_div div { display: block;}
 
-	
+
 
 }
+
+.chartsection {border:1px #ccc solid;
+	    -webkit-box-shadow: 0 10px 0 -5px #aaa;
+    box-shadow: 0 10px 0 -5px #aaa;
+    margin-bottom:10px;
+}
+.chartsection:hover {border:1px #000 solid;}
