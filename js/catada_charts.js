@@ -396,7 +396,8 @@ function drawSheetName() {
                 break;
 
             case '9':
-                stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                stringContent = null;
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
                 // tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_de_export_full&';
@@ -414,7 +415,8 @@ function drawSheetName() {
                 break;
 
             case '11':
-                stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                stringContent = null;
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
                 // tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
@@ -441,7 +443,8 @@ function drawSheetName() {
                 break;
 
             case '14':
-                stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                stringContent = null;
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
                 // tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_fl_export_full&';
@@ -459,7 +462,8 @@ function drawSheetName() {
                 break;
 
             case '16':
-                stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                stringContent = null;
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
                 // tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_sf_export_full&';
@@ -520,7 +524,8 @@ function drawSheetName() {
                 break;
 
             case '23':
-                stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
+                stringContent = null;
+                // stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
                 tableStringContent[0] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rc_export_full&';
                 reportHeading[0] = "Financing that Reduces Cost: Dollar Value of Savings";
