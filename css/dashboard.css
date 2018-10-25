@@ -583,164 +583,198 @@ ul {
 	/* Clear floats */
 	overflow: hidden;
 	width: 100%;
+	min-width: 230px;
+
 }
 #servicesflow li {
 	float: left;
-	margin: 0 .5em 2em 1em;
-	font-size: 10px;
-	line-height: 13px;
+	margin:5px 5px 5px 15px;
+	font-size: 15px;
+	line-height: 18px;
 }
 #servicesflow li a {
-	height: 30px;
+	height: 45px;
+	display: flex;
+align-items: center;
 }
+
+
+
+
 #servicesflow .step1 a, #servicesflow .step5 a {
 	background: #b12c27;
-	padding: .9em 1em;
+padding: 5px ;
+font-weight: 500;
+
 	float: left;
 	text-decoration: none;
 	color: #fff;
 	position: relative;
 }
-/*#servicesflow a:hover{
-	  background: #99db76;
-	}
-	*/
+
 
 #servicesflow .step1 a::before, #servicesflow .step5 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-width: 1.5em 0 1.5em 1em;
+   margin-top: -1.5em;
+    border-width: 1.5em 0 1.5em 1em;
 	border-style: solid;
 	border-color: #b12c27 #b12c27 #b12c27 transparent;
 	left: -1em;
 }
-/*#servicesflow a:hover::before{
+#servicesflow a:hover::before{
 	  border-color: #99db76 #99db76 #99db76 transparent;
-	}*/
+	  }
 
 #servicesflow .step1 a::after, #servicesflow .step5 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-top: 1.5em solid transparent;
-	border-bottom: 1.5em solid transparent;
-	border-left: 1em solid #b12c27;
+	  margin-top: -1.5em;
+    border-top: 1.5em solid transparent;
+    border-bottom: 1.5em solid transparent;
+    	border-left: 1em solid #b12c27;
 	right: -1em;
 }
 #servicesflow .step2 a, #servicesflow .step6 a {
 	background: #00b4e5;
-	padding: .4em 1em;
+padding: 5px ;
 	float: left;
 	text-decoration: none;
 	color: #fff;
 	position: relative;
 }
-/*#servicesflow a:hover{
-	  background: #99db76;
-	}
-	*/
+
+
 
 #servicesflow .step2 a::before, #servicesflow .step6 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-width: 1.5em 0 1.5em 1em;
+   margin-top: -1.5em;
+    border-width: 1.5em 0 1.5em 1em;
 	border-style: solid;
 	border-color: #00b4e5 #00b4e5 #00b4e5 transparent;
 	left: -1em;
 }
-/*#servicesflow a:hover::before{
-	  border-color: #99db76 #99db76 #99db76 transparent;
-	}*/
+
+
 
 #servicesflow .step2 a::after, #servicesflow .step6 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-top: 1.5em solid transparent;
-	border-bottom: 1.5em solid transparent;
+	  margin-top: -1.5em;
+    border-top: 1.5em solid transparent;
+    border-bottom: 1.5em solid transparent;
 	border-left: 1em solid #00b4e5;
 	right: -1em;
 }
 #servicesflow .step3 a, #servicesflow .step7 a {
 	background: #256497;
-	padding: .2em .4em;
+padding: 5px ;
 	float: left;
 	text-decoration: none;
 	color: #fff;
 	position: relative;
 }
-/*#servicesflow a:hover{
-	  background: #99db76;
-	}
-	*/
+
+
+
 
 #servicesflow .step3 a::before, #servicesflow .step7 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-width: 1.5em 0 1.5em 1em;
+	   margin-top: -1.5em;
+    border-width: 1.5em 0 1.5em 1em;
 	border-style: solid;
 	border-color: #256497 #256497 #256497 transparent;
 	left: -1em;
 }
-/*#servicesflow a:hover::before{
-	  border-color: #99db76 #99db76 #99db76 transparent;
-	}*/
 
 #servicesflow .step3 a::after, #servicesflow .step7 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-top: 1.5em solid transparent;
-	border-bottom: 1.5em solid transparent;
+	  margin-top: -1.5em;
+    border-top: 1.5em solid transparent;
+    border-bottom: 1.5em solid transparent;
 	border-left: 1em solid #256497;
 	right: -1em;
 }
-#servicesflow .step4 a {
+#servicesflow .step4 a, #servicesflow .step8 a {
 	background: #5d9731;
-	padding: .7em 1em;
+	padding: 5px ;
 	float: left;
 	text-decoration: none;
 	color: #fff;
 	position: relative;
-}
-/*#servicesflow a:hover{
-	  background: #99db76;
-	}
-	*/
 
-#servicesflow .step4 a::before {
+ }
+
+
+
+#servicesflow .step4 a::before, #servicesflow .step8 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-width: 1.5em 0 1.5em 1em;
+   margin-top: -1.5em;
+    border-width: 1.5em 0 1.5em 1em;
 	border-style: solid;
 	border-color: #5d9731 #5d9731 #5d9731 transparent;
 	left: -1em;
 }
-/*#servicesflow a:hover::before{
-	  border-color: #99db76 #99db76 #99db76 transparent;
-	}*/
 
-#servicesflow .step4 a::after {
+#servicesflow .step4 a::after, #servicesflow .step8 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	margin-top: -1.5em;
-	border-top: 1.5em solid transparent;
-	border-bottom: 1.5em solid transparent;
+	  margin-top: -1.5em;
+    border-top: 1.5em solid transparent;
+    border-bottom: 1.5em solid transparent;
 	border-left: 1em solid #5d9731;
 	right: -1em;
 }
+
+
+	#servicesflow a:hover{
+	  background: #b12c27;
+	}
+
+	#servicesflow a::before{
+	  content: "";
+	  position: absolute;
+	  top: 50%;
+	  margin-top: -1.5em;
+	  border-width: 1.5em 0 1.5em 1em;
+	  border-style: solid;
+	  border-color: #ddd #ddd #ddd transparent;
+	  left: -1em;
+	}
+
+	#servicesflow a:hover::before{
+	  border-color: #b12c27 #b12c27 #b12c27 transparent;
+	}
+
+	#servicesflow a::after{
+	  content: "";
+	  position: absolute;
+	  top: 50%;
+	  margin-top: -1.5em;
+	  border-top: 1.5em solid transparent;
+	  border-bottom: 1.5em solid transparent;
+	  border-left: 1em solid #ddd;
+	  right: -1em;
+	}
+
+	#servicesflow a:hover::after{
+	  border-left-color: #b12c27;
+	}
+
+/*front page */
+
 .feature-box {
 	border: #00b4e5 1px solid;
 	margin-bottom: 10px;
