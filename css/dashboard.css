@@ -136,6 +136,10 @@ input[type=radio] {
 	margin-right: 10px;
 	margin-left: 10px;
 }
+#collapseNine input[type=radio] {
+	margin-right: 0;
+	margin-left: 18px;
+}
 .accordion {
 	width: 240px;
 }
