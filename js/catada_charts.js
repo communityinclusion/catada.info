@@ -76,6 +76,8 @@ jQuery(document).ready(function() {
         jQuery('input[name="regionStates[]"]').prop('checked', false);
         jQuery('input[name="regionYear[]"]').prop('checked', false);
         jQuery('input[name="summChoose"]').prop('checked', false);
+        jQuery('input[name="summYear"]').prop('checked', false);
+        jQuery('input[name="summCategory"]').prop('checked', false);
         jQuery('#stateCountText').empty();
         jQuery('#yearCountText').empty();
         clearAll = true;
@@ -288,7 +290,7 @@ function legendBuild(legendNum) {
 
 function drawSheetName() {
 
-    if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summChoose"]:checked').val()) || clearAll) {
+    if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summCategory"]:checked').val()) || clearAll) {
 
         tableStringContent = [];
         legendHTML = null;
@@ -314,7 +316,7 @@ function drawSheetName() {
         }
         var yrsFilenm = yearstext;
         // var yrsSelect = yearstext;
-        if (yearstext.length > 14) {
+        if (yearstext && yearstext.length > 14) {
             yrsFilenm = yearstext.substring(0, 14);
             //   yrsSelect = yearstext.substring(0,14) + "...";
         }
