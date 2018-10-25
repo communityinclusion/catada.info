@@ -195,9 +195,14 @@ function summReportChecked() {
         jQuery('#accordion .groupYear').hide();
         jQuery('#accordion .groupState').hide();
         jQuery('#sidebar h4.p-2').hide();
+        jQuery('#sidebar h4.p-2.activityStates').parent().hide();
+        jQuery('#sidebar h4.p-2.activityYears').parent().hide();
         jQuery('#sidebar #otherOpts h4.p-2').show();
         jQuery('#sidebar h4.p-2.summCatHed').show();
         jQuery('#sidebar h4.p-2.summYearHed').show();
+
+        jQuery('#sidebar h4.p-2.summCatHed').parent().show();
+        jQuery('#sidebar h4.p-2.summYearHed').parent().show();
 
 
         //jQuery('button.multiselect.dropdown-toggle').prop('disabled',true);
@@ -234,6 +239,8 @@ function summReportChecked() {
         jQuery('#otherOpts a#otherDown').hide();
         jQuery('#otherOpts a#otherSumm').show();
         jQuery('#otherOpts a#otherActiv').show();
+        jQuery('#sidebar h4.p-2.summCatHed').parent().hide();
+        jQuery('#sidebar h4.p-2.summYearHed').parent().hide();
         return 'download';
 
     } else {
@@ -249,9 +256,15 @@ function summReportChecked() {
         jQuery('#sidebar h4.p-2').hide();
         jQuery('#sidebar #otherOpts h4.p-2').show();
         jQuery('#sidebar h4.p-2.activityStates').show();
+
+        jQuery('#sidebar h4.p-2.activityStates').parent().show();
+
+        jQuery('#sidebar h4.p-2.activityYears').parent().show();
         jQuery('#sidebar h4.p-2.activityYears').show();
         jQuery('#sidebar h4.p-2.summCatHed').hide();
         jQuery('#sidebar h4.p-2.summYearHed').hide();
+        jQuery('#sidebar h4.p-2.summCatHed').parent().hide();
+        jQuery('#sidebar h4.p-2.summYearHed').parent().hide();
 
         jQuery('#sidebar h4#categoryRadios.p-2').show();
 
