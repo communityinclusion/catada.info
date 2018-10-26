@@ -795,9 +795,6 @@ padding: 5px ;
 	#summ_accordion div { overflow: visible !important; }
 	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
 	#chart_div, #chart_div div { display: block;}
-
-
-
 }
 
 .chartsection {border:1px #ddd solid;
@@ -810,3 +807,6 @@ padding: 5px ;
 
 
 .card {margin-bottom:10px;}
+
+
+svg {cursor: pointer;}
