@@ -601,7 +601,7 @@ align-items: center;
 
 
 
-#servicesflow .step1 a, #servicesflow .step5 a {
+#servicesflow .step1 a, #servicesflow .step6 a {
 	background: #b12c27;
 padding: 5px ;
 font-weight: 500;
@@ -613,7 +613,7 @@ font-weight: 500;
 }
 
 
-#servicesflow .step1 a::before, #servicesflow .step5 a::before {
+#servicesflow .step1 a::before, #servicesflow .step6 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
@@ -627,7 +627,7 @@ font-weight: 500;
 	  border-color: #99db76 #99db76 #99db76 transparent;
 	  }
 
-#servicesflow .step1 a::after, #servicesflow .step5 a::after {
+#servicesflow .step1 a::after, #servicesflow .step6 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
@@ -637,7 +637,7 @@ font-weight: 500;
     	border-left: 1em solid #b12c27;
 	right: -1em;
 }
-#servicesflow .step2 a, #servicesflow .step6 a {
+#servicesflow .step2 a, #servicesflow .step5 a {
 	background: #00b4e5;
 padding: 5px ;
 	float: left;
@@ -648,7 +648,7 @@ padding: 5px ;
 
 
 
-#servicesflow .step2 a::before, #servicesflow .step6 a::before {
+#servicesflow .step2 a::before, #servicesflow .step5 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
@@ -661,7 +661,7 @@ padding: 5px ;
 
 
 
-#servicesflow .step2 a::after, #servicesflow .step6 a::after {
+#servicesflow .step2 a::after, #servicesflow .step5 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
@@ -800,9 +800,9 @@ padding: 5px ;
 
 }
 
-.chartsection {border:1px #ccc solid;
-	    -webkit-box-shadow: 0 10px 0 -5px #aaa;
-    box-shadow: 0 10px 0 -5px #aaa;
-    margin-bottom:10px;
+.chartsection {border:1px #ddd solid;
+	    -webkit-box-shadow: 0 5px 0 -2px #ddd
+    box-shadow: 0 5px 0 -2px #ddd
+    margin-bottom:20px;
 }
 .chartsection:hover {border:1px #000 solid;}
