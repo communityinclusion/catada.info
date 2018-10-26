@@ -581,7 +581,7 @@ ul {
 }
 #servicesflow {
 	/* Clear floats */
-	overflow: hidden;
+	/*overflow: hidden;*/
 	width: 100%;
 	min-width: 230px;
 
