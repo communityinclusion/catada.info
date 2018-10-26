@@ -143,23 +143,23 @@ input[type=radio] {
 .accordion {
 	width: 240px;
 }
-.accordion .card-header, .accordion .card-header .btn {
+#accordion .card-header, .accordion .card-header .btn {
 	padding: 4px;
 }
-.card-header {
+#accordion .card-header {
 	padding: 0;
 	margin-bottom: 0;
 	background-color: #eee;
 	border-bottom: 0;
 	border-radius: none!important;
 }
-.card-header .btn-link {
+#accordion .card-header .btn-link {
 	font-weight: 700;
 	width: 100%;
 	text-align: left;
 	font-family: 'Cabin Condensed', sans-serif;
 }
-.card {
+#accordion .card {
 	border-radius: 0!important;
 	border: 0;
 	border-bottom: 1px solid #bbb;
@@ -806,3 +806,7 @@ padding: 5px ;
     margin-bottom:20px;
 }
 .chartsection:hover {border:1px #000 solid;}
+
+
+
+.card {margin-bottom:10px;}
