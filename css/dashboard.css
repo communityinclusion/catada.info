@@ -801,8 +801,8 @@ padding: 5px ;
 }
 
 .chartsection {border:1px #ddd solid;
-	    -webkit-box-shadow: 0 5px 0 -2px #ddd
-    box-shadow: 0 5px 0 -2px #ddd
+	    -webkit-box-shadow: 0 5px 0 -2px #ddd;
+    box-shadow: 0 5px 0 -2px #ddd;
     margin-bottom:20px;
 }
 .chartsection:hover {border:1px #000 solid;}
