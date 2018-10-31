@@ -840,6 +840,7 @@ function drawSheetName() {
         jQuery('#spreadDL').show()
         if (summReportChecked() != 'download') jQuery('button#printButton').show();
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
+        else if(reportchoice >= '31' && reportchoice <= '36') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a summary spreadsheet" + " for " + yearstext + "</h5>"); 
         else if (clearAll) {jQuery('#body_div').empty(); jQuery('.downloadButton').empty(); jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Choose variables at left for another search</h5>"); }
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
         updateSelectCount('state');
