@@ -789,6 +789,7 @@ padding: 5px ;
 	font-size: 50px;
 	padding: 10px;
 }
+#chart_div .selectWarn {padding: 25px;}
 /* This is the PRINT stylesheet */
 @media print { nav#sidebar, .container-fluid .downloadButton,nav.navbar, .copyright .col-md-4 {display: none !important; }
 .legendColorBlock img { height: 12px; }

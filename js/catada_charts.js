@@ -28,7 +28,8 @@ jQuery(document).ready(function() {
     var checkCats = countChecks('category');
     if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) {
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="selectWarn clearable">Go ahead make my day.  Choose something.</h5><p class="selectWarn clearable">Choose an activity, state(s) and year(s) at left to begin.</p>');
+        var sumType = summReportChecked();
+        jQuery('#chart_div').prepend(sumType == 'summary' ? '<p class="selectWarn clearable"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<p class="selectWarn clearable"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p>'));
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
          jQuery('button#printButton').hide();
