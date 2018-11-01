@@ -247,15 +247,15 @@ clear: both;
 	padding: 8px 0; height: 140px;
 }
 .downloadButton #spreadDL {
-width: 328px;
-height: 70px;
-background-image: url('../assets/download_lg.png');
+width: 230px;
+height: 50px;
+background-image: url('../assets/download_lrg.png');
 text-align:left;
-font-size:110%;
+font-size:100%;
 color: #217346;
 font-weight: bold;
-padding-left:75px;
-padding-top: 14px;
+padding-left:50px;
+padding-top: 5px;
 line-height: 1em;
 float: left;
 }

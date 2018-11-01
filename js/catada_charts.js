@@ -33,9 +33,12 @@ jQuery(document).ready(function() {
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
          jQuery('button#printButton').hide();
-
-
     }
+    jQuery("#chartRedraw").click(function() {
+        jQuery('html, body').animate({
+            scrollTop: jQuery("#chartTitle").offset().top
+        }, 500);
+    });
 
     jQuery('input.checkAll').click(function() {
         parentID = jQuery(this).closest('div.collapse').attr('id');
