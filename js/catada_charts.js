@@ -390,7 +390,7 @@ function drawSheetName() {
             case '6':
                 stringContent = "SELECT B,BB,BC,BD,BE,BF,BG,BH WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY A, E LIMIT 8";
                 // tableStringContent[0] = "SELECT A,E,AF,X,Y,Z,AA,AB,AC,AD,AE WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
-                tableStringContent[0] = "SELECT A,E,AF,BB,BC,BD,BE,BF,BG,BH,BI WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY A, E, E";
+                tableStringContent[0] = "SELECT A,E,AF,BB,BC,BD,BE,BF,BG,BH,BI WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans: Device Borrowers";
                 legendHTML = legendBuild(1);
