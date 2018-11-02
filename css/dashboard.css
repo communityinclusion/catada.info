@@ -348,15 +348,21 @@ button.multiselect.dropdown-toggle {
 #clearForm {
 	float: right;
 	margin: 18px 30px 0 0;
-	color: #fff;
 	border: 1px solid black;
-	background-color: #00b4e6;
+	background-color: #ddd;
 	display: block;
-	width: 130px;
-	height: 45px;
+	width: 120px;
+	height: 35px;
 	text-align: center;
 	z-index: 20000;
 }
+
+button#clearForm:hover {
+    background: #666;
+    color: #fff;
+    }
+
+
 /* PF redesigning chart generation button
 button#chartRedraw {
 	margin-left: 70%;
@@ -376,7 +382,7 @@ button#chartRedraw {
 	min-width: 175px;
 }
 .sideActivity button#chartRedraw {
-	background-color:#b22d27;
+	background-color:#256294;
 	margin-left: 5%;
 	color: #fff;
 	width: 70%;
@@ -385,15 +391,15 @@ button#chartRedraw {
 }
 
 .sideSumm button#chartRedraw {
-	background-color:#64a9d9;
+	background-color:#256294;
 	width: 70%;
 	color: #fff;
 	background-image: url("../assets/blue_chart.png");
 }
 
 .sideDown button#chartRedraw {
-	background-color:#f7f7f7;
-	color: #97999c;
+	background-color:#256294;
+	color: #fff;
 	background-image: url("../assets/green_chart.png");
 	border: 1px solid black;
 }
@@ -604,8 +610,8 @@ align-items: center;
 #servicesflow .step1 a, #servicesflow .step6 a {
 	background: #b12c27;
 padding: 5px ;
-font-weight: 500;
-
+font-weight: 700;
+font-size: 16px;
 	float: left;
 	text-decoration: none;
 	color: #fff;
@@ -617,8 +623,8 @@ font-weight: 500;
 	content: "";
 	position: absolute;
 	top: 50%;
-   margin-top: -1.5em;
-    border-width: 1.5em 0 1.5em 1em;
+   margin-top: -1.4em;
+    border-width: 1.4em 0 1.4em 1em;
 	border-style: solid;
 	border-color: #b12c27 #b12c27 #b12c27 transparent;
 	left: -1em;
@@ -631,9 +637,9 @@ font-weight: 500;
 	content: "";
 	position: absolute;
 	top: 50%;
-	  margin-top: -1.5em;
-    border-top: 1.5em solid transparent;
-    border-bottom: 1.5em solid transparent;
+	  margin-top: -1.4em;
+    border-top: 1.4em solid transparent;
+    border-bottom: 1.4em solid transparent;
     	border-left: 1em solid #b12c27;
 	right: -1em;
 }
