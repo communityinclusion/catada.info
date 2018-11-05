@@ -40,6 +40,12 @@ jQuery(document).ready(function() {
         }, 500);
     });
 
+    jQuery("#clearForm").click(function() {
+        jQuery('html, body').animate({
+            scrollTop: jQuery("#chartTitle").offset().top
+        }, 500);
+    });
+
     jQuery('input.checkAll').click(function() {
         parentID = jQuery(this).closest('div.collapse').attr('id');
         // console.log(parentID);
