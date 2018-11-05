@@ -84,6 +84,7 @@ jQuery(document).ready(function() {
         jQuery('input[name="summCategory"]').prop('checked', false);
         jQuery('#stateCountText').empty();
         jQuery('#yearCountText').empty();
+        jQuery('#summyearCountText').empty();
         clearAll = true;
         var redraw = drawSheetName();
 
@@ -99,6 +100,13 @@ jQuery(document).ready(function() {
     jQuery('#collapseNine input').click(function(event) {
         updateSelectCount('year');
 
+    });
+   
+    jQuery('#accordion .chartselection input').click(function() {
+        jQuery("input[type='radio']:checked").each(function() {
+            var catIdValue = jQuery(this).attr("id");
+            updateCatNameText(catIdValue);
+        });
     });
 
     if (checkState != 0 && checkYears != 0 && checkCats != 0) google.charts.setOnLoadCallback(drawSheetName);
@@ -142,12 +150,15 @@ function updateSelectCount(checkType) {
         yearstext = summReportChecked() != 'summary' ? yeararray1.length < 1 ? '' : yeararray1.join(', ') : years1;
         console.log(years1);
         jQuery('#yearCountText').empty();
+        jQuery('#summyearCountText').empty();
         var yrsSelect = yearstext;
         if (yearstext.length > 20) {
             yrsSelect = "Selected: (" + countChecks('year') + ") ";
         }
         yrsSelectText = yrsSelect;
         jQuery('#yearCountText').append(yrsSelectText);
+        jQuery('#summyearCountText').append(yrsSelectText);
+        
     }
     if (checkType == 'state') {
         statearray1 = getStateYearArray('state');
@@ -165,6 +176,12 @@ function updateSelectCount(checkType) {
 
 }
 
+function updateCatNameText() {
+    jQuery('#catChecked').empty();
+   
+
+}
+
 function getStateYearArray(choiceType) {
     statearray1 = [];
     yeararray1 = [];
@@ -173,7 +190,9 @@ function getStateYearArray(choiceType) {
     });
 
 
-    var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').val() : jQuery('input:checkbox[name="regionYear[]"]:checked').each(function() {
+    var years1 = summReportChecked() == 'summary' ? jQuery('input[name="summChoose"]:checked').each(function() {
+        yeararray1.push(jQuery(this).val());
+    }) : jQuery('input:checkbox[name="regionYear[]"]:checked').each(function() {
         yeararray1.push(jQuery(this).val());
     });
 
