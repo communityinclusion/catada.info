@@ -497,6 +497,7 @@ p.hiddenText {
 }
 .legendColorBlock img { width: 30px; height: 10px;  display: block;
 }
+a#otherActiv, a#otherSumm,a#otherDown, button#clearForm,button#spreadDL,button#printButton { cursor: pointer;}
 /*
 .legendNum0 {
 	background-color: #b82e2e;
