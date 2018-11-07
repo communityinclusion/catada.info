@@ -63,7 +63,8 @@ nav li a:hover {
 
 /*-------Footer--------*/
 #footer {
-	background-color: #000
+
+
 }
 .footer-copyright {
 	background-color: #0073AE;
@@ -78,6 +79,15 @@ nav li a:hover {
 	color: #ffffff;
 	font-weight: 700
 }
+
+
+.footer-partners {
+	font-size: 12px;
+	line-height: 14px;
+	  padding: 20px 0 0;
+	      border: 15px #0073AE solid;
+}
+
 /* Extra Small Devices, Phones */
 
 @media only screen and (max-width: 480px) {
@@ -247,15 +257,15 @@ clear: both;
 	padding: 8px 0; height: 140px;
 }
 .downloadButton #spreadDL {
-width: 230px;
-height: 50px;
-background-image: url('../assets/download_lrg.png');
+width: 328px;
+height: 70px;
+background-image: url('../assets/download_lg.png');
 text-align:left;
-font-size:100%;
+font-size:110%;
 color: #217346;
 font-weight: bold;
-padding-left:50px;
-padding-top: 5px;
+padding-left:75px;
+padding-top: 14px;
 line-height: 1em;
 float: left;
 }
@@ -449,14 +459,8 @@ display: block;
     border: 1px solid #5157AD;
         width: 80%;
 }
-<<<<<<< HEAD
-
-h5 div#stateCountText, h5 div#yearCountText, h5 div#summyearCountText { float: left; width: 40%; font-size: 70%; margin-top: 12px;}
-#accordion #headingSeven.card-header h5 button.btn-link, #accordion  #headingEight.card-header h5 button.btn-link, #accordion  #headingNine.card-header h5 button.btn-link { float:left; width: 45%; }
-=======
 h5 div#stateCountText, h5 div#yearCountText { float: left; width: 40%; font-size: 70%; padding-left:15px;margin-top: 12px;}
 #headingSeven h5 button, #headingEight h5 button { float:left; width: 45%; }
->>>>>>> mylocal
 /*
 .accordionFloat .card-header,.accordionFloat .card-header .btn {
 	padding:7px 4px;
@@ -502,7 +506,6 @@ p.hiddenText {
 }
 .legendColorBlock img { width: 30px; height: 10px;  display: block;
 }
-a#otherActiv, a#otherSumm,a#otherDown, button#clearForm,button#spreadDL,button#printButton { cursor: pointer;}
 /*
 .legendNum0 {
 	background-color: #b82e2e;
@@ -802,22 +805,13 @@ padding: 5px ;
 	font-size: 50px;
 	padding: 10px;
 }
-#chart_div .selectWarn {padding: 25px;}
-/* This is the PRINT stylesheet */
-@media print { nav#sidebar, .container-fluid .downloadButton,nav.navbar, .copyright .col-md-4 {display: none !important; }
+@media print { nav#sidebar, .container-fluid .downloadButton {display: none !important; }
 .legendColorBlock img { height: 12px; }
 .container-fluid #body_div .legendColorBlock {display: block important!;}
 	#summ_accordion div { overflow: visible !important; }
 	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
 	#chart_div, #chart_div div { display: block;}
-	body {padding-top: 0;}
-	h1#chartTitle { margin: 0; font-size: .8em; padding: 0;}
-	h1 img.img-fluid { max-width: 50%; padding:0; margin: 0;}
-	#footer, #footer div,#footer * {margin: 0; padding: 0;}
 }
-
-/* End PRINT stylesheet */
-
 
 .chartsection {border:1px #ddd solid;
 	    -webkit-box-shadow: 0 5px 0 -2px #ddd;
