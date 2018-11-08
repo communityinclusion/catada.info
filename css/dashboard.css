@@ -19,6 +19,18 @@ h1 {
 	padding-bottom: 9px;
 	border-bottom: 1px solid #eee;
 }
+
+
+h2 {
+	border-left:#2C6692 solid 10px;
+	margin-bottom: 20px;
+	background-color: #E9F7FC;
+
+}
+h2 span {padding-left:5px;
+
+}
+
 /*-------Nav/Header--------*/
 .red {
 	background-color: #b22d27
