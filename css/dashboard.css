@@ -20,16 +20,20 @@ h1 {
 	border-bottom: 1px solid #eee;
 }
 
+h2, h3 {color: #256497;}
 
-h2 {
+h2.block-heading {
 	border-left:#2C6692 solid 10px;
 	margin-bottom: 20px;
 	background-color: #E9F7FC;
 
 }
-h2 span {padding-left:5px;
+h2.block-heading span {padding-left:5px;
 
 }
+
+.shade-box h2 {	    text-align: center;
+    margin-top: 25%;}
 
 /*-------Nav/Header--------*/
 .red {
@@ -802,16 +806,25 @@ padding: 5px ;
 	}
 
 /*front page */
+.box{border: #00b4e5 2px solid;
+	padding:15px;
+}
+
+
 
 .feature-box {
-	border: #00b4e5 1px solid;
-	margin-bottom: 10px;
-	padding: 10px;
-	height: 100%
+
+       margin: 10px 0;
 }
 .feature-box h2, .feature-box h3 {
 	color: #256497;
 	text-transform: uppercase
+}
+
+.shade-box {background-color: #E9F7FC ;
+	 border: 2px solid #fff;
+    padding: 15px;
+
 }
 .huge {
 	font-size: 50px;
