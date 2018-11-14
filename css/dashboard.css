@@ -157,6 +157,7 @@ nav li a:hover {
 }
 #sidebar .card {
 	font-family: 'PT Sans Narrow', sans-serif;
+	    margin-bottom: 0;
 }
 input[type=radio] {
 	margin-right: 10px;
