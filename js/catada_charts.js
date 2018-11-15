@@ -963,6 +963,7 @@ function handleChartDataQueryResponse(response) {
 
     var data = response.getDataTable();
     checkCount = countChecks();
+    if(checkCount > 10) return;
     chartHeight = checkCount > 3 ? (checkCount > 5 ? '500' : '450') : '175';
     areaHeight = checkCount > 3 ? (checkCount > 5 ? '650' : '600') : '300';
     var groupWid = checkCount > 3 ? (checkCount > 5 ? '22' : '32') : '22';
