@@ -29,7 +29,7 @@ jQuery(document).ready(function() {
     if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) {
         jQuery('.selectWarn').remove();
         var sumType = summReportChecked();
-        jQuery('#chart_div').prepend(sumType == 'summary' ? '<p class="selectWarn clearable"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<p class="selectWarn clearable"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p>'));
+        jQuery('#chart_div').prepend(sumType == 'summary' ? '<p class="selectWarn clearable"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<p class="selectWarn clearable"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p><p><i class="fas fa-arrow-left fa-5x"></i> <i class="far fa-chart-bar fa-5x"></i></p>'));
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
          jQuery('button#printButton').hide();
@@ -107,7 +107,7 @@ jQuery(document).ready(function() {
         updateSelectCount('year');
 
     });
-   
+
     jQuery('#accordion .chartselection input').click(function() {
         jQuery("input[type='radio']:checked").each(function() {
             var catIdValue = jQuery(this).attr("id");
@@ -164,7 +164,7 @@ function updateSelectCount(checkType) {
         yrsSelectText = yrsSelect;
         jQuery('#yearCountText').append(yrsSelectText);
         jQuery('#summyearCountText').append(yrsSelectText);
-        
+
     }
     if (checkType == 'state') {
         statearray1 = getStateYearArray('state');
@@ -184,7 +184,7 @@ function updateSelectCount(checkType) {
 
 function updateCatNameText() {
     jQuery('#catChecked').empty();
-   
+
 
 }
 
@@ -868,7 +868,7 @@ function drawSheetName() {
         jQuery('#spreadDL').show()
         if (summReportChecked() != 'download') jQuery('button#printButton').show();
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
-        else if(reportchoice >= '31' && reportchoice <= '36') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a summary spreadsheet" + " for " + yearstext + "</h5>"); 
+        else if(reportchoice >= '31' && reportchoice <= '36') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a summary spreadsheet" + " for " + yearstext + "</h5>");
         else if (clearAll) {jQuery('#body_div').empty(); jQuery('.downloadButton').empty(); jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Choose variables at left for another search</h5>"); }
         else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
         updateSelectCount('state');

@@ -63,7 +63,7 @@ h2.block-heading span {padding-left:5px;
 .bg-dark {
 	background-color: #333!important;
 }
-@media only screen and (min-width: 892px) {
+@media only screen and (min-width: 990px) {
 	nav li {
 		width: calc(100% / 4);
 	}
