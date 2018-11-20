@@ -835,11 +835,12 @@ padding: 4px ;
 	font-size: 50px;
 	padding: 10px;
 }
-@media print { nav#sidebar, .container-fluid .downloadButton {display: none !important; }
+@media print { nav#sidebar, .container-fluid .downloadButton, #footer .footer-partners, #footer .col-md-4.col-sm-12.col-align.col-align--center {display: none !important; }
 .legendColorBlock img { height: 12px; }
 .container-fluid #body_div .legendColorBlock {display: block important!;}
 	#summ_accordion div { overflow: visible !important; }
 	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
+	#legend_div div { display: block !important; }
 	#chart_div, #chart_div div { display: block;}
 }
 
