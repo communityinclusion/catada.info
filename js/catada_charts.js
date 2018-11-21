@@ -324,7 +324,7 @@ function legendBuild(legendNum) {
     if (numCount < 1) return;
     //legendStruct = '<div class="legendElem"><div class="legendColorBlock legendNum' + legendNum + '"></div>' + legNumText + '</div>';
     for (i = 0; i < numCount; i++) {
-        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"><img src="assets/legend' + i + '.png" /></div><div class="legendText">' + arraySub[i] + '</div></div>');
+        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"><img src="/assets/legend' + i + '.png" /></div><div class="legendText">' + arraySub[i] + '</div></div>');
 
     }
     return legendOut;
