@@ -40,10 +40,11 @@
   margin-left: .5em;
 }
 .minimalist-left-simpletooltip {
-  right: 100%;
+  
+  margin-left: -19em;
   left: auto;
-  margin-right: .5em;
 }
+.step2 .minimalist-left-simpletooltip { margin-left: -22em;}
 /* used pseudo-element to make arrows */
 .simpletooltip::before,
 .minimalist-simpletooltip::before,

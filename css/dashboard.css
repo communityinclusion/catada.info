@@ -3,11 +3,12 @@
  */
 
  body {
-	padding-top: 54px;
+/*	padding-top: 54px;*/
+	color:#333;
 }
 @media (min-width: 992px) {
 	body {
-		padding-top: 56px;
+	/*	padding-top: 56px; */
 	}
 }
 
@@ -32,10 +33,21 @@ h2.block-heading span {padding-left:5px;
 
 }
 
-.shade-box h2 {	    text-align: center;
-    margin-top: 25%;}
+
 
 /*-------Nav/Header--------*/
+.disclaimer-bar {
+    height: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: #ffffff;
+    background-color: #256496;
+    font-size: 1rem;
+    text-align: right;
+    margin-bottom:10px;
+}
+
+
 .red {
 	background-color: #b22d27
 }
@@ -51,7 +63,7 @@ h2.block-heading span {padding-left:5px;
 .bg-dark {
 	background-color: #333!important;
 }
-@media only screen and (min-width: 892px) {
+@media only screen and (min-width: 990px) {
 	nav li {
 		width: calc(100% / 4);
 	}
@@ -619,14 +631,23 @@ ul {
 	min-width: 230px;
 
 }
+
+#servicesflow ul {
+	   height: 42px;
+ overflow: hidden;
+
+}
+
+
 #servicesflow li {
 	float: left;
 	margin:5px 5px 5px 15px;
-	font-size: 15px;
-	line-height: 18px;
+	font-size: 14px;
+
 }
 #servicesflow li a {
-	height: 45px;
+
+   height: 42px;
 	display: flex;
 align-items: center;
 }
@@ -634,11 +655,12 @@ align-items: center;
 
 
 
-#servicesflow .step1 a, #servicesflow .step6 a {
+
+#servicesflow .step1 a {
 	background: #b12c27;
-padding: 5px ;
+padding: 4px ;
 font-weight: 700;
-font-size: 16px;
+
 	float: left;
 	text-decoration: none;
 	color: #fff;
@@ -646,33 +668,31 @@ font-size: 16px;
 }
 
 
-#servicesflow .step1 a::before, #servicesflow .step6 a::before {
+#servicesflow .step1 a::before  {
 	content: "";
 	position: absolute;
 	top: 50%;
-   margin-top: -1.4em;
-    border-width: 1.4em 0 1.4em 1em;
+   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
 	border-style: solid;
 	border-color: #b12c27 #b12c27 #b12c27 transparent;
-	left: -1em;
+	left: -13.75px;
 }
-#servicesflow a:hover::before{
-	  border-color: #99db76 #99db76 #99db76 transparent;
-	  }
 
-#servicesflow .step1 a::after, #servicesflow .step6 a::after {
+
+#servicesflow .step1 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	  margin-top: -1.4em;
-    border-top: 1.4em solid transparent;
-    border-bottom: 1.4em solid transparent;
-    	border-left: 1em solid #b12c27;
-	right: -1em;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+    	border-left: 14px solid #b12c27;
+	right: -13.75px;
 }
-#servicesflow .step2 a, #servicesflow .step5 a {
-	background: #00b4e5;
-padding: 5px ;
+#servicesflow .step2 a, #servicesflow .step3 a, #servicesflow .step4 a, #servicesflow .step5 a  {
+	background: #D46A6A;
+padding: 4px ;
 	float: left;
 	text-decoration: none;
 	color: #fff;
@@ -681,32 +701,34 @@ padding: 5px ;
 
 
 
-#servicesflow .step2 a::before, #servicesflow .step5 a::before {
+#servicesflow .step2 a::before, #servicesflow .step3 a::before, #servicesflow .step4 a::before, #servicesflow .step5 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-   margin-top: -1.5em;
-    border-width: 1.5em 0 1.5em 1em;
+   margin-top: -21px;
+      border-width: 21px 0 21.2px 14px;
 	border-style: solid;
-	border-color: #00b4e5 #00b4e5 #00b4e5 transparent;
-	left: -1em;
+	border-color: #D46A6A #D46A6A #D46A6A transparent;
+	left: -13.75px;
 }
 
 
 
-#servicesflow .step2 a::after, #servicesflow .step5 a::after {
+#servicesflow .step2 a::after, #servicesflow .step3 a::after, #servicesflow .step4 a::after, #servicesflow .step5 a::after  {
 	content: "";
 	position: absolute;
 	top: 50%;
-	  margin-top: -1.5em;
-    border-top: 1.5em solid transparent;
-    border-bottom: 1.5em solid transparent;
-	border-left: 1em solid #00b4e5;
-	right: -1em;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+	border-left: 14px solid #D46A6A;
+	right: -13.75px;
 }
-#servicesflow .step3 a, #servicesflow .step7 a {
+
+ #servicesflow .step6 a {
 	background: #256497;
-padding: 5px ;
+padding: 4px ;
+font-weight: 700;
 	float: left;
 	text-decoration: none;
 	color: #fff;
@@ -714,107 +736,76 @@ padding: 5px ;
 }
 
 
-
-
-#servicesflow .step3 a::before, #servicesflow .step7 a::before {
+ #servicesflow .step6 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-	   margin-top: -1.5em;
-    border-width: 1.5em 0 1.5em 1em;
+   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
 	border-style: solid;
 	border-color: #256497 #256497 #256497 transparent;
-	left: -1em;
+	left: -13.75px;
 }
 
-#servicesflow .step3 a::after, #servicesflow .step7 a::after {
+
+#servicesflow .step6 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	  margin-top: -1.5em;
-    border-top: 1.5em solid transparent;
-    border-bottom: 1.5em solid transparent;
-	border-left: 1em solid #256497;
-	right: -1em;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+    	border-left: 14px solid #256497;
+	right: -13.75px;
 }
-#servicesflow .step4 a, #servicesflow .step8 a {
-	background: #5d9731;
-	padding: 5px ;
+
+
+
+  #servicesflow .step7 a,   #servicesflow .step8 a {
+	background: #6595BD;
+padding: 4px ;
 	float: left;
 	text-decoration: none;
 	color: #fff;
 	position: relative;
-
- }
-
+}
 
 
-#servicesflow .step4 a::before, #servicesflow .step8 a::before {
+
+
+  #servicesflow .step7 a::before, #servicesflow .step8 a::before {
 	content: "";
 	position: absolute;
 	top: 50%;
-   margin-top: -1.5em;
-    border-width: 1.5em 0 1.5em 1em;
+	   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
 	border-style: solid;
-	border-color: #5d9731 #5d9731 #5d9731 transparent;
-	left: -1em;
+	border-color: #6595BD #6595BD #6595BD transparent;
+	left: -13.75px;
 }
 
-#servicesflow .step4 a::after, #servicesflow .step8 a::after {
+  #servicesflow .step7 a::after, #servicesflow .step8 a::after {
 	content: "";
 	position: absolute;
 	top: 50%;
-	  margin-top: -1.5em;
-    border-top: 1.5em solid transparent;
-    border-bottom: 1.5em solid transparent;
-	border-left: 1em solid #5d9731;
-	right: -1em;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+	border-left: 14px solid #6595BD;
+	right: -13.75px;
 }
 
 
-	#servicesflow a:hover{
-	  background: #b12c27;
-	}
 
-	#servicesflow a::before{
-	  content: "";
-	  position: absolute;
-	  top: 50%;
-	  margin-top: -1.5em;
-	  border-width: 1.5em 0 1.5em 1em;
-	  border-style: solid;
-	  border-color: #ddd #ddd #ddd transparent;
-	  left: -1em;
-	}
-
-	#servicesflow a:hover::before{
-	  border-color: #b12c27 #b12c27 #b12c27 transparent;
-	}
-
-	#servicesflow a::after{
-	  content: "";
-	  position: absolute;
-	  top: 50%;
-	  margin-top: -1.5em;
-	  border-top: 1.5em solid transparent;
-	  border-bottom: 1.5em solid transparent;
-	  border-left: 1em solid #ddd;
-	  right: -1em;
-	}
-
-	#servicesflow a:hover::after{
-	  border-left-color: #b12c27;
-	}
 
 /*front page */
 .box{border: #00b4e5 2px solid;
-	padding:15px;
+	padding:10px;
 }
 
 
 
 .feature-box {
-
        margin: 10px 0;
 }
 .feature-box h2, .feature-box h3 {
@@ -822,20 +813,34 @@ padding: 5px ;
 	text-transform: uppercase
 }
 
-.shade-box {background-color: #E9F7FC ;
-	 border: 2px solid #fff;
-    padding: 15px;
+.shade-box {width:100%;
+	height:auto;
+	background-color: rgba(214, 234, 248, 0.3);
+	padding:15px;
+	   background-clip: padding-box;
+    border: 10px solid transparent;
+}
+
+.col-md-4.shade-box  {
 
 }
+
+
+.shade-box p {font-size: 14px;line-height:16px;}
+
+.shade-box h2 {	text-transform:uppercase;font-size: 30px ; text-align: center;
+ }
+.shade-box h4 {font-size: 16px;border-bottom:#3d3d3d solid 2px;}
 .huge {
 	font-size: 50px;
 	padding: 10px;
 }
-@media print { nav#sidebar, .container-fluid .downloadButton {display: none !important; }
+@media print { nav#sidebar, .container-fluid .downloadButton, #footer .footer-partners, #footer .col-md-4.col-sm-12.col-align.col-align--center {display: none !important; }
 .legendColorBlock img { height: 12px; }
 .container-fluid #body_div .legendColorBlock {display: block important!;}
 	#summ_accordion div { overflow: visible !important; }
 	.container-fluid, #body_div, .container-fluid div { display: inline;overflow:visible !important; float: none;}
+	#legend_div div { display: block !important; }
 	#chart_div, #chart_div div { display: block;}
 }
 
