@@ -802,37 +802,37 @@ function drawSheetName() {
             case '31':
                 stringContent = null;
                 // device demonstrations
-                tableStringContent[0] = "SELECT A,Q,Z,BC WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,Q,Z,BC WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_dd_export_full&';
                 reportHeading[0] = "Device Demonstrations Summary";
                 break;
             case '32':
                 // device loans
-                tableStringContent[0] = "SELECT A,K,W,BN WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,K,W,BN WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans Summary";
                 break;
             case '33':
                 // device reutilization
-                tableStringContent[0] = "SELECT A,O,P,Q,R,S WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,O,P,Q,R,S WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
                 reportHeading[0] = "Device Reutilization Programs Summary";
                 break;
             case '34':
                 //state financing
-                tableStringContent[0] = "SELECT A,V,W,X,Y,Z,AA,AB WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,V,W,X,Y,Z,AA,AB WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
                 reportHeading[0] = "State Financing Programs Summary";
                 break;
             case '35':
                 // state leadership
-                tableStringContent[0] = "SELECT A,T,U WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,T,U WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
                 reportHeading[0] = "State Leadership Activities Summary";
                 break;
             case '36':
                 //federal and leveraged funding
-                tableStringContent[0] = "SELECT A,F,G WHERE E = " + years + " ORDER BY C";
+                tableStringContent[0] = "SELECT A,F,G WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_ga_and_x_lf_export&';
                 reportHeading[0] = "Federal and Leveraged Funding Summary";
                 break;
