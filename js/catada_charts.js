@@ -27,9 +27,19 @@ jQuery(document).ready(function() {
     var checkYears = countChecks('year');
     var checkCats = countChecks('category');
     if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) {
-        jQuery('.selectWarn').remove();
+        jQuery('.selectWarn').hide();
         var sumType = summReportChecked();
-        jQuery('#chart_div').prepend(sumType == 'summary' ? '<p class="selectWarn clearable lead"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable lead"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<h1><i class="fas fa-arrow-left"></i>Choose Your Data <br><i class="fas fa-arrow-down"></i>Chart, Explore, Download Data</h1><p class="selectWarn clearable lead"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p>'));
+        if(sumType == 'summary') { jQuery('.customChart,.rawData').hide(); jQuery('.keySumm').show();
+
+        } else if (sumType == 'download') { jQuery('.customChart,.keySumm').hide(); jQuery('.rawData').show()
+
+        } else { jQuery('.rawData,.keySumm').hide(); jQuery('.customChart').show()
+
+        }
+        
+        /*
+        jQuery('#chart_intro').prepend(sumType == 'summary' ? '<p class="selectWarn clearable lead"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable lead"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<h1 class="selectWarn clearable lead"><i class="fas fa-arrow-left"></i>Choose Your Data <br><i class="fas fa-arrow-down"></i>Chart, Explore, Download Data</h1><p class="selectWarn clearable lead"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p>'));
+        */
         jQuery('#chart_div > div').remove();
         jQuery('button#spreadDL').hide();
          jQuery('button#printButton').hide();
