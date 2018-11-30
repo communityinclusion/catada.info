@@ -164,6 +164,7 @@ nav li a:hover {
 	overflow-y:auto; */
 	/* Scrollable contents if viewport is shorter than content. */
 	border-right: 1px solid #eee;
+	max-width:320px;
 }
 /* Sidebar navigation */
 
@@ -882,11 +883,11 @@ svg {cursor: pointer;}
 	  transform: translateX(0);
 	}
   }
-  
-  #moveit {  
+
+  #moveit {
 	/* This section calls the slideInFromLeft animation we defined above */
 	animation: 1s ease-out 0s 1 slideInFromLeft;
-	
+
 	color:darkslategray;
 	padding: 30px;
   }
