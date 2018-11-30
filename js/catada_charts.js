@@ -145,6 +145,15 @@ function getUrlString(reportVars) {
         }
     }
 }
+jQuery(window).load(function() {
+    if(sumType == 'summary') { jQuery('.customChart,.rawData').hide(); jQuery('.keySumm').show();
+
+    } else if (sumType == 'download') { jQuery('.customChart,.keySumm').hide(); jQuery('.rawData').show()
+
+    } else { jQuery('.rawData,.keySumm').hide(); jQuery('.customChart').show()
+
+    }
+});
 
 // checkbox count
 function countChecks(typeCount = null) {
