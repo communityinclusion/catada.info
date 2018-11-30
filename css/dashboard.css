@@ -860,6 +860,8 @@ padding: 4px ;
 	#chart_div, #chart_div div { display: block;}
 }
 
+#chart_intro .rawData,#chart_intro .keySumm, #chart_intro .customChart {display: none;}
+
 .chartsection {border:1px #ddd solid;
 	    -webkit-box-shadow: 0 5px 0 -2px #ddd;
     box-shadow: 0 5px 0 -2px #ddd;

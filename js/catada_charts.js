@@ -29,11 +29,11 @@ jQuery(document).ready(function() {
     if (countChecks('state') == 0 && countChecks('year') == 0 && countChecks('category') == 0) {
         jQuery('.selectWarn').hide();
         var sumType = summReportChecked();
-        if(sumType == 'summary') { jQuery('.customChart,.rawData').hide(); jQuery('.keySumm').show();
+        if(sumType == 'summary') { jQuery('#chart_intro .customChart,#chart_intro .rawData').hide(); jQuery('#chart_intro .keySumm').show();
 
-        } else if (sumType == 'download') { jQuery('.customChart,.keySumm').hide(); jQuery('.rawData').show()
+        } else if (sumType == 'download') { jQuery('#chart_intro .customChart,#chart_intro .keySumm').hide(); jQuery('#chart_intro .rawData').show();
 
-        } else { jQuery('.rawData,.keySumm').hide(); jQuery('.customChart').show()
+        } else { jQuery('#chart_intro .rawData,#chart_intro .keySumm').hide(); jQuery('#chart_intro .customChart').show();
 
         }
         
@@ -145,15 +145,6 @@ function getUrlString(reportVars) {
         }
     }
 }
-jQuery(window).load(function() {
-    if(sumType == 'summary') { jQuery('.customChart,.rawData').hide(); jQuery('.keySumm').show();
-
-    } else if (sumType == 'download') { jQuery('.customChart,.keySumm').hide(); jQuery('.rawData').show()
-
-    } else { jQuery('.rawData,.keySumm').hide(); jQuery('.customChart').show()
-
-    }
-});
 
 // checkbox count
 function countChecks(typeCount = null) {
