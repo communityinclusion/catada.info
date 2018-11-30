@@ -51,17 +51,32 @@ h2.block-heading span {padding-left:5px;
 .red {
 	background-color: #b22d27
 }
+.redf {
+	color: #b22d27
+}
 .blue {
 	background-color: #00b4e6
+}
+.bluef {
+	color: #00b4e6
 }
 .green {
 	background-color: #5d9732
 }
+.greenf {
+	color: #5d9732
+}
 .dkblue {
 	background-color: #256496
 }
+.dkbluef {
+	color: #256496
+}
 .bg-dark {
 	background-color: #333!important;
+}
+.bg-darkf {
+	color: #333!important;
 }
 @media only screen and (min-width: 990px) {
 	nav li {
@@ -857,3 +872,21 @@ padding: 4px ;
 
 
 svg {cursor: pointer;}
+
+
+@keyframes slideInFromLeft {
+	0% {
+	  transform: translateX(100%);
+	}
+	100% {
+	  transform: translateX(0);
+	}
+  }
+  
+  #moveit {  
+	/* This section calls the slideInFromLeft animation we defined above */
+	animation: 1s ease-out 0s 1 slideInFromLeft;
+	
+	color:darkslategray;
+	padding: 30px;
+  }
