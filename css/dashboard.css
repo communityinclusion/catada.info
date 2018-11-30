@@ -164,8 +164,18 @@ nav li a:hover {
 	overflow-y:auto; */
 	/* Scrollable contents if viewport is shorter than content. */
 	border-right: 1px solid #eee;
-	max-width:320px;
+
 }
+
+@media only screen and (min-width: 990px) {
+	#sidebar {
+		max-width:320px;
+
+	}
+}
+
+
+
 /* Sidebar navigation */
 
 #sidebar {
