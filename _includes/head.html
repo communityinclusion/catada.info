@@ -5,8 +5,13 @@
 	<meta content="" name="author">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link href="../../favicon.ico" rel="icon">
-	<title>CATADA--Center for Assistive Technology Act Data Assistance</title>
-
+	<title>CATADA | 
+			{% if page.title  %}
+			{{ page.title }}
+			{% else %}
+			Center for Assistive Technology Act Data Assistance
+			{% endif %}
+		</title>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
