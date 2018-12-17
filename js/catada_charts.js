@@ -147,8 +147,8 @@ function getUrlString(reportVars) {
 }
 
 // checkbox count
-function countChecks(typeCount = null) {
-
+function countChecks(typeCount) {
+    if (!typeCount) typeCount = false;
     countStates = jQuery('input[name="regionStates[]"]:checked').length;
     countYears = jQuery('input[name="regionYear[]"]:checked').length;
     checkCount = countStates * countYears;
