@@ -411,8 +411,8 @@ button.multiselect.dropdown-toggle {
 	background-color: #eee;
 }
 #clearForm {
-	float: right;
-	margin: 18px 30px 0 0;
+	/* float: right; */
+	margin: 18px 30px 0 16px;
 	border: 1px solid black;
 	background-color: #ddd;
 	display: block;
