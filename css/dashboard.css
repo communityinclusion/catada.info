@@ -410,6 +410,8 @@ button.multiselect.dropdown-toggle {
 #dropSelects .btn-group .btn {
 	background-color: #eee;
 }
+
+/*
 #clearForm {
 	float: right;
 	margin: 18px 30px 0 0;
@@ -426,7 +428,7 @@ button#clearForm:hover {
     background: #666;
     color: #fff;
     }
-
+*/
 
 /* PF redesigning chart generation button
 button#chartRedraw {
@@ -434,7 +436,7 @@ button#chartRedraw {
 	background-color: #1477d5;
 	color: #fff;
 }
-*/
+
 button#chartRedraw {
 	padding-left: 25%;
 	text-align: left;
@@ -467,6 +469,14 @@ button#chartRedraw {
 	color: #fff;
 	background-image: url("../assets/green_chart.png");
 	border: 1px solid black;
+}
+*/
+
+
+button#chartRedraw {
+margin-left:auto;
+margin-right:auto;
+display:block;
 }
 #otherOpts { background-color: #dff3fd; border: 1px solid black; width: 85%; min-width: 200px;margin-top: 20px;}
 #otherOpts a { margin: 8px 4px;
