@@ -36,7 +36,7 @@ jQuery(document).ready(function() {
         } else { jQuery('#chart_intro .rawData,#chart_intro .keySumm').hide(); jQuery('#chart_intro .customChart').show();
 
         }
-        
+
         /*
         jQuery('#chart_intro').prepend(sumType == 'summary' ? '<p class="selectWarn clearable lead"><strong>Key Summary Tables</strong> display pre-selected data points from key AT activities in a standardized report that provides a general overview of an activity by state AT Program.<br />  To begin, simply choose an AT activity and year(s) on the left.</p>': (sumType == 'download'?'<p class="selectWarn clearable lead"><strong>The Raw Data Files</strong> tool enables users to download all AT activity data into an excel file. Raw data includes only what is available to users through custom charts and tables.<br />To begin, simply choose a state(s) and year(s) on the left.</p>' : '<h1 class="selectWarn clearable lead"><i class="fas fa-arrow-left"></i>Choose Your Data <br><i class="fas fa-arrow-down"></i>Chart, Explore, Download Data</h1><p class="selectWarn clearable lead"><strong>The Custom Charts and Tables</strong> tool enables users to generate customized charts and tables that summarize AT Program data. Users can run trend analyses and compare individual AT programs. Hover your cursor over any of the options under each AT Activity for explanatory text. <br />To begin, simply choose an AT activity, one or more individual states or all state, and year(s) on the left.</p>'));
         */
@@ -227,7 +227,7 @@ function summReportChecked() {
         jQuery('nav#sidebar').removeClass('sideActivity sideDown');
         jQuery('nav#sidebar').addClass('sideSumm');
         jQuery('h1#chartTitle').text('Key Summary Tables');
-        jQuery('button#chartRedraw').html('GENERATE Key<br />Summary<br />Tables');
+        jQuery('button#chartRedraw').html('GENERATE <br /> Key Summary Tables');
         jQuery('#summYear').show();
         jQuery('#summCat').show();
         jQuery('#accordion > fieldset').hide();
@@ -262,7 +262,7 @@ function summReportChecked() {
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
         jQuery('h1#chartTitle').text('Raw Data Files');
-        jQuery('button#chartRedraw').html('GENERATE<br />Raw Data for<br />Download');
+        jQuery('button#chartRedraw').html('GENERATE<br />Raw Data for Download');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').hide();
