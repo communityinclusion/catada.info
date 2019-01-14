@@ -482,7 +482,17 @@ margin-left:auto;
 margin-right:auto;
 display:block;
 }
-#otherOpts { background-color: #dff3fd; border: 1px solid black; width: 85%; min-width: 200px;margin-top: 20px;}
+#otherOpts {
+	background-color: #dff3fd;
+	border: 1px solid black;
+	/*width: 85%;*/
+	 min-width: 200px;
+	 margin-top: 20px;
+	 margin-left:10px;
+	 margin-right:10px;
+	 clear:both;
+	 }
+
 #otherOpts a { margin: 8px 4px;
 	display: block;
 	color: #97999c;
