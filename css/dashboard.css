@@ -428,9 +428,13 @@ button#clearForm:hover {
     background: #666;
     color: #fff;
     }
-*/
 
-/* PF redesigning chart generation button
+ */
+
+
+/*  PF redesigning chart generation button */
+
+/*
 button#chartRedraw {
 	margin-left: 70%;
 	background-color: #1477d5;
