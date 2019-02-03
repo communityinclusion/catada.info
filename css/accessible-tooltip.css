@@ -40,11 +40,18 @@
   margin-left: .5em;
 }
 .minimalist-left-simpletooltip {
-  
+
   margin-left: -19em;
   left: auto;
 }
-.step2 .minimalist-left-simpletooltip { margin-left: -22em;}
+.step2 .minimalist-left-simpletooltip { margin-left: -21em;}
+.step3 .minimalist-left-simpletooltip { margin-left: -18em;}
+.step4 .minimalist-left-simpletooltip { margin-left: -20em;}
+.step5 .minimalist-left-simpletooltip { margin-left: -18em;}
+.step7 .minimalist-left-simpletooltip { margin-left: -18em;}
+.step8 .minimalist-left-simpletooltip { margin-left: -17em;}
+
+
 /* used pseudo-element to make arrows */
 .simpletooltip::before,
 .minimalist-simpletooltip::before,

@@ -312,7 +312,7 @@ clear: both;
 	padding: 8px 0; height: 140px;
 }
 .downloadButton #spreadDL {
-width: 328px;
+/*width: 328px;
 height: 70px;
 background-image: url('../assets/download_lg.png');
 text-align:left;
@@ -321,11 +321,11 @@ color: #217346;
 font-weight: bold;
 padding-left:75px;
 padding-top: 14px;
-line-height: 1em;
+line-height: 1em;*/
 float: left;
 }
 #printButton {
-	width: 180px;
+	/*width: 180px;
 	height: 50px;
 	background-image: url('../assets/printbutton.png');
 	background-repeat: no-repeat;
@@ -337,10 +337,10 @@ float: left;
 	padding-left:55px;
 	padding-top: 5px;
 	line-height: 1em;
-	float: left;
-	border: 1px solid #333;
-	margin-left: 30%;
 
+	border: 1px solid #333;*/
+	margin-left: 10%;
+float: left;
 }
 
 .card-body h6 {
@@ -718,6 +718,10 @@ font-weight: 700;
 }
 
 
+
+
+
+
 #servicesflow .step1 a::before  {
 	content: "";
 	position: absolute;
@@ -774,6 +778,21 @@ padding: 4px ;
 	border-left: 14px solid #D46A6A;
 	right: -13.75px;
 }
+
+	#servicesflow  .step2 a:hover,#servicesflow  .step3 a:hover,#servicesflow  .step4 a:hover,#servicesflow  .step5 a:hover{
+	  background: #b12c27;
+	}
+
+#servicesflow .step2 a:hover::before, #servicesflow .step3 a:hover::before, #servicesflow .step4 a:hover::before, #servicesflow .step5 a:hover::before{
+	  border-color: #b12c27  #b12c27  #b12c27  transparent;
+	  }
+
+	  	#servicesflow  .step2 a:hover::after, #servicesflow  .step3 a:hover::after, #servicesflow  .step4 a:hover::after, #servicesflow  .step5 a:hover::after{
+	  border-left-color: #b12c27;
+	}
+
+
+
 
  #servicesflow .step6 a {
 	background: #256497;
@@ -844,6 +863,21 @@ padding: 4px ;
 	border-left: 14px solid #6595BD;
 	right: -13.75px;
 }
+
+
+	#servicesflow  .step7 a:hover,#servicesflow  .step8 a:hover{
+	  background: #256497;
+	}
+
+#servicesflow .step7 a:hover::before, #servicesflow .step8 a:hover::before{
+	  border-color: #256497 #256497 #256497 transparent;
+	  }
+
+	  	#servicesflow  .step7 a:hover::after, #servicesflow  .step8 a:hover::after{
+	  border-left-color: #256497;
+	}
+
+
 
 
 
