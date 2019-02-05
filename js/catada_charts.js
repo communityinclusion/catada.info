@@ -1078,13 +1078,13 @@ function doQuery(q, i, reportHeader, reportchoice) {
     if (reportchoice == '30') {
         return;
     } else if (reportchoice >= '31' && reportchoice <= '36') {
-        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' ' + yearstext + '</strong></h5>');
+        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' ' + yearstext + '</strong></h5><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
         jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
 
     }
      else {
-        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h5>');
+        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h5><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
         jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
 
