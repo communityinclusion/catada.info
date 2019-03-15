@@ -21,7 +21,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/AL%20State%20Plan%20FY%202015.doc">Download the Alabama State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Alabama_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Alabama_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 <!-- Put subtitles in h3 tag -->
 
 <h3>State Financing Activities</h3>
@@ -67,7 +67,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/AK%20State%20Plan%20FY%202015.doc">Download the Alaska State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Alaska_APR_2017.html">View the&nbsp;Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Alaska_2018.html">View the&nbsp;Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -103,7 +103,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/AS%20State%20Plan%20FY%202015.doc">Download the American Samoa State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/AmericanSamoa_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/AmericanSamoa_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -137,7 +137,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/AZ%20State%20Plan%20FY%202015.doc">Download the Arizona State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Arizona_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Arizona_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -171,7 +171,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/AR%20State%20Plan%20FY%202015.doc">Download the Arkansas State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Arkansas_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Arkansas_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -207,7 +207,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/CA%20State%20Plan%20FY%202015.doc">Download the California State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/California_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/California_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -245,7 +245,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/CO%20State%20Plan%20FY%202015.doc">Download the Colorado State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Colorado_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Colorado_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -280,7 +280,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/CT%20State%20Plan%20FY%202015.doc">Download the Connecticut State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Connecticut_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Connecticut_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -316,7 +316,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/DE%20State%20Plan%20FY%202015.doc">Download the Delaware State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Deleware_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Deleware_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -352,7 +352,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/DC%20State%20Plan%20FY%202015.doc">Download the District of Columbia State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/DistrictOfColumbia_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/DistrictOfColumbia_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -390,7 +390,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/FL%20State%20Plan%20FY%202015.doc">Download the Florida State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Florida_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Florida_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -426,7 +426,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/GA%20State%20Plan%20FY%202015.doc">Download the Georgia State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Georgia_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Georgia_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -461,7 +461,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/GU%20State%20Plan%20FY%202015.doc">Download the Guam State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Guam_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Guam_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -497,7 +497,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/HI%20State%20Plan%20FY%202015.doc">Download the Hawaii State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Hawaii_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Hawaii_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -531,7 +531,7 @@ layout: states
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/IA%20State%20Plan%20FY%202015.doc">Download the Iowa State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Iowa_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Iowa_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -563,7 +563,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/ID%20State%20Plan%20FY%202015.doc">Download the Idaho State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Idaho_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Idaho_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -599,7 +599,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/IL%20State%20Plan%202015.doc">Download the Illinois State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Illinois_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Illinois_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -635,7 +635,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/IN%20State%20Plan%20FY%202015.doc">Download the Indiana State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Indiana_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Indiana_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -669,7 +669,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/KS%20State%20Plan%20FY%202015.doc">Download the Kansas State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Kansas_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Kansas_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -703,7 +703,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/KY%20State%20Plan%20FY%202015.doc">Download the Kentucky State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Kentucky_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Kentucky_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -741,7 +741,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/LA%20State%20Plan%20FY%202015.doc">Download the Louisiana State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Louisiana_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Louisiana_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -775,7 +775,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/ME%20State%20Plan%20FY%202015.doc">Download the Maine State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Maine_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Maine_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -809,7 +809,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MD%20State%20Plan%20FY%202015.doc">Download the Maryland State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Maryland_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Maryland_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -843,7 +843,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MA%20State%20Plan%20FY%202015.doc">Download the Massachusetts State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Massachusetts_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Massachusetts_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -877,7 +877,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MI%20State%20Plan%20FY%202015.doc">Download the Michigan State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Michigan_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Michigan_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -911,7 +911,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MN%20State%20Plan%20FY%202015.doc">Download the Minnesota State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Minnesota_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Minnesota_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -945,7 +945,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MO%20State%20Plan%20FY%202015.doc">Download the Missouri State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Missouri_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Missouri_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -979,7 +979,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MS%20State%20Plan%20FY%202015.doc">Download the Mississippi State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Mississippi_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Mississippi_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1015,7 +1015,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MT%20State%20Plan%20FY%202015.doc">Download the Montana State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Montana_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Montana_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1049,7 +1049,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NE%20State%20Plan%20FY%202015.doc">Download the Nebraska State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Nebraska_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Nebraska_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1085,7 +1085,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NV%20State%20Plan%20FY%202015.doc">Download the Nevada State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Nevada_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Nevada_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1119,7 +1119,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NH%20State%20Plan%20FY%202015.doc">Download the New Hampshire State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NewHampshire_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NewHampshire_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1155,7 +1155,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NJ%20State%20Plan%20FY%202015.doc">Download the New Jersey State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NewJersey_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NewJersey_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1189,7 +1189,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NM%20State%20Plan%20FY%202015.doc">Download the New Mexico State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NewMexico_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NewMexico_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1223,7 +1223,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NY%20State%20Plan%20FY%202015.doc">Download the New York State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NewYork_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NewYork_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1257,7 +1257,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NC%20State%20Plan%20FY%202015.doc">Download the North Carolina State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NorthCarolina_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NorthCarolina_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1293,7 +1293,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/ND%20State%20Plan%20FY%202015.doc">Download the North Dakota State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NorthDakota_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NorthDakota_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1329,7 +1329,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MP%20State%20Plan%20FY%202015.doc">Download the Northern Mariana Islands State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/NorthernMarianaIslands_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/NorthernMarianaIslands_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1365,7 +1365,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/OH%20State%20Plan%20FY%202015.doc">Download the Ohio State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Ohio_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Ohio_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1399,7 +1399,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/OK%20State%20Plan%20FY%202015.doc">Download the Oklahoma State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Oklahoma_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Oklahoma_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1435,7 +1435,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="/sites/catada.info/files/files/OR%20State%20Plan%202015-17.docx">Download the Oregon State Plan FY2015 here</a>.</p>
 
-<p><a href="apr_reports17/Oregon_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Oregon_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1469,7 +1469,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/PA%20State%20Plan%20FY%202015.doc">Download the Pennsylvania State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Pennsylvania_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Pennsylvania_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1483,7 +1483,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Loan</h3>
 
-<p>PIAT operates Pennsylvania's Assistive Technology Lending Library, a consumer-responsive, statewide program that provides short-term (for periods from two to eight weeks) loans of AT devices that enable individuals View the Annual Progress Report data for FY2017.with disabilities to make informed decisions about the appropriateness of an AT device in their real-life settings.</p>
+<p>PIAT operates Pennsylvania's Assistive Technology Lending Library, a consumer-responsive, statewide program that provides short-term (for periods from two to eight weeks) loans of AT devices that enable individuals View the Annual Progress Report data for FY2018.with disabilities to make informed decisions about the appropriateness of an AT device in their real-life settings.</p>
 
 <h3>Device Demonstration</h3>
 
@@ -1505,7 +1505,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/PR%20State%20Plan%20FY%202015.doc">Download the Puerto Rico State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/PuertoRico_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/PuertoRico_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1539,7 +1539,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/RI%20State%20Plan%20FY%202015.doc">Download the Rhode Island State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/RhodeIsland_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/RhodeIsland_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1573,7 +1573,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/SC%20State%20Plan%20FY%202015.doc">Download the South Carolina State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/SouthCarolina_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/SouthCarolina_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1609,7 +1609,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/SD%20State%20Plan%20FY%202015.doc">Download the South Dakota State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/SouthDakota_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/SouthDakota_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1643,7 +1643,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/TN%20State%20Plan%20FY%202015.doc">Download the Tennessee State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Tennessee_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Tennessee_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1677,7 +1677,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/TX%20State%20Plan%20FY%202015.doc">Download the Texas State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Texas_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Texas_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1711,7 +1711,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/UT%20State%20Plan%20FY%202015.doc">Download the Utah State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Utah_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Utah_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1745,7 +1745,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/VI%20State%20Plan%20FY%202015.doc">Download the U.S. Virgin Islands State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/U.S.VirginIslands_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/U.S.VirginIslands_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1779,7 +1779,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/VT%20State%20Plan%20FY%202015.doc">Download the Vermont State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Vermont_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Vermont_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1813,7 +1813,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/VA%20State%20Plan%20FY%202015.doc">Download the Virginia State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Virginia_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Virginia_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1847,7 +1847,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/WA%20State%20Plan%20FY%202015.doc">Download the Washington State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Washington_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Washington_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1880,7 +1880,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/WV%20State%20Plan%20FY%202015.doc">Download the West Virginia State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/WestVirginia_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/WestVirginia_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1914,7 +1914,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/WI%20State%20Plan%20FY%202015.doc">Download the Wisconsin State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Wisconsin_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Wisconsin_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1950,7 +1950,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/WY%20State%20Plan%20FY%202015.doc">Download the Wyoming State Plan FY2015 here.</a></p>
 
-<p><a href="apr_reports17/Wyoming_APR_2017.html">View the Annual Progress Report data for FY2017.</a></p>
+<p><a href="apr_reports18/Wyoming_2018.html">View the Annual Progress Report data for FY2018.</a></p>
 
 <h3>State Financing Activities</h3>
 
