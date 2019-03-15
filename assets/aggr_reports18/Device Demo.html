@@ -1,0 +1,207 @@
+<!DOCTYPE html>                             <html lang="en">                                  <head><title>State Data Summary - Device Demo</title><style>body{width:100%;font-family:Gill Sans Extrabold, sans-serif;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;zoom:100%;font-size:12px;}h1{font-family:Arial;font-size:16px}header{overflow:hidden;width:100%;padding:5px;margin:auto}nav{width:100%;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}section{padding:0;overflow:hidden;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}footer{border:thin solid #fff}.toolbar{display:none;width:100%;padding:10px 15px 10px 10px;margin:auto;border:thin solid gray;background-color:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eorptheader{width:700px;margin:auto;overflow:hidden;padding:0;position:relative;margin-top:10px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#fff}.eologo{float:left;overflow:hidden;border:none;background-color:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eoimglogo{height:60px;padding:0;overflow:hidden;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eorptheader .eorpttitle{float:left;overflow:hidden;padding:0 10px 0 30px;position:relative}.lovi{position:relative;overflow:hidden;width:700px}@media print{.toolbar{display:none}}.rptft{padding:10px 0;margin-bottom:0}.rptft p{color:#000;padding:3px 10px 10px;font-size:10px;font-style:italic}table{border-collapse:collapse;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%}table caption{border:thin solid gray;height:25px;padding:10px 5px 5px;border-bottom:none;font-family:Gill Sans Extrabold, sans-serif;font-size:14px;color:#900}table th{border:thin solid gray;height:25px;padding:5px;text-align:center}table tr{border:thin solid gray}table td{padding-left:4px}th[scope=row] { text-align: left; }.tdindent{padding-left:14px;}.mynumber{padding-left:10px;text-align:right}.mypercent{padding-left:10px;text-align:right}.mycurrency{padding-left:10px;text-align:right}.leftAnecdote{float:left;width:65%}.rightAnecdote{float:left;width:35%}.leftGeneralInfo{float:left;width:40%}.rightGeneralInfo{float:left;width60%}.clear{clear:both}</style></head><header><nav><div class="toolbar"><a href="#" id="tito" class="fkpop" tabindex="1"><img src="data:image/png;base64,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" class="functions" alt="Click here to download this report in Html format"></a><a id="titos" href="#" class="eopops1" tabindex="2" style="cursor: pointer;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADOUlEQVR4nOWXT2hdRRTGf2fufUk0VBfqRtuFlKILEVwJBdsuIm7ciKJbMaAuXKpFSKGLgtqtiKssXBbtortiNxr8sxS0GkUSKlUSg1pJaM179873ubjvvabS3OSlSRE8MKt75sxvzjkz8134v1u0fXzqzMKLcpol6O0ouOkQOvHJCwff3synbAuQFffcXdZpsvCER10cWFdwpSoeaPNrBbBt2WSbLZJ1s9nITZBbAcA2shk9A0YObLX6bQvAMqMSOAbw7X6tAJKSbbAZNQdhCAk5pR0DBF640ouVP4kdnQJgrAx/v8O5t8eGrX149uKHEI/BhrKN2nlbrgJAKvC5z6cfOTH8dHj2m1fHIz7Y19GurdnG8leVyPZzX0w/ejYBVNkv3ZEyEjjv7ZBgMmXq7GkYNKF8nw17v3+gOVRIvncIIKmWDLF7Zd/MggFAaANAXs1KxKi37Q7MfYCc8/oQwFm/Z5kU6bakoLYIvDoEECxXgk7Ke7w6YMgKJP64DqD8a52DRGLw7u12NdwfAeSckbwyBEC6XKmgjCb/3WyuVdq1nrBhopOYKAIDtQBreQgg8XOuhSIIYK2bKVPcb/M3IHS9NbZiusGvaamUoHO1W6+MTxQYqGojcXkIYOelWoFcNE2StTT/xtGlh9799K4gTRkr9Vduf91h8PTJECJBfPnd8SPLh9757JdM2o+hVgZ5YQhASt92q7wWsK8//WKTGb9SJp3uFK0v6qYmiyrrfeA10PzVbt4P0K20+tNbx74eAsy//kT98Om5Qz1xrOEpvmoCOJcpMVbAWlfI2lYJykhMjiWyEl3XBkiRXu6JxwEXRZob+A/1wA9vHvkNOHNDMAs7UWeo6+qjxZknn9/Ozh88deHj8XLsWTX3OwA/Hj96Cbj0b99WQYIaPVgawvHMwVMXev0+3dQa8RRF9KVcdvvd0i7LbSSjgAiX2sZjYSClBlwDPdli7d3VF6W1TK/W2cWZqahz7rSNxZmp6PV0ru5nj3ZVvj1VHE0Gnj5w8vwV260lOHDyvCN8Z0Sz+y1+C7YG6FY1VZ0oIo0XwXhrtA12bT3j0K0BpKJ8D5gTbH3+bmpFioL/tir+Byc1KoRtREJ2AAAAAElFTkSuQmCC" class="functions" alt="Click here to print this report"></a></div></nav></header><section><div id="rptheader" class="eorptheader">                                 <div id="dvlogo" class="eologo">                                 <img alt="" src="data:image/JPEG;base64,0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" class="eoimglogo">                                 </div>                                 <div class="eorpttitle">                                 <h1 id="">National Assistive Technology Act Data System</h1>                                 <h2>State Data Summary - Device Demo</h2>                                 <h3>All States Included 2018</h3>                             </div><div class="lovi"><div id="eclipsos" class="formsc">
+            <table id="tb3">
+                <caption>Types of Devices Demonstrated</caption>
+                <tbody><tr>
+                    <th scope="col">Type of AT Device</th>
+                    <th scope="col">Demos</th>
+                    <th scope="col">%</th>
+                </tr>
+                <tr>
+                    <th scope="row">Vision</th>
+                    <td id="vision1" class="mynumber">5,258</td>
+
+                    <td id="vision2" class="mypercent">13.58%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Hearing</th>
+                    <td id="hearing1" class="mynumber">3,694</td>
+
+                    <td id="hearing2" class="mypercent">9.54%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Speech, Communication</th>
+                    <td id="speech1" class="mynumber">5,295</td>
+
+                    <td id="speech2" class="mypercent">13.68%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Learning, Cognition</th>
+                    <td id="learning1" class="mynumber">3,787</td>
+
+                    <td id="learning2" class="mypercent">9.78%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Mobility, seating</th>
+                    <td id="mobility1" class="mynumber">5,759</td>
+
+                    <td id="mobility2" class="mypercent">14.88%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Daily living</th>
+                    <td id="daily1" class="mynumber">7,350</td>
+
+                    <td id="daily2" class="mypercent">18.99%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Environmental adaptations</th>
+                    <td id="environmental1" class="mynumber">1,329</td>
+
+                    <td id="environmental2" class="mypercent">3.43%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Vehicle mod/transportation</th>
+                    <td id="vehicle1" class="mynumber">415</td>
+
+                    <td id="vehicle2" class="mypercent">1.07%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Computers and related</th>
+                    <td id="computers1" class="mynumber">4,580</td>
+
+                    <td id="computers2" class="mypercent">11.83%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Recreation, leisure</th>
+                    <td id="recreation1" class="mynumber">1,242</td>
+
+                    <td id="recreation2" class="mypercent">3.21%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Total # of Devices Demonstrated</th>
+                    <td id="customertotal1" class="mynumber">38,709</td>
+
+                    <td id="customertotal2" class="mypercent">100%</td>
+
+                </tr>
+            </tbody></table>
+            <br>
+            <table>
+                <caption>Types of Individuals Served</caption>
+                <tbody><tr>
+                    <th scope="col">Type of Individual or Entity</th>
+                    <th scope="col">Participant</th>
+                    <th scope="col">%</th>
+                </tr>
+                <tr>
+                    <th scope="row">Individuals with Disabilities</th>
+                    <td id="individuals1" class="mynumber">29,448</td>
+
+                    <td id="individuals2" class="mypercent">40.58%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Family Members, Guardians and Authorized Representatives</th>
+                    <td id="family1" class="mynumber">16,999</td>
+
+                    <td id="family2" class="mypercent">23.43%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Representative of Education</th>
+                    <td id="education1" class="mynumber">10,358</td>
+
+                    <td id="education2" class="mypercent">14.28%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Representative of Employment</th>
+                    <td id="employment1" class="mynumber">2,479</td>
+
+                    <td id="employment2" class="mypercent">3.42%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Health, Allied Health, Rehabilitation</th>
+                    <td id="health1" class="mynumber">8,213</td>
+
+                    <td id="health2" class="mypercent">11.32%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Representative of Community Living</th>
+                    <td id="community1" class="mynumber">4,057</td>
+
+                    <td id="community2" class="mypercent">5.59%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Representative of Technology</th>
+                    <td id="technology1" class="mynumber">1,005</td>
+
+                    <td id="technology2" class="mypercent">1.39%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Total</th>
+                    <td id="loanstotal1" class="mynumber">72,559</td>
+
+                    <td id="loanstotal2" class="mypercent">100%</td>
+
+                </tr>
+            </tbody></table>
+            <br>
+            <table>
+                <caption>Referrals</caption>
+                <tbody><tr>
+                    <th scope="col">Type of Entity</th>
+                    <th scope="col">Number</th>
+                    <th scope="col">%</th>
+                </tr>
+                <tr>
+                    <th scope="row">Funding Source (non-AT program)</th>
+                    <td id="funding1" class="mynumber">11,219</td>
+
+                    <td id="funding2" class="mypercent">29.24%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Service Provider</th>
+                    <td id="service1" class="mynumber">9,294</td>
+
+                    <td id="service2" class="mypercent">24.22%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Vendor</th>
+                    <td id="vendor1" class="mynumber">16,173</td>
+
+                    <td id="vendor2" class="mypercent">42.14%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Repair Service</th>
+                    <td id="repair1" class="mynumber">514</td>
+
+                    <td id="repair2" class="mypercent">1.34%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Other</th>
+                    <td id="other1" class="mynumber">1,175</td>
+
+                    <td id="other2" class="mypercent">3.06%</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">Total</th>
+                    <td id="thirdtotal1" class="mynumber">38,375</td>
+
+                    <td id="thirdtotal2" class="mypercent">100%</td>
+
+                </tr>
+            </tbody></table>
+            <br>
+
+
+
+        </div></div><div class="rptft" id="lg"><hr><p>Association of Assistive Technology Act Programs . Saved: Fri Mar 15 2019 08:21:31 GMT-0500 (Central Daylight Time)</p><hr><p></p></div></div></section><footer></footer></html>

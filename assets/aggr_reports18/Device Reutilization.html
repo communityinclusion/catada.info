@@ -1,0 +1,629 @@
+<!DOCTYPE html>                             <html lang="en">                                  <head><title>State Data Summary - Device Reutilization</title><style>body{width:100%;font-family:Gill Sans Extrabold, sans-serif;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;zoom:100%;font-size:12px;}h1{font-family:Arial;font-size:16px}header{overflow:hidden;width:100%;padding:5px;margin:auto}nav{width:100%;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}section{padding:0;overflow:hidden;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}footer{border:thin solid #fff}.toolbar{display:none;width:100%;padding:10px 15px 10px 10px;margin:auto;border:thin solid gray;background-color:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eorptheader{width:700px;margin:auto;overflow:hidden;padding:0;position:relative;margin-top:10px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#fff}.eologo{float:left;overflow:hidden;border:none;background-color:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eoimglogo{height:60px;padding:0;overflow:hidden;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.eorptheader .eorpttitle{float:left;overflow:hidden;padding:0 10px 0 30px;position:relative}.lovi{position:relative;overflow:hidden;width:700px}@media print{.toolbar{display:none}}.rptft{padding:10px 0;margin-bottom:0}.rptft p{color:#000;padding:3px 10px 10px;font-size:10px;font-style:italic}table{border-collapse:collapse;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%}table caption{border:thin solid gray;height:25px;padding:10px 5px 5px;border-bottom:none;font-family:Gill Sans Extrabold, sans-serif;font-size:14px;color:#900}table th{border:thin solid gray;height:25px;padding:5px;text-align:center}table tr{border:thin solid gray}table td{padding-left:4px}th[scope=row] { text-align: left; }.tdindent{padding-left:14px;}.mynumber{padding-left:10px;text-align:right}.mypercent{padding-left:10px;text-align:right}.mycurrency{padding-left:10px;text-align:right}.leftAnecdote{float:left;width:65%}.rightAnecdote{float:left;width:35%}.leftGeneralInfo{float:left;width:40%}.rightGeneralInfo{float:left;width60%}.clear{clear:both}</style></head><header><nav><div class="toolbar"><a href="#" id="tito" class="fkpop" tabindex="1"><img src="data:image/png;base64,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" class="functions" alt="Click here to download this report in Html format"></a><a id="titos" href="#" class="eopops1" tabindex="2" style="cursor: pointer;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADOUlEQVR4nOWXT2hdRRTGf2fufUk0VBfqRtuFlKILEVwJBdsuIm7ciKJbMaAuXKpFSKGLgtqtiKssXBbtortiNxr8sxS0GkUSKlUSg1pJaM179873ubjvvabS3OSlSRE8MKt75sxvzjkz8134v1u0fXzqzMKLcpol6O0ouOkQOvHJCwff3synbAuQFffcXdZpsvCER10cWFdwpSoeaPNrBbBt2WSbLZJ1s9nITZBbAcA2shk9A0YObLX6bQvAMqMSOAbw7X6tAJKSbbAZNQdhCAk5pR0DBF640ouVP4kdnQJgrAx/v8O5t8eGrX149uKHEI/BhrKN2nlbrgJAKvC5z6cfOTH8dHj2m1fHIz7Y19GurdnG8leVyPZzX0w/ejYBVNkv3ZEyEjjv7ZBgMmXq7GkYNKF8nw17v3+gOVRIvncIIKmWDLF7Zd/MggFAaANAXs1KxKi37Q7MfYCc8/oQwFm/Z5kU6bakoLYIvDoEECxXgk7Ke7w6YMgKJP64DqD8a52DRGLw7u12NdwfAeSckbwyBEC6XKmgjCb/3WyuVdq1nrBhopOYKAIDtQBreQgg8XOuhSIIYK2bKVPcb/M3IHS9NbZiusGvaamUoHO1W6+MTxQYqGojcXkIYOelWoFcNE2StTT/xtGlh9799K4gTRkr9Vduf91h8PTJECJBfPnd8SPLh9757JdM2o+hVgZ5YQhASt92q7wWsK8//WKTGb9SJp3uFK0v6qYmiyrrfeA10PzVbt4P0K20+tNbx74eAsy//kT98Om5Qz1xrOEpvmoCOJcpMVbAWlfI2lYJykhMjiWyEl3XBkiRXu6JxwEXRZob+A/1wA9vHvkNOHNDMAs7UWeo6+qjxZknn9/Ozh88deHj8XLsWTX3OwA/Hj96Cbj0b99WQYIaPVgawvHMwVMXev0+3dQa8RRF9KVcdvvd0i7LbSSjgAiX2sZjYSClBlwDPdli7d3VF6W1TK/W2cWZqahz7rSNxZmp6PV0ru5nj3ZVvj1VHE0Gnj5w8vwV260lOHDyvCN8Z0Sz+y1+C7YG6FY1VZ0oIo0XwXhrtA12bT3j0K0BpKJ8D5gTbH3+bmpFioL/tir+Byc1KoRtREJ2AAAAAElFTkSuQmCC" class="functions" alt="Click here to print this report"></a></div></nav></header><section><div id="rptheader" class="eorptheader">                                 <div id="dvlogo" class="eologo">                                 <img alt="" src="data:image/JPEG;base64,0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" class="eoimglogo">                                 </div>                                 <div class="eorpttitle">                                 <h1 id="">National Assistive Technology Act Data System</h1>                                 <h2>State Data Summary - Device Reutilization</h2>                                 <h3>All States Included 2018</h3>                             </div><div class="lovi"><div id="eclipsos" class="formsc">
+            <table>
+                <caption>Reutilization by Type</caption>
+               <tbody><tr>
+                  <th class="auto-style1">States w/data</th>
+                  <th class="auto-style1">Activity</th>
+                  <th class="auto-style1">Device Recipients</th>
+                  <th class="auto-style1">%</th>
+                  <th class="auto-style1">Total # of Devices</th>
+                  <th class="auto-style1">Savings To Consumers</th>
+                  <th class="auto-style1">Device %</th>
+                  <th class="auto-style1">Savings %</th>
+               </tr>
+               <tr>
+                  <td id="statesExchange0" class="mynumber">36</td>
+
+                  <td>Exchange</td>
+                  <td id="statesExchange1" class="mynumber">1,916</td>
+
+                  <td id="statesExchange2" class="mypercent">00%</td>
+
+                  <td id="statesExchange3" class="mynumber">2,141</td>
+
+                  <td id="statesExchange4" class="mycurrency">$1,411,324</td>
+
+                  <td id="statesExchange5" class="mypercent">00%</td>
+
+                  <td id="statesExchange6" class="mypercent">05%</td>
+
+               </tr>
+               <tr>
+                  <td id="statesRecycle0" class="mynumber">52</td>
+
+                  <td id="lblt2">Recycle &amp; OEL</td>
+
+                  <td id="statesRecycle1" class="mynumber">57,233</td>
+
+                  <td id="statesRecycle2" class="mypercent">00%</td>
+
+                  <td id="statesRecycle3" class="mynumber">68,532</td>
+
+                  <td id="statesRecycle4" class="mycurrency">$26,664,449</td>
+
+                  <td id="statesRecycle5" class="mypercent">00%</td>
+
+                  <td id="statesRecycle6" class="mypercent">95%</td>
+
+               </tr>
+               
+               <tr>
+                  <td id="statesTotal0" class="mynumber"></td>
+
+                  <td>Total</td>
+                  <td id="statesTotal1" class="mynumber">59,149</td>
+
+                  <td id="statesTotal2" class="mypercent"></td>
+
+                  <td id="statesTotal3" class="mynumber">70,673</td>
+
+                  <td id="statesTotal4" class="mycurrency">$28,075,773</td>
+
+                  <td id="statesTotal5" class="mypercent"></td>
+
+                  <td id="statesTotal6" class="mypercent"></td>
+
+               </tr>
+   
+            </tbody></table>
+            <br>
+            <table>
+                <caption>Device Exchange</caption>
+               <tbody><tr>
+                  <th scope="col">Type of AT</th>
+                  <th scope="col">Device %</th>
+                  <th scope="col">Device #</th>
+                  <th scope="col">Current  Price</th>
+                  <th scope="col">Sale Price</th>
+                  <th scope="col">Savings </th>
+                  <th scope="col">Savings %</th>
+               </tr>
+               <tr>
+                  <th scope="row">Vision </th>
+                  <td id="visionExchange1" class="mypercent">3.22%</td>
+
+                  <td id="visionExchange2" class="mynumber">69</td>
+
+                  <td id="visionExchange3" class="mycurrency">$50,726</td>
+
+                  <td id="visionExchange4" class="mycurrency">$4,391</td>
+
+                  <td id="visionExchange5" class="mycurrency">$46,335</td>
+
+                  <td id="visionExchange6" class="mypercent">3.28%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Hearing</th>
+                  <td id="hearingExchange1" class="mypercent">2.06%</td>
+
+                  <td id="hearingExchange2" class="mynumber">44</td>
+
+                  <td id="hearingExchange3" class="mycurrency">$10,575</td>
+
+                  <td id="hearingExchange4" class="mycurrency">$1,505</td>
+
+                  <td id="hearingExchange5" class="mycurrency">$9,070</td>
+
+                  <td id="hearingExchange6" class="mypercent">0.64%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Speech</th>
+                  <td id="speechExchange1" class="mypercent">9.06%</td>
+
+                  <td id="speechExchange2" class="mynumber">194</td>
+
+                  <td id="speechExchange3" class="mycurrency">$377,445</td>
+
+                  <td id="speechExchange4" class="mycurrency">$6,070</td>
+
+                  <td id="speechExchange5" class="mycurrency">$371,375</td>
+
+                  <td id="speechExchange6" class="mypercent">26.31%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Learning/cognition</th>
+                  <td id="learningExchange1" class="mypercent">1.68%</td>
+
+                  <td id="learningExchange2" class="mynumber">36</td>
+
+                  <td id="learningExchange3" class="mycurrency">$8,547</td>
+
+                  <td id="learningExchange4" class="mycurrency">$645</td>
+
+                  <td id="learningExchange5" class="mycurrency">$7,902</td>
+
+                  <td id="learningExchange6" class="mypercent">0.56%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Mobility, seating</th>
+                  <td id="mobilityExchange1" class="mypercent">19.29%</td>
+
+                  <td id="mobilityExchange2" class="mynumber">413</td>
+
+                  <td id="mobilityExchange3" class="mycurrency">$317,039</td>
+
+                  <td id="mobilityExchange4" class="mycurrency">$36,734</td>
+
+                  <td id="mobilityExchange5" class="mycurrency">$280,305</td>
+
+                  <td id="mobilityExchange6" class="mypercent">19.86%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Daily living </th>
+                  <td id="dailyExchange1" class="mypercent">55.21%</td>
+
+                  <td id="dailyExchange2" class="mynumber">1182</td>
+
+                  <td id="dailyExchange3" class="mycurrency">$159,610</td>
+
+                  <td id="dailyExchange4" class="mycurrency">$15,218</td>
+
+                  <td id="dailyExchange5" class="mycurrency">$144,392</td>
+
+                  <td id="dailyExchange6" class="mypercent">10.23%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Environmental</th>
+                  <td id="environmentalExchange1" class="mypercent">3.5%</td>
+
+                  <td id="environmentalExchange2" class="mynumber">75</td>
+
+                  <td id="environmentalExchange3" class="mycurrency">$78,764</td>
+
+                  <td id="environmentalExchange4" class="mycurrency">$10,934</td>
+
+                  <td id="environmentalExchange5" class="mycurrency">$67,830</td>
+
+                  <td id="environmentalExchange6" class="mypercent">4.81%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Vehicle mod</th>
+                  <td id="vehicleExchange1" class="mypercent">1.91%</td>
+
+                  <td id="vehicleExchange2" class="mynumber">41</td>
+
+                  <td id="vehicleExchange3" class="mycurrency">$736,800</td>
+
+                  <td id="vehicleExchange4" class="mycurrency">$280,012</td>
+
+                  <td id="vehicleExchange5" class="mycurrency">$456,788</td>
+
+                  <td id="vehicleExchange6" class="mypercent">32.37%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Computers</th>
+                  <td id="computersExchange1" class="mypercent">3.27%</td>
+
+                  <td id="computersExchange2" class="mynumber">70</td>
+
+                  <td id="computersExchange3" class="mycurrency">$21,895</td>
+
+                  <td id="computersExchange4" class="mycurrency">$1,397</td>
+
+                  <td id="computersExchange5" class="mycurrency">$20,498</td>
+
+                  <td id="computersExchange6" class="mypercent">1.45%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Rec/leisure</th>
+                  <td id="recExchange1" class="mypercent">0.79%</td>
+
+                  <td id="recExchange2" class="mynumber">17</td>
+
+                  <td id="recExchange3" class="mycurrency">$9,278</td>
+
+                  <td id="recExchange4" class="mycurrency">$2,449</td>
+
+                  <td id="recExchange5" class="mycurrency">$6,829</td>
+
+                  <td id="recExchange6" class="mypercent">0.48%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Total</th>
+                  <td id="totalExchange1" class="mypercent"></td>
+
+                  <td id="totalExchange2" class="mynumber">2141</td>
+
+                  <td id="totalExchange3" class="mycurrency">$1,770,679</td>
+
+                  <td id="totalExchange4" class="mycurrency">$359,355</td>
+
+                  <td id="totalExchange5" class="mycurrency">$1,411,324</td>
+
+                  <td id="totalExchange6" class="mypercent"></td>
+
+               </tr>
+            </tbody></table>
+            <br>
+            <table>
+                <caption id="cap2">Device Reassign/Repair/Refurbish and/or OEL</caption>
+               <tbody><tr>
+                  <th scope="col">Type of AT</th>
+                  <th scope="col">Device %</th>
+                  <th scope="col">Device #</th>
+                  <th scope="col">Current  Price</th>
+                  <th scope="col">Sale Price</th>
+                  <th scope="col">Savings </th>
+                  <th scope="col">Savings %</th>
+               </tr>
+               <tr>
+                  <th scope="row">Vision </th>
+                  <td id="visionReassignment1" class="mypercent">0.92%</td>
+
+                  <td id="visionReassignment2" class="mynumber">630</td>
+
+                  <td id="visionReassignment3" class="mycurrency">$433,117</td>
+
+                  <td id="visionReassignment4" class="mycurrency">$3,910</td>
+
+                  <td id="visionReassignment5" class="mycurrency">$429,207</td>
+
+                  <td id="visionReassignment6" class="mypercent">1.61%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Hearing</th>
+                  <td id="hearingReassignment1" class="mypercent">0.83%</td>
+
+                  <td id="hearingReassignment2" class="mynumber">566</td>
+
+                  <td id="hearingReassignment3" class="mycurrency">$258,858</td>
+
+                  <td id="hearingReassignment4" class="mycurrency">$9,757</td>
+
+                  <td id="hearingReassignment5" class="mycurrency">$249,101</td>
+
+                  <td id="hearingReassignment6" class="mypercent">0.93%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Speech</th>
+                  <td id="speechReassignment1" class="mypercent">0.69%</td>
+
+                  <td id="speechReassignment2" class="mynumber">471</td>
+
+                  <td id="speechReassignment3" class="mycurrency">$714,687</td>
+
+                  <td id="speechReassignment4" class="mycurrency">$2,838</td>
+
+                  <td id="speechReassignment5" class="mycurrency">$711,849</td>
+
+                  <td id="speechReassignment6" class="mypercent">2.67%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Learning/cognition</th>
+                  <td id="learningReassignment1" class="mypercent">0.68%</td>
+
+                  <td id="learningReassignment2" class="mynumber">467</td>
+
+                  <td id="learningReassignment3" class="mycurrency">$84,712</td>
+
+                  <td id="learningReassignment4" class="mycurrency">$1,383</td>
+
+                  <td id="learningReassignment5" class="mycurrency">$83,329</td>
+
+                  <td id="learningReassignment6" class="mypercent">0.31%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Mobility, seating</th>
+                  <td id="mobilityReassignment1" class="mypercent">51.31%</td>
+
+                  <td id="mobilityReassignment2" class="mynumber">35162</td>
+
+                  <td id="mobilityReassignment3" class="mycurrency">$19,411,491</td>
+
+                  <td id="mobilityReassignment4" class="mycurrency">$837,942</td>
+
+                  <td id="mobilityReassignment5" class="mycurrency">$18,573,549</td>
+
+                  <td id="mobilityReassignment6" class="mypercent">69.66%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Daily living </th>
+                  <td id="dailyReassignment1" class="mypercent">36.04%</td>
+
+                  <td id="dailyReassignment2" class="mynumber">24701</td>
+
+                  <td id="dailyReassignment3" class="mycurrency">$4,919,075</td>
+
+                  <td id="dailyReassignment4" class="mycurrency">$90,842</td>
+
+                  <td id="dailyReassignment5" class="mycurrency">$4,828,233</td>
+
+                  <td id="dailyReassignment6" class="mypercent">18.11%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Environmental</th>
+                  <td id="environmentalReassignment1" class="mypercent">6.53%</td>
+
+                  <td id="environmentalReassignment2" class="mynumber">4477</td>
+
+                  <td id="environmentalReassignment3" class="mycurrency">$1,215,510</td>
+
+                  <td id="environmentalReassignment4" class="mycurrency">$264,307</td>
+
+                  <td id="environmentalReassignment5" class="mycurrency">$951,203</td>
+
+                  <td id="environmentalReassignment6" class="mypercent">3.57%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Vehicle mod</th>
+                  <td id="vehicleReassignment1" class="mypercent">0.07%</td>
+
+                  <td id="vehicleReassignment2" class="mynumber">45</td>
+
+                  <td id="vehicleReassignment3" class="mycurrency">$91,888</td>
+
+                  <td id="vehicleReassignment4" class="mycurrency">$1,035</td>
+
+                  <td id="vehicleReassignment5" class="mycurrency">$90,853</td>
+
+                  <td id="vehicleReassignment6" class="mypercent">0.34%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Computers</th>
+                  <td id="computersReassignment1" class="mypercent">2.34%</td>
+
+                  <td id="computersReassignment2" class="mynumber">1603</td>
+
+                  <td id="computersReassignment3" class="mycurrency">$472,884</td>
+
+                  <td id="computersReassignment4" class="mycurrency">$19,954</td>
+
+                  <td id="computersReassignment5" class="mycurrency">$452,930</td>
+
+                  <td id="computersReassignment6" class="mypercent">1.7%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Rec/leisure</th>
+                  <td id="recReassignment1" class="mypercent">0.6%</td>
+
+                  <td id="recReassignment2" class="mynumber">410</td>
+
+                  <td id="recReassignment3" class="mycurrency">$400,094</td>
+
+                  <td id="recReassignment4" class="mycurrency">$105,899</td>
+
+                  <td id="recReassignment5" class="mycurrency">$294,195</td>
+
+                  <td id="recReassignment6" class="mypercent">1.1%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Total</th>
+                  <td id="totalReassignment1" class="mypercent"></td>
+
+                  <td id="totalReassignment2" class="mynumber">68532</td>
+
+                  <td id="totalReassignment3" class="mycurrency">$28,002,316</td>
+
+                  <td id="totalReassignment4" class="mycurrency">$1,337,867</td>
+
+                  <td id="totalReassignment5" class="mycurrency">$26,664,449</td>
+
+                  <td id="totalReassignment6" class="mypercent"></td>
+
+               </tr>
+            </tbody></table>
+            <br>
+            
+            <br>
+            <table>
+                <caption>Combined Total</caption>
+               <tbody><tr>
+                  <th scope="col">Type of AT</th>
+                  <th scope="col">Ave Saving Per Device</th>
+                  <th scope="col">Device %</th>
+                  <th scope="col">Device #</th>
+                  <th scope="col">Current  Price</th>
+                  <th scope="col">Sale Price</th>
+                  <th scope="col">Savings </th>
+                  <th scope="col">Savings %</th>
+               </tr>
+               <tr>
+                  <th scope="row">Vision </th>
+                  <td id="visionfourth0" class="mycurrency">680</td>
+
+                  <td id="visionfourth1" class="mypercent">0.99%</td>
+
+                  <td id="visionfourth2" class="mynumber">699</td>
+
+                  <td id="visionfourth3" class="mycurrency">$483,843</td>
+
+                  <td id="visionfourth4" class="mycurrency">$8,301</td>
+
+                  <td id="visionfourth5" class="mycurrency">$475,542</td>
+
+                  <td id="visionfourth6" class="mypercent">1.69%</td>
+                  
+               </tr>
+               <tr>
+                  <th scope="row">Hearing</th>
+                  <td id="hearingfourth0" class="mycurrency">423</td>
+
+                  <td id="hearingfourth1" class="mypercent">0.86%</td>
+
+                  <td id="hearingfourth2" class="mynumber">610</td>
+
+                  <td id="hearingfourth3" class="mycurrency">$269,433</td>
+
+                  <td id="hearingfourth4" class="mycurrency">$11,262</td>
+
+                  <td id="hearingfourth5" class="mycurrency">$258,171</td>
+
+                  <td id="hearingfourth6" class="mypercent">0.92%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Speech</th>
+                  <td id="speechfourth0" class="mycurrency">1,629</td>
+
+                  <td id="speechfourth1" class="mypercent">0.94%</td>
+
+                  <td id="speechfourth2" class="mynumber">665</td>
+
+                  <td id="speechfourth3" class="mycurrency">$1,092,132</td>
+
+                  <td id="speechfourth4" class="mycurrency">$8,908</td>
+
+                  <td id="speechfourth5" class="mycurrency">$1,083,224</td>
+
+                  <td id="speechfourth6" class="mypercent">3.86%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Learning/cognition</th>
+                  <td id="learningfourth0" class="mycurrency">181</td>
+
+                  <td id="learningfourth1" class="mypercent">0.71%</td>
+
+                  <td id="learningfourth2" class="mynumber">503</td>
+
+                  <td id="learningfourth3" class="mycurrency">$93,259</td>
+
+                  <td id="learningfourth4" class="mycurrency">$2,028</td>
+
+                  <td id="learningfourth5" class="mycurrency">$91,231</td>
+
+                  <td id="learningfourth6" class="mypercent">0.32%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Mobility, seating</th>
+                  <td id="mobilityfourth0" class="mycurrency">530</td>
+
+                  <td id="mobilityfourth1" class="mypercent">50.34%</td>
+
+                  <td id="mobilityfourth2" class="mynumber">35,575</td>
+
+                  <td id="mobilityfourth3" class="mycurrency">$19,728,530</td>
+
+                  <td id="mobilityfourth4" class="mycurrency">$874,676</td>
+
+                  <td id="mobilityfourth5" class="mycurrency">$18,853,854</td>
+
+                  <td id="mobilityfourth6" class="mypercent">67.15%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Daily living </th>
+                  <td id="dailyfourth0" class="mycurrency">192</td>
+
+                  <td id="dailyfourth1" class="mypercent">36.62%</td>
+
+                  <td id="dailyfourth2" class="mynumber">25,883</td>
+
+                  <td id="dailyfourth3" class="mycurrency">$5,078,685</td>
+
+                  <td id="dailyfourth4" class="mycurrency">$106,060</td>
+
+                  <td id="dailyfourth5" class="mycurrency">$4,972,625</td>
+
+                  <td id="dailyfourth6" class="mypercent">17.71%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Environmental</th>
+                  <td id="environmentalfourth0" class="mycurrency">224</td>
+
+                  <td id="environmentalfourth1" class="mypercent">6.44%</td>
+
+                  <td id="environmentalfourth2" class="mynumber">4,552</td>
+
+                  <td id="environmentalfourth3" class="mycurrency">$1,294,274</td>
+
+                  <td id="environmentalfourth4" class="mycurrency">$275,241</td>
+
+                  <td id="environmentalfourth5" class="mycurrency">$1,019,033</td>
+
+                  <td id="environmentalfourth6" class="mypercent">3.63%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Vehicle mod</th>
+                  <td id="vehiclefourth0" class="mycurrency">6,368</td>
+
+                  <td id="vehiclefourth1" class="mypercent">0.12%</td>
+
+                  <td id="vehiclefourth2" class="mynumber">86</td>
+
+                  <td id="vehiclefourth3" class="mycurrency">$828,688</td>
+
+                  <td id="vehiclefourth4" class="mycurrency">$281,047</td>
+
+                  <td id="vehiclefourth5" class="mycurrency">$547,641</td>
+
+                  <td id="vehiclefourth6" class="mypercent">1.95%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Computers</th>
+                  <td id="computersfourth0" class="mycurrency">283</td>
+
+                  <td id="computersfourth1" class="mypercent">2.37%</td>
+
+                  <td id="computersfourth2" class="mynumber">1,673</td>
+
+                  <td id="computersfourth3" class="mycurrency">$494,779</td>
+
+                  <td id="computersfourth4" class="mycurrency">$21,351</td>
+
+                  <td id="computersfourth5" class="mycurrency">$473,428</td>
+
+                  <td id="computersfourth6" class="mypercent">1.69%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Rec/leisure</th>
+                  <td id="recfourth0" class="mycurrency">705</td>
+
+                  <td id="recfourth1" class="mypercent">0.6%</td>
+
+                  <td id="recfourth2" class="mynumber">427</td>
+
+                  <td id="recfourth3" class="mycurrency">$409,372</td>
+
+                  <td id="recfourth4" class="mycurrency">$108,348</td>
+
+                  <td id="recfourth5" class="mycurrency">$301,024</td>
+
+                  <td id="recfourth6" class="mypercent">1.07%</td>
+
+               </tr>
+               <tr>
+                  <th scope="row">Total</th>
+                  <td id="totalfourth0" class="mycurrency">397</td>
+
+                  <td id="totalfourth1" class="mypercent">100%</td>
+
+                  <td id="totalfourth2" class="mynumber">70,673</td>
+
+                  <td id="totalfourth3" class="mycurrency">$29,772,995</td>
+
+                  <td id="totalfourth4" class="mycurrency">$1,697,222</td>
+
+                  <td id="totalfourth5" class="mycurrency">$28,075,773</td>
+
+                  <td id="totalfourth6" class="mypercent">100%</td>
+
+               </tr>
+            </tbody></table>
+
+        </div></div><div class="rptft" id="lg"><hr><p>Association of Assistive Technology Act Programs . Saved: Fri Mar 15 2019 08:20:55 GMT-0500 (Central Daylight Time)</p><hr><p></p></div></div></section><footer></footer></html>

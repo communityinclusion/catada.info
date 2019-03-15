@@ -407,16 +407,20 @@ layout: chart
 												<div class="checkbox">
 													<label class="form-check-label" for="2014"><input class="yearCheck" name="regionYear[]" id="2014" type="checkbox" value="2014"> 2014</label>
 												</div>
-											</div>
-											<div class="col">
 												<div class="checkbox">
 													<label class="form-check-label" for="2015"><input class="yearCheck" name="regionYear[]" id="2015" type="checkbox" value="2015"> 2015</label>
 												</div>
+											</div>
+											<div class="col">
+												
 												<div class="checkbox">
 													<label class="form-check-label" for="2016"><input class="yearCheck" name="regionYear[]" id="2016" type="checkbox" value="2016"> 2016</label>
 												</div>
 												<div class="checkbox">
 													<label class="form-check-label" for="2017"><input class="yearCheck" name="regionYear[]" id="2017" type="checkbox" value="2017"> 2017</label>
+												</div>
+													<div class="checkbox">
+													<label class="form-check-label" for="2018"><input class="yearCheck" name="regionYear[]" id="2018" type="checkbox" value="2018"> 2018</label>
 												</div>
 											</div>
 										</div>
@@ -461,7 +465,7 @@ layout: chart
 											<div class="card-body row">
 
 
-						<label for="sum_2008"><input id="sum_2008" name="summChoose" type="radio" value="2008"> 2008</label><label for="sum_2009"><input id="sum_2009" name="summChoose" type="radio" value="2009"> 2009</label> <label for="sum_2010"><input id="sum_2010" name="summChoose" type="radio" value="2010"> 2010</label> <label for="sum_2011"><input id="sum_2011" name="summChoose" type="radio" value="2011"> 2011</label> <label for="sum_2012"><input id="sum_2012" name="summChoose" type="radio" value="2012"> 2012</label> <label for="sum_2013"><input id="sum_2013" name="summChoose" type="radio" value="2013"> 2013</label> <label for="sum_2014"><input id="sum_2014" name="summChoose" type="radio" value="2014"> 2014</label> <label for="sum_2015"><input id="sum_2015" name="summChoose" type="radio" value="2015"> 2015</label> <label for="sum_2016"><input id="sum_2016" name="summChoose" type="radio" value="2016"> 2016</label> <label for="sum_2017"><input id="sum_2017" name="summChoose" type="radio" value="2017"> 2017</label>
+						<label for="sum_2008"><input id="sum_2008" name="summChoose" type="radio" value="2008"> 2008</label><label for="sum_2009"><input id="sum_2009" name="summChoose" type="radio" value="2009"> 2009</label> <label for="sum_2010"><input id="sum_2010" name="summChoose" type="radio" value="2010"> 2010</label> <label for="sum_2011"><input id="sum_2011" name="summChoose" type="radio" value="2011"> 2011</label> <label for="sum_2012"><input id="sum_2012" name="summChoose" type="radio" value="2012"> 2012</label> <label for="sum_2013"><input id="sum_2013" name="summChoose" type="radio" value="2013"> 2013</label> <label for="sum_2014"><input id="sum_2014" name="summChoose" type="radio" value="2014"> 2014</label> <label for="sum_2015"><input id="sum_2015" name="summChoose" type="radio" value="2015"> 2015</label> <label for="sum_2016"><input id="sum_2016" name="summChoose" type="radio" value="2016"> 2016</label> <label for="sum_2017"><input id="sum_2017" name="summChoose" type="radio" value="2017"> 2017</label><label for="sum_2018"><input id="sum_2018" name="summChoose" type="radio" value="2018"> 2018</label>
 
 										</div>
 									</div>
