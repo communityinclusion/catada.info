@@ -499,7 +499,7 @@ layout: chart
 							<div class="container">
 							<div class="row">
 								<div class="col-sm">
-									<center><p class="h1 redf">Chart<br><i class="fas fa-chart-bar"></i></p></center>
+									<center><p class="h1 redf">Build Tables<br><i class="fas fa-table"></i></p></center>
 								</div>
 								<div class="col-sm">
 									<center><p class="h1 greenf ">Explore<br><i class="fas fa-binoculars"></i></p></center>
@@ -542,7 +542,7 @@ layout: chart
 			<div class="container">
 			<div class="row">
 				<div class="col-sm">
-					<center><p class="h1 redf">Build Tables<br><i class="fas fa-table"></i></p></center>
+					<center><p class="h1 redf">Build Charts<br><i class="fas fa-chart-bar"></i></p></center>
 				</div>
 				<div class="col-sm">
 					<center><p class="h1 greenf ">Explore<br><i class="fas fa-binoculars"></i></p></center>
