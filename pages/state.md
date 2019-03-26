@@ -454,7 +454,7 @@ layout: states
 <div id="Guam">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>GUAM</h2>
 
-<p><img alt="program logo" src="/sites/catada.info/files/files/Guam%20Logo(2).png" style="width: 150px; height: 109px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="assets/Guam%20Logo(2).png" style="width: 150px; height: 109px; border-width: 1px; border-style: solid;" /></p>
 <strong>Lead Agency:</strong> University of Guam Center for Excellence in Developmental Disabilities Education, Research, and Service
 
 <p><strong>Program Title:</strong> <a href="http://www.gsatcedders.org/">Guam System for Assistive Technology (GSAT)</a></p>
@@ -1942,7 +1942,7 @@ WEST VIRGINIA</div>
 <div id="Wyoming">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WYOMING</h2>
 
-<p><a href="/sites/catada.info/files/files/wyoming1.jpg"><img alt="" height="100" src="/sites/catada.info/files/files/wyoming1.jpg" width="294" /></a></p>
+<p><img alt="" height="100" src="assets/wyoming.jpg" width="294" /></a></p>
 
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
