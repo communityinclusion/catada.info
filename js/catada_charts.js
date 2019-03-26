@@ -818,7 +818,7 @@ function drawSheetName() {
                 break;
             case '32':
                 // device loans
-                tableStringContent[0] = "SELECT A,K,W,BN WHERE E = " + years + " ORDER BY C, A";
+                tableStringContent[0] = "SELECT A,T,W,BN WHERE E = " + years + " ORDER BY C, A";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans Summary";
                 break;
