@@ -13,7 +13,7 @@ layout: states
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ALABAMA</h2>
 <!-- You can bold things with the <strong></strong> tags. -->
 
-<p><img alt="program logo" src="assets/alabama.gif" style="width: 200px; height: 60px; margin-top: 0px; margin-bottom: 0px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/alabama.gif" style="width: 200px; height: 60px; margin-top: 0px; margin-bottom: 0px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Alabama Department of Rehabilitation Services (ADRS)</p>
 
@@ -57,7 +57,7 @@ layout: states
 	<p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p>
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ALASKA</h2>
 
-<p><img alt="program logo" src="assets/alaska(2).jpg" style="width: 167px; height: 60px; margin-left: 0px; margin-right: 0px;" /></p>
+<p><img alt="program logo" src="/assets/alaska(2).jpg" style="width: 167px; height: 60px; margin-left: 0px; margin-right: 0px;" /></p>
 
 <p><strong>Lead Agency:</strong> Alaska Department of Labor &amp; Workforce Development, Division of Vocational Rehabilitation (DVR)</p>
 
@@ -129,7 +129,7 @@ layout: states
 <div id="Arizona">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARIZONA</h2>
 
-<p><img alt="" height="55" src="assets/AzTAP%20Logo-png.png" width="283" /></p>
+<p><img alt="" height="55" src="/assets/AzTAP%20Logo-png.png" width="283" /></p>
 
 <p><strong>Lead Agency:</strong> Northern Arizona University (NAU), Institute for Human Development (IHD)</p>
 
@@ -163,7 +163,7 @@ layout: states
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="assets/arkansas.JPG" style="height: 146px; width: 146px; margin-left: 0px; margin-right: 0px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/arkansas.JPG" style="height: 146px; width: 146px; margin-left: 0px; margin-right: 0px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -197,7 +197,7 @@ layout: states
 <div id="California">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>CALIFORNIA</h2>
 
-<p><img alt="" src="assets/ability-tools-logo-600.png" style="width: 150px; height: 75px;" /></p>
+<p><img alt="" src="/assets/ability-tools-logo-600.png" style="width: 150px; height: 75px;" /></p>
 
 <p><strong>Lead Agency:</strong> California Department of Rehabilitation</p>
 
@@ -235,7 +235,7 @@ layout: states
 <div id="Colorado">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>COLORADO</h2>
 
-<p><img alt="" height="56" src="assets/Colorado.jpg" width="335" /></p>
+<p><img alt="" height="56" src="/assets/Colorado.jpg" width="335" /></p>
 
 <p><strong>Lead Agency:</strong> University of Colorado, Anschutz Medical Campus</p>
 
@@ -272,7 +272,7 @@ layout: states
 <div id="Connecticut">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>CONNECTICUT</h2>
 
-<p><img alt="program logo" src="assets/connecticut.gif" style="width: 113px; height: 45px;" /></p>
+<p><img alt="program logo" src="/assets/connecticut.gif" style="width: 113px; height: 45px;" /></p>
 
 <p><strong>Lead Agency:</strong> Connecticut Bureau of Rehabilitation Services</p>
 
@@ -308,7 +308,7 @@ layout: states
 <div id="Delaware">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>DELAWARE</h2>
 
-<p><img alt="program logo" src="assets/delaware.jpg" style="width: 70px; height: 80px;" /></p>
+<p><img alt="program logo" src="/assets/delaware.jpg" style="width: 70px; height: 80px;" /></p>
 
 <p><strong>Lead Agency:</strong> University of Delaware</p>
 
@@ -342,7 +342,7 @@ layout: states
 <div id="DC">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>DISTRICT OF COLUMBIA</h2>
 
-<p><img alt="program logo" src="assets/DC.jpg" style="width: 230px; height: 59px;" /></p>
+<p><img alt="program logo" src="/assets/DC.jpg" style="width: 230px; height: 59px;" /></p>
 
 <p><strong>Lead Agency:</strong> District of Columbia Department on Disability Services Rehabilitation Services Administration</p>
 
@@ -380,7 +380,7 @@ layout: states
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="assets/florida.png" style="height: 131px; width: 175px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/florida.png" style="height: 131px; width: 175px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
@@ -418,7 +418,7 @@ layout: states
 <div id="Georgia">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>GEORGIA</h2>
 
-<p><img alt="program logo" src="assets/georgia.png" style="width: 141px; height: 110px;" /></p>
+<p><img alt="program logo" src="/assets/georgia.png" style="width: 141px; height: 110px;" /></p>
 
 <p><strong>Lead Agency:</strong> Georgia Department of Labor (GDOL)</p>
 
@@ -454,7 +454,7 @@ layout: states
 <div id="Guam">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>GUAM</h2>
 
-<p><img alt="program logo" src="assets/Guam%20Logo(2).png" style="width: 150px; height: 109px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/Guam%20Logo(2).png" style="width: 150px; height: 109px; border-width: 1px; border-style: solid;" /></p>
 <strong>Lead Agency:</strong> University of Guam Center for Excellence in Developmental Disabilities Education, Research, and Service
 
 <p><strong>Program Title:</strong> <a href="http://www.gsatcedders.org/">Guam System for Assistive Technology (GSAT)</a></p>
@@ -487,7 +487,7 @@ layout: states
 <div id="Hawaii">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>HAWAII</h2>
 
-<p><img alt="program logo" src="assets/hawaii.jpg" style="width: 133px; height: 133px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/hawaii.jpg" style="width: 133px; height: 133px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Hawaii Department of Human Services, Vocational Rehabilitation</p>
 
@@ -523,7 +523,7 @@ layout: states
 <div id="Iowa">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>IOWA</h2>
 
-<p><img alt="program logo" src="assets/iowa.JPG" style="width: 153px; height: 153px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/iowa.JPG" style="width: 153px; height: 153px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
@@ -555,7 +555,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Idaho">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>IDAHO</h2>
 
-<p><img alt="program logo" src="assets/ID.jpeg" style="width: 127px; height: 152px;" /></p>
+<p><img alt="program logo" src="/assets/ID.jpeg" style="width: 127px; height: 152px;" /></p>
 
 <p><strong>Lead Agency:</strong> University of Idaho, Center on Disabilities and Human Development</p>
 
@@ -589,7 +589,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="program logo" src="assets/illinois.jpg" style="width: 167px; height: 66px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/illinois.jpg" style="width: 167px; height: 66px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
@@ -625,7 +625,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Indiana">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>INDIANA</h2>
 
-<p><img alt="program logo" height="137" src="assets/indiana.jpg" style="border-width: 1px; border-style: solid;" width="152" /></p>
+<p><img alt="program logo" height="137" src="/assets/indiana.jpg" style="border-width: 1px; border-style: solid;" width="152" /></p>
 
 <p><strong>Lead Agency:</strong> Indiana Division of Disability, Aging, and Rehabilitative Services</p>
 
@@ -661,7 +661,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Kansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>KANSAS</h2>
 
-<p><img alt="AT Progam logo" src="assets/Kansas.jpg" style="width: 120px; height: 110px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="AT Progam logo" src="/assets/Kansas.jpg" style="width: 120px; height: 110px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Kansas University Center of Developmental Disabilities</p>
 
@@ -695,7 +695,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Kentucky">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>KENTUCKY</h2>
 
-<p><img alt="program logo" src="assets/kentucky.gif" style="width: 200px; height: 47px;" /></p>
+<p><img alt="program logo" src="/assets/kentucky.gif" style="width: 200px; height: 47px;" /></p>
 
 <p><strong>Lead Agency:</strong>Kentucky Office of Vocational Rehabilitation</p>
 
@@ -731,7 +731,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Louisiana">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>LOUISIANA</h2>
 
-<p><img alt="" height="79" src="assets/Louisiana.png" width="200" /></p>
+<p><img alt="" height="79" src="/assets/Louisiana.png" width="200" /></p>
 
 <p><strong>Lead Agency:</strong> Louisiana Department of Health and Hospitals (DHH)</p>
 
@@ -767,7 +767,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Maine">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MAINE</h2>
 
-<p><img alt="program logo" src="assets/maine.jpg" style="width: 150px; height: 131px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/maine.jpg" style="width: 150px; height: 131px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Maine Department of Education</p>
 
@@ -801,7 +801,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Maryland">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MARYLAND</h2>
 
-<p><img alt="program logo" src="assets/maryland.jpg" style="width: 179px; height: 144px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/maryland.jpg" style="width: 179px; height: 144px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Maryland Department of Disabilities</p>
 
@@ -835,7 +835,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Massachusetts">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MASSACHUSETTS</h2>
 
-<p><img alt="program logo" src="assets/massachusetts.gif" style="width: 186px; height: 102px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/massachusetts.gif" style="width: 186px; height: 102px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Massachusetts Rehabilitation Commission, Community Living Division</p>
 
@@ -869,7 +869,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Michigan">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MICHIGAN</h2>
 
-<p><img alt="program logo" src="assets/michigan.gif" style="width: 184px; height: 106px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/michigan.gif" style="width: 184px; height: 106px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Human Resources-Michigan Rehabilitation Services</p>
 
@@ -903,7 +903,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Minnesota">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MINNESOTA</h2>
 
-<p><img alt="program logo" src="assets/minnesota.jpg" style="width: 165px; height: 96px;" /></p>
+<p><img alt="program logo" src="/assets/minnesota.jpg" style="width: 165px; height: 96px;" /></p>
 
 <p><strong>Lead Agency:</strong> Minnesota Department of Administration</p>
 
@@ -937,7 +937,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Missouri">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MISSOURI</h2>
 
-<p><img alt="" height="75" src="assets/MOAT%20Logo%202013.jpg" width="270" /></p>
+<p><img alt="" height="75" src="/assets/MOAT%20Logo%202013.jpg" width="270" /></p>
 
 <p><strong>Lead Agency:</strong> Missouri Assistive Technology Council</p>
 
@@ -971,7 +971,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Mississippi">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MISSISSIPPI</h2>
 
-<p><img alt="program logo" src="assets/mississippi.gif" style="width: 191px; height: 111px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/mississippi.gif" style="width: 191px; height: 111px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Mississippi Department of Rehabilitation Services</p>
 
@@ -1005,7 +1005,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Montana">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MONTANA</h2>
 
-<p><a href="/sites/catada.info/files/files/montana.png"><img alt="" src="assets/montana.png" style="width: 295px; height: 73px;" /></a></p>
+<p><a href="/sites/catada.info/files/files/montana.png"><img alt="" src="/assets/montana.png" style="width: 295px; height: 73px;" /></a></p>
 
 <p><strong>Lead Agency:</strong> Department of Public Health and Human Services, DisabilityServices Division</p>
 
@@ -1041,7 +1041,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Nebraska">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEBRASKA</h2>
 
-<p><img alt="program logo" src="assets/nebraska(1).jpg" style="border-width: 1px; border-style: solid; width: 150px; height: 96px;" /></p>
+<p><img alt="program logo" src="/assets/nebraska(1).jpg" style="border-width: 1px; border-style: solid; width: 150px; height: 96px;" /></p>
 
 <p><strong>Lead Agency:</strong> Nebraska Department of Education</p>
 
@@ -1111,7 +1111,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NewHampshire">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEW HAMPSHIRE</h2>
 
-<p><img alt="" height="138" src="assets/ATinNH%20logo%20(2).jpg" width="345" /></p>
+<p><img alt="" height="138" src="/assets/ATinNH%20logo%20(2).jpg" width="345" /></p>
 
 <p><strong>Lead Agency:</strong> University of New Hampshire, Institute on Disability</p>
 
@@ -1145,7 +1145,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NewJersey">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEW JERSEY</h2>
 
-<p><img alt="program logo" src="assets/newjersey.JPG" style="width: 177px; height: 68px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/newjersey.JPG" style="width: 177px; height: 68px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Labor and Workforce Development, Division of Vocational Rehabilitation Services</p>
 
@@ -1181,7 +1181,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NewMexico">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEW MEXICO</h2>
 
-<p><img alt="" height="153" src="assets/TAP%20logo.jpg" width="118" /></p>
+<p><img alt="" height="153" src="/assets/TAP%20logo.jpg" width="118" /></p>
 
 <p><strong>Lead Agency:</strong> New Mexico Governor’s Commission on Disability (GCD)</p>
 
@@ -1215,7 +1215,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NewYork">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEW YORK</h2>
 
-<p><img alt="At program logo" src="assets/newyork.jpg" style="width: 222px; height: 66px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="At program logo" src="/assets/newyork.jpg" style="width: 222px; height: 66px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> NYS Justice Center rather than the Commission on Quality of Care</p>
 
@@ -1249,7 +1249,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NorthCarolina">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTH CAROLINA</h2>
 
-<p><img alt="program logo" src="assets/northcarolina.jpg" style="width: 151px; height: 153px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/northcarolina.jpg" style="width: 151px; height: 153px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> North Carolina Department of Health and Human Services, Division of Vocational Rehabilitation Services</p>
 
@@ -1283,7 +1283,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NorthDakota">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTH DAKOTA</h2>
 
-<p><img alt="" height="86" src="assets/NDlogo.png" width="218" /></p>
+<p><img alt="" height="86" src="/assets/NDlogo.png" width="218" /></p>
 
 <p><strong>Lead Agency:</strong> North Dakota Department of Human Services</p>
 
@@ -1321,7 +1321,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Marianas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTHERN MARIANA ISLANDS</h2>
 
-<p><img alt="program logo" src="assets/northernmarianaislands.png" style="width: 141px; height: 141px;" /></p>
+<p><img alt="program logo" src="/assets/northernmarianaislands.png" style="width: 141px; height: 141px;" /></p>
 
 <p><strong>Lead Agency:</strong> CNMI Council on Developmental Disabilities</p>
 
@@ -1355,7 +1355,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Ohio">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>OHIO</h2>
 
-<p><img alt="program logo" src="assets/ohio.jpg" style="width: 118px; height: 113px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/ohio.jpg" style="width: 118px; height: 113px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Ohio State University Office of Sponsored Programs</p>
 
@@ -1391,7 +1391,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Oklahoma">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>OKLAHOMA</h2>
 
-<p><img alt="program logo" src="assets/oklahoma.JPG" style="width: 179px; height: 83px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/oklahoma.JPG" style="width: 179px; height: 83px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Oklahoma State University, Department of Wellness</p>
 
@@ -1425,7 +1425,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Oregon">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>OREGON</h2>
 
-<p><img alt="program logo" src="assets/oregon.png" style="width: 200px; height: 52px;" /></p>
+<p><img alt="program logo" src="/assets/oregon.png" style="width: 200px; height: 52px;" /></p>
 
 <p><strong>Lead Agency:</strong> State of Oregon, Office of Vocational Rehabilitation Services</p>
 
@@ -1461,7 +1461,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Pennsylvania">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>PENNSYLVANIA</h2>
 
-<p><img alt="" src="assets/Penn.jpg" style="width: 200px; height: 88px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="" src="/assets/Penn.jpg" style="width: 200px; height: 88px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Institute on Disabilities at Temple University</p>
 
@@ -1497,7 +1497,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="PuertoRico">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>PUERTO RICO</h2>
 
-<p><img alt="" src="assets/puertorico.png" style="width: 200px; height: 82px;" /></p>
+<p><img alt="" src="/assets/puertorico.png" style="width: 200px; height: 82px;" /></p>
 
 <p><strong>Lead Agency:</strong> University of Puerto Rico</p>
 
@@ -1531,7 +1531,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="RhodeIsland">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>RHODE ISLAND</h2>
 
-<p><img alt="program logo" src="assets/rhodeisland.gif" style="width: 200px; height: 58px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/rhodeisland.gif" style="width: 200px; height: 58px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Human Services, Office of Rehabilitation Services (ORS)</p>
 
@@ -1565,7 +1565,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="SouthCarolina">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>SOUTH CAROLINA</h2>
 
-<p><img alt="" src="assets/southcarolina.png" style="width: 288px; height: 121px;" /></p>
+<p><img alt="" src="/assets/southcarolina.png" style="width: 288px; height: 121px;" /></p>
 
 <p><strong>Lead Agency:</strong> University of South Carolina School of Medicine, Center for Disability Resources</p>
 
@@ -1599,7 +1599,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="SouthDakota">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>SOUTH DAKOTA</h2>
 
-<p><img alt="program logo" src="assets/southdakota.gif" style="width: 200px; height: 42px;" /></p>
+<p><img alt="program logo" src="/assets/southdakota.gif" style="width: 200px; height: 42px;" /></p>
 
 <p><strong>Lead Agency:</strong> South Dakota Department of Human Services, Division of Rehabilitation Services</p>
 
@@ -1635,7 +1635,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Tennessee">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>TENNESSEE</h2>
 
-<p><img alt="" src="assets/TN.jpg" style="width: 290px; height: 123px;" /></p>
+<p><img alt="" src="/assets/TN.jpg" style="width: 290px; height: 123px;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Human Services, Division of Rehabilitation Services</p>
 
@@ -1669,7 +1669,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Texas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>TEXAS</h2>
 
-<p><img alt="program logo" src="assets/texas.jpg" style="width: 200px; height: 87px;" /></p>
+<p><img alt="program logo" src="/assets/texas.jpg" style="width: 200px; height: 87px;" /></p>
 
 <p><strong>Lead Agency:</strong> The University of Texas at Austin</p>
 
@@ -1703,7 +1703,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Utah">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>UTAH</h2>
 
-<p><img alt="program logo" src="assets/utah.jpg" style="width: 153px; height: 156px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/utah.jpg" style="width: 153px; height: 156px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Utah State University, Center for Persons with Disabilities</p>
 
@@ -1737,7 +1737,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="VirginIslands">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>U.S. VIRGIN ISLANDS</h2>
 
-<p><img alt="AT Program logo" src="assets/VirginIsland.jpg" style="width: 116px; height: 129px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="AT Program logo" src="/assets/VirginIsland.jpg" style="width: 116px; height: 129px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> University of the Virgin Islands</p>
 
@@ -1771,7 +1771,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Vermont">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>VERMONT</h2>
 
-<p><img alt="program logo" src="assets/vermont.bmp" style="width: 200px; height: 98px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/vermont.bmp" style="width: 200px; height: 98px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Department of Disabilities, Aging and Independent Living</p>
 
@@ -1805,7 +1805,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Virginia">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>VIRGINIA</h2>
 
-<p><img alt="program logo" src="assets/virginia.jpg" style="width: 200px; height: 64px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/virginia.jpg" style="width: 200px; height: 64px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> The Virginia Department for Aging and Rehabilitative Services (DARS)</p>
 
@@ -1839,7 +1839,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Washington">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WASHINGTON</h2>
 
-<p><img alt="" height="80" src="assets/WATAP_logo_Tech-singleline_00038f-centered.png" width="193" /></p>
+<p><img alt="" height="80" src="/assets/WATAP_logo_Tech-singleline_00038f-centered.png" width="193" /></p>
 
 <p><strong>Lead Agency:</strong> University of Washington Center for Technology and Disability Studies (UWCTDS)</p>
 
@@ -1872,7 +1872,7 @@ WEST VIRGINIA</div>
 
 <div id="WestVirginia">
 	 <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>West Virginia</h2>
-<p><img alt="" src="assets/WVATS-Logo-2014-BlueGold.png" style="width: 138px; height: 122px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="" src="/assets/WVATS-Logo-2014-BlueGold.png" style="width: 138px; height: 122px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Center for Excellence in Disabilities at West Virginia University</p>
 
@@ -1906,7 +1906,7 @@ WEST VIRGINIA</div>
 <div id="Wisconsin">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WISCONSIN</h2>
 
-<p><img alt="" height="58" src="assets/WisTech_Final.png" style="border-width: 1px; border-style: solid;" width="201" /></p>
+<p><img alt="" height="58" src="/assets/WisTech_Final.png" style="border-width: 1px; border-style: solid;" width="201" /></p>
 
 <p><strong>Lead Agency:</strong> Wisconsin Department of Health Services</p>
 
@@ -1942,7 +1942,7 @@ WEST VIRGINIA</div>
 <div id="Wyoming">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WYOMING</h2>
 
-<p><img alt="" height="100" src="assets/wyoming.jpg" width="294" /></a></p>
+<p><img alt="" height="100" src="/assets/wyoming.jpg" width="294" /></a></p>
 
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
