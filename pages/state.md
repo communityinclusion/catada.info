@@ -1,12 +1,8 @@
 ---
+layout: states
 title: State AT Program Information
 permalink: state.html
-layout: states
 ---
-
-
-
-
 <div id="stateHolder">
 <div id="Alabama"><!-- Put state names in h2 tag-->
 <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p>
@@ -211,7 +207,7 @@ layout: states
 
 <h3>State Financing Activities</h3>
 
-<p>California's Alternative Financing Program (AFP) uses comparable nonfederal resources rather than AT Act funding. The state of California offers low-interest, guaranteed loans to finance AT or modified transportation through the Assistive Technology and Modified Transportation Loan Guarantee Program (LGP). LGP is implemented in collaboration with one or more lenders. This program is operated through the California Foundation for Independent Living Centers (CFILC). This program is currently suspended and not making loans (we will let you know when we are up and running with our federal program).</p>
+<p>California's Alternative Financing Program (AFP) FreedomTech uses comparable nonfederal resources rather than AT Act funding. FreedomTech provides low-interest financial loans for Californians with disabilities and their families to purchase needed assistive technology (AT) when other funding sources are not available. Applicants can request loans form $500 to $15,000. Freed MTech also provides financial education, information and resources.</p>
 
 <h3>Device Reutilization</h3>
 
@@ -229,8 +225,6 @@ layout: states
 
 <p>Ability Tools provides a toll-free information and referral service through 800-390-2699 Voice/800-900-0706 TTY as well as online at www.abilitytools.org. Ability Tools also enhances AT awareness through participation in outreach events throughout the state, social media updates, presentations and working in collaboration with other nonprofits and referral agencies. Ability Tools materials are disseminated throughout the state to increase AT awareness. Ability Tools conducts webinar and in-person trainings throughout the year. The training announcements and the archived webinars are posted on the Ability Tools website.</p>
 </div>
-
-
 
 <div id="Colorado">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>COLORADO</h2>
@@ -268,7 +262,6 @@ layout: states
 <p>The Colorado Assistive Technology Coalition meets six times a year to discuss issues specific to assistive technology. Members represent state agencies and organizations that serve people with disabilities or older people and consumers who benefit from the use of technology. The Coalition also serves as the Advisory Council for the Assistive Technology Program of Colorado.</p>
 </div>
 
-
 <div id="Connecticut">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>CONNECTICUT</h2>
 
@@ -302,8 +295,6 @@ layout: states
 
 <p>The Connecticut Tech Act Project offers training and technical assistance, information and referrals and other activities to increase awareness of assistive technology, increase access and help individuals with disabilities obtain assistive technology devices and services. To learn more about any of the Connecticut Tech Act Project programs and services, please visit our website at <a href="http://www.CTtechact.com">www.CTtechact.com</a> or call us at 860-424-4881.</p>
 </div>
-
-
 
 <div id="Delaware">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>DELAWARE</h2>
