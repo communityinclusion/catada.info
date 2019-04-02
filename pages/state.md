@@ -1222,19 +1222,19 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Reutilization</h3>
 
-<p>At the state level, TRAID operates TRAID-IN, an equipment exchange program that helps individuals sell and buy AT devices through a "want ad" service. Information about items is posted on the program's website. The 12 TRAID regional centers also operate equipment reutilization programs. The centers receive donated AT devices, clean and make any necessary repairs, and then, identify individuals who are in need of the device through a network of agencies and consumers in their region.</p>
+<p>TRAID operates 12 regional centers all across New York. Each center operates an equipment reutilization program. The centers receive donated AT devices, clean and make any necessary repairs, and then identify individuals who are in need of the device through a network of agencies and consumers in their region.</p>
 
 <h3>Device Loan</h3>
 
-<p>TRAID's 12 regional centers operate equipment loan centers that provide equipment free of charge to all citizens in the state. Through a collaborative agreement with the Department of Health's (DOH) Early Intervention Program, the regional centers provide equipment loan programs for children birth to age 3. TRAID most recently collaborated with the DOH's Money Follows the Person program to ensure that persons have devices to allow them to remain independent in their homes or return to their homes from nursing homes.</p>
+<p>TRAID's 12 regional centers operate equipment loan centers that provide equipment free of charge to all citizens in the state. Through a collaborative agreement with the Department of Health's (DOH) Early Intervention Program, the regional centers provide equipment loans for children birth to age 3. TRAID also works with DOH's Money Follows the Person program to ensure that persons have devices to allow them to remain independent in their homes or return to their homes from nursing homes. TRAID works with the state vocational rehabilitation agency, ACCES-VR, which is overseen by the State Education Department (SED.) This partnership allows individuals with disabilities achieve and maintain employment and educational goals.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>All 12 regional centers provide device demonstrations. Persons can walk in or make an appointment to meet with center staff for a demonstration. Demonstrations also are provided at statewide conferences and during special "demonstration" day vendor fairs in rural areas across the state.</p>
+<p>All 12 regional centers provide device demonstrations. Persons can walk in or make an appointment to meet with center staff for a demonstration. TRAID staff also attend statewide conferences and vendor fairs in rural areas across the state to provide information and public awareness about the program.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>TRAID coordinates the interagency partnership on assistive technology that is composed of state agencies, not-for-profit organizations and consumers who work to increase awareness of AT devices and services. The TRAID director also participates on other state agency boards such as the Vocational Rehabilitation State Rehab Council to ensure that the assistive technology needs of consumers are being met.</p>
+<p>TRAID coordinates the Interagency Partnership on Assistive Technology (IPAT,) which is composed of state agencies, not-for-profit organizations, and consumers who work to increase awareness of AT devices and services. The TRAID director also participates on other state agency boards such as the Vocational Rehabilitation State Rehab Council to ensure that the assistive technology needs of consumers are being met. TRAID staff also provide trainings for organizations in order to increase knowledge of various devices.</p>
 </div>
 
 <div id="NorthCarolina">
