@@ -894,7 +894,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Minnesota">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MINNESOTA</h2>
 
-<p><img alt="program logo" src="/assets/minnesota.jpg" style="width: 165px; height: 96px;" /></p>
+<p><img alt="Minnesota Dept of Administration Assitive Technology Star " src="/assets/mn.png" /></p>
 
 <p><strong>Lead Agency:</strong> Minnesota Department of Administration</p>
 
