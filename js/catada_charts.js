@@ -7,6 +7,9 @@ var reportType = null;
 var chartTitle = null;
 var formatVAxis = null;
 var tableStringContent = [];
+var numtableStringContent = [];
+var tableInsertContent = [];
+var useRawNum = false;
 var sheetName = [];
 var query = null;
 var tableDiv = null;
@@ -48,6 +51,13 @@ jQuery(document).ready(function() {
         jQuery('html, body').animate({
             scrollTop: jQuery("#chartTitle").offset().top
         }, 500);
+    });
+
+    jQuery('#switchTable').on('click', function() {
+        useRawNum =  useRawNum == true ? false : true;
+        console.log(useRawNum);
+
+        var redraw = drawSheetName();
     });
 
     jQuery("#clearForm").click(function() {
@@ -398,7 +408,7 @@ function drawSheetName() {
 
             case '3':
                 stringContent = "SELECT B,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AE > 0 ORDER BY A, E LIMIT 8";
-                // tableStringContent[0] = "SELECT A,E,AE,AA,AB,AC,AD WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
+                 numtableStringContent[0] = "SELECT A,E,AE,AA,AB,AC,AD WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AE,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AE > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
                 reportHeading[0] = "Device Demonstrations: Customer Satisfaction";
@@ -859,6 +869,7 @@ function drawSheetName() {
 
                 break;
         }
+        tableInsertContent = !useRawNum ? tableStringContent : numtableStringContent;
         var csvFileName = summReportChecked() == 'summary' ? reporttitle + '_for_' + yrsFilenm : reporttitle + '_in_' + statesFilenm + '_for_' + yrsFilenm;
         csvFileName = csvFileName.replace(/ /g, "_").replace(/,/g, "");
 
@@ -884,10 +895,10 @@ function drawSheetName() {
         updateSelectCount('state');
         updateSelectCount('year');
 
-        for (i = 0; i < tableStringContent.length; i++) {
+        for (i = 0; i < tableInsertContent.length; i++) {
 
 
-            queryStringTable = encodeURIComponent(tableStringContent[i]);
+            queryStringTable = encodeURIComponent(tableInsertContent[i]);
             queryTable = new google.visualization.Query(chartURL + '/gviz/tq?' + sheetName[i] + 'headers=1&tq=' + queryStringTable);
 
 
