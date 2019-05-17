@@ -63,6 +63,13 @@ jQuery(document).ready(function() {
         var redraw = drawSheetName();
     });
 
+    jQuery('input[name="dlChoose"]').on('click', function() {
+        var dlType = jQuery('input[name="dlChoose"]:checked').val();
+        useRawNum = dlType == 'Rawnumber' ? true : false;
+        var redraw = drawSheetName();
+
+    });
+
     jQuery("#clearForm").click(function() {
         jQuery('html, body').animate({
             scrollTop: jQuery("#chartTitle").offset().top
@@ -747,7 +754,7 @@ function drawSheetName() {
                 break;
 
 
-
+            // Download data
 
             case '30':
                 stringContent = null;
@@ -942,7 +949,8 @@ function drawSheetName() {
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         if(!jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').addClass('toggleShow');
-        if(reportchoice < '31' && ( reportchoice != '14' && reportchoice != '16' && reportchoice != '23')) {
+        if(reportchoice < 30 && ( reportchoice != 14 && reportchoice != 16 && reportchoice != 23)) 
+        {
             if (useRawNum) {
                 if(!jQuery('.switchNum.numOn').hasClass('toggleShow')) jQuery('.switchNum.numOn').addClass('toggleShow')
                 if(jQuery('.switchNum.percOn').hasClass('toggleShow'))jQuery('.switchNum.percOn').removeClass('toggleShow');
@@ -950,10 +958,17 @@ function drawSheetName() {
             {  if(!jQuery('.switchNum.percOn').hasClass('toggleShow')) jQuery('.switchNum.percOn').addClass('toggleShow')
                if(jQuery('.switchNum.numOn').hasClass('toggleShow'))jQuery('.switchNum.numOn').removeClass('toggleShow');
             }
-         } else 
+        } else if(reportchoice == 30)
+        {    if(jQuery('.switchNum.percOn').hasClass('toggleShow'))jQuery('.switchNum.percOn').removeClass('toggleShow');
+             if(jQuery('.switchNum.numOn').hasClass('toggleShow'))jQuery('.switchNum.numOn').removeClass('toggleShow');
+             if(!jQuery('.switchNum.dlChoice').hasClass('toggleShow')) jQuery('.switchNum.dlChoice').addClass('toggleShow')
+             
+        }
+        else 
          { 
              if(jQuery('.switchNum.percOn').hasClass('toggleShow'))jQuery('.switchNum.percOn').removeClass('toggleShow');
              if(jQuery('.switchNum.numOn').hasClass('toggleShow'))jQuery('.switchNum.numOn').removeClass('toggleShow');
+             if(jQuery('.switchNum.dlChoice').hasClass('toggleShow'))jQuery('.switchNum.dlChoice').removeClass('toggleShow');
          }
         if (summReportChecked() != 'download')  { if(!jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').addClass('toggleShow'); }
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");

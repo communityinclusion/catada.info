@@ -963,6 +963,7 @@ svg {cursor: pointer;}
   }
 	p.tableInstruct { margin-bottom: .4em; font-size: 95%;}
 	
-.switchNum.percOn,.switchNum.numOn,.switchNum.numOn.toggleHide,.switchNum.percOn.toggleHide,button#spreadDL,button#printButton {display: none;}
-.switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow { display: block;}
+.switchNum.percOn,.switchNum.dlChoice,.switchNum.numOn,.switchNum.numOn.toggleHide,.switchNum.percOn.toggleHide,button#spreadDL,button#printButton {display: none;}
+.switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow,.switchNum.dlChoice.toggleShow { display: block;}
+.switchNum button { margin: 16px; }
 
