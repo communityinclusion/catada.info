@@ -967,3 +967,5 @@ svg {cursor: pointer;}
 .switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow,.switchNum.dlChoice.toggleShow { display: block;}
 .switchNum button { margin: 16px; }
 
+#collapseSeven .card-body .col {padding-right: 10px; }
+
