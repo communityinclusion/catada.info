@@ -961,4 +961,8 @@ svg {cursor: pointer;}
 	color:darkslategray;
 	padding: 30px;
   }
-  p.tableInstruct { margin-bottom: .4em; font-size: 95%;}
+	p.tableInstruct { margin-bottom: .4em; font-size: 95%;}
+	
+.switchNum.percOn,.switchNum.numOn,.switchNum.numOn.toggleHide,.switchNum.percOn.toggleHide,button#spreadDL,button#printButton {display: none;}
+.switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow { display: block;}
+
