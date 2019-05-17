@@ -1053,7 +1053,10 @@ function handleChartDataQueryResponse(response) {
 
     var data = response.getDataTable();
     checkCount = countChecks();
-    if(checkCount > 10) return;
+    //if(checkCount > 10) {
+    //jQuery('#chart_div').empty();
+   // return; 
+   // }
     chartHeight = checkCount > 3 ? (checkCount > 5 ? '500' : '450') : '175';
     areaHeight = checkCount > 3 ? (checkCount > 5 ? '650' : '600') : '300';
     var groupWid = checkCount > 3 ? (checkCount > 5 ? '22' : '32') : '22';
@@ -1099,7 +1102,8 @@ function handleChartDataQueryResponse(response) {
     });
 
 
-    if(reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23') {
+    if(reportchoice != '14' && reportchoice != '16' && reportchoice != '9' && reportchoice != '11' && reportchoice != '23') 
+    {
         chart.draw(data, {
             hAxis: { format: formatVAxis,
             viewWindow:{
@@ -1122,7 +1126,9 @@ function handleChartDataQueryResponse(response) {
             isStacked: true,
             colors: ['#006e82', '#fae6be', '#00a0fa', '#8214a0', '#a0fa82', '#fa7850', '#005ac8', '#f0f032', '#0ab45a', '#000000']
         });
-    } else {
+    } else 
+    
+    {
         chart.draw(data, {
             hAxis: { format: formatVAxis,
 
@@ -1143,6 +1149,7 @@ function handleChartDataQueryResponse(response) {
         });
 
     }
+
     jQuery('#legend_div').append(legendHTML);
 }
 
