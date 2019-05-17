@@ -594,8 +594,8 @@ function drawSheetName() {
             case '23':
                 stringContent = null;
                 // stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
-                numtableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") WHERE AC > 0 ORDER BY A, E";
-                tableStringContent[0] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") WHERE AC > 0 ORDER BY A, E";
+                numtableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
+                tableStringContent[0] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rc_export_full&';
                 reportHeading[0] = "Financing that Reduces Cost: Dollar Value of Savings";
                 legendHTML = legendBuild(0);
@@ -702,7 +702,7 @@ function drawSheetName() {
                 sheetName[4] = 'sheet=x_rc_export_full&';
                 reportHeading[4] = "Financing that Reduces Cost: Type of AT";
                 //item 23
-                numtableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") WHERE AC > 0 ORDER BY A, E";
+                numtableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 tableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[5] = 'sheet=x_rc_export_full&';
                 reportHeading[5] = "Financing that Reduces Cost: Dollar Value of Savings";
@@ -837,8 +837,8 @@ function drawSheetName() {
                 sheetName[16] = 'sheet=x_rc_export_full&';
                 reportHeading[16] = "Financing that Reduces Cost: Type of AT";
                 //item 23
-                numtableStringContent[17] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") WHERE AC > 0 ORDER BY A, E";
-                tableStringContent[17] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") WHERE AC > 0 ORDER BY A, E";
+                numtableStringContent[17] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
+                tableStringContent[17] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E";
                 sheetName[17] = 'sheet=x_rc_export_full&';
                 reportHeading[17] = "Financing that Reduces Cost: Dollar Value of Savings";
                 //item 17
@@ -942,7 +942,7 @@ function drawSheetName() {
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         if(!jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').addClass('toggleShow');
-        if(reportchoice < '31') {
+        if(reportchoice < '31' && ( reportchoice != '14' && reportchoice != '16' && reportchoice != '23')) {
             if (useRawNum) {
                 if(!jQuery('.switchNum.numOn').hasClass('toggleShow')) jQuery('.switchNum.numOn').addClass('toggleShow')
                 if(jQuery('.switchNum.percOn').hasClass('toggleShow'))jQuery('.switchNum.percOn').removeClass('toggleShow');
@@ -950,6 +950,10 @@ function drawSheetName() {
             {  if(!jQuery('.switchNum.percOn').hasClass('toggleShow')) jQuery('.switchNum.percOn').addClass('toggleShow')
                if(jQuery('.switchNum.numOn').hasClass('toggleShow'))jQuery('.switchNum.numOn').removeClass('toggleShow');
             }
+         } else 
+         { 
+             if(jQuery('.switchNum.percOn').hasClass('toggleShow'))jQuery('.switchNum.percOn').removeClass('toggleShow');
+             if(jQuery('.switchNum.numOn').hasClass('toggleShow'))jQuery('.switchNum.numOn').removeClass('toggleShow');
          }
         if (summReportChecked() != 'download')  { if(!jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').addClass('toggleShow'); }
         if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
