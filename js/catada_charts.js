@@ -59,7 +59,6 @@ jQuery(document).ready(function() {
         useRawNum =  useRawNum == true ? false : true;
         //console.log(useRawNum);
         if(useRawNum == true) { if(!jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').addClass('toggleHide'); if(jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').removeClass('toggleHide'); jQuery('.numOn').addClass('toggleShow');} else { if(!jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').addClass('toggleHide'); if(jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').removeClass('toggleHide'); jQuery('.percOn').addClass('toggleShow');}
-
         var redraw = drawSheetName();
     });
 
@@ -361,6 +360,7 @@ function legendBuild(legendNum) {
 }
 
 function drawSheetName() {
+    
 
     if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summCategory"]:checked').val()) || clearAll) {
 
@@ -610,6 +610,7 @@ function drawSheetName() {
 
             case '24':
                 //item 1
+                stringContent = null;
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
@@ -1176,6 +1177,7 @@ function doQuery(q, i, reportHeader, reportchoice) {
 
     var tableTarget = 'table_div_' + i;
     var tableTitleTarget = 'table_div_' + i + '_title';
+    
     /* if(summReportChecked()) {
         jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h5><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h5>' );
         if(!jQuery('#' + tableTarget).hasClass('collapse'))jQuery('#' + tableTarget).addClass('collapse'); jQuery('#' + tableTarget).attr('aria-labelledby',tableTitleTarget).attr('data-parent','#summ_accordion').attr('aria-expanded',false);
