@@ -58,7 +58,12 @@ jQuery(document).ready(function() {
     jQuery('.switchNum button').on('click', function() {
         useRawNum =  useRawNum == true ? false : true;
         //console.log(useRawNum);
-        if(useRawNum == true) { if(!jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').addClass('toggleHide'); if(jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').removeClass('toggleHide'); jQuery('.numOn').addClass('toggleShow');} else { if(!jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').addClass('toggleHide'); if(jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').removeClass('toggleHide'); jQuery('.percOn').addClass('toggleShow');}
+        if(useRawNum == true) { 
+            if(!jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').addClass('toggleHide'); if(jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').removeClass('toggleHide'); jQuery('.numOn').addClass('toggleShow');
+        } else 
+        {
+             if(!jQuery('.numOn').hasClass('toggleHide')) jQuery('.numOn').addClass('toggleHide'); if(jQuery('.percOn').hasClass('toggleHide')) jQuery('.percOn').removeClass('toggleHide'); jQuery('.percOn').addClass('toggleShow');
+        }
         var redraw = drawSheetName();
     });
 
@@ -365,6 +370,7 @@ function drawSheetName() {
     if ((countChecks('state') != 0 && countChecks('year') != 0 && summReportChecked() != 'summary') || (summReportChecked() == 'summary' && jQuery('input[name="summCategory"]:checked').val()) || clearAll) {
 
         tableStringContent = [];
+        numtableStringContent = [];
         legendHTML = null;
 
         tableDiv = 0;
