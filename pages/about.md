@@ -26,7 +26,7 @@ permalink: /about/
 
 <p><strong>Daria Domin, MSW&nbsp;</strong><br />Email: <a href="mailto:daria.domin@umb.edu">daria.domin@umb.edu</a><a href="mailto:daria.domin@umb.edu">&nbsp;</a><br />Phone: 617-287-4277&nbsp;</p>
 
-<p><strong>Diane Cordry Golden, Ph.D.&nbsp;</strong><br />Email: <a href="mailto:Diane.golden@atap.org">Diane.golden@atap.org</a><a href="mailto:siane.golden@ataporg.org">&nbsp;</a><br />Phone: 816-616-7668&nbsp;</p>
+<p><strong>Diane Cordry Golden, Ph.D.&nbsp;</strong><br />Email: <a href="mailto:Diane.golden@atap.org">diane.golden@ataporg.org</a><a href="mailto:diane.golden@ataporg.org">&nbsp;</a><br />Phone: 816-616-7668&nbsp;</p>
 
  <hr />
 
