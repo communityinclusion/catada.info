@@ -636,8 +636,8 @@ function drawSheetName() {
             case '25':
                 stringContent = null;
                 // item 4
-                numtableStringContent[0] = "SELECT A,E,K,F,G,H,I,J WHERE (D = '" + statenames + "') AND (E = " + years + ") AND K > 0 ORDER BY A, E";
-                tableStringContent[0] = "SELECT A,E,K,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
+                numtableStringContent[0] = "SELECT A,E,T,F,G,H,I,J WHERE (D = '" + statenames + "') AND (E = " + years + ") AND K > 0 ORDER BY A, E";
+                tableStringContent[0] = "SELECT A,E,T,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans: Purpose of Loans";
                 // item 5
