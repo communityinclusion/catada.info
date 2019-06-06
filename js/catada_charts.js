@@ -956,7 +956,7 @@ function drawSheetName() {
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         if(!jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').addClass('toggleShow');
-        if(reportchoice < 30 && ( reportchoice != 14 && reportchoice != 16 && reportchoice != 23)) 
+        if(reportchoice < 30 && ( reportchoice != 9 && reportchoice != 11 && reportchoice != 14 && reportchoice != 16 && reportchoice != 23)) 
         {
             if (useRawNum) {
                 if(!jQuery('.switchNum.numOn').hasClass('toggleShow')) jQuery('.switchNum.numOn').addClass('toggleShow')
