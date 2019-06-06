@@ -961,4 +961,11 @@ svg {cursor: pointer;}
 	color:darkslategray;
 	padding: 30px;
   }
-  p.tableInstruct { margin-bottom: .4em; font-size: 95%;}
+	p.tableInstruct { margin-bottom: .4em; font-size: 95%;}
+	
+.switchNum.percOn,.switchNum.dlChoice,.switchNum.numOn,.switchNum.numOn.toggleHide,.switchNum.percOn.toggleHide,button#spreadDL,button#printButton {display: none;}
+.switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow,.switchNum.dlChoice.toggleShow { display: block; border-top: 1px solid #17a2b8;}
+.switchNum button { margin: 24px 16px 5px 16px;}
+#collapseSeven .card-body .col {padding-right: 10px; }
+
+
