@@ -605,7 +605,7 @@ function drawSheetName() {
             case '25':
                 stringContent = null;
                 // item 4
-                tableStringContent[0] = "SELECT A,E,K,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
+                tableStringContent[0] = "SELECT A,E,T,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans: Purpose of Loans";
                 // item 5
