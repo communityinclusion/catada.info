@@ -281,7 +281,7 @@ permalink: state.html
 
 <h3>Device Reutilization</h3>
 
-<p>The Connecticut Tech Act Project partners with the New England Assistive Technology Center (NEAT), which offers an Equipment Recycling Center where people can find used and refurbished durable medical equipment at a discounted price. The Connecticut Tech Act Project also offers online classifieds for assistive technology at www.getATstuff.com, where new and used assistive technology devices are posted online for sale or for free.</p>
+<p>The Connecticut Tech Act Project partners with the New England Assistive Technology (NEAT) Center to offer the Equipment Recycling Center where people can find used and refurbished durable medical equipment at deeply discounted prices.</p>
 
 <h3>Device Loan</h3>
 
