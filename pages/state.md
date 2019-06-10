@@ -347,15 +347,15 @@ permalink: state.html
 
 <h3>State Financing Activities</h3>
 
-<p>The Assistive Technology Financing Loan Program is a low-interest funding source for District of Columbia residents with disabilities and older adults to purchase assistive technology devices and services. Many different items are considered assistive technology, including hearing aids, communication devices, computers and specialized software, home modifications and more. Persons with disabilities and their family members, guardians or advocates living in the District of Columbia can apply to purchase assistive technology devices and services that will allow them to live independently at home, school, work or in the community.&nbsp;Individual loan amounts can range between $500 to 10,000 with a low 4% interest rate.</p>
+<p>The Assistive Technology Financing Loan Program (DC Fund$) is a low-interest funding source for District of Columbia residents with disabilities and older adults to purchase assistive technology devices and services. Many different items are considered assistive technology, including hearing aids, communication devices, computers and specialized software, home modifications and more. Persons with disabilities and their family members, guardians or advocates living in the District of Columbia can apply to purchase assistive technology devices and services that will allow them to live independently at home, school, work or in the community.&nbsp;Individual loan amounts can range between $500 to 10,000 with a low 4% interest rate.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>ATPDC manages the District of Columbia Disability Equipment Recycling Program (DC Shares). DC Shares recycles new and used assistive technology devices and durable medical equipment (DME), such as wheelchairs, walkers and bathroom equipment, and other similar devices to District of Columbia residents who are in need. The equipment is available at no cost, for District of Columbia residents with disabilities or those who have a dependent with a disability, regardless of their type of disability or age.</p>
+<p>ATPDC manages the District of Columbia Disability Equipment Recycling Program (DC Shares). DC Shares recycles new and used assistive technology devices and durable medical equipment (DME), such as wheelchairs, walkers and bathroom equipment, and other similar devices to District of Columbia residents who are in need and have an income of less than $20,000. The equipment is available at no cost, for District of Columbia residents with disabilities or those who have a dependent with a disability, regardless of their type of disability or age.</p>
 
 <h3>Device Loan</h3>
 
-<p>ATPDC operates an AT device loan program, which assists individuals with disabilities and professionals in decision making before the purchase of the equipment, accommodates interim needs for device repair or funding and other purposes, such as self-evaluation and training by clinicians to use a device to assess clients. The AT device loan program allows the end user to make informed choices to purchase the appropriate assistive technology devices to live independently.</p>
+<p>ATPDC operates an AT device loan program, which assists persons with disabilities and professionals in decision making before the purchase of the equipment, accommodates interim needs for device repair or funding and other purposes, such as self-evaluation and training by clinicians to use a device to assess clients. The equipment can be borrowed for up to four weeks. The AT device loan program allows the end user to make informed choices to purchase the appropriate assistive technology devices to live independently.</p>
 
 <h3>Device Demonstration</h3>
 
