@@ -704,7 +704,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Reutilization</h3>
 
-<p>The Assistive Technology Exchange List (ATEX) is a Web-based "classified" listing of AT devices offered for sale or donated by and for consumers. It also contains a list of AT that consumers need. It is maintained online at <a href="http://www.katsnet.org/services/reutilization/atex/%20">http://www.katsnet.org/services/reutilization/atex</a>. Additionally, the four Regional AT Resource Centers (ATRCs) of KATS operate AT reassignment programs for consumers. The amount of equipment available at one time is limited by donations and storage space. Most equipment is reassigned on an as-is basis.</p>
+<p>The Assistive Technology Exchange List (ATEX) is a Web-based "classified" listing of AT devices offered for sale or donated by and for consumers. It also contains a list of AT that consumers need. It is maintained online at <a href="http://www.katsnet.org/services/reutilization/atex/%20">http://www.katsnet.org/services/reutilization/atex</a>. Additionally, the five Regional AT Resource Centers (ATRCs) of KATS operate AT reassignment programs for consumers. The amount of equipment available at one time is limited by donations and storage space. Most equipment is reassigned on an as-is basis.</p>
 
 <h3>Device Loan</h3>
 
