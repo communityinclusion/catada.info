@@ -1586,7 +1586,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Leadership Activities</h3>
 
-<p>SCATP staff travels across the state to present, exhibit and train. Services are more accessible to people in rural settings via a toll-free number. SCATP is involved in helping state agencies implement accessible web pages. Public awareness activities include SCATP's annual statewide AT Expo, distributing program brochures, flyers and fact sheets to promote AT services.</p>
+<p>SCATP staff travels across the state to present, exhibit and train. Services are more accessible to people in rural settings via a toll-free number. SCATP is involved in helping state agencies implement accessible web pages. Technical assistance is provided to various agencies who help people with disabilities. Public awareness activities include SCATP's annual statewide AT Expo, distributing program brochures, flyers and fact sheets to promote AT services.</p>
 </div>
 
 <div id="SouthDakota">
