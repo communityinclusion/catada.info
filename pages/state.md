@@ -1252,15 +1252,15 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>NCATP claims flexibility for state financing activities. As described in Sec. 4(e)(6) of the AT Act, a state may carry out any two or more of the required state-level activities, meaning a state can choose not to conduct up to two activities.</p>
+<p>In 2017, NCATP partnered with the Self-Help Credit Union to initiate the alternative finance program in North Carolina.  The AFP program is operated by the Self-Help Credit Union and is the only AFP program managed by the financial institution.  NCATP works with individuals to ensure other funding streams are not available and that they have the opportunity to try items out before purchase, if at all possible.  Referrals comes from NCATP to the credit union.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>NCATP offers device reutilization through the Technology Exchange Post, which is a used equipment database to assist people with disabilities in obtaining used equipment at lower cost. The Exchange Post is similar to a "want ad" in that individuals list items they wish to sell. The NC Technology Exchange Post is a searchable website for use by all North Carolina residents.</p>
+<p>NCATP has small loan closets within several NCATP centers across the state.  We also partner with the centers for independent living, senior centers, and the states vocational rehabilitation program to identify items to be used in emergency situations.  In addition. The program maintains an Exchange Post that is distributed monthly across the state providing items individuals wish to donate and/or exchange for a reduced amount.</p>
 
 <h3>Device Loan</h3>
 
-<p>AT devices are loaned through 11 AT centers and one satellite location across the state. To find AT Center locations, go to the NCATP website: http://www.ncatp.org. NCATP has an extensive inventory of devices; these devices can be borrowed for a two-week period and the loan time can be extended if no one else is waiting. Satellite centers include independent living centers, VR centers, regional resource centers for the deaf and hard of hearing, Lee County Industries, Inc., and private physical rehabilitation centers.</p>
+<p>AT devices are loaned through 9 AT centers and one satellite location across the state. To find AT Center locations, go to the NCATP website: http://www.ncatp.org. NCATP has an extensive inventory of devices; these devices can be borrowed for a two-week period and the loan time can be extended if no one else is waiting. Satellite centers include independent living centers, VR centers, regional resource centers for the deaf and hard of hearing, Lee County Industries, Inc., and private physical rehabilitation centers.</p>
 
 <h3>Device Demonstration</h3>
 
