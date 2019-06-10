@@ -1244,7 +1244,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> North Carolina Department of Health and Human Services, Division of Vocational Rehabilitation Services</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.ncatp.org/">North Carolina Assistive Technology Program (NCATP)</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/north-carolina-assistive-technology-program">North Carolina Assistive Technology Program (NCATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/NC%20State%20Plan%20FY%202015.doc">Download the North Carolina State Plan FY2015 here.</a></p>
 
