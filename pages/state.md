@@ -1268,7 +1268,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Leadership Activities</h3>
 
-<p>NCATP cosponsored an annual two-day AT Expo and conference for 20 years and in 2011 decided to look at other options across the state based on feedback from individuals and upon receiving interest from service providers to co-sponsor events in different regions of NC. For 2011, NCATP is working with NCACA (North Carolina Augmentative Communication Association), New Voices Foundation, senior centers, the Division of Deaf and Hard of Hearing, Division of Vocational Rehabilitation Services and others to host events across the state. NCATP continues to collaborate with the Division of Aging and Adult Services, the Division of Mental Health/Developmental Disabilities/Substance Abuse, Division of Medical Assistance, Division of Deaf and Hard of Hearing Services, Services for the Blind and the Department of Public Instruction, the Office of Long Term Support, and with the Veterans Task Force, the NC CART (Center for Applied Rehabilitation Technology) program and the NC National Guard to pursue services with wounded veterans returning from conflict.</p>
+<p> In 2018, NCATP, along with several state partners, began hosting the one day AT Vendor Expo.  This is a one day event featuring AT and DME vendors and honoring AT users and professionals across the state.</p>
 </div>
 
 <div id="NorthDakota">
