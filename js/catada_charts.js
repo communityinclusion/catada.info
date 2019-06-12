@@ -405,7 +405,7 @@ function drawSheetName() {
         chartURL = 'https://docs.google.com/spreadsheets/d/1Zutzmq6IFxyHqOpwwjKqUeRhPt8WxY3a5TpvYdQYYf8';
         switch (reportchoice) {
             case '1':
-                stringContent = "SELECT B,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
@@ -414,7 +414,7 @@ function drawSheetName() {
                 break;
 
             case '2':
-                stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Z > 0 ORDER BY C LIMIT 8";
+                stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Z > 0 ORDER BY E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Z,R,S,T,U,V,W,X,Y WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Z,AQ,AR,AS,AT,AU,AV,AW,AX WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
@@ -423,7 +423,7 @@ function drawSheetName() {
                 break;
 
             case '3':
-                stringContent = "SELECT B,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AE > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AE > 0 ORDER BY  E DESC, A LIMIT 8";
                  numtableStringContent[0] = "SELECT A,E,AE,AA,AB,AC,AD WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AE,AY,AZ,BA,BB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dd_export_full&';
@@ -432,7 +432,7 @@ function drawSheetName() {
                 break;
 
             case '4':
-                stringContent = "SELECT B,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") AND T > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") AND T > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,T,F,G,H,I,J WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,T,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
@@ -440,7 +440,7 @@ function drawSheetName() {
                 legendHTML = legendBuild(3);
                 break;
             case '5':
-                stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ WHERE (D = '" + statenames + "') AND (E = " + years + ") AND W > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ WHERE (D = '" + statenames + "') AND (E = " + years + ") AND W > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,W,L,M,N,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,W,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ,BA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
@@ -449,7 +449,7 @@ function drawSheetName() {
                 break;
 
             case '6':
-                stringContent = "SELECT B,BB,BC,BD,BE,BF,BG,BH WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,BB,BC,BD,BE,BF,BG,BH WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AF > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AF,X,Y,Z,AA,AB,AC,AD,AE WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AF,BB,BC,BD,BE,BF,BG,BH,BI WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
@@ -458,7 +458,7 @@ function drawSheetName() {
                 break;
 
             case '7':
-                stringContent = "SELECT B,BJ,BK,BL,BM WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AK > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,BJ,BK,BL,BM WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AK > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AK,AG,AH,AI,AJ WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AK,BJ,BK,BL,BM WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
@@ -467,7 +467,7 @@ function drawSheetName() {
                 break;
 
             case '8':
-                stringContent = "SELECT B,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_de_export_full&';
@@ -477,7 +477,7 @@ function drawSheetName() {
 
             case '9':
                 stringContent = null;
-                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_de_export_full&';
@@ -486,7 +486,7 @@ function drawSheetName() {
                 break;
 
             case '10':
-                stringContent = "SELECT B,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
@@ -496,7 +496,7 @@ function drawSheetName() {
 
             case '11':
                 stringContent = null;
-                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
@@ -505,7 +505,7 @@ function drawSheetName() {
                 break;
 
             case '12':
-                stringContent = "SELECT B,AP,AQ,AR,AS WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AX > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AP,AQ,AR,AS WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AX > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AX,AT,AU,AV,AW WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AX,AP,AQ,AR,AS WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rrr_and_x_dr_sat_export_full&';
@@ -514,7 +514,7 @@ function drawSheetName() {
                 break;
 
             case '13':
-                stringContent = "SELECT B,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP,AQ WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_fl_export_full&';
@@ -524,7 +524,7 @@ function drawSheetName() {
 
             case '14':
                 stringContent = null;
-                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_fl_export_full&';
@@ -533,7 +533,7 @@ function drawSheetName() {
                 break;
 
             case '15':
-                stringContent = "SELECT B,AD,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AD,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,Q,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_sf_export_full&';
@@ -543,7 +543,7 @@ function drawSheetName() {
 
             case '16':
                 stringContent = null;
-                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY A, E LIMIT 8";
+                //stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") AND AC > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_sf_export_full&';
@@ -552,7 +552,7 @@ function drawSheetName() {
                 break;
 
             case '17':
-                stringContent = "SELECT B,K,L,M,N WHERE (D = '" + statenames + "') AND (E = " + years + ") AND J > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,K,L,M,N WHERE (D = '" + statenames + "') AND (E = " + years + ") AND J > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,J,F,G,H,I WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,J,K,L,M,N WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_fa_sat_export_and_summaries&';
@@ -561,7 +561,7 @@ function drawSheetName() {
                 break;
 
             case '18':
-                stringContent = "SELECT B,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND N > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") AND N > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,N,F,G,H,I,J,K,L,M WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,N,AH,AI,AJ,AK,AL,AM,AN,AO WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_ia_export_full&';
@@ -570,7 +570,7 @@ function drawSheetName() {
                 break;
 
             case '19':
-                stringContent = "SELECT B,AP,AQ,AR,AS,AT,AU,AV WHERE (D = '" + statenames + "') AND (E = " + years + ") AND W > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AP,AQ,AR,AS,AT,AU,AV WHERE (D = '" + statenames + "') AND (E = " + years + ") AND W > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,W,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,W,AP,AQ,AR,AS,AT,AU,AV,AW WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_ia_export_full&';
@@ -578,7 +578,7 @@ function drawSheetName() {
                 legendHTML = legendBuild(1);
                 break;
             case '20':
-                stringContent = "SELECT B,W,X,Y,Z,AA,AB,AC,AD,AE WHERE (D = '" + statenames + "') AND (E = " + years + ") AND O > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,W,X,Y,Z,AA,AB,AC,AD,AE WHERE (D = '" + statenames + "') AND (E = " + years + ") AND O > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT A,E,O,F,G,H,I,J,K,L,M,N WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,O,W,X,Y,Z,AA,AB,AC,AD WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_tp_export_full&';
@@ -587,7 +587,7 @@ function drawSheetName() {
                 break;
 
             case '21':
-                stringContent = "SELECT B,AF,AG,AH,AI,AJ WHERE (D = '" + statenames + "') AND (E = " + years + ") AND V > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AF,AG,AH,AI,AJ WHERE (D = '" + statenames + "') AND (E = " + years + ") AND V > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT  A,E,V,P,Q,R,S,T,U WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT  A,E,V,AF,AG,AH,AI,AJ,AK WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_tp_export_full&';
@@ -596,7 +596,7 @@ function drawSheetName() {
                 break;
 
             case '22':
-                stringContent = "SELECT B,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY A, E LIMIT 8";
+                stringContent = "SELECT B,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM WHERE (D = '" + statenames + "') AND (E = " + years + ") AND Q > 0 ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[0] = "SELECT  A,E,Q,F,G,H,I,J,K,L,M,N,O,P WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT  A,E,Q,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rc_export_full&';
@@ -606,7 +606,7 @@ function drawSheetName() {
 
             case '23':
                 stringContent = null;
-                // stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E LIMIT 8";
+                // stringContent = "SELECT B,R,S,T,U,V,W,X,Y,Z,AA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY  E DESC, A LIMIT 8";
                 numtableStringContent[5] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT  A,E,AC,R,S,T,U,V,W,X,Y,Z,AA,AB WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_rc_export_full&';
