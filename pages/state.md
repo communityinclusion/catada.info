@@ -514,7 +514,7 @@ permalink: state.html
 <div id="Iowa">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>IOWA</h2>
 
-<p><img alt="program logo" src="/assets/iowa.JPG" style="width: 153px; height: 153px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/iowa.JPG" /></p>
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
@@ -962,7 +962,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Mississippi">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MISSISSIPPI</h2>
 
-<p><img alt="program logo" src="/assets/mississippi.gif" style="width: 191px; height: 111px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/mississippi.png" /></p>
 
 <p><strong>Lead Agency:</strong> Mississippi Department of Rehabilitation Services</p>
 
@@ -1240,7 +1240,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NorthCarolina">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTH CAROLINA</h2>
 
-<p><img alt="program logo" src="/assets/northcarolina.jpg" style="width: 151px; height: 153px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/northcarolina.jpg" ></p>
 
 <p><strong>Lead Agency:</strong> North Carolina Department of Health and Human Services, Division of Vocational Rehabilitation Services</p>
 
