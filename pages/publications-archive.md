@@ -3,30 +3,49 @@ layout: default
 title: Publications Archive
 permalink: /publications-archive/
 ---
-
-
-
-
-
 <div class="container">
 	 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
+<div class="row">
+<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image ">
+								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/AT_Report_FY17_FinalAccessible_thumb.jpg"
+									alt="Card image" />
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2017
+								</h4>
+								<h5 class="card-subtitle mb-2 text-muted">Issue No. 10 - 2018</h5>
+								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive
+									Technology Programs’ FY 2017 data.
+								</p>
+								<a href="/assets/files/AT_Report_FY17_FinalAccessible.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+</div>
 
 <div class="row">
 	  	<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT_2016_thumb.jpg" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2015
 		  </h4>
@@ -44,17 +63,13 @@ permalink: /publications-archive/
 	  		<div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT_nationalreport_7.png" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2014
 		  </h4>
@@ -68,25 +83,19 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 	  	</div>
-
 	</div>
-
   	<div class="row">
 	  		<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT_Issue6_thumb.png" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2013
 		  </h4>
@@ -104,17 +113,13 @@ permalink: /publications-archive/
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT_Issue5_.png" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2012
 		  </h4>
@@ -128,25 +133,19 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 		</div>
-
 	</div>
-
   	<div class="row">
 	  		<div class="col-md-6 d-flex">
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT4_F_.png" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			State Improvement Initiatives Improve Access to Assistive Technology
 		  </h4>
@@ -164,17 +163,13 @@ permalink: /publications-archive/
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AnnualReportFY11_thumb.jpg" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2011
 		  </h4>
@@ -187,25 +182,19 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 		</div>
-
 	</div>
-
   	<div class="row">
 	  	<div class="col-md-6 d-flex">
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/ReUseBrief_thumb.jpg" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			Device Reutilization Programs
 		  </h4>
@@ -223,17 +212,13 @@ permalink: /publications-archive/
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
-
 <div class="col-md-3">
-
 			   <div class="image">
 				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/ATactbrief_accessible_final-1.png" alt="Card image" />
 				   </div>
 				   </div>
 <div class="col-md-9">
 				   <div class="content">
-
-
 		  <h4 class="card-title">
 			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2010
 		  </h4>
@@ -246,6 +231,5 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 		</div>
-
 	</div>
 </div>
