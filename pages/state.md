@@ -1911,7 +1911,7 @@ WEST VIRGINIA</div>
 
 <h3>State Financing Activities</h3>
 
-<p>Wisconsin is claiming comparability due to the existence of WisLoan, an alternative financing program that is operated by Independence First, a community-based organization.</p>
+<p>Wisconsin’s alternative finance program, WisLoan, is operated by IndepdendenceFirst, IndependenceFirst is one of Wisconsin’s Independent Living Centers (ILC). WisLoan is available to Wisconsin residents with disabilities and their families through the network of ILCs.</p>
 
 <h3>Device Reutilization</h3>
 
