@@ -37,11 +37,7 @@ Device Demonstrations
 </h5>
 <div class="card-body">
   <p class="card-text">Locating AT Post-Hurricane Matthew </p>
-  <p class="card-text">In August 2018, 17 months after Hurricane Matthew hit North Carolina, the North Carolina Assistive Technology Program (NCATP) got a call from NC Emergency Management regarding two hurricane survivors needing AT and durable medical equipment. The survivors needed a manual reclining wheelchair, a standing lift, an electric hospital bed, and a lift chair. Both individuals lived in the Roberson County area (a very rural portion of NC). 
-
-Frank Harden, NCATP’s reuse coordinator, contacted individuals across the state to locate the items needed. Within hours, he found a gentleman near Raleigh who had recently lost his wife from a lengthy illness. He wanted to donate durable medical equipment to the NCATP reuse program. The items to be donated were exactly the items needed by the two hurricane survivors. 
-
-NCATP arranged for pickup and delivery to the survivors, about 2 hours from Raleigh, and within 2 days of the original request, they had all the equipment they needed. </p>
+  <p class="card-text">In August 2018, 17 months after Hurricane Matthew hit North Carolina, the North Carolina Assistive Technology Program (NCATP) got a call from NC Emergency Management regarding two hurricane survivors needing AT and durable medical equipment. The survivors needed a manual reclining wheelchair, a standing lift, an electric hospital bed, and a lift chair. Both individuals lived in the Roberson County area (a very rural portion of NC). </p>                                                                             <p class="card-text">Frank Harden, NCATP’s reuse coordinator, contacted individuals across the state to locate the items needed. Within hours, he found a gentleman near Raleigh who had recently lost his wife from a lengthy illness. He wanted to donate durable medical equipment to the NCATP reuse program. The items to be donated were exactly the items needed by the two hurricane survivors. </p>                  <p class="card-text">NCATP arranged for pickup and delivery to the survivors, about 2 hours from Raleigh, and within 2 days of the original request, they had all the equipment they needed. </p>
 
 </div>
 
@@ -53,11 +49,7 @@ NCATP arranged for pickup and delivery to the survivors, about 2 hours from Rale
 </h5>
 <div class="card-body">
 
-  <p class="card-text">AT Devices to Help with Low Vision 
-
-Latrisa, a single mom, became partially blind in January 2017. She learned about the Louisiana Assistive Technology Access Network (LATAN), and became familiar with some assistive devices for vision, including an Amigo HD video magnifier and MAGic Screen Reading and Magnification Software. 
-
-Latrisa was able to use LATAN’s new AT Lease Program to help her to afford the devices she needed to see. She reported that being able to lease the devices allowed her a little freedom, and she was able to get a seasonal job with Amazon because she has this assistive technology. </p>
+<p class="card-text">AT Devices to Help with Low Vision </p>                                                                  <p class="card-text">Latrisa, a single mom, became partially blind in January 2017. She learned about the Louisiana Assistive Technology Access Network (LATAN), and became familiar with some assistive devices for vision, including an Amigo HD video magnifier and MAGic Screen Reading and Magnification Software.  </p>                                                                                                                                              <p class="card-text">Latrisa was able to use LATAN’s new AT Lease Program to help her to afford the devices she needed to see. She reported that being able to lease the devices allowed her a little freedom, and she was able to get a seasonal job with Amazon because she has this assistive technology. </p>
 
 </div>
 </div>
