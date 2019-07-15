@@ -3,21 +3,17 @@ layout: default
 title: Innovative Program Ideas
 permalink: /innovative-program-ideas/
 ---
-
 <div class="container">
   <div class="row">
 
  <div class="col-12">
-
-
 
 <div class="card">
 <h5 class="card-header">
 <img  style="width:75px;" src="/assets/community-living.png" alt-text="community living icon"/>Community Living
 </h5>
   <div class="card-body">
-  <p class="card-text">North Dakota AT Program staff commented on the proposed renewal of the Medicaid 1915(c) Home and Community-Based Services (HCBS) Medicaid waiver. The AT program requested that the waiver be amended to include AT evaluations under the Specialized Equipment (SE) and Environmental Modifications (EM) portions. The program also requested that the qualifications for those providing AT evaluations under the EM portion be changed.</p>
-  <p class="card-text">Due to these efforts, North Dakota Aging Services agreed to amend the HCBS Waiver. The waiver now includes a provision for AT evaluations under SE and EM. In addition, the requirements to be able to provide AT evaluations under the EM provision have changed. The documentation for the HCBS Medicaid Waiver for the Aged and Disabled is available at: <a href="http://www.nd.gov/dhs/policymanuals/52505/52505.htm">http://www.nd.gov</a>.</p>
+  <p class="card-text">The North Carolina Assistive Technology Program (NCATP) received a high-impact technology grant from the Christopher and Dana Reeves Foundation in 2018. These funds have been used to establish the NC RAMMP (Ramp Access Makes Mobile People) program, providing temporary portable ramps for individuals impacted by medical conditions or natural disasters. Policies, procedures, and leveraged funding have been developed ensuring the RAMMP program will continue following the one-year grant funding.</p>
 </div>
 </div>
 
@@ -34,8 +30,8 @@ permalink: /innovative-program-ideas/
 <img  style="width:75px;" src="/assets/employment.png" alt-text="Employment icon"/>Employment
 </h5>
   <div class="card-body">
-  <p class="card-text">The Workforce Innovation and Opportunity Act outlines service delivery with special attention to AT. The act specifically mandates collaboration between State AT Programs and Vocational Rehabilitation (VR) Services.</p>
-  <p class="card-text">Iowa State AT Program collaborated with Iowa VR, outlining how lives would be impacted by additional referral and engagement with one another’s services. This advocacy resulted in the creation of an AT leadership team at Iowa VR, comprised of ten staff members from across Iowa. AT staff provided AT training in the Assistive Technology Demonstration Center to the Iowa VR leadership team.</p>
+  <p class="card-text">Over this past year, Assistive Technology Program of Colorado (ATP) has worked tirelessly in meetings with the state’s Department of Vocational Rehabilitation (DVR) to establish a memorandum of understanding (MOU) regarding shared responsibilities and priorities around AT. The AT Program and the DVR have a renewed formal relationship and will work together to offer education to DVR counselors. The AT Program has already received increased referrals for clients needing AT assessments and device demonstrations as well as requests for training.</p>
+  <p class="card-text">The MOU outlines the process of referral for AT services and the responsibilities of both agencies to provide information and resources around AT with regard to device demonstrations, device loans, alternate financing, training, technical assistance, and information and referral. DVR will continue to serve on the AT Coalition, sit on the advisory board for the Colorado Technology Act Program, and collaborate with the AT Program.</p>
   </div>
   </div>
 
@@ -44,14 +40,14 @@ permalink: /innovative-program-ideas/
 <img  style="width:75px;" src="/assets/education-and-transition.png" alt-text="Education icon"/>Education & Transition
 </h5>
   <div class="card-body">
-  <p class="card-text">Arizona’s AT Program’s program director met with representatives from the Arizona Developmental Disabilities Planning Council. The goal was to explore strategies for strengthening collaboration between the organizations, and to ensure that Employment First initiatives address AT issues for high school students with disabilities as part of the transition process into post-secondary education, employment, and independent living. The AT program director now attends monthly Employment First meetings to provide input and recommendations.</p>
+  <p class="card-text">The Illinois Assistive Technology Program (IATP) introduced legislation to address how AT is incorporated into students’ Individualized Education Programs (IEPs). One bill requires that parents and guardians of students with IEPs will be informed about the availability of AT. If the IEP team determines the student does not need AT, parents will be given notification in writing of why that determination was made. They will also be given information about the IATP, including contact information. Additionally, the Illinois State Board of Education is developing guidance on how local districts can record unsuccessful AT trials in the IEP to inform future trials and exploration and support quality AT considerations.</p>
   </div>
   </div>
 
 <div class="card">
 <h5 class="card-header"><img  style="width:75px;" src="/assets/info-and-comm-tech.png" alt-text="Information and Communication Technology Accessibility icon"/>Information and Communication Technology Accessibility</h5>
   <div class="card-body">
-  <p class="card-text">As part of the implementation of Local Law 238, an AT specialist on information technology and computer access from Puerto Rico’s AT program conducted a series of training sessions on creating accessible documents at the University of Puerto Rico’s various campuses around the island. Additionally, AT staff provided individual support to professors, webmasters, and librarians on how to improve the accessibility of web pages and other online documents such as syllabi and presentations.</p>
+  <p class="card-text">Oklahoma ABLE Tech provides training and technical assistance on the accessibility of electronic and information technology (EIT) to all Oklahoma state agencies, higher education institutions, and the state’s Career and Technology Education system. With the recent changes to federal EIT standards, Oklahoma had to revise its state EIT standards to be in compliance. ABLE Tech worked closely with the Oklahoma Office of Management and Enterprise Services to revise Oklahoma’s EIT standards to meet the latest national guidelines for accessibility.</p>
 </div>
 </div>
 
@@ -72,4 +68,3 @@ permalink: /innovative-program-ideas/
 </div>
 </div>
 </div>
-
