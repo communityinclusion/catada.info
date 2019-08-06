@@ -967,5 +967,7 @@ svg {cursor: pointer;}
 .switchNum.numOn.toggleShow,.switchNum.percOn.toggleShow,button#spreadDL.toggleShow,button#printButton.toggleShow,.switchNum.dlChoice.toggleShow { display: block; border-top: 1px solid #17a2b8;}
 .switchNum button { margin: 24px 16px 5px 16px;}
 #collapseSeven .card-body .col {padding-right: 10px; }
-
+h3.disclaimHed {color: black; margin-top: 8px; margin-bottom: 0; font-size: 125%;}
+p.disclaimBody {line-height: .95em; }
+.disclaimBg { width: 100%; padding: 8px; background-color: #eee; margin-top: 70px; }
 
