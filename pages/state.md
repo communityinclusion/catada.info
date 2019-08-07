@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/arkansas.JPG" style="height: 146px; width: 146px; margin-left: 0px; margin-right: 0px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/ICAN_logo_.png" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
