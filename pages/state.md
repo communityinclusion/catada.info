@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN_logo_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\_logo\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -940,23 +940,23 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>MoAT implements three state financing activities. The Show-Me Loans program provides low-interest loans for vehicle access modifications, home access improvements, mobility equipment, sensory aids and other AT. Another program, "WorkAbility Loans" provides low-interest loans for Missourians with disabilities for equipment needed to telework. MoAT also implements the Kids Assistive Technology (KAT) program, which is a last resort AT funding option for families of children with disabilities under age 21.</p>
+<p>MoAT provides low interest financial loans so individuals have the opportunity to acquire needed assistive devices, equipment or modifications. Interest rates are between 2% and 4%. Four loan products are available: Show-Me loans, WorkAbility loans, Accessible Vehicle loans and Micro loans. Show-Me loans range from $500 to $15,000 and can be used for most types of AT devices and services including vehicle access modifications, home access improvements, mobility equipment, sensory aids, etc., WorkAbility loans provide financing for employment-based AT between $500 and $15,000, Accessible Vehicle loans for accessible or converted vehicles between $500 and $50,000, and Micro loans for AT or DME (including repairs or re-used devices) under $500. MoAT also provides additional programs to assist with the acquisition of AT at no cost to the consumer through governmental or grant funded activities.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>MoAT supports a network of device recycling programs at nine independent living centers throughout the state to provide recycled durable medical equipment, aids for daily living and other equipment. In addition, MoAT provides an online statewide equipment exchange program, Swap 'N Shop. The program allows prospective buyers to search listings of available equipment for sale throughout the state as well as in neighboring states.</p>
+<p>MoAT supports a statewide network of device recycling programs that provide gently used durable medical equipment and assistive devices to individuals and organizations at little to no cost. MoAT also operates an online equipment exchange program, Swap 'N Shop. The program allows prospective buyers to search listings of available equipment for sale throughout the state as well as in neighboring states.</p>
 
 <h3>Device Loan</h3>
 
-<p>MoAT operates the Equipment Technology Consortium (ETC), which is a statewide short-term assistive technology equipment loan program that allows individuals with disabilities to try out the equipment before purchasing decisions are made, for use during the time equipment is in repair, and for other short-term needs. Devices are shipped throughout the state at no cost to the recipients. An online catalogue is on the MoAT website showing a photo and basic information about available devices.</p>
+<p>MoAT provides short-term loans of AT devices to school districts, therapists, hospitals, government agencies and others. Device loans allow individuals to try out the equipment before purchasing decisions are made, for use during the time equipment is in repair, and for other short-term needs. Devices are shipped throughout the state at no cost to the recipient. An on-line catalog of devices available for loan is available.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>MoAT supports eight regional sites throughout the state to provide assistive technology demonstration programs. The programs provide individuals with disabilities, family members, professionals and others the opportunity to have guided demonstrations of a wide array of devices with the goal of helping individuals make informed and cost-effective decisions about AT device selection</p>
+<p>MoAT provides device demonstrations designed to help compare the features and benefits of various assistive devices. Over 1,500 devices are available for individuals with disabilities, family members, educators, employers and others to explore and make informed and cost-effective decisions about. Demonstrations are available in-house or through various partner organizations located across the state.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>MoAT provides customized training and technical assistance on accessible instructional materials, accessible information technology, employment, education, learning disabilities, transition, aging and many more topics.</p>
+<p>MoAT provides training for education, employment, community living and information technology and telecommunications professionals along with persons with disabilities and their family members. MoAT sponsors the Power Up conference each year that brings together AT experts, service providers, consumers and AT product vendors. Staff provide guidance and expertise to community and governmental organizations on assistive technology and related issues. Information and referral assistance on AT devices and services is available via email or a toll-free number.</p>
 </div>
 
 <div id="Mississippi">
