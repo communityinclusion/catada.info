@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Manual PDF"
         name: "add pdf"
         widget: "file"
-        default: "/assets/uploads/"
+        default:
         media_library:
         config:
         multiple: true
