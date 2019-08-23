@@ -20,9 +20,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Manual PDF"
-         name: "add pdf"
-         widget: "file"
-         default: "/assets/uploads/"
-         media_library:
-         config:
-         multiple: true
+        name: "add pdf"
+        widget: "file"
+        default: "/assets/uploads/"
+        media_library:
+        config:
+        multiple: true
