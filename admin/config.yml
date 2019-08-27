@@ -7,6 +7,10 @@ publish_mode: editorial_workflow
 
 # This line should *not* be indented
 media_folder: "assets/uploads" # Media files will be stored in the repo under assets/uploads
+media_library:
+  name: uploadcare
+  config:
+    publicKey: b4eee6647faad4f8ef79
 
 collections: # A list of collections the CMS should be able to edit
   - name: "page" # Used in routes, e.g. /admin/collections/blog
