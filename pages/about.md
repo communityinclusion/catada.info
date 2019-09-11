@@ -3,8 +3,10 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-<p>The Center for Assistive Technology Act Data Assistance provides technical assistance and support for State and Territory Assistive Technology (AT) Programs for collection, reporting, analysis and use of data reported under Section 4 of the AT Act. State AT programs focus on improving the provision of AT through comprehensive, statewide programs that are consumer responsive. The goal is to increase access to and acquisition of AT. Programs serve people with all types of disabilities, of all ages, in all environments. CATADA is collaborative project between the&nbsp;<a href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a>&nbsp;at UMass Boston, a&nbsp;<a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank" rel="noopener noreferrer">University Center for Excellence in Developmental Disabilities</a>&nbsp;and&nbsp;<a href="https://www.ataporg.org/" target="_blank" rel="noopener noreferrer">Association of Assistive Technology Act Programs (ATAP).</a>&nbsp;</p>
+<div class="container">
+  <div class="row">
+<div class="col-12">
+	<p>The Center for Assistive Technology Act Data Assistance provides technical assistance and support for State and Territory Assistive Technology (AT) Programs for collection, reporting, analysis and use of data reported under Section 4 of the AT Act. State AT programs focus on improving the provision of AT through comprehensive, statewide programs that are consumer responsive. The goal is to increase access to and acquisition of AT. Programs serve people with all types of disabilities, of all ages, in all environments. CATADA is collaborative project between the&nbsp;<a href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a>&nbsp;at UMass Boston, a&nbsp;<a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank" rel="noopener noreferrer">University Center for Excellence in Developmental Disabilities</a>&nbsp;and&nbsp;<a href="https://www.ataporg.org/" target="_blank" rel="noopener noreferrer">Association of Assistive Technology Act Programs (ATAP).</a>&nbsp;</p>
 
  <hr />
 
@@ -75,12 +77,12 @@ permalink: /about/
   </h5>
   <div class="card-body">
 
-
   <p class="card-text">CATADA is a project funded under grant # 90AN0001-01-00 by the U.S. Department of Health and Human Services Administration For Community Living (ACL).  The information on these web pages does not necessarily reflect the position or policy of ACL, ICI or ATAP and no official endorsement should be inferred.</p>
 
-    </div>
-
+  </div>
 
 </div>
 
-
+</div>
+</div>
+</div>
