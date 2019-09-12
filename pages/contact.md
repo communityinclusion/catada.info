@@ -9,8 +9,8 @@ permalink: /contact/
 
 <p>Have a question or need information? Contact Daria Domin at <a href="mailto:Daria.Domin@umb.edu">Daria.Domin@umb.edu</a>  </p>
 
-</div>
-</div>
-</div>
+![ACL](https://ucarecdn.com/2e0b17f1-29a9-49de-9259-57b15b8e5649/ "ACL")
 
-![ACL](https://ucarecdn.com/eb27f355-d3e6-43c0-9f85-e95412d3075b/ "ACL")
+</div>
+</div>
+</div>
