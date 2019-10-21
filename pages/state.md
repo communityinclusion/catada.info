@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN_logo_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\_logo\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1598,7 +1598,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Implementing Entity:</strong> Black Hills Special Services Cooperative (BHSSC)</p>
 
-<p><strong>Program Title:</strong> <a href="http://dakotalink.tie.net/content/default.htm">DakotaLink, South Dakota Assistive Technology Project</a></p>
+<p><strong>Program Title:</strong> <a href="http://dakotalink.net">DakotaLink, South Dakota Assistive Technology Project</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/SD%20State%20Plan%20FY%202015.doc">Download the South Dakota State Plan FY2015 here.</a></p>
 
