@@ -1382,9 +1382,9 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Oklahoma">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>OKLAHOMA</h2>
 
-<p><img alt="program logo" src="/assets/oklahoma.JPG" style="width: 179px; height: 83px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/abletech.png" style=" " /></p>
 
-![](/assets/uploads/oklahoma.png)
+
 
 <p><strong>Lead Agency:</strong> Oklahoma State University, Department of Wellness</p>
 
@@ -1592,7 +1592,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="SouthDakota">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>SOUTH DAKOTA</h2>
 
-<p><img alt="program logo" src="/assets/southdakota.gif" style="width: 200px; height: 42px;" /></p>
+<p><img alt="program logo" src="/assets/DakotaLink.jpg"  /></p>
 
 <p><strong>Lead Agency:</strong> South Dakota Department of Human Services, Division of Rehabilitation Services</p>
 
