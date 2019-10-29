@@ -26,7 +26,9 @@ permalink: /about/
 
 <p><strong>Daria Domin, MSW&nbsp;</strong><br />Email: <a href="mailto:daria.domin@umb.edu">daria.domin@umb.edu</a><a href="mailto:daria.domin@umb.edu">&nbsp;</a><br />Phone: 617-287-4277&nbsp;</p>
 
-<p><strong>Diane Cordry Golden, Ph.D.&nbsp;</strong><br />Email: <a href="mailto:diane.golden@ataporg.org">diane.golden@ataporg.org</a><a href="mailto:diane.golden@ataporg.org">&nbsp;</a><br />Phone: 816-616-7668&nbsp;</p>
+<p><strong>Diane Cordry Golden, Ph.D.&nbsp;</strong><br />Email: <a href="mailto:diane.golden@ataporg.org">dgolden@iltech.org</a><a href="mailto:diane.golden@ataporg.org">&nbsp;</a><br />Phone: 816-616-7668&nbsp;</p>
+
+<p><strong>Vance Dhooge&nbsp;</strong><br />Email: <a href="mailto:diane.golden@ataporg.org">vdhooge@iltech.org</a><a href="mailto:diane.golden@ataporg.org">&nbsp;</a><br />Phone: 217-522-7985&nbsp;</p>
 
  <hr />
 
@@ -77,7 +79,7 @@ permalink: /about/
   </h5>
   <div class="card-body">
 
-  <p class="card-text">CATADA is a project funded under grant # 90AN0001-01-00 by the U.S. Department of Health and Human Services Administration For Community Living (ACL).  The information on these web pages does not necessarily reflect the position or policy of ACL, ICI or ATAP and no official endorsement should be inferred.</p>
+  <p class="card-text">CATADA is a project funded under grant # 90AN0001-01-00 by the U.S. Department of Health and Human Services Administration For Community Living (ACL).  The information on these web pages does not necessarily reflect the position or policy of ACL, ICI, IATP or ATAP and no official endorsement should be inferred.</p>
 
   </div>
 
