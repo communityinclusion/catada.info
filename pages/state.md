@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\_logo\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\_logo\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1010,11 +1010,11 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>MATP secured funding for a new financial loan program in 2012. Its community partner, Rural Dynamics Inc., now operates the assistive technology financial loan program. The AT program continues to provide consulting support to RDI and promotes the program through outreach activities, information and assistance, and training.</p>
+<p>MonTECH and <a href="http://ruraldynamics.org/">Rural Dynamics</a> offer a financial loan program for those looking at affordable ways to finance assistive technology. Montana Assistive Technology Loans (MATL) offers Montanans with disabilities, or their family members, the ability to purchase assistive technology (AT), for a variety of needs.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>MATP offers a web-based equipment exchange program to connect buyers and sellers of used AT. As AT equipment inventory ages it is made available for long term loan. MATP also offers in-kind support to the Montana Adaptive Equipment Program, which purchases and recycles equipment for long-term equipment loans for eligible clients served by the Montana Developmental Disabilities Division.</p>
+<p>MonTECH hosts a reuse-exchange forum on our web site. Anyone can post a disability-related item to sell or give away. MonTECH posts older devices for re-use and long-term loans.</p>
 
 <h3>Device Loan</h3>
 
@@ -1022,7 +1022,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Demonstration</h3>
 
-<p>MATP has a demonstration site at the University of Montana Rural Institute in Missoula. MATP utilizes distance technologies to provide device demonstrations in the under-served locations of the state. MATP also has placed demonstration equipment and/or kits with partners throughout the state such as aging services, county extension offices, the state parent information center, Blind and Low Vision Services (BLVS), and vocational rehabilitation offices statewide. MATP contracts when necessary with other professionals to provide remote demonstration services in order to extend its device demonstration capabilities.</p>
+<p>MonTECH provides adaptive equipment and assistive technology (AT) device demonstrations for individuals and groups to trial numerous assistive technology and computer options. Demonstrations are available at the Missoula or Billings office as well as statewide by video conference.</p>
 
 <h3>State Leadership Activities</h3>
 
@@ -1383,8 +1383,6 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>OKLAHOMA</h2>
 
 <p><img alt="program logo" src="/assets/abletech.png" style=" " /></p>
-
-
 
 <p><strong>Lead Agency:</strong> Oklahoma State University, Department of Wellness</p>
 
