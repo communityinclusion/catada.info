@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\_logo\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\_logo\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1010,7 +1010,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>MonTECH and Rural Dynamics offer a financial loan program for those looking at affordable ways to finance assistive technology. Montana Assistive Technology Loans (MATL) offers Montanans with disabilities, or their family members, the ability to purchase assistive technology (AT), for a variety of needs.</p>
+<p>MonTECH and <a href="http://ruraldynamics.org/">Rural Dynamics</a> offer a financial loan program for those looking at affordable ways to finance assistive technology. Montana Assistive Technology Loans (MATL) offers Montanans with disabilities, or their family members, the ability to purchase assistive technology (AT), for a variety of needs.</p>
 
 <h3>Device Reutilization</h3>
 
