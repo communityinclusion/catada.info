@@ -56,10 +56,3 @@ Device Demonstrations
 <p class="card-text"><b>AT Devices to Help with Low Vision</b> </p>                                                   
 <p><img style="max-width:200px;" src="/assets/LA_State_Financing.jpg" alt="Latrisa using magnifier hardware" class="img-fluid float-left pb-2 pr-2">
 <p class="card-text">Latrisa, a single mom, became partially blind in January 2017. She learned about the Louisiana Assistive Technology Access Network (LATAN), and became familiar with some assistive devices for vision, including an Amigo HD video magnifier and MAGic Screen Reading and Magnification Software. </p>                                                                                                                                               <p class="card-text">Latrisa was able to use LATAN’s new AT Lease Program to help her to afford the devices she needed to see. She reported that being able to lease the devices allowed her a little freedom, and she was able to get a seasonal job with Amazon because she has this assistive technology. </p>
-
-</div>
-</div>
-
-</div>
-</div>
-</div>
