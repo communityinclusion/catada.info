@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Effective State Practices
+title: Innovative AT Practices
 permalink: /effective-state-practices/
 ---
 

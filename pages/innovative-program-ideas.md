@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innovative Program Ideas
+title: Initiatives from the Field
 permalink: /innovative-program-ideas/
 ---
 <div class="container">

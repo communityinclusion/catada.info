@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stories From the Field
+title: Consumer Stories
 permalink: /stories-from-the-field/
 ---
 <div class="container">
