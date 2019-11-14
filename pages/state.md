@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\_logo\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\_logo\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1706,23 +1706,27 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>UATP supports three different state financing activities: (1) low-interest loans in conjunction with the Utah Assistive Technology Foundation (UATF) and Zions Bank, (2) small business loans to expand or start a business for Utahns with disabilities is available in partnership with the Utah Microenterprise Loan Fund, and (3) Small grants up to $400 for individuals to purchase AT are available for Utahns with disabilities at 150% or below the poverty level.</p>
+<p>The Utah Assistive Technology Program (UATP) supports three different state financing activities: (1) low-interest loans in conjunction with the Utah Assistive Technology Foundation (UATF) and Zions Bank, (2) small business loans to start or expand a business is available in partnership with the Utah Microloan Fund (UMLF), and (3) small grants of up to $400 to purchase AT devices.  Grants are for Utahns with low income who are at or below 150% of federal poverty guidelines and have no other funding source.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>The program has two centers, the AT Lab (which provides AT demonstrations, training and device fabrication), and CReATE, which reutilizes and distributes mobility AT statewide by providing technical assistance in maintenance and repair, and device adaptation to community-based organizations.</p>
+<p>UATP has three locations: Logan, Salt Lake City and the Uintah Basin that provides device fabrication and reutilization of mobility AT. 
+
+UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individuals and agencies in the community.  We offer assistance in posting an item, but only provide the platform as a third party in the device exchange process.</p>
 
 <h3>Device Loan</h3>
 
-<p>The AT Lab serves as the UATP hub for device loan coordination activities. UATP works with six Centers for Independent Living (CIL) and the Utah Center for Assistive Technology and the Computer Center for Citizens with Disabilities to maintain a virtual program network statewide.</p>
+<p>The UATP lending library contains various types of AT that individuals can loan out for up to 60 days to determine if a particular AT device will adequately meet their need(s), or to meet a short-term need.  Agencies in the area that are familiar with the services that UATP provides will refer individuals to acquire a device for a short-term loan.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>Through training and technical assistance, UATP supports the state-funded Utah Center for Assistive Technology as a device demonstration center for individuals with disabilities, their family and providers to learn about a variety of AT solutions. UATP provides technical assistance to AT demonstration CIL centers.</p>
+<p>UATP provides device demonstrations for individuals with disabilities and family members across the life span. Demonstrations are done either in person or using various types of technology.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>UATP offers interactive online trainings statewide on AT devices and conducts technical assistance to providers in an effort to enhance expertise in providing consumer-responsive AT services. UATP staff participates on state-level boards, commissions and committees representing AT policy issues. All trainings are archived on our <a href="http://www.youtube.com/user/utahATprogram">YouTube channel</a> for public viewing.</p>
+<p>UATP offers interactive online trainings statewide on AT devices and conducts technical assistance to providers in an effort to enhance expertise in providing consumer-responsive AT services. UATP staff participate on state-level boards, commissions and committees representing AT policy issues. All trainings are archived on our <a href="http://www.youtube.com/user/utahATprogram">YouTube channel</a> for public viewing. UATP provides ICT training by collaborating with WebAIM, located at Utah State University in Logan Utah.</p>
+
+
 </div>
 
 <div id="VirginIslands">
