@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\_logo\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\_logo\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -566,7 +566,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Loan</h3>
 
-<p>The Idaho AT Project supports device lending \*or\* loans through our four AT Resource and Assistance Centers located throughout Idaho. These Centers are charged with supporting all stakeholders who need AT including a developmental toy loan program which ships items statewide at no cost. In addition, the Idaho AT Program partners with the Idaho Council for the Deaf and Hard of Hearing to support seven regionally based assistance centers focused on lending hearing assistance equipment.</p>
+<p>The Idaho AT Project supports device loans through our four AT Resource and Assistance Centers located throughout Idaho. These Centers are charged with supporting all stakeholders who need AT including a developmental toy loan program which ships items statewide at no cost. In addition, the Idaho AT Program partners with the Idaho Council for the Deaf and Hard of Hearing to support seven regionally based assistance centers focused on lending hearing assistance equipment.</p>
 
 <h3>Device Demonstration</h3>
 
