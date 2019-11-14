@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\_logo\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\_logo\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1948,11 +1948,11 @@ WEST VIRGINIA</div>
 
 <h3>Device Reutilization</h3>
 
-<p>WATR’s reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://www.wy.at4all.com/">www.wy.at4all.com</a></p>
+<p>WATR’s reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
 
 <h3>Device Loan</h3>
 
-<p>WATR's Device Loan Center offers a wide variety of assistive technology (AT) for Wyoming residents interested in borrowing a device or technology for trial. Loan periods are typically six weeks, and offer people the opportunity to try devices so that they may make educated decisions prior to a purchase. There are no fees involved. The only stipulation is that the borrower returns the device or technology at the end of the loan period to the WATR Device Loan Center in Laramie insured with the carrier in case there is loss or damage during transit.</p>
+<p>WATR's Device Loan Center offers a wide variety of assistive technology (AT) for Wyoming residents interested in borrowing a device or technology for trial. Loan periods are typically six weeks, and offer people the opportunity to try devices so that they may make educated decisions prior to a purchase. There are no fees involved. The only stipulation is that the borrower returns the device or technology at the end of the loan period to the WATR Device Loan Center in Laramie insured with the carrier in case there is loss or damage during transit. To view devices available for short-term loan, visit our website Wyoming AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
 
 <h3>Device Demonstration</h3>
 
