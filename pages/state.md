@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\_logo\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\_logo\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -558,23 +558,23 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>IATP operates the Idaho Assistive Technology Loan Fund, which offers loan guarantees to provide financial loans for the purchase of AT. IATP administers the fund while sharing responsibilities with three other entities: Zions First National Bank, Key Bank of Idaho and Idaho Community Foundation.</p>
+<p>Idaho Assistive Technology Project operates a low interest financial loan program, in which Idahoans can purchase AT. The Idaho AT Project provides oversight of the program and directly processes guarantees for consumers who do not meet our banking partners’ criteria for a loan. Zions Bank, KeyBank of Idaho, and Idaho Community Foundation are all collaborative partners in this program.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>IATP has a fully accessible Web-based equipment exchange program to increase the availability of used AT devices for persons with disabilities. An individual no longer in need of an AT device who wants to sell or give the device away can contact IATP through the website or existing toll-free telephone line and request to post an advertisement. There are a number of agencies, individuals, and centers who use the site. They include senior centers, office on aging regional offices, independent living centers, the Commission for the Blind, the State Department of Education, Idaho Department of Vocational Rehabilitation, and the assistance centers for the Idaho Council for the Deaf and Hard of Hearing.</p>
+<p>The Idaho AT Project has a fully accessible web-based equipment exchange program to increase access to “gently used” AT devices for persons with disabilities and older persons. An individual no longer in need of an AT device who would like to sell or give the device away can contact the AT Program through the website or toll-free telephone line to request permission to post an advertisement. There are a number of agencies, individuals, and centers who use the site including; senior centers, Idaho Area Agency on Aging regional offices, Independent Living Centers, the Idaho Commission for the Blind and Visually Impaired, the State Department of Education, Idaho Department of Vocational Rehabilitation, and the assistance centers for the Idaho Council for the Deaf and Hard of Hearing.</p>
 
 <h3>Device Loan</h3>
 
-<p>The IATP supports device loaning through resource and assistance centers throughout Idaho. There are four regional AT resource centers from where device loaning process emanates. These resource centers are charged with supporting all stakeholders who need AT including a developmental toy loan program, which ships items statewide at no cost. In addition, the IATP partners with the Idaho Council for the Deaf and Hard of Hearing to support seven regionally based assistance centers which focus on lending hearing assistance equipment.</p>
+<p>The Idaho AT Project supports device lending \*or\* loans through our four AT Resource and Assistance Centers located throughout Idaho. These Centers are charged with supporting all stakeholders who need AT including a developmental toy loan program which ships items statewide at no cost. In addition, the Idaho AT Program partners with the Idaho Council for the Deaf and Hard of Hearing to support seven regionally based assistance centers focused on lending hearing assistance equipment.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>IATP operates an AT demonstration program by assisting and supporting four regional AT resource centers, seven hearing assistance centers, and a network of Assistive Technology Professionals (ATPs) who lend their expertise to guide individuals through a comparison of devices.</p>
+<p>The Idaho AT Project operates an AT demonstration program through our 4 AT Resource and Assistance Centers, 7 hearing assistance centers, and our Assistive Technology Specialists (ATSs) and Assistive Technology Professionals (ATPs) who lend their expertise to guide individuals through a comparison of devices.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>IATP includes a staff of both fulltime and part-time individuals all of whom collaborate with four regional AT resource and seven hearing assistance centers as well as a network of ATPs. The IATP provides daily technical assistance, in addition to facilitating and conducting trainings on AT-related topics to a variety of stakeholders, including Universities in an effort to follow a training model which is not always in a position of "catching-up" on AT related topics through professional development. IATP fosters the previously mentioned activities and AT-related information and assistance to people of all ages and disabilities through the websites, social media, training materials, publications, online trainings and a twice yearly newsletter. In addition, IATP sponsors the annual Tools for Life conference held in collaboration with the Idaho Department of Education and the secondary transition task force. The IATP is also working collaboratively with the Department of Education to implement Accessible Instructional Materials (AIM) into the PreK12 environment. It is important to note, AIM as well as all other training and supports are being designed through the foundational Principles of Universal Design for Learning.</p>
+<p>The Idaho AT Project includes a staff of both full-time and part-time professionals all of whom work statewide, yet are affiliated with one of four regional AT resource and seven hearing assistance centers. In addition, we work closely with a network of ATPs located across Idaho. The Idaho AT Project provides daily technical assistance, in addition to facilitating and conducting trainings on AT-related topics to a variety of stakeholders, including pre-service practitioners in universities and in-service practitioners as well. The Idaho AT Program fosters the previously mentioned activities and AT-related information and assistance to people of all ages and disabilities through websites, social media, training materials, publications, online trainings and a twice-yearly newsletter. In addition, IATP sponsors the annual Tools for Life conference held in collaboration with Idaho Vocational Rehabilitation, the Idaho Department of Education, Idaho Department of Labor, Idaho Health and Welfare, and the Idaho Interagency on Secondary Transition. The Idaho AT Program is also working collaboratively with the Department of Education to implement Accessible Educational Materials (AEM) into the Pre-K12 environment. It is important to note, AEM as well as all other training and supports are being designed through the foundational Principles of Universal Design for Learning. Further, we work closely with our partners in Independent Living and Idaho Commission on Aging as well as our Area Agencies on Aging. </p>
 </div>
 
 <div id="Illinois">
@@ -1725,7 +1725,6 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 <h3>State Leadership Activities</h3>
 
 <p>UATP offers interactive online trainings statewide on AT devices and conducts technical assistance to providers in an effort to enhance expertise in providing consumer-responsive AT services. UATP staff participate on state-level boards, commissions and committees representing AT policy issues. All trainings are archived on our <a href="http://www.youtube.com/user/utahATprogram">YouTube channel</a> for public viewing. UATP provides ICT training by collaborating with WebAIM, located at Utah State University in Logan Utah.</p>
-
 
 </div>
 
