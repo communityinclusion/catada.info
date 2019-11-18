@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\_logo\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\_logo\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1188,7 +1188,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Reutilization</h3>
 
-<p>NMTAP operates a device recycling/repair program that allows individuals to receive free donated used equipment that is refurbished directly by NMTAP.</p>
+<p>New Mexico operates a device recycling/repair program that allows individuals with disabilities to participate in educational, employment or community activities. NMTAP provides used medical equipment through <a href="http://www.tap.gcd.state.nm.us/device-reutilization/">Back in Use</a> and refurbished computers through the <a href="http://www.tap.gcd.state.nm.us/device-reutilization/"> DiverseIT</a> programs. DiverseIT also provides low cost computer repairs or training for individuals with disabilities, including our aging population. NMTAP contracts with a nonprofit organization, Adelante Development Center, for both of these reutilization initiatives.</p>
 
 <h3>Device Loan</h3>
 
