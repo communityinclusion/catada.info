@@ -1200,7 +1200,11 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Leadership Activities</h3>
 
-<p>NMTAP conducts an annual AT conference and vendor fair that provides a host of training sessions for a variety of audiences. NMTAP also collaborates with the Public Education Department, Division of Vocational Rehabilitation; the University of New Mexico; and professional associations on technology conferences and related events.</p>
+<p>New Mexico conducts training on AT devices and services through a two-day Assistive Technology Conference (ATC), as well as several partial day workshops in rural areas of the state. These events are conducted annually to increase the knowledge of devices and services of individuals with disabilities and related professionals that work with them.  NMTAP also participates in many transition fairs as well as other conferences and events to provide information on their services. They also provide this information directly to individual groups or agencies, often creating on-going working relationships to better serve individuals with disabilities, veterans or our aging population. NMTAP offers organizations or agencies assistance with making their services accessible to individuals with disabilities.</p>
+
+<h3>AgrAbility Services</h3>
+
+<p>NMTAP is a partner of the New Mexico AgrAbility Project offering individual and worksite assessments to farmers and ranchers statewide.  This includes recommendations on AT or adapted farming practices that allow continued or increased food production, as well as referrals to many resources.  On-going case-management support is offered to these food producing individuals and families. Training on AT, modified farming techniques or second injury prevention are also offered statewide several times a year. This <a href="http://www.tap.gcd.state.nm.us/agrability/">NMTAP AgrAbility </a> service is currently offered through August 2022 through a grant provided to New Mexico State University by the United States Department of Agriculture.</p>
 </div>
 
 <div id="NewYork">
