@@ -1192,7 +1192,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Loan</h3>
 
-<p>Our device loan program offers teachers, therapists, case managers and DVR counselors the opportunity to try out assistive devices/software with students/clients prior to purchase. We work closely with schools, universities, agencies, and counselors to identify and try out the most practical and efficient technology solutions that match the user's needs. You may download our application from our <a href="http://www.tap.gcd.state.nm.us/">website</a> for services or call to inquire how you can access our ABLE Device Loan Program services. The ABLE Device Loan Program inventory is updated regularly and posted in accessible formats on our website.</p>
+<p>New Mexico provides device loans to individuals with disabilities, teachers, therapists, case managers, vocational rehabilitation counselors or other advocates to try out assistive devices/software prior to purchase. Device loans serve primarily as a trial of equipment prior to purchasing, but are accessed also as a temporary replacement of a device in repair, or a short term accommodation allowing independent completion of activities in daily school, work, or home life.  NMTAP provides temporary device loans statewide through two satellite offices and the FedEx mail system. Up-to-date inventory and the required paperwork can be accessed through the <a href="http://www.tap.gcd.state.nm.us/device-loans/">NMTAP Device Loan</a> website page.</p>
 
 <h3>Device Demonstration</h3>
 
