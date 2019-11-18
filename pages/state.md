@@ -1935,7 +1935,7 @@ WEST VIRGINIA</div>
 <div id="Wyoming">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WYOMING</h2>
 
-<p><img alt="" height="100" src="/assets/wyoming.jpg" width="294" /></p>
+<p><img alt="WIND"  src="/assets/files/WIND_Logo.png"  /></p>
 
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
