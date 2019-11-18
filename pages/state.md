@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\_logo\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\_logo\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1184,7 +1184,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>New Mexico has three state financing activities. The NMTAP Financial Loan Program (Title 1) provides guaranteed loans to individuals with disabilities for assistive technology purchases. The Telework Loan Program, <a href="http://www.sjci.org/procurement-and-access-loan-ne">New Mexico SeedLoans</a>, buys down interest rates and guarantees loans with US Bank to help persons with disabilities that are seeking loans to help them with a home based business or self employment. The program is administered by the Technology Loan Council TLC). The Last Resort Fund (Assistive Technology Community Partnership) is a cooperative program between NMTAP and nonprofit organizations to purchase Assistive Technology (AT) devices for individuals who have no other funding options.</p>
+<p>New Mexico currently has three state financing activities. The New Mexico Technology Assistance Program (NMTAP) <a href="http://www.tap.gcd.state.nm.us/financial-loans/access-loan-new-mexico/"> Access Loan </a> Program (Title 1) provides guaranteed loans to individuals with disabilities for assistive technology purchases. The <a href="http://www.tap.gcd.state.nm.us/financial-loans/new-mexico-seed-loan-program">SEED Loan</a> (Telework Loan Program) provides guaranteed loans for equipment to persons with disabilities who are entrepreneurs with a home based business. The program is administered by the Technology Loan Council TLC. The AT Community Fund (Last Resort Fund) is a cooperative program between NMTAP and several nonprofit organizations to purchase Assistive Technology (AT) devices for individuals who have no other funding options. NMTAP contracts with a non-profit organization, San Juan Center for Independence, for all of the financial loan programs.</p>
 
 <h3>Device Reutilization</h3>
 
