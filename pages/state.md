@@ -1694,7 +1694,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Utah">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>UTAH</h2>
 
-<p><img alt="program logo" src="/assets/utah.jpg" style="width: 153px; height: 156px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/files/UATPcolor.jpg" /></p>
 
 <p><strong>Lead Agency:</strong> Utah State University, Center for Persons with Disabilities</p>
 
