@@ -1904,7 +1904,7 @@ WEST VIRGINIA</div>
 <div id="Wisconsin">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WISCONSIN</h2>
 
-<p><img alt="" height="58" src="/assets/WisTech_Final.png" style="border-width: 1px; border-style: solid;" width="201" /></p>
+<p><img alt="WisTech"  src="/assets/WisTech-Logo-RGB.jpg" style="border-width: 1px; border-style: solid;"  /></p>
 
 <p><strong>Lead Agency:</strong> Wisconsin Department of Health Services</p>
 
