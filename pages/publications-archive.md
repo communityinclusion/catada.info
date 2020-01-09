@@ -35,7 +35,35 @@ permalink: /publications-archive/
 </div>
 
 <div class="row">
-	  	<div class="col-md-6 d-flex">
+
+<div class="col-md-6 d-flex">
+			<div class="card bg-light">
+		  	<div class="card-body">
+		<div class="row">
+<div class="col-md-3">
+			   <div class="image">
+				   <img  class="img-fluid" src="/assets/catada_pub_thumbs/AT_Report_FY16_finalAccessible_thumb.jpg" alt="Card image" />
+				   </div>
+				   </div>
+<div class="col-md-9">
+				   <div class="content">
+		  <h4 class="card-title">
+			A National Data Summary of State Assistive Technology Programs: Fiscal Year 2016
+		  </h4>
+		   <h5 class="card-subtitle mb-2 text-muted">Issue No. 9 - 2017</h5>
+		  <p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2016 data.
+		  </p>
+		  <a href="/assets/files/ATReportFY16_finalAccessible.pdf" class="btn btn-primary">View PDF</a>
+		</div>
+</div>
+	  </div>
+	  </div>
+		</div>
+		</div>
+
+
+
+<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
@@ -83,9 +111,8 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 	  	</div>
-	</div>
-  	<div class="row">
-	  		<div class="col-md-6 d-flex">
+	
+<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
@@ -133,9 +160,8 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 		</div>
-	</div>
-  	<div class="row">
-	  		<div class="col-md-6 d-flex">
+
+<div class="col-md-6 d-flex">
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
@@ -182,9 +208,8 @@ permalink: /publications-archive/
 	  </div>
 		</div>
 		</div>
-	</div>
-  	<div class="row">
-	  	<div class="col-md-6 d-flex">
+	
+  	<div class="col-md-6 d-flex">
 			  <div class="card bg-light">
 		  	<div class="card-body">
 		<div class="row">
@@ -232,4 +257,5 @@ permalink: /publications-archive/
 		</div>
 		</div>
 	</div>
+
 </div>
