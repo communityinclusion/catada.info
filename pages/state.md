@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\_logo\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -594,23 +594,23 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>IATP implements a statewide Alternative Financing Program (AFP) and Access to Telework Loan Program. Both program components offer a preferred interest rate, extended repayment plans, and/or relaxed credit standards.</p>
+<p>IATP conducts a Financial Loan Program that includes funding for assistive technology devices and services, home modifications, and credit builder loans. Eligible applicants for all financial loan options are individuals with disabilities and their family members, guardians, advocates, and authorized representatives who are residents of the State of Illinois. Interested individuals should contact the program for more information. IATP also conducts a Fast Track Buying Program for the Illinois Department of Human Services, Division of Vocational Rehabilitation as a cost savings measure for the state and to provide Vocational Rehabilitation customers with streamlined access to the AT needed to support their employment opportunities.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>IATP's reutilization program, AT Classifieds, is designed as an accessible online AT exchange that assists consumers of AT to buy, sell or donate pieces of used AT equipment.</p>
+<p>The Reuse Program accepts assistive technology and durable medical equipment that is lightly used and in good working condition and that is no longer needed or used by its original owner. The equipment is checked for safe operation, sanitized, inventoried, and then made available to others who can’t afford to purchase a new device. The equipment can be borrowed on a short term basis for a temporary need or as an open-ended loan that can be kept until no longer needed.</p>
 
 <h3>Device Loan</h3>
 
-<p>There are currently over 2,000 devices in IATP's inventory available for loan up to five weeks. The devices are assembled and shipped out to the borrower anywhere in the state. The expense to ship AT to a borrower is covered by the program. Return shipping expenses are the responsibility of the borrower.</p>
+<p>The main purpose of the device loan program is to provide an opportunity to try out assistive technology devices in order to make an informed decision prior to purchasing the device. It helps borrowers to ensure it is their preferred option and will work in the environments where it is needed. Equipment can also be borrowed when needed as a temporary back-up device, while awaiting funding approval, or as a short term accommodation. All loans are made for a five-week time period. IATP covers the cost of outgoing shipping and the borrower is responsible for costs associated with its safe return. IATP also operates a device loan program established through support from the Illinois State Board of Education and whose inventory is dedicated to Illinois school districts.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>IATP operates an AT Device Demonstration Center in Springfield, Il, which contains an accessible kitchen, bathroom and other "rooms" featuring workplace technologies, sensory aids, adapted toys and switches, aids for daily living, and augmentative communication devices. IATP transports AT devices to another location if a consumer cannot get to Springfield.</p>
+<p>Demonstrations enable participants to compare and contrast the features and benefits of devices so they can make an informed decision as to what would best meet their needs. IATP’s AT Demonstration Center located in Springfield includes a comprehensive display and inventory of assistive technology devices. The Center has eight accessible rooms; four are organized by environment and include a bedroom, bathroom, kitchen, and office; and four are organized by functional use and include communication, vision, daily living, and toys and sensory. For those who cannot visit the Center, demonstrations are provided offsite. In addition, some agency partners have been provided with demonstration kits.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>IATP conducts AT training statewide and works with agencies to customize workshops to meet AT needs in such areas as older adults, early intervention, education, employment, and activities of daily living. IATP uses a multifaceted approach (mailings, Internet, exhibits, presentations, and trainings) to increase awareness about assistive technology devices and services. IATP provides information and assistance statewide through its toll-free numbers and produces a quarterly newsletter, TechTalk, which has a distribution of over 8,200 individuals. IATP continues to coordinate and collaborate with public and private agencies on activities that improve access to and funding for assistive technology devices and services statewide.</p>
+<p>IATP provides in-depth technical assistance and coordinates and collaborates with state agencies and disability organizations statewide to improve and expand policies and practices that provide greater access to and funding for AT. The program conducts comprehensive statewide trainings and works with agencies to customize workshops to better serve individuals of all ages in all environments including education, employment, and community living. IATP uses a multifaceted approach for outreach efforts (mailings, Internet, exhibits, presentations, newsletter, and trainings) to increase awareness about assistive technology devices and services. The program also provides information and assistance statewide through its toll-free numbers and email.</p>
 </div>
 
 <div id="Indiana">
