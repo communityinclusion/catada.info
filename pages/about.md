@@ -91,9 +91,12 @@ permalink: about/
   <div class="col-md-9">
     <h3><a href="https://www.iltech.org/">IATP</a></h3>
 
-    <p>The Illinois Assistive Technology Program is the non-profit organization designated as the Statewide AT Program
-      funded under the Assistive Technology Act of 1998, as amended. IATP’s lead agency is the Illinois Department of
-      Human Services, Division of Rehabilitation Services.</p>
+```
+<p>The Illinois Assistive Technology Program is the non-profit organization designated as the Statewide AT Program
+  funded under the Assistive Technology Act of 1998, as amended. IATP’s lead agency is the Illinois Department of
+  Human Services, Division of Rehabilitation Services.</p>
+```
+
   </div>
 </div>
 <hr />
@@ -111,4 +114,3 @@ permalink: about/
   </div>
 
 </div>
-
