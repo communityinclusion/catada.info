@@ -83,7 +83,7 @@ permalink: /catada-publications/
 									Annual Report to Congress on the <em>Assistive Technology Act of 1998</em>, as
 									Amended, for FY 2016
 								</h4>
-								<h5 class="card-subtitle mb-2 text-muted">Issue No. 8 - 2016</h5>
+								<h5 class="card-subtitle mb-2 text-muted"></h5>
 								<p class="card-text">Statewide AT programs are required by law to collect data on their
 									activities and provide annual progress reports to ACL. This report is a compilation
 									of data for FY 2016 and contains information about the activities of the statewide
