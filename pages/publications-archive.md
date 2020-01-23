@@ -258,4 +258,37 @@ permalink: /publications-archive/
 		</div>
 	</div>
 
+<h2 class="block-heading"><span>Annual Report to Congress</span></h2>
+<div class="row">
+<div class="col-md-6 d-flex">
+			<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image">
+								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/ATReport_to_congressFY15_6_14_thumb.jpg"
+									alt="Card image" />
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+									Annual Report to Congress on the <em>Assistive Technology Act of 1998</em>, as
+									Amended, for FY 2015
+								</h4>
+								<p class="card-text">Statewide AT programs are required by law to collect data on their
+									activities and provide annual progress reports to ACL. This report is a compilation
+									of data from these programs for FY 2015 and contains information about the
+									activities of the statewide AT programs.
+								</p>
+								<a href="/assets/files/AT_Report_to_Congress_Final.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
 </div>
