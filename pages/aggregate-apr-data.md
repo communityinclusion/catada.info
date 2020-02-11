@@ -3,15 +3,13 @@ layout: default
 title: Aggregate APR Data 2018
 permalink: /aggregate-apr-data/
 ---
-
 <div class="container">
   <div class="row">
 
  <div class="col-12">
 
-
 <p>These national activity reports were generated from Fiscal year 2018 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
-<p><a href="#to2017">See below</a> for FY 2017 aggregate reports.</p>
+<p><a href="#to2017">See below</a> for archived aggregate reports.</p>
 <h2>State - Level Activity Data</h2>
 <div><a href="/assets/aggr_reports18/Device Demo.html">Device Demonstration</a></div>
 <div><a href="/assets/aggr_reports18/Device%20Loan.html">Device Loan</a></div>
@@ -33,7 +31,7 @@ permalink: /aggregate-apr-data/
 <div><a href="/assets/aggr_reports18/Consumer%20Satisfaction.html">Consumer Satisfaction</a></div>
 <div>&nbsp;</div>
 <h2>Leveraged Funding Data</h2>
-<div><a href="/assets/aggr_reports18/Leveraged%20Funds.html">Leveraged Funds</a></div><div><h4 style="margin-top: 20px">2017 APR Reports</h4><p id="to2017"><a href="/aggregate-apr-data-2017">Here are aggregate APR data reports from FY 2017.</a></p></div>
+<div><a href="/assets/aggr_reports18/Leveraged%20Funds.html">Leveraged Funds</a></div><div><h4 style="margin-top: 20px">Archived APR Reports</h4><p id="to2017"><a href="/aggregate-apr-data-2017">Here are archived aggregate APR data reports.</a></p></div>
 
 </div>
 </div>
