@@ -9,7 +9,7 @@ permalink: /aggregate-apr-data-2017/
 
  <div class="col-12">
 
-<p>This is last year's APR data.  <a href="/aggregate-apr-data">Back to current APR reports.</a></p>
+<p>This is 2017 APR data.  <a href="/aggregate-apr-data">Back to current APR reports.</a></p>
 <p>These national activity reports were generated from FY17 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
 <h2>State - Level Activity Data</h2>
 <div><a href="/assets/aggr_reports17/Device Demonstration%20AGG%202017.html">Device Demonstration</a></div>
