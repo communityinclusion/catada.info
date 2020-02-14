@@ -31,7 +31,7 @@ permalink: /aggregate-apr-data/
 <div><a href="/assets/aggr_reports19/Consumer%20Satisfaction.html">Consumer Satisfaction</a></div>
 <div>&nbsp;</div>
 <h2>Leveraged Funding Data</h2>
-<div><a href="/assets/aggr_reports19/Leveraged%20Funds.html">Leveraged Funds</a></div><div><h4 style="margin-top: 20px">Archived APR Reports</h4><p id="to2018"><a href="/aggregate-apr-data-2018">Here are archived aggregate APR data reports from 2018.</a><p id="to2017"><a href="/aggregate-apr-data-2017">Here are archived aggregate APR data reports from 2017.</a></p></div>
+<div><a href="/assets/aggr_reports19/Leveraged%20Funds.html">Leveraged Funds</a></div><div><h4 style="margin-top: 20px">Archived APR Reports</h4><p id="to2018"><a href="/aggregate-apr-data-2018">Here are archived aggregate APR data reports from 2018.</a></p><p id="to2017"><a href="/aggregate-apr-data-2017">Here are archived aggregate APR data reports from 2017.</a></p></div>
 
 </div>
 </div>
