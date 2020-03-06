@@ -7,7 +7,8 @@ permalink: /federal-reporting-forms/
   <div class="row">
 <div class="col-12">
 
-Federal Reporting Requirements 2020
+<p><a href="/assets/files/Federal_Reporting_Requirements Table_2020.docx" target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> Federal Reporting Requirements 2020</a>&nbsp;</p>
+
 
 <p><a href="/assets/files/Classification_of_AT_Devices Taxonomy_Aug_2019.docx" target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> Classification of AT Devices</a>&nbsp;</p>
 
