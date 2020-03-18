@@ -7,7 +7,7 @@ permalink: /training-materials/
   <div class="row">
 <div class="col-12">
 <h2 class="block-heading"><span>Conference Materials</span></h2>
-<p><a href="assets/Anecdotes-Slides.pptx"><i class="fas fa-file-powerpoint" aria-hidden="true">&nbsp;</i>Slides on how to create a quality anecdote. \\[PPTX]</a>&nbsp;<em>Developed by PIAT to help explain the critical component of a quality anecdote, these slides include a quiz format that provides examples of stories with good content and narratives that are not complete or quality anecdotes. Modify these slides to best meet your needs.</em></p>
+<p><a href="/assets/files/Anecdotes%20Slides.pptx"><i class="fas fa-file-powerpoint" aria-hidden="true">&nbsp;</i>Slides on how to create a quality anecdote. [PPTX]</a>&nbsp;<em>Developed by PIAT to help explain the critical component of a quality anecdote, these slides include a quiz format that provides examples of stories with good content and narratives that are not complete or quality anecdotes. Modify these slides to best meet your needs.</em></p>
 
 <h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 
