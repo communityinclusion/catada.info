@@ -371,7 +371,7 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="/assets/florida.png" style="height: 131px; width: 175px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/FAAST-1.png" style="" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
