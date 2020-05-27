@@ -6,7 +6,8 @@ permalink: /publications-archive/
 <div class="container">
 	 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
 <div class="row">
-<div class="card bg-light">
+	<div class=" d-flex">
+			<div class="card bg-light">
 				<div class="card-body">
 					<div class="row">
 						<div class="col-md-3">
@@ -32,6 +33,8 @@ permalink: /publications-archive/
 					</div>
 				</div>
 			</div>
+		</div>
+
 </div>
 
 <div class="row">
