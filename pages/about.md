@@ -42,29 +42,7 @@ permalink: about/
 <div class="row">
   <div class="col-md-3">
 
-  <a href="https://www.ataporg.org"><img class="img-fluid"
-        style="padding-right:10px;padding-bottom:10px; width:200px;" src="/assets/ATAPLogoClear.png"
-        alt="atap logo" /></a>
 
-  </div>
-  <div class="col-md-9">
-    <h3><a href="https://www.ataporg.org">ATAP</a> </h3>
-
-<p>The Association of Assistive Technology Act Programs (ATAP) is a national, member-based non-profit organization, comprised of state Assistive Technology Act Programs funded under the Assistive Technology Act (AT Act). </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-3">
-<a href="https://www.at3center.net/home"><img class="img-fluid" style="padding-right:10px;padding-bottom:10px; "
-        src="/assets/AT3_EO.gif" alt="at3 logo" /></a>
-
-  </div>
-  <div class="col-md-9">
-    <h3><a href="https://www.at3center.net/home">AT3 </a></h3>
-<p>The purpose of the AT3 Center is to provide training and technical assistance for all AT Act Section 4 State and
-      Territory Assistive Technology Programs and to support a national internet site that makes general AT information
-      available to the public and other stakeholders. </p>
   </div>
 </div>
 <br />
