@@ -9,7 +9,7 @@ permalink: about/
   Section 4 of the AT Act. State AT programs focus on improving the provision of AT through comprehensive, statewide
   programs that are consumer responsive. The goal is to increase access to and acquisition of AT. Programs serve people
   with all types of disabilities, of all ages, in all environments. CATADA is collaborative project between the <a
-    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a> at UMass Boston, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer">Illinois Assistive Technology Program (IATP)</a>, <a href="https://www.at3center.net/home" target="_blank" rel="noopener noreferrer">Assistive Technology Act Technical Assistance and Training (AT3) Center</a>, and <a href="https://www.ataporg.org/" target="_blank" rel="noopener noreferrer">Association of Assistive Technology Act Programs (ATAP)</a>.</p>
+    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a> at UMass Boston, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and the <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer"> Illinois Assistive Technology Program (IATP)</a>.</p>
 
 <hr />
 
