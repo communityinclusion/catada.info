@@ -79,9 +79,6 @@ permalink: about/
 
 <h2>Other Resources </h2>
 
-<div class="row">
-  <div class="col-md-3">
-
   </div>
   <div class="col-md-9">
     <h3><a href="https://www.ataporg.org">ATAP</a> </h3>
@@ -90,7 +87,6 @@ permalink: about/
   </div>
 </div>
 
-  
   <div class="col-md-9">
     <h3><a href="https://www.at3center.net/home">AT3 </a></h3>
 <p>The purpose of the AT3 Center is to provide training and technical assistance for all AT Act Section 4 State and
