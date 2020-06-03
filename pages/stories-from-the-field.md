@@ -35,7 +35,6 @@ Device Demonstrations
 	
 <p class="card-text"><b>Emma and the Double Robot</b></p>                                                      
 
-
 <p class="card-text">Emma is a 13-year-old who is not able to attend her local public school and interact with her peers because of her disability. Bartlesville Public Schools (BPS) borrowed the Double Robot from Oklahoma ABLE Tech. The robot is a telepresence tool that allowed Emma to have access to the classroom and her peers while at home. </p>              <p class="card-text">The Double Robot enabled Emma to attend and participate fully in her core classes and receive live instruction. It has been so well received that BPS Foundation submitted a grant proposal to pilot a Double Robot for the next school year.</p>                                                                                         
 
 </div>
@@ -60,6 +59,6 @@ Device Demonstrations
 </h5>
 <div class="card-body">
 
-<p class="card-text"><b>AT Devices to Help with Low Vision</b> </p>                                                   
-<p><img style="max-width:200px;" src="/assets/LA_State_Financing.jpg" alt="Latrisa using magnifier hardware" class="img-fluid float-left pb-2 pr-2">
-<p class="card-text">Latrisa, a single mom, became partially blind in January 2017. She learned about the Louisiana Assistive Technology Access Network (LATAN), and became familiar with some assistive devices for vision, including an Amigo HD video magnifier and MAGic Screen Reading and Magnification Software. </p>                                                                                                                                               <p class="card-text">Latrisa was able to use LATAN’s new AT Lease Program to help her to afford the devices she needed to see. She reported that being able to lease the devices allowed her a little freedom, and she was able to get a seasonal job with Amazon because she has this assistive technology. </p>
+<p class="card-text"><b>Cutler Shares His Words</b> </p>                                                   
+
+<p class="card-text">Cutler received his device through the AT reimbursement program that provides supplemental funding for schools to purchase AT needed by students. Cutler quickly learned how to independently navigate his device installed with the Prologue2Go app. He wasted no time adding phrases to help him express his thoughts. </p>                                                                                                                                               <p class="card-text">His device helped Cutler shine as a writer. He is now completing worksheets he previously didn’t do and proudly displaying his work along with his classmates’ in the hallway. Cutler’s parents and educators report that he made gains this year that would not have been possible without this assistive technology. </p>
