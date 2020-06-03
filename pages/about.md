@@ -9,7 +9,7 @@ permalink: about/
   Section 4 of the AT Act. State AT programs focus on improving the provision of AT through comprehensive, statewide
   programs that are consumer responsive. The goal is to increase access to and acquisition of AT. Programs serve people
   with all types of disabilities, of all ages, in all environments. CATADA is collaborative project between the <a
-    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a> at UMass Boston, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer">Illinois Assistive Technology Program (IATP)</a>, <a href="https://www.at3center.net/home" target="_blank" rel="noopener noreferrer">Assistive Technology Act Technical Assistance and Training (AT3) Center</a>, and <a href="https://www.ataporg.org/" target="_blank" rel="noopener noreferrer">Association of Assistive Technology Act Programs (ATAP)</a>.</p>
+    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a> at UMass Boston, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and the <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer"> Illinois Assistive Technology Program (IATP)</a>.</p>
 
 <hr />
 
@@ -42,29 +42,6 @@ permalink: about/
 <div class="row">
   <div class="col-md-3">
 
-  <a href="https://www.ataporg.org"><img class="img-fluid"
-        style="padding-right:10px;padding-bottom:10px; width:200px;" src="/assets/ATAPLogoClear.png"
-        alt="atap logo" /></a>
-
-  </div>
-  <div class="col-md-9">
-    <h3><a href="https://www.ataporg.org">ATAP</a> </h3>
-
-<p>The Association of Assistive Technology Act Programs (ATAP) is a national, member-based non-profit organization, comprised of state Assistive Technology Act Programs funded under the Assistive Technology Act (AT Act). </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-3">
-<a href="https://www.at3center.net/home"><img class="img-fluid" style="padding-right:10px;padding-bottom:10px; "
-        src="/assets/AT3_EO.gif" alt="at3 logo" /></a>
-
-  </div>
-  <div class="col-md-9">
-    <h3><a href="https://www.at3center.net/home">AT3 </a></h3>
-<p>The purpose of the AT3 Center is to provide training and technical assistance for all AT Act Section 4 State and
-      Territory Assistive Technology Programs and to support a national internet site that makes general AT information
-      available to the public and other stakeholders. </p>
   </div>
 </div>
 <br />
@@ -91,11 +68,31 @@ permalink: about/
   <div class="col-md-9">
     <h3><a href="https://www.iltech.org/">IATP</a></h3>
 
-    <p>The Illinois Assistive Technology Program is the non-profit organization designated as the Statewide AT Program
-      funded under the Assistive Technology Act of 1998, as amended. IATP’s lead agency is the Illinois Department of
-      Human Services, Division of Rehabilitation Services.</p>
+```
+<p>The Illinois Assistive Technology Program is the non-profit organization designated as the Statewide AT Program
+  funded under the Assistive Technology Act of 1998, as amended. IATP’s lead agency is the Illinois Department of
+  Human Services, Division of Rehabilitation Services.</p>
+```
+
   </div>
 </div>
+
+<h2>Other Resources </h2>
+
+  
+  <div class="col-md-9">
+    <h3><a href="https://www.ataporg.org">ATAP</a> </h3>
+
+<p>The Association of Assistive Technology Act Programs (ATAP) is a national, member-based non-profit organization, comprised of state Assistive Technology Act Programs funded under the Assistive Technology Act (AT Act). </p>
+  </div>
+
+
+  <div class="col-md-9">
+    <h3><a href="https://www.at3center.net/home">AT3 </a></h3>
+<p>The purpose of the AT3 Center is to provide training and technical assistance for all AT Act Section 4 State and
+      Territory Assistive Technology Programs and to support a national internet site that makes general AT information
+      available to the public and other stakeholders. </p>
+
 <hr />
 
 <div class="card">
@@ -111,4 +108,3 @@ permalink: about/
   </div>
 
 </div>
-
