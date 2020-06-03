@@ -15,15 +15,8 @@ Device Demonstrations
 <div class="card-body">
 		
 
-  <p class="card-text"><b>Ken: Choosing the Right UTV  </b></p>
+  <p class="card-text"><b>Ken: Choosing the Right UTV </b></p>    
   <p class="card-text">Ken, a farmer in western Kansas who is a double lower leg amputee, needed to figure out what utility vehicle (UTV) would work for him so he could continue to spray weeds on his farm, check fence line, and monitor his livestock. Assistive Technology for Kansans (ATK) staff wanted to demonstrate multiple UTVs without requiring Ken to make trips to different vendors. </p>                                                                                                 <p class="card-text">ATK staff organized an event with commercial dealers of four different types of UTVs. At the event, ATK staff and Ken compared features of the different vehicles, their load beds, and spraying options. This information will be part of the recommendations to Ken’s vocational rehabilitation (VR) counselor.</p><p class="card-text">Six other ATK customers, four VR counselors, a VR regional manager, and 50 community members attended the event, along with 11 vendors from four states. Several vendors noted that this opened a new market for them as they learned to discuss features of their products that are relevant to people with disabilities. One presenter told ATK staff that having the support of the sign language interpreters helped him interact with all members of his audience.</p>
-  </div>
-  </div>
-
-  <p class="card-text"><b>Ahmed: AT for Gaming </b></p>  
-  <p class="card-text">Making video games accessible allows young people with disabilities to engage with their peers in new ways. A team from the New England AT Center (NEAT Center) worked with Ahmed, a 15-year-old who was looking for better ways to game despite the challenges of Duchenne Muscular Dystrophy. </p>         <p class="card-text">Ahmed uses a power wheelchair and has limited mobility in his arms. He can hold a typical game controller and access all of its buttons, but experiences hand fatigue when playing for long periods or physically demanding games.</p>
-
- <p class="card-text">As part of the demo, NEAT Center staff looked at Ahmed’s physical positioning when he plays and tried a few low-tech solutions to make playing more comfortable and ergonomic. They explored in-system accessibility features to revamp Ahmed’s controller. Lastly, they did a demo of a specialized adapted controller and it completely changed his game play.</p><p class="card-text">Ahmed agreed that the adapted controller would meet his needs and he was referred to our lending library to borrow the device until he can get one of his own.</p>
   </div>
   </div>
 
