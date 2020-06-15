@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -804,23 +804,23 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Maryland operates two financial loan programs that help consumers afford AT. These financial loan programs provide low-interest loans through the AT Loan Program and WorkABILITY Loan Program. Additionally, MDTAP helps support an Assistive Technology Cooperative Buying program that provides discounts on AT products for individuals, families and education entities.</p>
+<p>Maryland operates the Assistive Technology Financial Loan Program to help consumers afford AT. This loan fund provides low-interest loans for the purchase of assistive technology, home modifications, and vehicles. Additionally, MDTAP supports activities of the statewide assistive technology cooperative buying program, AT Discount Sales and Services, which provides discounts on AT products for individuals, families, organizations, state agencies, and education entities.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>Maryland supports durable medical equipment recycling programs that provide equipment to individuals with disabilities who have low incomes and are uninsured or underinsured. Maryland maintains an <a href="http://www.equipmentlink.org">online equipment exchange website</a> to serve as an online classified ads for those who want to buy, sell, donate, or borrow AT.</p>
+<p>Maryland conducts multiple device reuse programs, including an online <a href="https://www.facebook.com/groups/443254832860014/">Facebook exchange website</a> for consumers to buy, sell, and donate AT directly. MDTAP also runs the Maryland Assistive Technology Reuse Center, a high-tech AT reuse center where we refurbish higher tech AT devices (such as video magnifiers, communication devices, computer peripherals, and more) and donate these items back out to consumers.</p>
 
 <h3>Device Loan</h3>
 
-<p>MD TAP runs an Equipment Demonstration &amp; Loaner Library, lending equipment to schools and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more.</p>
+<p>MD TAP runs three Equipment Demonstration & Loaner Libraries, lending equipment to schools, organizations, agencies, and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>Two AT demonstration sites are located within the state to allow for individuals with disabilities to receive information and try out a variety of AT. Additional demonstrations are provided off-site when individuals are unable to travel to a demonstration center and for group presentations.</p>
+<p>Three AT demonstration sites are located within the state to allow for individuals with disabilities to receive information and try out a variety of AT. Additional demonstrations are provided off-site when individuals are unable to travel to a demonstration center and for group presentations. MDTAP also provides virtual AT consultations and demonstrations when appropriate.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>MD TAP provides workshops on a variety of topics relevant to AT and implements a multifaceted public awareness approach. MDTAP also provides technical assistance for implementation of the state's information technology non-visual access policy, provides resources on state agency website evaluations for accessibility.</p>
+<p>MDTAP provides workshops on a variety of topics relevant to AT and implements a multifaceted public awareness approach. MDTAP provides technical assistance for implementation of the state's information technology non-visual access policy, provides evaluations of state agency websites for accessibility, and collaborates with state procurement officers to ensure greater acquisition & implementation of accessible products.</p>
 </div>
 
 <div id="Massachusetts">
