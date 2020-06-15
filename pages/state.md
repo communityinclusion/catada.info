@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1080,23 +1080,23 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Nevada offers a statewide financial loan program, the CARE Loan Fund Program, to help people with disabilities purchase AT devices. The loan program is a partnership between NATC, CARE Chest and Nevada State Bank. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. A statewide AT purchasing program for independent living, the Assistive Technology for Independent Living program (AT/IL) provides AT to assist a person to live more independently. AT/IL provides devices, home, and vehicle modifications not offered through other funding sources, i.e., Medicaid, insurance, VR or education.</p>
+<p>Nevada has two programs that fall under State Financing Activities.  **First,** Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  **Second,** the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
 
 <h3>Device Reutilization</h3>
 
-<p>NATC provides support to an extensive equipment-recycling program in the northern part of the state with CARE Chest. Donated equipment is tested, repaired and sanitized before being offered for use. In addition, NATC has started the Nevada Assistive Technology Exchange (NATE) to offer a resource to list AT statewide including devices for reutilization. Both AT/IL program sites also have small reutilization closets for devices donated to the program.</p>
+<p>NATC’s community partner CARE Chest of Sierra Nevada has maintained a robust equipment-reuse program for nearly 30 years.  Gently used devices are inspected, perhaps minor repairs, and sanitized before being offered for reuse. The reuse programs provide access to wheelchairs, shower chairs, walkers, canes and much more.  Equipment is sanitized using the best of equipment and care.  What is available is only dependent on what has been donated and is capable of being used by someone else.</p>
 
 <h3>Device Loan</h3>
 
-<p>NATC community partners Easter Seals of Southern Nevada in Las Vegas and University of Nevada- Reno's NCED AT Resource Center in Reno offer short-term device loans. Devices are limited to the items on hand; however, the list of devices continues to expand. Devices loans are typically two weeks in duration. The AT is loaned at no charge. Individuals with disabilities, family members and service providers can borrow AT.</p>
+<p>NATC’s community partner is the Nevada Assistive Technology Resource Center (NATRC). The NATRC is based at the University of Nevada Reno’s Nevada Center for Excellence in Disabilities (NCED). The NATRC provides statewide services as part of the NATC. The NATC offers short-term device loans statewide. The NATC has a wide variety of AT available from low tech to high tech.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>NATC community partners Easter Seals of Southern Nevada in Las Vegas and University of Nevada Reno's NCED AT Resource Center in Reno offer device demonstration. Through community partners NATC provides an opportunity for individuals to compare the features and benefits of a particular AT device or devices, hands-on, with knowledgeable AT specialists. Individuals with disabilities, family members and service providers can visit the sites, or make arrangements for off-site demonstrations. The State Financed AT/IL programs coordinate demonstrations for AT when available through vendors and/or Reutilized AT.</p>
+<p>NATC’s community partner is the Nevada Assistive Technology Resource Center (NATRC).  The NATRC is based at the University of Nevada Reno’s Nevada Center for Excellence in Disabilities (NCED).  The NATRC provides statewide services as part of the NATC.  Device demonstrations provider the opportunity for individuals or groups to compare the features and benefits of AT device(s), hands-on, with knowledgeable AT specialists. Individuals with disabilities, family members and service providers can visit the site or plan for off-site demonstrations. People that participated in the AT/IL program (under state financing activities) are engaged with demonstrations whenever it is possible to do so.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>NATC community partners with the University of Nevada-Reno's NCED AT Resource Center and Easter Seals Southern Nevada (ESSN) to provide workshops and presentations to increase individual awareness of AT. NATC provides technical assistance statewide to ensure that AT resources are available and maximized.</p>
+<p>NATC’s community partner is the Nevada Assistive Technology Resource Center (NATRC). The NATRC is based at the University of Nevada Reno’s Nevada Center for Excellence in Disabilities (NCED). The NATRC is primary provider of State Leadership Activities statewide. Although all NATC community partners provide information and assistance and public awareness for the services available. NATC services are coordinated to increase individual awareness of and access to Assistive Technology in the State of Nevada. It is our intent that by contacting the NATC and community partners you will be able be able to make more informed decisions on the AT that you need as well as the resources and options available to you to obtain the AT.</p>
 </div>
 
 <div id="NewHampshire">
