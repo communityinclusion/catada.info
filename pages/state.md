@@ -796,7 +796,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> Maryland Department of Disabilities</p>
 
-<p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Technology Assistance Program (MD TAP)</a></p>
+<p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Technology Assistance Program (MDTAP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/MD%20State%20Plan%20FY%202015.doc">Download the Maryland State Plan FY2015 here.</a></p>
 
@@ -812,7 +812,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Loan</h3>
 
-<p>MD TAP runs three Equipment Demonstration & Loaner Libraries, lending equipment to schools, organizations, agencies, and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more.</p>
+<p>MDTAP runs three Equipment Demonstration & Loaner Libraries, lending equipment to schools, organizations, agencies, and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more.</p>
 
 <h3>Device Demonstration</h3>
 
