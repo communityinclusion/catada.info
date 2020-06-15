@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -339,7 +339,7 @@ permalink: state.html
 
 <p><strong>Implementing Entity:</strong> University Legal Services</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">Assistive Technology Program for the District of Columbia (ATPDC)</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">DC Assistive Technology Program (ATPDC)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/DC%20State%20Plan%20FY%202015.doc">Download the District of Columbia State Plan FY2015 here.</a></p>
 
