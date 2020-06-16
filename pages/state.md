@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -339,7 +339,7 @@ permalink: state.html
 
 <p><strong>Implementing Entity:</strong> University Legal Services</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">DC Assistive Technology Program (ATPDC)</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">DC Assistive Technology Program (DCATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/DC%20State%20Plan%20FY%202015.doc">Download the District of Columbia State Plan FY2015 here.</a></p>
 
@@ -351,19 +351,19 @@ permalink: state.html
 
 <h3>Device Reutilization</h3>
 
-<p>ATPDC manages the District of Columbia Disability Equipment Recycling Program (DC Shares). DC Shares recycles new and used assistive technology devices and durable medical equipment (DME), such as wheelchairs, walkers and bathroom equipment, and other similar devices to District of Columbia residents who are in need and have an income of less than $20,000. The equipment is available at no cost, for District of Columbia residents with disabilities or those who have a dependent with a disability, regardless of their type of disability or age.</p>
+<p>DCATP manages the District of Columbia Disability Equipment Recycling Program (DC Shares). DC Shares recycles new and used assistive technology devices and durable medical equipment (DME), such as wheelchairs, walkers and bathroom equipment, and other similar devices to District of Columbia residents who are in need and have an income of less than $20,000. The equipment is available at no cost, for District of Columbia residents with disabilities or those who have a dependent with a disability, regardless of their type of disability or age.</p>
 
 <h3>Device Loan</h3>
 
-<p>ATPDC operates an AT device loan program, which assists persons with disabilities and professionals in decision making before the purchase of the equipment, accommodates interim needs for device repair or funding and other purposes, such as self-evaluation and training by clinicians to use a device to assess clients. The equipment can be borrowed for up to four weeks. The AT device loan program allows the end user to make informed choices to purchase the appropriate assistive technology devices to live independently.</p>
+<p>DCATP operates an AT device loan program, which assists persons with disabilities and professionals in decision making before the purchase of the equipment, accommodates interim needs for device repair or funding and other purposes, such as self-evaluation and training by clinicians to use a device to assess clients. The equipment can be borrowed for up to four weeks. The AT device loan program allows the end user to make informed choices to purchase the appropriate assistive technology devices to live independently.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>ATPDC operates the District of Columbia Assistive Technology Resource Center (DCATRC). The DCATRC is an AT demonstration center where individuals with disabilities and service providers may explore, experience and compare the usefulness of various types of AT equipment, learn about possible product vendors and other related services, and discuss their applications for devices or services.</p>
+<p>DCATP operates the District of Columbia Assistive Technology Resource Center (DCATRC). The DCATRC is an AT demonstration center where individuals with disabilities and service providers may explore, experience and compare the usefulness of various types of AT equipment, learn about possible product vendors and other related services, and discuss their applications for devices or services.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>ATPDC increases knowledge about the availability, benefits, the appropriateness and cost of assistive technology devices and services through community outreach through such events as employment and education fairs and exhibits. ATPDC also conducts customized training for schools, employers, local government and community-based organizations in the District of Columbia to help them make effective use of assistive technology devices and services.</p>
+<p>DCATP increases knowledge about the availability, benefits, the appropriateness and cost of assistive technology devices and services through community outreach through such events as employment and education fairs and exhibits. DCATP also conducts customized training for schools, employers, local government and community-based organizations in the District of Columbia to help them make effective use of assistive technology devices and services.</p>
 
 <div class="stateCompare">&nbsp;</div>
 </div>
@@ -1080,7 +1080,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Nevada has two programs that fall under State Financing Activities.  \*\*First,\*\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \*\*Second,\*\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
+<p>Nevada has two programs that fall under State Financing Activities.  \\*\\*First,\\*\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\*\\*Second,\\*\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
 
 <h3>Device Reutilization</h3>
 
