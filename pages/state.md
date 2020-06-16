@@ -333,7 +333,7 @@ permalink: state.html
 <div id="DC">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>DISTRICT OF COLUMBIA</h2>
 
-<p><img alt="program logo" src="/assets/DC.jpg" style="width: 230px; height: 59px;" /></p>
+<p><img alt="program logo" src="/assets/DC_Assistive_Technology_Program_2_final-file.jpg" style="max-width:300px;" /></p>
 
 <p><strong>Lead Agency:</strong> District of Columbia Department on Disability Services Rehabilitation Services Administration</p>
 
