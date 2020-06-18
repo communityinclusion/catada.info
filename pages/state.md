@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1080,7 +1080,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Nevada has two programs that fall under State Financing Activities.  \\*\\*First,\\*\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\*\\*Second,\\*\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
+<p>Nevada has two programs that fall under State Financing Activities.  \\\\*\\\\*First,\\\\*\\\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\\\*\\\\*Second,\\\\*\\\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
 
 <h3>Device Reutilization</h3>
 
@@ -1460,7 +1460,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> Institute on Disabilities at Temple University</p>
 
-<p><strong>Program Title:</strong> <a href="http://disabilities.temple.edu/programs/assistive/piat/">Pennsylvania's Initiative on Assistive Technology (PIAT)</a></p>
+<p><strong>Program Title:</strong> <a href="https://techowlpa.org">TechOWL – Technology for Our Whole Lives </a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans/PA%20State%20Plan%20FY%202015.doc">Download the Pennsylvania State Plan FY2015 here.</a></p>
 
@@ -1468,25 +1468,30 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>PIAT administers Pennsylvania's Telecommunications Device Distribution Program (TDDP). This program provides free telecommunications devices for eligible individuals who have disabilities that interfere with their ability to independently use the telephone.&nbsp; PIAT also administers iCanConnectPA, the National Deaf-Blind Equipment Distribution Program (NDBEDP) in Pennsylvania.&nbsp; The NDBEDP ensures that low-income individuals who have combined hearing and vision loss can access telephone, advanced communications and information services. This program was mandated by the Twenty-First Century Communications and Video Accessibility Act of 2010 (CVAA), which authorizes the FCC to provide funding for local programs to distribute equipment to low-income individuals who are deaf-blind (who have hearing loss and vision loss).&nbsp; PIAT also provides financial support to the Pennsylvania's Alternate Financing Program, the Pennsylvania Assistive Technology Foundation (PATF).</p>
+<p>Telecommunication:
+TechOWL administers both Pennsylvania’s Telecommunications Device Distribution Program (TDDP), and the federally funding National Deaf-Blind Equipment Distribution Program (NDBEDP, also known as iCanConnect). The TDDP provides a range of adaptive telephone equipment (and, as of July 1, 2019, wireless equipment) to all state residents who cannot access telecommunications independently and also meet the program’s eligibility requirements. The NDBEDP provides a full range of adaptive telecommunications equipment needed by individuals who are DeafBlind and meet the program’s eligibility requirements. All funding used to purchase this equipment is provided by state and federal sources outside of the AT Act.</p>
+
+<p>Last Resort Fund:
+The Virginia Del Sordo Fund is a last-resort fund that provides one-time grants of up to $200 to individuals for the purchase of AT. The funds distributed to individuals toward the purchase of AT are provided from funds originating from a private bequest to the Institute on Disabilities at Temple University.</p>
+
+<p>Activities Creating AT Savings:
+TechOWL developed CreATe Together, a project in which we match AT Makers with AT Users for specific projects, while inclusively supporting the making process. AT Makers and AT Users are solicited through social media, outreach efforts and word of mouth. TechOWL does not charge a fee to the AT User.</p>
 
 <h3>Device Reutilization</h3>
 
-<p>PIAT has several device reutilization efforts as a part of its Reused and Exchanged Equipment Partnership (REEP). These efforts include online classifieds, which allow consumers seeking devices to search the listings of the Delaware and Maryland AT programs as well as throughout Pennsylvania. PIAT provides support to programs which accept, refurbish and redistribute AT devices, including Into New Hands (Pittsburgh), Liberty Retreads and Widow's Mite (Philadelphia) and Changing Hands (Harrisburg), A New Start (Williamsport), Pass AT On (Scranton), and the TRIPIL Warehouse (Washington).</p>
-
-<p>PIAT also works with local, regional, and national emergency management entities to provide reused equipment to individuals in need in the event of an emergency/disaster. Emergency management entities contact PIAT to indicate the need for any assistive devices. PIAT, in turn, assesses the existing inventory of reused equipment within the ATRCs and any available reused devices are matched with consumers in need at no cost during the emergency/disaster period.</p>
+<p>TechOWL’s device reutilization program is conducted by all nine of our regional Assistive Technology Resource Centers (ATRCs) as part of the AT Act activities. We also provide a small amount of funding to support the activities of several Reuse Partners (Partners) around the state and provide them with materials and technical assistance. ATRCs and Partners accept device donations and clean and sanitize them. Some programs have the capacity to provide minor repairs, but most are only able to accept devices in good working order. ATRCs and Partners generally require that donations be delivered and that acquisitions be picked up from the program’s location, but programs will also work with donors and consumers to facilitate equipment transportation if possible. A new reutilization project, “Connect with Tech” was initiated in response to COVID-19 and matches donations of tablets and smartphones to Pennsylvanians with disabilities who need the technology to mitigate social isolation, access telehealth, etc.</p>
 
 <h3>Device Loan</h3>
 
-<p>PIAT operates Pennsylvania's Assistive Technology Lending Library, a consumer-responsive, statewide program that provides short-term (for periods from two to eight weeks) loans of AT devices that enable individuals View the Annual Progress Report data for FY2018.with disabilities to make informed decisions about the appropriateness of an AT device in their real-life settings.</p>
+<p>TechOWL operates Pennsylvania’s Assistive Technology Lending Library (ATLL), a statewide program that is consumer-responsive and available to Pennsylvanians of all ages and abilities. Devices are shipped from a centralized location to borrowers at no cost to them. The length of the device loan ranges from two to six weeks. ATRCs and the main TechOWL office also have a small inventory of items at their location that can be used “onsite” device loans.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>PIAT's seven subcontracted Assistive Technology Resource Centers (ATRCs), plus its central office in Philadelphia, provide the infrastructure of the statewide system for device demonstrations. In addition to "demonstrations by demand" available through each ATRC, PIAT has two funded demonstration centers (Pittsburgh and Camp Hill) and several affiliate demonstration partners in the Philadelphia area.</p>
+<p>TechOWL and its eight subcontracted ATRCs are required to perform device demonstrations. These may be conducted at the ATRC, virtually or another mutually agreed upon location in the community. ATRCs are encouraged to schedule “Demo Days” at libraries, senior centers and other public spaces.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>PIAT uses a variety of strategies to deliver training, including participation in statewide and national conferences, university-based lectures, educational in-services, and development and delivery of webinars.&nbsp; Presentations and exhibits are also conducted by request at local, regional and statewide venues. Technical assistance is available to agencies and organizations who are developing or enhancing programs and policies to improve access to AT. &nbsp;Information and assistance is available via toll-free phone, toll-free TTY, and email.&nbsp;</p>
+<p>Training is provided, as scheduled, to individuals with disabilities, their families, professionals, pre-service professionals (undergraduate and graduate students in a variety of disciplines and at institutions of higher education across the state), employers, and agencies and organizations, generally at the location of their choice or virtually. Proposals to conduct training at local, state, regional and national conferences are invited/submitted regularly, and conducted on location at the conference site. When appropriate, teleconferenced trainings, webinars and other distances formats are arranged.</p>
 </div>
 
 <div id="PuertoRico">
