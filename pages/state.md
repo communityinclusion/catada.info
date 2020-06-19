@@ -1456,7 +1456,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Pennsylvania">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>PENNSYLVANIA</h2>
 
-<p><img alt="" src="/assets/Penn.jpg" style="width: 200px; height: 88px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Institute on disabilities Temple University OWL" src="/assets/pa.png" style="" /></p>
 
 <p><strong>Lead Agency:</strong> Institute on Disabilities at Temple University</p>
 
