@@ -15,6 +15,33 @@ permalink: /effective-state-practices/
 						<div class="col-md-3">
 							<div class="image ">
 								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/innovativeAT_issue3_Alaska_D3_th.png"
+									alt="New Frontier in Technology: Smart Home" />
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+								New Frontier in Technology: Smart Home
+								</h4>
+								<h5 class="card-subtitle mb-2 text-muted">Issue 3 – June 2020</h5>
+								<p class="card-text">
+								</p>
+								<a href="/assets/files/innovativeAT_issue3_Alaska_D3.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div class="col-md-6 d-flex">
+			<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image ">
+								<img class="img-fluid"
 									src="/assets/catada_pub_thumbs/innovativeAT_issue1_Final Accessible_th.png"
 									alt="Innovative AT Practice" />
 							</div>
