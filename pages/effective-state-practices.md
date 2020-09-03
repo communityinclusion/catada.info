@@ -7,6 +7,7 @@ permalink: /effective-state-practices/
 <div class="container">
 	<h2 class="block-heading"><span>Innovative AT Practices Series</span></h2>
   <p>The Innovative AT Practices Series are topical case studies that describe innovative or high-impact activities conducted by state AT programs that result in increased access to and acquisition of AT. </p>
+  <div class="row">
 	<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 				<div class="card-body">
