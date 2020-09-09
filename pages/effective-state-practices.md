@@ -17,19 +17,19 @@ permalink: /effective-state-practices/
 							<div class="col-md-3">
 								<div class="image ">
 									<img class="img-fluid"
-										src="/assets/catada_pub_thumbs/innovativeAT_issue3_Alaska_D3_th.png"
-										alt="New Frontier in Technology: Smart Home" />
+										src="/assets/catada_pub_thumbs/innovativeAT_issue4_Illinois_F_th.png"
+										alt="New Law Helps Ensure Assistive Technology for Students Who Need It" />
 								</div>
 							</div>
 							<div class="col-md-9">
 								<div class="content">
 									<h4 class="card-title">
-										New Frontier in Technology: Smart Home
+										New Law Helps Ensure Assistive Technology for Students Who Need It
 									</h4>
-									<h5 class="card-subtitle mb-2 text-muted">Issue 3 – June 2020</h5>
+									<h5 class="card-subtitle mb-2 text-muted">Issue 4 – September 2020</h5>
 									<p class="card-text">
 									</p>
-									<a href="/assets/files/innovativeAT_issue3_Alaska_D3.pdf"
+									<a href="/assets/files/innovativeAT_issue4_Illinois_F.pdf"
 										class="btn btn-primary">View
 										PDF</a>
 								</div>
