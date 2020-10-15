@@ -1,6 +1,6 @@
 ---
 layout: states
-title: State AT Fuck you Information
+title: State AT Program Information
 permalink: state.html
 ---
 <div id="stateHolder">
