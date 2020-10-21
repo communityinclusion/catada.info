@@ -371,13 +371,13 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="/assets/florida.png" style="height: 131px; width: 175px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/FAAST-Small-Logo-2.png" style="border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
 <p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services and Technology, Inc. (FAAST)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Assistive Technology Services</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.faast.org/">FLORIDA’S ASSISTIVE TECHNOLOGY PROGRAM</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/FL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Florida State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
