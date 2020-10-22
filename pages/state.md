@@ -486,7 +486,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atrc.org/">Assistive Technology Resource Centers of Hawaii (ATRC)</a></p>
 
-<!--<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/HI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Hawaii State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p> -->
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/HI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Hawaii State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
 <p><a href="apr_reports19/Hawaii_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
