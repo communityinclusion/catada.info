@@ -514,7 +514,7 @@ permalink: state.html
 <div id="Iowa">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>IOWA</h2>
 
-<p><img alt="program logo" src="/assets/iowa.JPG" /></p>
+<p><img alt="program logo" style="max-width:250px" src="/assets/iowa.JPG" /></p>
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
@@ -580,7 +580,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="program logo" src="/assets/illinois.jpg" style="width: 167px; height: 66px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Illinois Assistive Technology Program" src="/assets/iatp.jpg" style="max-width:250px" /></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
