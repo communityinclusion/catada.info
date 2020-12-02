@@ -588,7 +588,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.iltech.org/">Illinois Assistive Technology Program (IATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IL%20State%20Plan%202015.doc">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
 <p><a href="apr_reports19/Illinois_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
