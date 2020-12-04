@@ -441,7 +441,7 @@ function drawSheetName() {
                 break;
             case '5':
                 stringContent = "SELECT B,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ WHERE (D = '" + statenames + "') AND (E = " + years + ") AND W > 0 ORDER BY  E DESC, A LIMIT 8";
-                numtableStringContent[0] = "SELECT A,E,W,L,M,N,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
+                numtableStringContent[0] = "SELECT A,E,W,K,L,M,N,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[0] = "SELECT A,E,W,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ,BA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans: Type of AT";
