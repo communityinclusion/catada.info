@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -371,13 +371,13 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="/assets/florida.png" style="height: 131px; width: 175px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" src="/assets/FAAST-Small-Logo-2.png" style="border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
 <p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services and Technology, Inc. (FAAST)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Assistive Technology Services</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Assistive Technology Program</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/FL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Florida State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -514,7 +514,7 @@ permalink: state.html
 <div id="Iowa">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>IOWA</h2>
 
-<p><img alt="program logo" src="/assets/iowa.JPG" /></p>
+<p><img alt="program logo" style="max-width:250px" src="/assets/iowa.JPG" /></p>
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
@@ -580,7 +580,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="program logo" src="/assets/illinois.jpg" style="width: 167px; height: 66px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Illinois Assistive Technology Program" src="/assets/iatp.jpg" style="max-width:250px" /></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
@@ -588,7 +588,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.iltech.org/">Illinois Assistive Technology Program (IATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IL%20State%20Plan%202015.doc">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
 <p><a href="apr_reports19/Illinois_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
@@ -598,19 +598,19 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Reutilization</h3>
 
-<p>The Reuse Program accepts assistive technology and durable medical equipment that is lightly used and in good working condition and that is no longer needed or used by its original owner. The equipment is checked for safe operation, sanitized, inventoried, and then made available to others who can’t afford to purchase a new device. The equipment can be borrowed on a short term basis for a temporary need or as an open-ended loan that can be kept until no longer needed.</p>
+<p>IATP’s Reuse Program provides assistive technology and durable medical equipment to people of all ages with disabilities who can’t afford to purchase new. The recipient may keep the equipment for as long as needed. When it is no longer being used, we ask that it be returned so that others in need may also benefit from the program. The Reuse Program accepts assistive technology and durable medical equipment that is lightly used and in good working condition. The equipment is checked for safe operation, sanitized, inventoried, and then made available to others. The equipment can be borrowed on a short term basis for a temporary need or as an open-ended loan that can be kept until no longer needed.</p>
 
 <h3>Device Loan</h3>
 
-<p>The main purpose of the device loan program is to provide an opportunity to try out assistive technology devices in order to make an informed decision prior to purchasing the device. It helps borrowers to ensure it is their preferred option and will work in the environments where it is needed. Equipment can also be borrowed when needed as a temporary back-up device, while awaiting funding approval, or as a short term accommodation. All loans are made for a five-week time period. IATP covers the cost of outgoing shipping and the borrower is responsible for costs associated with its safe return. IATP also operates a device loan program established through support from the Illinois State Board of Education and whose inventory is dedicated to Illinois school districts.</p>
+<p>The purpose of IATP’s device loan program is to let borrowers trial devices in the environments of their choice so that they may make informed decisions about what best meets their needs before purchasing a device from a vendor. All loans are made for a five-week time period. IATP covers the cost of outgoing shipping and the borrower is responsible for costs associated with its safe return. The device loan program can also be used to provide a backup system when a device is in for repairs and/or while waiting for a device to be delivered. IATP also operates a device loan program established through support from the Illinois State Board of Education (ISBE) and whose inventory is dedicated to Illinois school districts. The ISBE program covers the cost of outgoing and return shipping for all borrowers. IATP does not sell assistive technology or endorse particular products.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>Demonstrations enable participants to compare and contrast the features and benefits of devices so they can make an informed decision as to what would best meet their needs. IATP’s AT Demonstration Center located in Springfield includes a comprehensive display and inventory of assistive technology devices. The Center has eight accessible rooms; four are organized by environment and include a bedroom, bathroom, kitchen, and office; and four are organized by functional use and include communication, vision, daily living, and toys and sensory. For those who cannot visit the Center, demonstrations are provided offsite. In addition, some agency partners have been provided with demonstration kits.</p>
+<p>Device demonstrations are personal appointments with an assistive technology specialist that provide an opportunity to discuss an individual’s needs, learn about possible AT solutions, and compare and contrast different AT devices, their features, and possible benefits. IATP’s assistive technology demonstration center is centrally located in the state at the main office in Springfield. The Center includes a very large inventory of AT devices representing multiple different AT categories. If visiting the center in person is not possible, video conferencing can be used. Some demonstrations are able to be provided at alternative locations. In addition, some agency partners have been provided with demonstration kits. This service is available and free of charge to all Illinois residents.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>IATP provides in-depth technical assistance and coordinates and collaborates with state agencies and disability organizations statewide to improve and expand policies and practices that provide greater access to and funding for AT. The program conducts comprehensive statewide trainings and works with agencies to customize workshops to better serve individuals of all ages in all environments including education, employment, and community living. IATP uses a multifaceted approach for outreach efforts (mailings, Internet, exhibits, presentations, newsletter, and trainings) to increase awareness about assistive technology devices and services. The program also provides information and assistance statewide through its toll-free numbers and email.</p>
+<p>IATP provides in-depth technical assistance and coordinates and collaborates with state agencies and disability organizations statewide to improve and expand policies and practices that provide greater access to and funding for AT. The program conducts comprehensive statewide trainings and works with agencies to customize workshops to better serve individuals of all ages in all environments including education, employment, and community living. IATP uses a multifaceted approach for outreach efforts (Internet, social media, exhibits, presentations, trainings, tours etc.) to increase awareness about assistive technology devices and services. The program also provides free information and assistance statewide through its toll-free number, Illinois Relay Services, and email.</p>
 </div>
 
 <div id="Indiana">
@@ -778,11 +778,11 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Loan</h3>
 
-<p>Maine CITE supports AT service providers offering AT device loan programs through the University of Maine at Farmington, Spurwink-ALLTECH, Pine Tree Society and C.A.R.E.S., Inc. These device loan programs enable individuals with disabilities (children/families, adults and seniors) and professionals to borrow AT for up to three weeks, with potential renewals. Through AT4Maine.org, hundreds of AT devices can be viewed and accessed for “try before you by” loans to assist in sound decision making about AT purchases.</p>
+<p>Maine CITE supports AT service providers offering AT device loan programs through the University of Maine at Farmington, Spurwink-ALLTECH, Pine Tree Society and Gallant Therapy Services. These device loan programs enable individuals with disabilities (children/families, adults and seniors) and professionals to borrow AT for up to three weeks, with potential renewals. Through AT4Maine.org, hundreds of AT devices can be viewed and accessed for “try before you by” loans to assist in sound decision making about AT purchases.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>Maine CITE supports Spurwink-ALLTECH, the University of Maine at Farmington, Pine Tree Society and C.A.R.E.S to offer AT device demonstrations. The AT4Maine.org website serves as a central point of information about those AT services and the statewide device inventory.</p>
+<p>Maine CITE supports Spurwink-ALLTECH, the University of Maine at Farmington, Pine Tree Society and Gallant Therapy Services to offer AT device demonstrations. The AT4Maine.org website serves as a central point of information about those AT services and the statewide device inventory.</p>
 
 <h3>State Leadership Activities</h3>
 
@@ -1080,7 +1080,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Nevada has two programs that fall under State Financing Activities.  \\\\\*\\\\\*First,\\\\\*\\\\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\\\\*\\\\\*Second,\\\\\*\\\\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
+<p>Nevada has two programs that fall under State Financing Activities.  \\\\\\\\*\\\\\\\\*First,\\\\\\\\*\\\\\\\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\\\\\\\*\\\\\\\\*Second,\\\\\\\\*\\\\\\\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
 
 <h3>Device Reutilization</h3>
 
@@ -1499,35 +1499,38 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 <div id="PuertoRico">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>PUERTO RICO</h2>
 
-	<p><img alt="" src="/assets/puertorico.png" style="width: 200px; height: 82px;" /></p>
+```
+<p><img alt="" src="/assets/puertorico.png" style="width: 200px; height: 82px;" /></p>
 
-	<p><strong>Lead Agency:</strong> University of Puerto Rico</p>
+<p><strong>Lead Agency:</strong> University of Puerto Rico</p>
 
-	<p><strong>Program Title:</strong> <a href="http://pratp.upr.edu/">Puerto Rico Assistive Technology Program (PRATP®)</a></p>
+<p><strong>Program Title:</strong> <a href="http://pratp.upr.edu/">Puerto Rico Assistive Technology Program (PRATP®)</a></p>
 
-	<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Puerto Rico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Puerto Rico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-	<p><a href="apr_reports19/PuertoRico_2019.html">View the Annual Progress Report data for FY2019.</a></p>
+<p><a href="apr_reports19/PuertoRico_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
-	<h3>State Financing Activities</h3>
+<h3>State Financing Activities</h3>
 
-	<p>PRATP® conducts a low cost device design and development (LD3) service to provide functional assistive technology (AT) solutions. It also includes other support services such as installation, configuration and training regarding low-cost devices. PRATP® assembled an AT Development Team (ATDT) to receive referrals of technology needs from local AT evaluation centers and health related professionals.</p>
+<p>PRATP® conducts a low cost device design and development (LD3) service to provide functional assistive technology (AT) solutions. It also includes other support services such as installation, configuration and training regarding low-cost devices. PRATP® assembled an AT Development Team (ATDT) to receive referrals of technology needs from local AT evaluation centers and health related professionals.</p>
 
-	<h3>Device Reutilization</h3>
+<h3>Device Reutilization</h3>
 
-	<p>PRATP® also promotes and facilitates the reuse of equipment, in collaboration with the Paralyzed Veterans Association of Puerto Rico (PVAPR), who receives AT devices for reassignment, reconditioning and repair, among other support services.</p>
+<p>PRATP® also promotes and facilitates the reuse of equipment, in collaboration with the Paralyzed Veterans Association of Puerto Rico (PVAPR), who receives AT devices for reassignment, reconditioning and repair, among other support services.</p>
 
-	<h3>Device Loan</h3>
+<h3>Device Loan</h3>
 
-	<p>PRATP® operates an AT device loan center with an accessible online devices inventory to provide island wide AT loan services to individuals, group of individuals, or an entity. Through this service the consumer can borrow the equipment, typically for two weeks and free of charge, by contacting the program by telephone, e-mail, or in person. PRATP® also provides instruction manuals in alternate formats, individual assistance services, among other support services to enable an individual to make an informed choice.</p>
+<p>PRATP® operates an AT device loan center with an accessible online devices inventory to provide island wide AT loan services to individuals, group of individuals, or an entity. Through this service the consumer can borrow the equipment, typically for two weeks and free of charge, by contacting the program by telephone, e-mail, or in person. PRATP® also provides instruction manuals in alternate formats, individual assistance services, among other support services to enable an individual to make an informed choice.</p>
 
-	<h3>Device Demonstration</h3>
+<h3>Device Demonstration</h3>
 
-	<p>PRATP® operates a centralized demonstration center to provide services to consumers, families, students, service professionals and general community upon request. PRATP® also has a mobile unit to provide demonstration and training services island wide. This demonstration service facilitates the opportunity for people to explore and learn about the various features of AT devices in order to make an informed decision about the AT benefits based on individual needs. All demonstrations are guided by professionals with expertise on AT.</p>
+<p>PRATP® operates a centralized demonstration center to provide services to consumers, families, students, service professionals and general community upon request. PRATP® also has a mobile unit to provide demonstration and training services island wide. This demonstration service facilitates the opportunity for people to explore and learn about the various features of AT devices in order to make an informed decision about the AT benefits based on individual needs. All demonstrations are guided by professionals with expertise on AT.</p>
 
-	<h3>State Leadership Activities</h3>
+<h3>State Leadership Activities</h3>
 
-	<p>PRATP® provides island wide AT training to individuals with disabilities, family members and service providers. It also provides technical assistance to public and private entities. PRATP® develops and delivers educational materials by mail, website posting and through disability-related conferences and exhibit booths at conferences.</p>
+<p>PRATP® provides island wide AT training to individuals with disabilities, family members and service providers. It also provides technical assistance to public and private entities. PRATP® develops and delivers educational materials by mail, website posting and through disability-related conferences and exhibit booths at conferences.</p>
+```
+
 </div>
 
 <div id="RhodeIsland">
@@ -1712,7 +1715,6 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 <p><strong>Program Title:</strong> <a href="http://www.uatpat.org/">Utah Assistive Technology Program (UATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/UT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Utah State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
-
 
 <p><a href="apr_reports19/Utah_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
