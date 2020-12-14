@@ -641,7 +641,7 @@ function drawSheetName() {
                 sheetName[0] = 'sheet=x_dl_export_full&';
                 reportHeading[0] = "Device Loans: Purpose of Loans";
                 // item 5
-                numtableStringContent[1] = "SELECT A,E,W,L,M,N,O,P,Q,R,S,T,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
+                numtableStringContent[1] = "SELECT A,E,W,L,M,N,O,P,Q,R,S,U,V WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 tableStringContent[1] = "SELECT A,E,W,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ,BA WHERE (D = '" + statenames + "') AND (E = " + years + ") ORDER BY A, E";
                 sheetName[1] = 'sheet=x_dl_export_full&';
                 reportHeading[1] = "Device Loans: Type of AT";
