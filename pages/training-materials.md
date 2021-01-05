@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Training Materials
+title: Training and Technical Assistance Materials
 permalink: /training-materials/
 ---
 <div class="container">
