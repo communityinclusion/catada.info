@@ -16,10 +16,10 @@ permalink: /program-participation/
 
 <p>All states implement the required state leadership activities without exception.&nbsp;</p>
 
-<p>Participation in state level activities in FY 2019 is summarized below. A&nbsp;<i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i>&nbsp;indicates the program conducted or will conduct the&nbsp;activity and data are or will be available through this web portal. States that claimed Comparablity or Flexibility are also indicated.</p>
+<p>Participation in state level activities in FY 2020 is summarized below. A&nbsp;<i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i>&nbsp;indicates the program conducted or will conduct the&nbsp;activity and data are or will be available through this web portal. States that claimed Comparablity or Flexibility are also indicated.</p>
 
 <div class="table-responsive-sm">
-<table class="table table-bordered table-hover"><caption>Participation in Activities by AT Programs in FY 2019 as verified by data submitted in the State Grant for AT Annual Progress Report</caption>
+<table class="table table-bordered table-hover"><caption>Participation in Activities by AT Programs in FY 2020 as verified by data submitted in the State Grant for AT Annual Progress Report</caption>
 <tbody>
 <tr>
 <th scope="col">State</th>
