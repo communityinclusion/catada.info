@@ -374,7 +374,7 @@ permalink: /program-participation/
 <tr>
 <th scope="col">Virgin Islands</th>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
-<td align="center">yes</td>
+<td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 </tr>
