@@ -1430,7 +1430,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.accesstechnologiesinc.org/">Oregon Statewide Assistive Technology Program</a></p>
 
-<p><a href="/sites/catada.info/files/files/OR%20State%20Plan%202015-17.docx">Download the FY2018-2020 Oregon State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="/assets/state_at_plans_2019/OR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Oregon State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
 <p><a href="apr_reports19/Oregon_2019.html">View the Annual Progress Report data for FY2019.</a></p>
 
