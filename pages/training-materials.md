@@ -62,6 +62,7 @@ permalink: /training-materials/
 										class="bi bi-file-earmark-word"></i> Brief 12: Leveraged Funding Grant Types</a>
 							</li>
 						</ul>
+						<p><br></p>
 					</div>
 				</div>
 			</div>
@@ -77,6 +78,7 @@ permalink: /training-materials/
 				<li class="list-group-item"><a href="https://youtu.be/iocF1INhBwI"><em class="fas fa-file-video"
 							aria-hidden="true">&nbsp;</em> NATADS day-to-day changes webinar - October 1, 2018</a></li>
 				<ul>
+				<p><br></p>
 					<h2 class="block-heading"><span>Conference Materials</span></h2>
 					<p><a href="/assets/files/Anecdotes%20Slides.pptx"><i class="fas fa-file-powerpoint"
 								aria-hidden="true">&nbsp;</i>PowerPoint slides on how to create a quality
