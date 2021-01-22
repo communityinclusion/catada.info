@@ -33,14 +33,14 @@ permalink: /training-materials/
 									href="/assets/reporting/Brief 6 Annual Data-Fiscal Calendar.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 6: Annual Data-Fiscal Calendar</a>
 							</li>
-						</ul>
-					</div>
-					<div class="col-md">
-						<ul class="list-group">
 							<li class="list-group-item"><a
 									href="/assets/reporting/Brief 7 State Plan Expenditure Tracking and Reporting-1.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 7: State Plan Expenditure Tracking
 									and Reporting</a></li>
+						</ul>
+					</div>
+					<div class="col-md">
+						<ul class="list-group">
 							<li class="list-group-item"><a
 									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
@@ -60,6 +60,11 @@ permalink: /training-materials/
 							<li class="list-group-item"><a
 									href="/assets/reporting/Brief 12 Leveraged Funding Grant Types.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 12: Leveraged Funding Grant Types</a>
+							</li>
+							<li class="list-group-item"><a
+									href="/assets/reporting/Brief 13 When is demonstrating devices a Device Demonstration.docx"><i
+										class="bi bi-file-earmark-word"></i> 
+										Brief 13: When is “demonstrating devices” a Device Demonstration? </a>
 							</li>
 						</ul>
 						<p><br></p>
