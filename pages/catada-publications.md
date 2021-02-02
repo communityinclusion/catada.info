@@ -72,7 +72,7 @@ permalink: /catada-publications/
 					<div class="row">
 						<div class="col-md-3">
 							<div class="image text-center">
-								<img class="img-fluid"
+								<img class="img-fluid border"
 									src="/assets/catada_pub_thumbs/FY-2018_Assistive_Technology_Act_Report_to_Congress_th.png"
 									alt="Card image" />
 							</div>
