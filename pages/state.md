@@ -1040,6 +1040,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nebraska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
+
 <p><a href="apr_reports20/Nebraska_2020.html">View the Annual Progress Report data for FY2020.</a></p>
 
 <h3>State Financing Activities</h3>
