@@ -1029,7 +1029,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <p>MATP operates an information and referral network serving all Montanans, distributes materials about AT to key stakeholder groups, and participates in local and statewide events to promote awareness and increase knowledge. MATP collaborates with agencies and service providers, including tribal organizations, to provide needed AT training in the areas of education, employment, community living and information technology..</p>
 </div>
 
-<div id="Nebraska">
+<div id="Nebraska"> 
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEBRASKA</h2>
 
 <p><img alt="program logo" src="/assets/nebraska(1).jpg" style="border-width: 1px; border-style: solid; width: 150px; height: 96px;" /></p>
