@@ -4,4 +4,4 @@ _site
 vendor
 .bundle
 .vscode
-
+.ruby-version
