@@ -8,7 +8,7 @@ permalink: /aggregate-apr-data/
 
  <div class="col-12">
 
-<p>These national activity reports were generated from Fiscal year 2019 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
+<p>These national activity reports were generated from Fiscal year 2020 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
 <p><a href="#to2019">See below</a> for archived aggregate reports.</p>
 <h2>State - Level Activity Data</h2>
 <div><a href="/assets/aggr_reports20/Device Demo.html">Device Demonstration</a></div>
