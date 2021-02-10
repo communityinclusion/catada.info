@@ -3,14 +3,13 @@ layout: default
 title: Aggregate APR Data, 2019
 permalink: /aggregate-apr-data-2019/
 ---
-
 <div class="container">
   <div class="row">
 
  <div class="col-12">
 <p>This is 2019 APR data.  <a href="/aggregate-apr-data">Back to current APR reports.</a></p>
 
-<p>These national activity reports were generated from Fiscal year 2018 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
+<p>These national activity reports were generated from Fiscal year 2019 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
 
 <h2>State - Level Activity Data</h2>
 <div><a href="/assets/aggr_reports19/Device Demo.html">Device Demonstration</a></div>
