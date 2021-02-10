@@ -5,4 +5,3 @@ vendor
 .bundle
 .vscode
 .ruby-version
-Gemfile.lock
