@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1040,7 +1040,6 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nebraska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-
 <p><a href="apr_reports20/Nebraska_2020.html">View the Annual Progress Report data for FY2020.</a></p>
 
 <h3>State Financing Activities</h3>
@@ -1081,7 +1080,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>State Financing Activities</h3>
 
-<p>Nevada has two programs that fall under State Financing Activities.  \\\\\\\\\*\\\\\\\\\*First,\\\\\\\\\*\\\\\\\\\* Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT.  \\\\\\\\\*\\\\\\\\\*Second,\\\\\\\\\*\\\\\\\\\* the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts. .</p>
+<p>Nevada has two programs that fall under State Financing Activities. First, Nevada offers a statewide financial loan program through the CARE Loan Fund Program which is the states alternative finance program.  CARE Loan exists as a resource for people with disabilities to purchase AT. The loan program is coordination between CARE Chest of Sierra Nevada and one banking institution. The loans are offered at lower interest rates and often for more years than a typical bank loan, thus making the loans more affordable. CARE Chest is also capable of making micro loans directly for lower cost AT. Second, Nevada offers the Assistive Technology for Independent Living program (AT/IL).  The program provides supports for development of Independent Living goals and with state funding resources the program can provide AT to support a person’s choice to live in a community setting. AT/IL assists with defining your goals and identifying the AT options and resources.  Where resources do not exist resources can be used to obtain the appropriate durable medical equipment, home, and vehicle modifications needed in support of community living and where services are not available through other funding sources such as personal resources, Medicaid/Medicare, insurance, Vocational Rehabilitation or school districts.</p>
 
 <h3>Device Reutilization</h3>
 
