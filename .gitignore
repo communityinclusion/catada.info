@@ -5,3 +5,4 @@ vendor
 .bundle
 .vscode
 .ruby-version
+.jekyll-cache
