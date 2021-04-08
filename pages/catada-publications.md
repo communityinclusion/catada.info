@@ -3,10 +3,38 @@ layout: default
 title: Catada Publications
 permalink: /catada-publications/
 ---
+
 <div class="container">
 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
 	<div class="row">
-	<div class="col-md-6 d-flex">
+	<div class="col-md">
+			<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image ">
+								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/ATAP 2019_F_th.png"
+									alt="Card image" />
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2020
+								</h4>
+								<h5 class="card-subtitle mb-2 text-muted">Issue No. 13 - 2021</h5>
+								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2020 data.
+								</p>
+								<a href="/assets/files/ATAP_2020_F.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div class="col-md">
 			<div class="card bg-light">
 				<div class="card-body">
 					<div class="row">
@@ -26,33 +54,6 @@ permalink: /catada-publications/
 								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2019 data.
 								</p>
 								<a href="/assets/files/ATAP_2020_F.pdf" class="btn btn-primary">View
-									PDF</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-6 d-flex">
-			<div class="card bg-light">
-				<div class="card-body">
-					<div class="row">
-						<div class="col-md-3">
-							<div class="image ">
-								<img class="img-fluid"
-									src="/assets/catada_pub_thumbs/ATAP 2019_F_th.png"
-									alt="Card image" />
-							</div>
-						</div>
-						<div class="col-md-9">
-							<div class="content">
-								<h4 class="card-title">
-									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2018
-								</h4>
-								<h5 class="card-subtitle mb-2 text-muted">Issue No. 11 - 2019</h5>
-								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2018 data.
-								</p>
-								<a href="/assets/files/ATAP 2019_F.pdf" class="btn btn-primary">View
 									PDF</a>
 							</div>
 						</div>
@@ -86,14 +87,14 @@ permalink: /catada-publications/
 								</p>
 								<p class="card-text">Statewide AT programs are required by law to collect data on their activities and provide annual progress reports to the Administration for Community Living (ACL). These reports are a compilation of data and contain information about the activities of statewide AT programs. </p>
 
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
 
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<!--end card-->
-	</div>
+    	<!--end card-->
+    </div>
+
 </div>
