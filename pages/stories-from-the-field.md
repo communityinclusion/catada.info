@@ -16,12 +16,10 @@ Device Demonstrations
 		
 
   <p class="card-text"><b>Discovering Built-in Android Apps </b></p>    
-  <img src="/assets/KS_Demo_2019.jpg" class="float-left" style="padding-right:1em;" alt="Ken learning about UTV">
+
   <p class="card-text"> Melvin was having difficulty reading text on objects at work. His vocational rehabilitation counselor contacted the North Dakota AT program for assistance. Over a Zoom videoconference, program staff demonstrated some assistive technologies for Melvin and his mother. They showed Melvin how to use the free, built-in Android TalkBack feature on his phone for reading text aloud. </p>                                                                                                 
   <p class="card-text">Through North Dakota AT’s virtual demonstration, Melvin also learned about the Android Claro ScanPen app, a free app that takes pictures of text and reads it aloud. ScanPen works especially well on objects, and can even read some handwriting.</p>
   <p class="card-text">By the end of the demonstration, Melvin was testing the app with objects in his apartment, and ScanPen was accurately reading the text aloud. Melvin and his mom were delighted. “Now he can read text messages (from work) and everything on his phone, his TV screen, store flyers, coupons, you name it.” Melvin’s mom shared. “This was a phenomenal lesson. It was clear.”</p>
-  </div>
-  </div>
 
   <p class="card-text"><b>Opening New Doors</b></p>    
  <p class="card-text"> Barnard’s family was concerned that he could not hear the doorbell ring when he was home alone. Barnard’s caseworker at his local Area Agency on Aging referred him to an occupational therapist (OT) from the Disability Advocates of Kent County, a Michigan AT program subcontractor. In addition to assessing the doorbell, the OT correctly anticipated that Bernard might want to test a Pocket Talker, a hearing device that amplifies sound and reduces background noise. When testing the Pocket Talker, Bernard reported, “I can hear so much better now!”</p>                                                                                                 
@@ -37,7 +35,6 @@ Device Demonstrations
 <div class="card-body">
 	
 <p class="card-text"><b>A Big Picture Perspective</b></p>                                                      
-  <img src="/assets/OK_Device_Loan_2019.jpg" class="float-left" style="padding-right:1em;" alt="Emma learning in the class room">
 
 <p class="card-text">John was born with some facial paralysis that made it difficult for him to close one eye. Over the course of his 40-year career as a registered nurse, John’s vision has slowly deteriorated. John’s nursing job requires him to review medical charts to help prepare patients for surgery, so he was devastated when he learned that his prescription eyeglasses could no longer help him see. </p>              
 
@@ -45,11 +42,7 @@ Device Demonstrations
 
 <p class="card-text"> Now, John uses a special software for his computer, a camera that can project the image of documents on a larger computer screen, and a big keys keyboard. He wrote a letter thanking IATP, saying that the moment he visited the program, he had something he hadn’t had in years: hope. </p>      
 
-</div>
-</div>
-
 <p class="card-text"><b>Eating Lunch with Obi</b></p>                                                      
-
 
 <p class="card-text">Natalie values her independence at the Orchard Farms School in St. Charles, Missouri. At school, it can take longer for Natalie to eat lunch than her peers. As a result, Natalie stays in the cafeteria for too long, and falls behind in class. Natalie’s educational support team had been looking for creative ways to help Natalie keep up with her school tasks.</p>            
 
@@ -64,9 +57,7 @@ Device Demonstrations
 </h5>
 <div class="card-body">
   <p class="card-text"><b>Sharing Back</b> </p>
-  <img src="/assets/PR_Reuse_2019.jpg" class="float-left" style="padding-right:1em;" alt="Luis with walker">
-
-  <p class="card-text">Ciara, a local Mobile County resident, donated her military veteran husband’s durable medical equipment to the Mobile Goodwill Easter Seals We Share Program, a partnership with the Alabama AT Program. Ciara graciously gave several high-quality medical items, including an electric wheelchair in excellent condition.</p>                                                                             <p class="card-text">Mr. C, the chaplain for the Mobile Police Department, called the We Share Program to get an electric wheelchair for a local police officer who was injured in the line of duty. They were able to get the wheelchair and deliver it directly to the officer. Through the Alabama AT program, Ciara learned that Mr. C took the wheelchair to the injured officer, so she sold the accessible van to the Mobile Police Department for the injured officer’s use! </p>               
+ <p class="card-text">Ciara, a local Mobile County resident, donated her military veteran husband’s durable medical equipment to the Mobile Goodwill Easter Seals We Share Program, a partnership with the Alabama AT Program. Ciara graciously gave several high-quality medical items, including an electric wheelchair in excellent condition.</p>                                                                             <p class="card-text">Mr. C, the chaplain for the Mobile Police Department, called the We Share Program to get an electric wheelchair for a local police officer who was injured in the line of duty. They were able to get the wheelchair and deliver it directly to the officer. Through the Alabama AT program, Ciara learned that Mr. C took the wheelchair to the injured officer, so she sold the accessible van to the Mobile Police Department for the injured officer’s use! </p>               
 
 <div class="card-body">
   <p class="card-text"><b>Home School Solutions</b> </p>
@@ -83,8 +74,6 @@ Device Demonstrations
 <div class="card-body">
 
 <p class="card-text"><b>Creative Adventures</b> </p>                                                   
-  <img src="/assets/MO_State_Financing_2019.jpg" class="float-left" style="padding-right:1em;" alt="Cutler working with a device">
-
 <p class="card-text">Isabel is a young girl with Cerebral Palsy. Some of her favorite activities involve going out with her mother; just about any daily errand is a fun adventure. When the COVID-19 pandemic hit, all of that changed. Because of the virus’s risks, Isabel spent most of her time at home, indoors. Even once restrictions were partially lifted, Puerto Rico required that masks be worn in public spaces. Isabel tried many different options, but masking was not tolerable for her.</p>                                                                                                                                               <p class="card-text">Isabel’s mother contacted the Puerto Rico AT Program (PRATP) to help her find a solution. PRATP’s AT Fabrication initiative built Isabel a custom transparent enclosure for her wheelchair, which included a removable, lightweight aluminum frame. The frame was designed to allow Isabel’s voluntary and involuntary movements without the cover touching her, which gave her space to look out, move, and use her mother’s smartphone on her lap. Soon after installation, fitting, and testing, Isabel and her mother were off running errands, going shopping, and even attending a long-postponed visit to the dentist, all while Isabel remained safe.</p>
 
 <p class="card-text"><b>An Accessible Van for the Whole Family</b> </p>                                                   
