@@ -80,3 +80,7 @@ Device Demonstrations
 <p class="card-text">Oliver is a 10 year-old boy with Cerebral Palsy. Oliver and his family needed a modified vehicle to help Oliver get to his appointments. Oliver also needed a vehicle that could be adapted and adjusted as he grows. His family set up a “Go Fund Me” page and received $5,000 of donations. Oliver’s family also secured a grant for $5,000 and borrowed funds from the Connecticut State AT Program’s financing program.</p>                                                                   
 
 <p class="card-text"> When it was time to pick up the vehicle from the dealer, many people who helped and donated gathered to meet Oliver and his parents. Oliver and his family wanted to thank everyone for making it possible for them to get the modified vehicle. With this new van, Oliver and his parents have a much easier time getting to occupational therapy, physical therapy, and school. Rather than lifting and straining, Oliver can use a ramp to get in the van with his wheelchair.</p>
+
+</div>
+
+</div>
