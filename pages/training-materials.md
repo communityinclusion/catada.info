@@ -78,6 +78,8 @@ permalink: /training-materials/
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
+			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=3ERJk7CzSWg"><em
+							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> APR Revisions for FY21 & FY22 – June 8, 2021</a></li>
 				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=W5SfhOQ5eoU&t=580s"><em
 							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2020 APR Data Entry Webinar -
 						October 6, 2020</a></li>
