@@ -3,6 +3,7 @@ layout: default
 title: Training and Technical Assistance Materials
 permalink: /training-materials/
 ---
+
 <div class="container">
 	<div class="row">
 		<div class="col-12">
@@ -37,14 +38,14 @@ permalink: /training-materials/
 									href="/assets/reporting/Brief 7 State Plan Expenditure Tracking and Reporting-1.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 7: State Plan Expenditure Tracking
 									and Reporting</a></li>
+									<li class="list-group-item"><a
+									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
+										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
+									Data Reporting</a></li>
 						</ul>
 					</div>
 					<div class="col-md">
 						<ul class="list-group">
-							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
-										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
-									Data Reporting</a></li>
 							<li class="list-group-item"><a
 									href="/assets/reporting/Brief 9 Contract Compensation Options and Data Reporting.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 9: Contract Compensation Options and
@@ -65,6 +66,10 @@ permalink: /training-materials/
 									href="/assets/reporting/Brief 13 When is demonstrating devices a Device Demonstration.docx"><i
 										class="bi bi-file-earmark-word"></i> 
 										Brief 13: When is “demonstrating devices” a Device Demonstration? </a>
+							</li>
+								<li class="list-group-item"><a
+									href="/assets/files/datamatters_accessibleFINAL.pdf"><i class="far fa-file-pdf"></i>
+										Why Data Matters: How Your AT Data Can Work For You </a>
 							</li>
 						</ul>
 						<p><br></p>
