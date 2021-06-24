@@ -75,6 +75,7 @@ permalink: /training-materials/
 						<p><br></p>
 					</div>
 				</div>
+				<p><br></p>
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
