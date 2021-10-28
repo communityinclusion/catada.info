@@ -4,11 +4,6 @@ title: Data Tutorial Videos
 permalink: /data-tutorial-videos/
 ---
 
-## FY 2021 APR Data Entry Webinar - October 14, 2021
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yT1s-METg34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
 ## How to use Custom Charts and Tables
 
 Description: This 6:30 minute video tutorial will show you how to use the “Custom Charts and Tables” tool. We will describe how to create and customize your own charts and tables using APR data. We will also demonstrate multiple features within the data tool.

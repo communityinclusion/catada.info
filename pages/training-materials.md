@@ -79,6 +79,8 @@ permalink: /training-materials/
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
+			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=yT1s-METg34"><em
+							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2021 APR Data Entry Webinar - October 14, 2021</a></li>
 			<li class="list-group-item"><a href=" https://youtu.be/8NALCVf2EDY"><em
 							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> NATADS D2D Changes for FY2022 APR – September, 21, 2021</a></li>
 			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=3ERJk7CzSWg"><em
