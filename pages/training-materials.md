@@ -3,6 +3,7 @@ layout: default
 title: Training and Technical Assistance Materials
 permalink: /training-materials/
 ---
+
 <div class="container">
 	<div class="row">
 		<div class="col-12">
@@ -37,14 +38,14 @@ permalink: /training-materials/
 									href="/assets/reporting/Brief 7 State Plan Expenditure Tracking and Reporting-1.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 7: State Plan Expenditure Tracking
 									and Reporting</a></li>
+									<li class="list-group-item"><a
+									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
+										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
+									Data Reporting</a></li>
 						</ul>
 					</div>
 					<div class="col-md">
 						<ul class="list-group">
-							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
-										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
-									Data Reporting</a></li>
 							<li class="list-group-item"><a
 									href="/assets/reporting/Brief 9 Contract Compensation Options and Data Reporting.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 9: Contract Compensation Options and
@@ -66,13 +67,24 @@ permalink: /training-materials/
 										class="bi bi-file-earmark-word"></i> 
 										Brief 13: When is “demonstrating devices” a Device Demonstration? </a>
 							</li>
+								<li class="list-group-item"><a
+									href="/assets/files/datamatters_accessibleFINAL.pdf"><i class="far fa-file-pdf"></i>
+										Why Data Matters: How Your AT Data Can Work For You </a>
+							</li>
 						</ul>
 						<p><br></p>
 					</div>
 				</div>
+				<p><br></p>
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
+			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=yT1s-METg34"><em
+							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2021 APR Data Entry Webinar - October 14, 2021</a></li>
+			<li class="list-group-item"><a href=" https://youtu.be/8NALCVf2EDY"><em
+							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> NATADS D2D Changes for FY2022 APR – September, 21, 2021</a></li>
+			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=3ERJk7CzSWg"><em
+							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> APR Revisions for FY21 & FY22 – June 8, 2021</a></li>
 				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=W5SfhOQ5eoU&t=580s"><em
 							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2020 APR Data Entry Webinar -
 						October 6, 2020</a></li>
