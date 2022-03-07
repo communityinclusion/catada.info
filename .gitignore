@@ -6,3 +6,6 @@ vendor
 .vscode
 .ruby-version
 .jekyll-cache
+Gemfile
+Gemfile.lock
+.gitignore
