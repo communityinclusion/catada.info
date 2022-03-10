@@ -17,7 +17,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alabama State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Alabama_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Alabama_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 <!-- Put subtitles in h3 tag -->
 
 <h3>State Financing Activities</h3>
@@ -63,7 +63,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AK%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alaska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Alaska_2020.html">View the&nbsp;Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Alaska_2021.html">View the&nbsp;Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -99,7 +99,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 American Samoa State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/AmericanSamoa_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/AmericanSamoa_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -133,7 +133,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AZ%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Arizona State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Arizona_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Arizona_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -167,7 +167,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Arkansas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Arkansas_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Arkansas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -203,7 +203,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 California State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/California_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/California_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -239,7 +239,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Colorado State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Colorado_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Colorado_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -273,7 +273,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Connecticut State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Connecticut_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Connecticut_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -307,7 +307,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/DE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Delaware State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Deleware_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Delaware_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -343,7 +343,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/DC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 District of Columbia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/DistrictOfColumbia_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/DistrictOfColumbia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -381,7 +381,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/FL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Florida State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Florida_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Florida_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -417,7 +417,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Georgia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Georgia_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Georgia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -452,7 +452,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GU%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Guam State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Guam_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Guam_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -488,7 +488,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/HI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Hawaii State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Hawaii_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Hawaii_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -522,7 +522,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Iowa State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Iowa_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Iowa_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -554,7 +554,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ID%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Idaho State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Idaho_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Idaho_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -590,7 +590,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Illinois_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Illinois_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -626,7 +626,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Indiana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Indiana_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Indiana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -660,7 +660,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/KS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Kansas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Kansas_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Kansas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -694,7 +694,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/KY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Kentucky State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Kentucky_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Kentucky_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -732,7 +732,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/LA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Louisiana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Louisiana_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Louisiana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -766,7 +766,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ME%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Maine State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Maine_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Maine_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -800,7 +800,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MD%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Maryland State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Maryland_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Maryland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -834,7 +834,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Massachusetts State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Massachusetts_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Massachusetts_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -868,7 +868,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Michigan State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Michigan_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Michigan_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -902,7 +902,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Minnesota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Minnesota_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Minnesota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -936,7 +936,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MO%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Missouri State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Missouri_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Missouri_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -970,7 +970,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Mississippi State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Mississippi_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Mississippi_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1006,7 +1006,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Montana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Montana_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Montana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1029,7 +1029,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <p>MATP operates an information and referral network serving all Montanans, distributes materials about AT to key stakeholder groups, and participates in local and statewide events to promote awareness and increase knowledge. MATP collaborates with agencies and service providers, including tribal organizations, to provide needed AT training in the areas of education, employment, community living and information technology..</p>
 </div>
 
-<div id="Nebraska"> 
+<div id="Nebraska">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEBRASKA</h2>
 
 <p><img alt="program logo" src="/assets/nebraska(1).jpg" style="border-width: 1px; border-style: solid; width: 150px; height: 96px;" /></p>
@@ -1040,7 +1040,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nebraska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Nebraska_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Nebraska_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1076,7 +1076,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nevada State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Nevada_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Nevada_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1110,7 +1110,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Hampshire State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NewHampshire_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NewHampshire_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1146,7 +1146,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NJ%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Jersey State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NewJersey_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NewJersey_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1180,7 +1180,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NM%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Mexico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NewMexico_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NewMexico_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1218,7 +1218,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New York State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NewYork_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NewYork_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1252,7 +1252,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 North Carolina State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NorthCarolina_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NorthCarolina_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1288,7 +1288,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ND%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 North Dakota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NorthDakota_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NorthDakota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1324,7 +1324,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MP%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Northern Mariana Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/NorthernMarianaIslands_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/NorthernMarianaIslands_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1360,7 +1360,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/OH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Ohio State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Ohio_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Ohio_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1394,7 +1394,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/OK%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Oklahoma State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Oklahoma_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Oklahoma_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1421,7 +1421,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Oregon">
 	<p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p>
 	<h2>OREGON</h2>
-	
+
 <p><img alt="program logo" src="/assets/oregon.png" style="width: 200px; height: 52px;" /></p>
 
 <p><strong>Lead Agency:</strong> State of Oregon, Office of Vocational Rehabilitation Services</p>
@@ -1432,7 +1432,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="/assets/state_at_plans_2019/OR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Oregon State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Oregon_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Oregon_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1466,7 +1466,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Pennsylvania State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Pennsylvania_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Pennsylvania_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1508,7 +1508,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Puerto Rico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/PuertoRico_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/PuertoRico_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1544,7 +1544,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/RI%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Rhode Island State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/RhodeIsland_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/RhodeIsland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1578,7 +1578,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/SC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 South Carolina State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/SouthCarolina_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/SouthCarolina_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1614,7 +1614,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/SD%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 South Dakota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/SouthDakota_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/SouthDakota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1648,7 +1648,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/TN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Tennessee State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Tennessee_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Tennessee_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1682,7 +1682,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/TX%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Texas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Texas_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Texas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1716,7 +1716,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/UT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Utah State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Utah_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Utah_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1724,7 +1724,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <h3>Device Reutilization</h3>
 
-<p>UATP has three locations: Logan, Salt Lake City and the Uintah Basin that provides device fabrication and reutilization of mobility AT. 
+<p>UATP has three locations: Logan, Salt Lake City and the Uintah Basin that provides device fabrication and reutilization of mobility AT.
 
 UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individuals and agencies in the community.  We offer assistance in posting an item, but only provide the platform as a third party in the device exchange process.</p>
 
@@ -1753,7 +1753,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 U.S. Virgin Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/U.S.VirginIslands_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/U.S.VirginIslands_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1787,7 +1787,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Vermont State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Vermont_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Vermont_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1821,7 +1821,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Virginia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Virginia_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Virginia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1855,7 +1855,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WA%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Washington State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Washington_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Washington_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1888,7 +1888,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 West Virginia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/WestVirginia_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/WestVirginia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1922,7 +1922,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wisconsin State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Wisconsin_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Wisconsin_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1957,7 +1957,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wyoming State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
-<p><a href="apr_reports20/Wyoming_2020.html">View the Annual Progress Report data for FY2020.</a></p>
+<p><a href="apr_reports21/Wyoming_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
 <h3>State Financing Activities</h3>
 
