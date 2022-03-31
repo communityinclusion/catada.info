@@ -1020,3 +1020,6 @@ p.disclaimBody {line-height: .95em; }
 .google-visualization-table .gradient {
   background-image: none !important;
 }
+th.tbl2hed1,th.tbl1.hed1 {background-color: #ccc;}
+th.tbl2hed2,th.tbl1hed2 {background-color: #1a73e8;}
+th.blankhed {background-color: #fff;}

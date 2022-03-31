@@ -26,7 +26,7 @@ google.setOnLoadCallback(drawChart11);
 var visualization;
 function drawChart1() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=841955333&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=841955333&headers=2&usp=sharing');
     query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
     query.send(handleQueryResponse1);
 }
@@ -42,10 +42,12 @@ function handleQueryResponse1(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tbl1hed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tbl1hed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+    var tackon = jQuery('#table1').find('thead').prepend(tablehead);
 }
 function drawChart2() {
   var visualization;
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=293649242&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=293649242&headers=2&usp=sharing');
     query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
     query.send(handleQueryResponse2);
 }
@@ -61,6 +63,9 @@ function handleQueryResponse2(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tbl2hed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tbl2hed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+    var stuff = jQuery('#table2').find('thead').prepend(tablehead);
+
 }
 function drawChart3() {
 
@@ -223,7 +228,7 @@ function handleQueryResponse10(response) {
 function drawChart11() {
 
     var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=0&usp=sharing');
-    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A " ", B "State", C "Other", D "Both", E " ", F "Central", G "Regional", H "Both", I " ", J "% who charge fee for activity"');
+    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "", B "State", C "Other", D "Both", E "", F "Central", G "Regional", H "Both", I "", J "Training"');
     query.send(handleQueryResponse11);
 }
 
