@@ -42,7 +42,7 @@ function handleQueryResponse1(response) {
         allowHtml: true,
         legend: 'bottom'
     });
-    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tbl1hed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tbl1hed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
     var tackon = jQuery('#table1').find('thead').prepend(tablehead);
 }
 function drawChart2() {
@@ -63,13 +63,13 @@ function handleQueryResponse2(response) {
         allowHtml: true,
         legend: 'bottom'
     });
-    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tbl2hed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tbl2hed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
     var stuff = jQuery('#table2').find('thead').prepend(tablehead);
 
 }
 function drawChart3() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1512482700&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1512482700&headers=2&usp=sharing');
     query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
     query.send(handleQueryResponse3);
 }
@@ -85,11 +85,14 @@ function handleQueryResponse3(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+    var stuff = jQuery('#table3').find('thead').prepend(tablehead);
 }
 function drawChart4() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=796274859&usp=sharing');
-    query.setQuery('SELECT A, B, C, D, E, F, G, H, I');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=796274859&headers=3&usp=sharing');
+    query.setQuery('SELECT A, B, C, D, E, F, G, H, I label A "data field type", B "check mark or NA", C "check mark or NA", D "check mark or NA", E "check mark or NA", F "XX.XX percent", G "XX.XX percent", H "dollar amount", I "dollar amount"');
     query.send(handleQueryResponse4);
 }
 
@@ -104,11 +107,13 @@ function handleQueryResponse4(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="4">Loan Type(s)</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Interest Policy</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="2">Amount Policy</th></tr><tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted row2odd" >State</th><th class="google-visualization-table-th gradient unsorted row2even" >Revolving</th><th class="google-visualization-table-th gradient unsorted row2odd" >Guarantee</th><th class="google-visualization-table-th gradient unsorted row2even" >Buy Down</th><th class="google-visualization-table-th gradient unsorted row2odd" >Both</th><th class="google-visualization-table-th gradient unsorted row2even" >Low</th><th class="google-visualization-table-th gradient unsorted row2odd" >High</th><th class="google-visualization-table-th gradient unsorted row2even" >Low</th><th class="google-visualization-table-th gradient unsorted row2odd" >High</th></th><</tr>';
+    var insertit = jQuery('#table4').find('thead').prepend(tablehead);
 }
 function drawChart5() {
 
     var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1476775117&usp=sharing');
-    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "State", B "Telecom EDP", C "DB Telecom EDP", D "Last Resort Fund", E "Home Mod Program", F "Other w Description", G "Cooperative Buying Program", H "AT Leasing Program", I "AT Fabrication Program", J "Other w Description" ');
+    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A " ", B "Telecom EDP", C "DB Telecom EDP", D "Last Resort Fund", E "Home Mod Program", F "Other w Description", G "Cooperative Buying Program", H "AT Leasing Program", I "AT Fabrication Program", J "Other w Description" ');
     query.send(handleQueryResponse5);
 }
 
@@ -123,6 +128,8 @@ function handleQueryResponse5(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted tblhed1" >State</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="5">State Financing Activities Directly Providing AT</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="4">State Financing Activities Create Savings</th></tr>';
+    var insert = jQuery('#table5').find('thead').prepend(tablehead);
 }
 
 function drawChart6() {
@@ -147,7 +154,7 @@ function handleQueryResponse6(response) {
 
 function drawChart7() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1608376186&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1608376186&headers=2&usp=sharing');
     query.setQuery('SELECT A, B, C label A "State", B "Drop/Ship", C "Pick-up/deliver"');
     query.send(handleQueryResponse7);
 }
@@ -163,6 +170,8 @@ function handleQueryResponse7(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2">Device Loan</th></tr>';
+    var insert = jQuery('#table7').find('thead').prepend(tablehead);
 }
 
 function drawChart8() {
@@ -187,7 +196,7 @@ function handleQueryResponse8(response) {
 
 function drawChart9() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=414645865&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=414645865&headers=1&usp=sharing');
     query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "State", B "Home", C "Cash Loan", D "SFA-Provide", E "SFA-Savings", F "Exchange", G "Refurbish", H "Device Loan", I "Demo", J "Training"');
     query.send(handleQueryResponse9);
 }
@@ -207,7 +216,7 @@ function handleQueryResponse9(response) {
 
 function drawChart10() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1968385764&usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1968385764&headers=1&usp=sharing');
     query.setQuery('SELECT A, B, C label A "State", B "Implementing State AT Program", C "Lead Agency (if different)"');
     query.send(handleQueryResponse10);
 }
@@ -227,8 +236,8 @@ function handleQueryResponse10(response) {
 
 function drawChart11() {
 
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=0&usp=sharing');
-    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "", B "State", C "Other", D "Both", E "", F "Central", G "Regional", H "Both", I "", J "Training"');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1179168944&headers=2&usp=sharing');
+    query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A " ", B "State", C "Other", D "Both", E " ", F "Central", G "Regional", H "Both", I " ", J " "');
     query.send(handleQueryResponse11);
 }
 
@@ -243,4 +252,6 @@ function handleQueryResponse11(response) {
         allowHtml: true,
         legend: 'bottom'
     });
+    var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" >Percent of Grantees who conduct this activity themselves or via others</th><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="3">% grantees who operate activity in different locations</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed3">Percent who charge fee for activity</th></tr>';
+    var insert = jQuery('#table11').find('thead').prepend(tablehead);
 }

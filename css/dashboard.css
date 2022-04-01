@@ -1020,6 +1020,9 @@ p.disclaimBody {line-height: .95em; }
 .google-visualization-table .gradient {
   background-image: none !important;
 }
-th.tbl2hed1,th.tbl1hed1 {background-color: #ccc;}
-th.tbl2hed2,th.tbl1hed2 {background-color: #1a73e8;}
+th.tblhed1 {background-color: #ccc;}
+th.tblhed2 {background-color: #1a73e8;}
+th.tblhed3 { background-color: #f7dfcd; } 
 th.blankhed {background-color: #fff;}
+th.row2odd {background-color: #ffe8b9; }
+th.row2even { background-color: #c7debb; }
