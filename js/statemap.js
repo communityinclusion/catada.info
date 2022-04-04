@@ -6,11 +6,11 @@ jQuery.noConflict();
         if (window.location.href.indexOf("state.html") > -1) {
         var stateHash = window.location.hash.substr(1) ? window.location.hash.substr(1) : '' ;
         console.log('State page');
-        
+
         if(stateHash.length > 0) {
             console.log(stateHash);
         var url = '#' + stateHash;
-        window.location = url; 
+        window.location = url;
         jQuery('#stateHolder > div').removeClass("stateDisplay");
         jQuery('#stateHolder > div').addClass("phpfix");
         jQuery('#stateHolder ' + url).addClass("stateDisplay");
@@ -19,13 +19,13 @@ jQuery.noConflict();
                     scrollTop: jQuery("#stateHolder").offset().top
                     }, 200);
                 }
-                
-     
+
+
 
 
         }
-    
-    
+
+
 
      jQuery(".stateGroup").mouseenter(function() {
                 jQuery(this).find('*').not("text").css('fill','#bec3c6');
@@ -54,10 +54,10 @@ jQuery.noConflict();
     });
 
     jQuery("#chooseState").click(function(){
-  
-    
 
-    
+
+
+
         var selectState = jQuery('#jumpState #stateSelect').find(":selected").val();
         console.log('selected: ' + selectState);
         var stateId = selectState;
@@ -75,4 +75,3 @@ jQuery.noConflict();
     });
 
 });
-
