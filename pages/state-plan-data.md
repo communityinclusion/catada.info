@@ -1,7 +1,7 @@
 ---
 layout: state-plan
 title: State Plan Data
-permalink: /state-plan-data.html
+permalink: /state-plan-data/
 ---
 <div class="container-fluid">
   <div class="row">
@@ -50,8 +50,8 @@ permalink: /state-plan-data.html
             </p><p>
             “Other Entities” means the Lead Agency/Implementing Entity does not work directly with consumers using Lead Agency/Implementing Entity facilities and resources and instead uses external organizations only.
             </p><p>
-            “Both” means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers and ALSO uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p><p>N/A indicates the activity is not conducted</p><p><a id="table02_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table02">&gt;&gt;Next table</a></p></div><hr />
-          
+            “Both” means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers and ALSO uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p><p>N/A indicates the activity is not conducted</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table02">&gt;&gt;Next table</a></p></div><hr />
+
         </div>
         <div id="table02container" class="displayToggle">
            <h3 id="where_activities">Where activities are conducted</h3>
@@ -62,7 +62,7 @@ permalink: /state-plan-data.html
             <p><strong>Regional:</strong>		Select this only if the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters (if one of them is considered the headquarters, choose a combination of central location and regional sites instead). Regional sites can be directly managed by the Lead  Agency/Implementing Entity or can be subcontractors. </p>
             <p><strong>Both:</strong>	Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites</p>
 
-            <p>NA indicates that activity is not conducted. </p><p><p><a id="table01_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table01">&lt;&lt;Previous table</a></p><a id="table03_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table03">&gt;&gt;Next table</a></p>
+            <p>NA indicates that activity is not conducted. </p><p align="center"><a id="table01_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table01">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table03">&gt;&gt;Next table&gt;&gt;</a></p>
           </div><hr />
         </div>
         <div id="table03container" class="displayToggle">
@@ -75,7 +75,7 @@ permalink: /state-plan-data.html
              <p><strong>Both:</strong> Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites	</p>					
 
               <p>NA indicates that activity is not conducted. </p>							
-
+              <p align="center"><a id="table02_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table02">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table04_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table04">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table04container" class="displayToggle">

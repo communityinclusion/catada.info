@@ -12,7 +12,7 @@ jQuery.noConflict();
 jQuery(document).ready(function() {
   if(!jQuery("#introDiv").hasClass('tableDisplay'))jQuery("#introDiv").addClass('tableDisplay');
 
-  if (window.location.href.indexOf("state-plan-data.html") > -1) {
+  if (window.location.href.indexOf("state-plan-data/") > -1) {
   var tableHash = window.location.hash.substr(1) ? window.location.hash.substr(1) : '' ;
 
 
