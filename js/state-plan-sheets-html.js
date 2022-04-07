@@ -310,10 +310,12 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
           //jQuery('#stateHolder > div').addClass("phpfix");
           jQuery('#tableDiv #' + tableId + 'container.displayToggle').addClass("tableDisplay");
 
+
           // jQuery('#stateHolder #' + stateId).removeClass("phpfix");
           jQuery('html, body').animate({
                           scrollTop: jQuery("#tableDiv").offset().top
                       }, 200);
+                        document.getElementById('tableDiv').focus();
           return false;
       }
     );
