@@ -1028,3 +1028,5 @@ th.row2odd {background-color: #ffe8b9; }
 th.row2even { background-color: #c7debb; }
 div.displayToggle {display: none; }
 div.displayToggle.tableDisplay {display:block;}
+button.tableChanger {background-color: #fff;}
+button.tableChanger:hover {color: #fff; background-color: #007bff;}

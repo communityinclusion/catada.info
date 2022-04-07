@@ -12,9 +12,10 @@ permalink: /state-plan-data/
 	</div>
 	<div class="row">
 		<nav class="col-lg-3 col-md-4 col-sm-12 py-2" id="sidebar">
+      <h4 id="tableSelectorhed">Select a table to view data</h4>
 			<form action="#" id="tableSelector" method="post" name="tableSelector">
       <div class="list-group">
-        <button type="button" id="table01_jump" class="list-group-item list-group-item-action tableChanger active">Who conducts activities</button>
+        <button type="button" id="table01_jump" class="list-group-item list-group-item-action tableChanger">Who conducts activities</button>
         <button type="button" id="table02_jump" class="list-group-item list-group-item-action tableChanger">Where are activities conducted</button>
         <button type="button" id="table03_jump" class="list-group-item list-group-item-action tableChanger">Fee charged</button>
         <button type="button" id="table04_jump" class="list-group-item list-group-item-action tableChanger">Cash loan</button>
@@ -38,7 +39,7 @@ permalink: /state-plan-data/
 		</nav>
     <main class="col-lg-9 col-md-8 col-sm-12 py-2 content">
       <div id="tableDiv">
-        <div id="introDiv" class="displayToggle"><p>This is some intro text.</p>
+        <div id="introDiv" class="displayToggle"><p>This is some intro text. Use the <a href="#tableSelectorhed">table selector buttons</a> to view tables.</p>
         </div>
         <div id="table01container" class="displayToggle">
           <h3 id="who_conducts">Who conducts activities</h3><div id="table01">

@@ -21,7 +21,8 @@ jQuery(document).ready(function() {
       var url = '#' + tableHash;
       window.location = url;
       jQuery('#tableDiv > div.displayToggle').removeClass("tableDisplay");
-      jQuery('#tableDiv > ' + url + 'container').addClass("tableDisplay");
+      if(!jQuery('#tableDiv > ' + url + 'container').hasClass("tableDisplay")) jQuery('#tableDiv > ' + url + 'container').addClass("tableDisplay");
+      if(!jQuery('#tableSelector button' + url + '_jump').hasClass('active')) jQuery('#tableSelector button' + url + '_jump').addClass('active');
 
     }
   }
@@ -61,7 +62,8 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var capon = jQuery('#table01').find('table').prepend('<caption>Who conducts activities</caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var tackon = jQuery('#table01').find('thead').prepend(tablehead);
     }
     function drawChart2() {
@@ -82,7 +84,8 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var capon = jQuery('#table02').find('table').prepend('<caption>Where are activities conducted</caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var stuff = jQuery('#table02').find('thead').prepend(tablehead);
 
     }
@@ -105,7 +108,8 @@ jQuery(document).ready(function() {
             legend: 'bottom'
         });
 
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
+        var capon = jQuery('#table03').find('table').prepend('<caption>Fee charged</caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var stuff = jQuery('#table03').find('thead').prepend(tablehead);
     }
     function drawChart4() {
@@ -126,12 +130,13 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="4">Loan Type(s)</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2">Interest Policy</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="2">Amount Policy</th></tr><tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted row2odd" >State</th><th class="google-visualization-table-th gradient unsorted row2even" >Revolving</th><th class="google-visualization-table-th gradient unsorted row2odd" >Guarantee</th><th class="google-visualization-table-th gradient unsorted row2even" >Buy Down</th><th class="google-visualization-table-th gradient unsorted row2odd" >Both</th><th class="google-visualization-table-th gradient unsorted row2even" >Low</th><th class="google-visualization-table-th gradient unsorted row2odd" >High</th><th class="google-visualization-table-th gradient unsorted row2even" >Low</th><th class="google-visualization-table-th gradient unsorted row2odd" >High</th></th><</tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="4" scope="colgroup">Loan Type(s)</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Interest Policy</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="2" scope="colgroup">Amount Policy</th></tr><tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">State</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Revolving</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Guarantee</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Buy Down</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Both</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th></th></tr>';
+        var capon = jQuery('#table04').find('table').prepend('<caption>Cash Loan</caption><col><colgroup span="4"></colgroup><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
         var insertit = jQuery('#table04').find('thead').prepend(tablehead);
     }
     function drawChart5() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1476775117&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&headers=3&gid=1476775117&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A " ", B "Telecom EDP", C "DB Telecom EDP", D "Last Resort Fund", E "Home Mod Program", F "Other w Description", G "Cooperative Buying Program", H "AT Leasing Program", I "AT Fabrication Program", J "Other w Description" ');
         query.send(handleQueryResponse5);
     }
@@ -147,7 +152,8 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted tblhed1" >State</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="5">State Financing Activities Directly Providing AT</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="4">State Financing Activities Create Savings</th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="5" scope="colgroup">State Financing Activities Directly Providing AT</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="4" scope="colgroup">State Financing Activities Create Savings</th></tr>';
+        var capon = jQuery('#table05').find('table').prepend('<caption>Other State Financing</caption><col><colgroup span="5"></colgroup><colgroup span="4"></colgroup>');
         var insert = jQuery('#table05').find('thead').prepend(tablehead);
     }
 
@@ -169,6 +175,7 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
+        var capon = jQuery('#table06').find('table').prepend('<caption>Reuse operations</caption><col>');
     }
 
     function drawChart7() {
@@ -189,8 +196,9 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2">Device Loan</th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2" scope="colgroup">Device Loan</th></tr>';
         var insert = jQuery('#table07').find('thead').prepend(tablehead);
+        var capon = jQuery('#table07').find('table').prepend('<caption>Device loan operations</caption><col><colgroup span="2"></colgroup>');
     }
 
     function drawChart8() {
@@ -211,6 +219,7 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
+        var capon = jQuery('#table08').find('table').prepend('<caption>Closeout expenditures</caption><col>');
     }
 
     function drawChart9() {
@@ -231,6 +240,7 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
+        var capon = jQuery('#table09').find('table').prepend('<caption>URL list</caption>');
     }
 
     function drawChart10() {
@@ -251,6 +261,7 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
+        var capon = jQuery('#table10').find('table').prepend('<caption>Agency implementing</caption>');
     }
 
     function drawChart11() {
@@ -271,7 +282,8 @@ jQuery(document).ready(function() {
             allowHtml: true,
             legend: 'bottom'
         });
-        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" >Percent of Grantees who conduct this activity themselves or via others</th><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="3">% grantees who operate activity in different locations</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed3">Percent who charge fee for activity</th></tr>';
+        var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">Percent of Grantees who conduct this activity themselves or via others</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="3" scope="colgroup">% grantees who operate activity in different locations</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed3" scope="col">Percent who charge fee for activity</th></tr>';
+        var capon = jQuery('#table11').find('table').prepend('<caption>Aggregate activity table</caption><col><colgroup span="3"></colgroup><col><colgroup span="3"></colgroup><col><col>');
         var insert = jQuery('#table11').find('thead').prepend(tablehead);
     }
     jQuery(".tableChanger").click(
@@ -281,6 +293,9 @@ jQuery(document).ready(function() {
           var tableId = jQuery(this).attr('id').substring(0,7);
           var url = '#' + tableId;
            window.location = url;
+           if(!jQuery(this).hasClass('active')) jQuery(this).addClass('active');
+          jQuery('#tableSelector button').removeClass('active');
+          if(!jQuery(this).hasClass('active')) jQuery(this).addClass('active');
           jQuery('#tableDiv > div.displayToggle').removeClass("tableDisplay");
           //jQuery('#stateHolder > div').addClass("phpfix");
           jQuery('#tableDiv #' + tableId + 'container.displayToggle').addClass("tableDisplay");
@@ -297,6 +312,7 @@ jQuery(document).ready(function() {
       function()
       {
         jQuery('#tableDiv > div.displayToggle').removeClass("tableDisplay");
+        jQuery('#tableSelector button').removeClass('active');
         if(!jQuery("#introDiv").hasClass('tableDisplay'))jQuery("#introDiv").addClass('tableDisplay');
 
 
