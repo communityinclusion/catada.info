@@ -236,11 +236,21 @@ jQuery(document).ready(function() {
         }
         var data = response.getDataTable();
         visualization = new google.visualization.Table(document.getElementById('table09'));
-        visualization.draw(data, {
-            allowHtml: true,
-            legend: 'bottom'
-        });
-        var capon = jQuery('#table09').find('table').prepend('<caption>URL list</caption>');
+
+var formatter = new google.visualization.PatternFormat(
+    '<a href="https://{1}">{1}</a>');
+// Apply formatter and set the formatted value of the first column.
+formatter.format(data, [1,1]);
+
+var view = new google.visualization.DataView(data);
+view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column only.
+
+
+                visualization.draw(view, {
+                    allowHtml: true,
+                    legend: 'bottom'
+                });
+                var capon = jQuery('#table09').find('table').prepend('<caption>URL list</caption>');
     }
 
     function drawChart10() {
