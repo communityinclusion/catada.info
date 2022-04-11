@@ -118,7 +118,7 @@ permalink: /state-plan-data/
         </p>					
 
               <p>NA indicates that activity is not conducted. </p>							
-
+          <p align="center"><a id="table03_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table03">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table05">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table05container" class="displayToggle">
@@ -135,7 +135,7 @@ permalink: /state-plan-data/
             </p>					
 
                   <p>NA indicates that activity is not conducted. </p>							
-
+                  <p align="center"><a id="table04_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table04">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table06">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
 
@@ -145,7 +145,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table06legend">
                   <p>There is no information in the spreadsheet yet.</p>							
-
+                    <p align="center"><a id="table05_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table05">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table07_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table07">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table07container" class="displayToggle">
@@ -156,7 +156,7 @@ permalink: /state-plan-data/
 
                   </p><p><strong>Pick-up/deliver:</strong> The majority of devices are delivered or picked up in-person."	</p>
 
-
+                    <p align="center"><a id="table06_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table06">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table08_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table08">&gt;&gt;Next table&gt;&gt;</a></p>
                   </div><hr />
         </div>
         <div id="table08container" class="displayToggle">
@@ -164,7 +164,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table08legend">
                   <p>There is no information in the spreadsheet yet.</p>							
-
+                    <p align="center"><a id="table07_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table07">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table09">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table09container" class="displayToggle">
@@ -172,7 +172,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table09legend">
                   <p>NA indicates that data is not available.</p>							
-
+                    <p align="center"><a id="table08_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table08">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table10">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table10container" class="displayToggle">
@@ -180,7 +180,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table10legend">
                   <p>Nothing yet.</p>							
-
+                    <p align="center"><a id="table09_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table09">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table11_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table11">&gt;&gt;Next table&gt;&gt;</a></p>
             </div><hr />
         </div>
         <div id="table11container" class="displayToggle">
@@ -188,7 +188,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table11legend">
                   <p>Nothing yet.</p>							
-
+                    <p align="center"><a id="table10_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table10">&lt;&lt;Previous table&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
             </div><hr />
         </div>
 
