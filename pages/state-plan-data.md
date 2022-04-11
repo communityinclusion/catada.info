@@ -42,7 +42,7 @@ permalink: /state-plan-data/
         <div id="introDiv" class="displayToggle"><p>This is some intro text. Use the <a href="#tableSelectorhed">table selector buttons</a> to view tables.</p>
         </div>
         <div id="table01container" class="displayToggle">
-          <h3 id="who_conducts">Who conducts activities</h3><div id="table01">
+          <div id="table01">
            </div>
            <div id="table01legend">
              <p>Lead Agencies/Implementing Entities implement their activities in many ways. Some implement their activities directly using their own staff and resources, others use subcontractors, and others use combinations of both. Remember, the Implementing Entity is considered the Statewide AT Program, not an “other entity.” Indicate how your program conducts this activity using the following rules:</p><p>
@@ -55,7 +55,7 @@ permalink: /state-plan-data/
 
         </div>
         <div id="table02container" class="displayToggle">
-           <h3 id="where_activities">Where activities are conducted</h3>
+
            <div id="table02">
            </div>
            <div id="table02legend">
@@ -67,7 +67,6 @@ permalink: /state-plan-data/
           </div><hr />
         </div>
         <div id="table03container" class="displayToggle">
-        <h3 id="fee_charged">Fee Charged</h3>
            <div id="table03">
            </div>
            <div id="table03legend">
@@ -80,7 +79,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table04container" class="displayToggle">
-        <h3 id="cash_loan">Cash Loan</h3>
            <div id="table04">
            </div>
            <div id="table04legend">
@@ -122,7 +120,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table05container" class="displayToggle">
-            <h3 id="other_state_financing">Other State Financing</h3>
                <div id="table05">
                </div>
                <div id="table05legend">
@@ -142,7 +139,6 @@ permalink: /state-plan-data/
 
 
         <div id="table06container" class="displayToggle">
-            <h3 id="reuse_operation">Reuse Operation</h3>
                <div id="table06">
                </div>
                <div id="table06legend">
@@ -151,7 +147,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table07container" class="displayToggle">
-            <h3 id="device_loan_operations">Device Loan Operations</h3>
                <div id="table07">
                </div>
                <div id="table07legend">
@@ -163,7 +158,6 @@ permalink: /state-plan-data/
                   </div><hr />
         </div>
         <div id="table08container" class="displayToggle">
-            <h3 id="closeout_expenditures">Closeout Expenditures</h3>
                <div id="table08">
                </div>
                <div id="table08legend">
@@ -172,7 +166,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table09container" class="displayToggle">
-            <h3 id="url_list">URL List</h3>
                <div id="table09">
                </div>
                <div id="table09legend">
@@ -181,7 +174,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table10container" class="displayToggle">
-            <h3 id="agency_implementing">Agency Implementing</h3>
                <div id="table10">
                </div>
                <div id="table10legend">
@@ -190,7 +182,6 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table11container" class="displayToggle">
-            <h3 id="aggregate_activity_table">Aggregate Activity Table</h3>
                <div id="table11">
                </div>
                <div id="table11legend">

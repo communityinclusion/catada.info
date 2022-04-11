@@ -60,7 +60,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table01'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
         var capon = jQuery('#table01').find('table').prepend('<caption>Who conducts activities</caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
@@ -82,7 +83,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table02'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
         var capon = jQuery('#table02').find('table').prepend('<caption>Where are activities conducted</caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
@@ -105,7 +107,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table03'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
 
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted blankhed"></th></tr>';
@@ -128,7 +131,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table04'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="4" scope="colgroup">Loan Type(s)</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Interest Policy</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="2" scope="colgroup">Amount Policy</th></tr><tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">State</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Revolving</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Guarantee</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Buy Down</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Both</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th></th></tr>';
         var capon = jQuery('#table04').find('table').prepend('<caption>Cash Loan</caption><col><colgroup span="4"></colgroup><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
@@ -150,7 +154,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table05'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="5" scope="colgroup">State Financing Activities Directly Providing AT</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="4" scope="colgroup">State Financing Activities Create Savings</th></tr>';
         var capon = jQuery('#table05').find('table').prepend('<caption>Other State Financing</caption><col><colgroup span="5"></colgroup><colgroup span="4"></colgroup>');
@@ -173,7 +178,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table06'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var capon = jQuery('#table06').find('table').prepend('<caption>Reuse operations</caption><col>');
     }
@@ -194,7 +200,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table07'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2" scope="colgroup">Device Loan</th></tr>';
         var insert = jQuery('#table07').find('thead').prepend(tablehead);
@@ -217,7 +224,8 @@ jQuery(document).ready(function() {
         visualization = new google.visualization.Table(document.getElementById('table08'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var capon = jQuery('#table08').find('table').prepend('<caption>Closeout expenditures</caption><col>');
     }
@@ -248,7 +256,8 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
 
                 visualization.draw(view, {
                     allowHtml: true,
-                    legend: 'bottom'
+                    legend: { position: 'top', alignment: 'start' }
+
                 });
                 var capon = jQuery('#table09').find('table').prepend('<caption>URL list</caption>');
     }
@@ -269,7 +278,8 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
         visualization = new google.visualization.Table(document.getElementById('table10'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var capon = jQuery('#table10').find('table').prepend('<caption>Agency implementing</caption>');
     }
@@ -290,7 +300,8 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
         visualization = new google.visualization.Table(document.getElementById('table11'));
         visualization.draw(data, {
             allowHtml: true,
-            legend: 'bottom'
+            legend: { position: 'top', alignment: 'start' }
+
         });
         var tablehead ='<tr class="google-visualization-table-tr-head"><th class="google-visualization-table-th gradient unsorted blankhed" ></th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">Percent of Grantees who conduct this activity themselves or via others</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="3" scope="colgroup">% grantees who operate activity in different locations</th><th class="google-visualization-table-th gradient unsorted blankhed"></th><th class="google-visualization-table-th gradient unsorted tblhed3" scope="col">Percent who charge fee for activity</th></tr>';
         var capon = jQuery('#table11').find('table').prepend('<caption>Aggregate activity table</caption><col><colgroup span="3"></colgroup><col><colgroup span="3"></colgroup><col><col>');

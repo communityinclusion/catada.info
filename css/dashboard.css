@@ -1030,3 +1030,5 @@ div.displayToggle {display: none; }
 div.displayToggle.tableDisplay {display:block;}
 button.tableChanger {background-color: #fff;}
 button.tableChanger:hover {color: #fff; background-color: #007bff;}
+.displayToggle table.google-visualization-table-table caption { caption-side: top;
+    color: #256497; font-size: 1.75rem; }
