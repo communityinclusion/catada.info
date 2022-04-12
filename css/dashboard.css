@@ -1032,4 +1032,5 @@ button.tableChanger {background-color: #fff;}
 button.tableChanger:hover {color: #fff; background-color: #007bff;}
 .displayToggle table.google-visualization-table-table caption { caption-side: top;
     color: #256497; font-size: 1.75rem; }
-.notesLink {display: block; width: 30%; float: right; }
+
+.displayToggle table.google-visualization-table-table caption .notesLink {display: block; width: 30%; float: right;color: #333333; font-size: 1.1rem;}
