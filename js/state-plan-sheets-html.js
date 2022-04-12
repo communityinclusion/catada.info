@@ -325,9 +325,9 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
           var tableId = jQuery(this).attr('id').substring(0,7);
           var url = '#' + tableId;
            window.location = url;
-           if(!jQuery(this).hasClass('active')) jQuery(this).addClass('active');
+
           jQuery('#tableSelector button').removeClass('active');
-          if(!jQuery(this).hasClass('active')) jQuery(this).addClass('active');
+          if(!jQuery('#' + tableId + '_jump').hasClass('active')) jQuery('#' + tableId + '_jump').addClass('active');
           jQuery('#tableDiv > div.displayToggle').removeClass("tableDisplay");
           //jQuery('#stateHolder > div').addClass("phpfix");
           jQuery('#tableDiv #' + tableId + 'container.displayToggle').addClass("tableDisplay");
