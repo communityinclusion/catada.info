@@ -1037,5 +1037,5 @@ button.tableChanger:hover {color: #fff; background-color: #007bff;}
     color: #256497; font-size: 1.75rem; }
 
 .displayToggle table.google-visualization-table-table caption .notesLink {display: block; width: 30%; float: right;color: #333333; font-size: 1.1rem;}
-#table01 table tr.google-visualization-table-tr-head,#table02 table tr.google-visualization-table-tr-head,#table03 table tr.google-visualization-table-tr-head,#table04 table tr.google-visualization-table-tr-head,#table05 table tr.google-visualization-table-tr-head,#table06 table tr.google-visualization-table-tr-head,#table07 table tr.google-visualization-table-tr-head,#table08 table tr.google-visualization-table-tr-head  { display: none;}
+#table01 table tr.google-visualization-table-tr-head,#table02 table tr.google-visualization-table-tr-head,#table03 table tr.google-visualization-table-tr-head,#table04 table tr.google-visualization-table-tr-head,#table05 table tr.google-visualization-table-tr-head,#table06 table tr.google-visualization-table-tr-head,#table07 table tr.google-visualization-table-tr-head,#table08 table tr.google-visualization-table-tr-head,#table11 table tr.google-visualization-table-tr-head  { display: none;}
 th.google-visualization-table-th {background-color: #333;}
