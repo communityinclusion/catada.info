@@ -6,11 +6,13 @@
 /*	padding-top: 54px;*/
 	color:#333;
 }
+/*
 @media (min-width: 992px) {
 	body {
-	/*	padding-top: 56px; */
+		padding-top: 56px; 
 	}
 }
+*/
 
 body {
 	font-family: 'roboto', sans-serif;
@@ -105,10 +107,7 @@ nav li a:hover {
 
 
 /*-------Footer--------*/
-#footer {
 
-
-}
 .footer-copyright {
 	background-color: #0073AE;
 	color: #ffffff;
@@ -265,9 +264,10 @@ input[type=radio] {
 .floatLeft {
 	float: left;
 }
+/*
 form#chartSelector {
-	/*height: 490px; */
-}
+	height: 490px; 
+}*/
 #leftSide {
 	width: 380px;
 	float: left;
@@ -399,10 +399,12 @@ button.multiselect.dropdown-toggle {
 	border-top-left-radius: 0;
 	border-bottom-left-radius: 0;
 }
+/*
 #yearDrop, #stateDrop {
-	/*width:430px;*/
-	/*float:left;*/
+	width:430px;
+	float:left;
 }
+*/
 #dropSelects .btn-group {
 	/*border:1px solid grey;*/
 	margin: 0 9px;
@@ -905,13 +907,6 @@ padding: 4px ;
     border: 10px solid transparent;
 }
 
-.col-md-4.shade-box  {
-
-}
-
-
-.shade-box p {}
-
 .shade-box h2 {	text-transform:uppercase;font-size: 30px ; text-align: center;
  }
 .shade-box h4 {font-size: 16px;border-bottom:#3d3d3d solid 2px;}
@@ -1034,8 +1029,14 @@ div.displayToggle.tableDisplay {display:block;}
 button.tableChanger {background-color: #fff;}
 button.tableChanger:hover {color: #fff; background-color: #007bff;}
 .displayToggle table.google-visualization-table-table caption { caption-side: top;
-    color: #256497; font-size: 1.75rem; }
+    color: #256497; font-size: 1.75rem;font-family: roboto, sans-serif; }
 
 .displayToggle table.google-visualization-table-table caption .notesLink {display: block; width: 30%; float: right;color: #333333; font-size: 1.1rem;}
 #table01 table tr.google-visualization-table-tr-head,#table02 table tr.google-visualization-table-tr-head,#table03 table tr.google-visualization-table-tr-head,#table04 table tr.google-visualization-table-tr-head,#table05 table tr.google-visualization-table-tr-head,#table06 table tr.google-visualization-table-tr-head,#table07 table tr.google-visualization-table-tr-head,#table08 table tr.google-visualization-table-tr-head,#table11 table tr.google-visualization-table-tr-head  { display: none;}
 th.google-visualization-table-th {background-color: #333;}
+
+
+#sidebar .list-group {margin-bottom: 20px;}
+.list-group button {
+    font-family: 'Cabin Condensed', sans-serif;
+}

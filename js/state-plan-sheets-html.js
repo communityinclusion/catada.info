@@ -64,7 +64,7 @@ jQuery(document).ready(function() {
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted tanHed" rowspan="2" scope="col">Device Loan Activities</th><th class="google-visualization-table-th gradient unsorted dkBlueHed" scope="col" rowspan="2">Device Demo Activities</th></tr><tr><th class="google-visualization-table-th gradient row2odd" scope="col">Cash Loan</th><th class="google-visualization-table-th gradient row2even" scope="col">Other Provider</th><th class="google-visualization-table-th gradient row2odd" scope="col">Other Save</th><th class="google-visualization-table-th gradient row2even" scope="col">Exchange</th><th class="google-visualization-table-th gradient row2odd" scope="col">Refurbish</th></tr>';
-        var capon = jQuery('#table01').find('table').prepend('<caption>Who conducts activities<p class="notesLink"><a href="#table01legend">Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
+        var capon = jQuery('#table01').find('table').prepend('<caption>Who conducts activities<p class="notesLink"><a href="#table01legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var tackon = jQuery('#table01').find('thead').prepend(tablehead);
     }
     function drawChart2() {
@@ -87,7 +87,7 @@ jQuery(document).ready(function() {
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted tanHed" rowspan="2" scope="col">Device Loan Activities</th><th class="google-visualization-table-th gradient unsorted dkBlueHed" scope="col" rowspan="2">Device Demo Activities</th></tr><tr><th class="google-visualization-table-th gradient row2odd" scope="col">Cash Loan</th><th class="google-visualization-table-th gradient row2even" scope="col">Other Provider</th><th class="google-visualization-table-th gradient row2odd" scope="col">Other Save</th><th class="google-visualization-table-th gradient row2even" scope="col">Exchange</th><th class="google-visualization-table-th gradient row2odd" scope="col">Refurbish</th></tr>';
-        var capon = jQuery('#table02').find('table').prepend('<caption>Where are activities conducted<p class="notesLink"><a href="#table02legend">Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
+        var capon = jQuery('#table02').find('table').prepend('<caption>Where are activities conducted<p class="notesLink"><a href="#table02legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var stuff = jQuery('#table02').find('thead').prepend(tablehead);
 
     }
@@ -112,7 +112,7 @@ jQuery(document).ready(function() {
         });
 
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" scope="col" rowspan="2">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">State Financing Activities</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Reuse Activities</th><th class="google-visualization-table-th gradient unsorted tanHed" scope="col" rowspan="2">Device Loan Activities</th><th class="google-visualization-table-th gradient unsorted dkBlueHed" scope="col" rowspan="2">Device Demo Activities</th></tr><tr><th class="google-visualization-table-th gradient row2odd" scope="col">Cash Loan</th><th class="google-visualization-table-th gradient row2even" scope="col">Other Provider</th><th class="google-visualization-table-th gradient row2odd" scope="col">Other Save</th><th class="google-visualization-table-th gradient row2even" scope="col">Exchange</th><th class="google-visualization-table-th gradient row2odd" scope="col">Refurbish</th></tr>';
-        var capon = jQuery('#table03').find('table').prepend('<caption>Fee charged<p class="notesLink"><a href="#table03legend">Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
+        var capon = jQuery('#table03').find('table').prepend('<caption>Fee charged<p class="notesLink"><a href="#table03legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup><colgroup span="2"></colgroup><col><col>');
         var stuff = jQuery('#table03').find('thead').prepend(tablehead);
     }
     function drawChart4() {
@@ -135,7 +135,7 @@ jQuery(document).ready(function() {
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="4" scope="colgroup">Loan Type(s)</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Interest Policy</th><th class="google-visualization-table-th gradient unsorted tblhed3" colspan="2" scope="colgroup">Amount Policy</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Revolving</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Guarantee</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Buy Down</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Both</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Low</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">High</th></th></tr>';
-        var capon = jQuery('#table04').find('table').prepend('<caption>Cash Loan<p class="notesLink"><a href="#table04legend">Table notes</a></p></caption><col><colgroup span="4"></colgroup><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
+        var capon = jQuery('#table04').find('table').prepend('<caption>Cash Loan<p class="notesLink"><a href="#table04legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="4"></colgroup><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
         var insertit = jQuery('#table04').find('thead').prepend(tablehead);
     }
     function drawChart5() {
@@ -158,7 +158,7 @@ jQuery(document).ready(function() {
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="5" scope="colgroup">State Financing Activities Directly Providing AT</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="4" scope="colgroup">State Financing Activities Create Savings</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Telecom EDP</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">DB Telecom EDP</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Last Resort Fund</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Home Mod Program</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Other w/ Description</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Cooperative Buying Program</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">AT Leasing Program</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">AT Fabrication Program</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Other w/ Description</th></tr>';
-        var capon = jQuery('#table05').find('table').prepend('<caption>Other State Financing<p class="notesLink"><a href="#table05legend">Table notes</a></p></caption><col><colgroup span="5"></colgroup><colgroup span="4"></colgroup>');
+        var capon = jQuery('#table05').find('table').prepend('<caption>Other State Financing<p class="notesLink"><a href="#table05legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="5"></colgroup><colgroup span="4"></colgroup>');
         var insert = jQuery('#table05').find('thead').prepend(tablehead);
     }
 
@@ -182,7 +182,7 @@ jQuery(document).ready(function() {
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2" scope="colgroup">Exchange</th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="2" scope="colgroup">Refurbishment</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Consumer to Consumer</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">AT Program Involved</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Reassign Ownership</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Open-ended Loan</th></tr>';
-        var capon = jQuery('#table06').find('table').prepend('<caption>Reuse operations<p class="notesLink"><a href="#table06legend">Table notes</a></p></caption><col><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
+        var capon = jQuery('#table06').find('table').prepend('<caption>Reuse operations<p class="notesLink"><a href="#table06legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="2"></colgroup><colgroup span="2"></colgroup>');
         var insert = jQuery('#table06').find('thead').prepend(tablehead);
     }
 
@@ -207,7 +207,7 @@ jQuery(document).ready(function() {
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2" scope="colgroup">Device Loan</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Drop/Ship</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Pick-up/Deliver</th></tr>';
         var insert = jQuery('#table07').find('thead').prepend(tablehead);
-        var capon = jQuery('#table07').find('table').prepend('<caption>Device loan operations<p class="notesLink"><a href="#table07legend">Table notes</a></p></caption><col><colgroup span="2"></colgroup>');
+        var capon = jQuery('#table07').find('table').prepend('<caption>Device loan operations<p class="notesLink"><a href="#table07legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="2"></colgroup>');
     }
 
     function drawChart8() {
@@ -231,7 +231,7 @@ jQuery(document).ready(function() {
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">Percentage of Total Award</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State Level</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">State Leadership</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Transition</th></tr>';
         var insert = jQuery('#table08').find('thead').prepend(tablehead);
-        var capon = jQuery('#table08').find('table').prepend('<caption>Closeout expenditures<p class="notesLink"><a href="#table08legend">Table notes</a></p></caption><col><colgroup span="3"></colgroup>');
+        var capon = jQuery('#table08').find('table').prepend('<caption>Closeout expenditures<p class="notesLink"><a href="#table08legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup>');
     }
 
     function drawChart9() {
@@ -263,7 +263,7 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
                     legend: { position: 'top', alignment: 'start' }
 
                 });
-                var capon = jQuery('#table09').find('table').prepend('<caption>URL list<p class="notesLink"><a href="#table09legend">Table notes</a></p></caption>');
+                var capon = jQuery('#table09').find('table').prepend('<caption>URL list<p class="notesLink"><a href="#table09legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption>');
     }
 
     function drawChart10() {
@@ -285,7 +285,7 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
             legend: { position: 'top', alignment: 'start' }
 
         });
-        var capon = jQuery('#table10').find('table').prepend('<caption>Agency implementing<p class="notesLink"><a href="#table10legend">Table notes</a></p></caption>');
+        var capon = jQuery('#table10').find('table').prepend('<caption>Agency implementing<p class="notesLink"><a href="#table10legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption>');
     }
 
     function drawChart11() {
@@ -308,7 +308,7 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
 
         });
         var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted blankhed" scope="col" rowspan="2"> </th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">Percent of Grantees who conduct this activity themselves or via others</th><th class="google-visualization-table-th gradient unsorted blankhed" rowspan="2"></th><th class="google-visualization-table-th gradient unsorted tblhed2" colspan="3" scope="colgroup">% grantees who operate activity in different locations</th><th class="google-visualization-table-th gradient unsorted blankhed" rowspan="2"></th><th class="google-visualization-table-th gradient unsorted tblhed3" scope="col" rowspan="2">Percent who charge fee for activity</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Other</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Both</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Central</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">Regional</th><th class="google-visualization-table-th gradient unsorted row2odd" scope="col">Both</th></tr>';
-        var capon = jQuery('#table11').find('table').prepend('<caption>Aggregate activity table<p class="notesLink"><a href="#table11legend">Table notes</a></p></caption><col><colgroup span="3"></colgroup><col><colgroup span="3"></colgroup><col><col>');
+        var capon = jQuery('#table11').find('table').prepend('<caption>Aggregate activity table<p class="notesLink"><a href="#table11legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup><col><colgroup span="3"></colgroup><col><col>');
         var insert = jQuery('#table11').find('thead').prepend(tablehead);
     }
     jQuery(".tableChanger").click(
