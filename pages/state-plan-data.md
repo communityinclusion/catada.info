@@ -12,14 +12,14 @@ permalink: /state-plan-data/
         <button type="button" id="table01_jump" class="list-group-item list-group-item-action tableChanger">Who conducts activities</button>
         <button type="button" id="table02_jump" class="list-group-item list-group-item-action tableChanger">Where are activities conducted</button>
         <button type="button" id="table03_jump" class="list-group-item list-group-item-action tableChanger">Fee charged</button>
-        <button type="button" id="table04_jump" class="list-group-item list-group-item-action tableChanger">Cash loan</button>
+        <button type="button" id="table04_jump" class="list-group-item list-group-item-action tableChanger">Cash loan operations</button>
         <button type="button" id="table05_jump" class="list-group-item list-group-item-action tableChanger">Other state financing</button>
         <button type="button" id="table06_jump" class="list-group-item list-group-item-action tableChanger">Reuse operations</button>
         <button type="button" id="table07_jump" class="list-group-item list-group-item-action tableChanger">Device loan operations</button>
         <button type="button" id="table08_jump" class="list-group-item list-group-item-action tableChanger">Closeout expenditures</button>
-        <button type="button" id="table09_jump" class="list-group-item list-group-item-action tableChanger">URL list</button>
+        <button type="button" id="table09_jump" class="list-group-item list-group-item-action tableChanger">Activity web links</button>
         <button type="button" id="table10_jump" class="list-group-item list-group-item-action tableChanger">Agency implementing</button>
-        <button type="button" id="table11_jump" class="list-group-item list-group-item-action tableChanger">Aggregate activity table</button>
+        <button type="button" id="table11_jump" class="list-group-item list-group-item-action tableChanger">National activity summary</button>
       </div>
 
 
@@ -33,7 +33,10 @@ permalink: /state-plan-data/
 		</nav>
     <main class="col-lg-9 col-md-8 col-sm-12 py-2 content">
       <div id="tableDiv">
-        <div id="introDiv" class="displayToggle"><p>This is some intro text. Use the <a href="#tableSelectorhed">table selector buttons</a> to view tables.</p>
+        <div id="introDiv" class="displayToggle"><p>TThe State Plan for Assistive Technology provides a description of how each state/territory will implement the state level and state leadership activities as required by Section 4 of the AT Act and serves as the application for Section 4 State AT Program annual funding. The State Plan is submitted for a three-year period and is updated annually including final expenditure data for each closed-out fiscal year grant award.</p>
+				<p>The State Plan Tables display major data points from key state plan modules in standardized tables. These tables provide a general overview of activities and operations conducted by state AT Program.</p>
+				<p>Each table contains explanatory text of data points and header definitions. Select Table Notes to view this information. Users can sort table columns by selecting the header.</p>
+				<p>To begin, simply <a href="#tableSelectorhed">choose a state plan table on the left</a>. </p>
         </div>
         <div id="table01container" class="displayToggle">
 
