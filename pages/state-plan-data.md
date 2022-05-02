@@ -20,6 +20,7 @@ permalink: /state-plan-data/
         <button type="button" id="table09_jump" class="list-group-item list-group-item-action tableChanger">Activity web links</button>
         <button type="button" id="table10_jump" class="list-group-item list-group-item-action tableChanger">Agency implementing</button>
         <button type="button" id="table11_jump" class="list-group-item list-group-item-action tableChanger">National activity summary</button>
+        <button type="button" id="table12_jump" class="list-group-item list-group-item-action tableChanger">Advisory council</button>
       </div>
 
 
@@ -50,7 +51,7 @@ permalink: /state-plan-data/
             </p><p>
             “Other Entities” means the Lead Agency/Implementing Entity does not work directly with consumers using Lead Agency/Implementing Entity facilities and resources and instead uses external organizations only.
             </p><p>
-            “Both” means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers and ALSO uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p><p>N/A indicates the activity is not conducted</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
+            “Both” means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers and ALSO uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p><p>N/A indicates the activity is not conducted</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
 
         </div>
         <div id="table02container" class="displayToggle">
@@ -62,7 +63,7 @@ permalink: /state-plan-data/
             <p><strong>Regional:</strong>		Select this only if the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters (if one of them is considered the headquarters, choose a combination of central location and regional sites instead). Regional sites can be directly managed by the Lead  Agency/Implementing Entity or can be subcontractors. </p>
             <p><strong>Both:</strong>	Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites</p>
 
-            <p>NA indicates that activity is not conducted. </p><p align="center"><a id="table01_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
+            <p>NA indicates that activity is not conducted. </p><p align="center"><a id="table01_back" class="tableChanger" href="/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
           </div><hr />
         </div>
         <div id="table03container" class="displayToggle">
@@ -74,7 +75,7 @@ permalink: /state-plan-data/
              <p><strong>Both:</strong> Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites	</p>					
 
               <p>NA indicates that activity is not conducted. </p>							
-              <p align="center"><a id="table02_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table02"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table04_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table04">Next table <i class="fas fa-angle-double-right"></i></a></p>
+              <p align="center"><a id="table02_back" class="tableChanger" href="/state-plan-data.html#table02"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table04_next" class="tableChanger" href="/state-plan-data.html#table04">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table04container" class="displayToggle">
@@ -115,7 +116,7 @@ permalink: /state-plan-data/
         </p>					
 
               <p>NA indicates that activity is not conducted. </p>							
-          <p align="center"><a id="table03_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table03"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table05">Next table <i class="fas fa-angle-double-right"></i></a></p>
+          <p align="center"><a id="table03_back" class="tableChanger" href="/state-plan-data.html#table03"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="/state-plan-data.html#table05">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table05container" class="displayToggle">
@@ -132,7 +133,7 @@ permalink: /state-plan-data/
             </p>					
 
                   <p>NA indicates that activity is not conducted. </p>							
-                  <p align="center"><a id="table04_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table04"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table06">Next table <i class="fas fa-angle-double-right"></i></a></p>
+                  <p align="center"><a id="table04_back" class="tableChanger" href="/state-plan-data.html#table04"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="/state-plan-data.html#table06">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
 
@@ -142,7 +143,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table06legend" class="pt-3">
                   <p>There is no information in the spreadsheet yet.</p>							
-                    <p align="center"><a id="table05_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table05"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table07_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table07"> Next table <i class="fas fa-angle-double-right"></i></a></p>
+                    <p align="center"><a id="table05_back" class="tableChanger" href="/state-plan-data.html#table05"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table07_next" class="tableChanger" href="/state-plan-data.html#table07"> Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table07container" class="displayToggle">
@@ -153,7 +154,7 @@ permalink: /state-plan-data/
 
                   </p><p><strong>Pick-up/deliver:</strong> The majority of devices are delivered or picked up in-person."	</p>
 
-                    <p align="center"><a id="table06_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table06"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table08_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table08">Next table <i class="fas fa-angle-double-right"></i></a></p>
+                    <p align="center"><a id="table06_back" class="tableChanger" href="/state-plan-data.html#table06"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table08_next" class="tableChanger" href="/state-plan-data.html#table08">Next table <i class="fas fa-angle-double-right"></i></a></p>
                   </div><hr />
         </div>
         <div id="table08container" class="displayToggle">
@@ -161,7 +162,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table08legend" class="pt-3">
                   <p>There is no information in the spreadsheet yet.</p>							
-                    <p align="center"><a id="table07_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
+                    <p align="center"><a id="table07_back" class="tableChanger" href="/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table09container" class="displayToggle">
@@ -169,7 +170,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table09legend" class="pt-3">
                   <p>NA indicates that data is not available.</p>							
-                    <p align="center"><a id="table08_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table08"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table10">Next table <i class="fas fa-angle-double-right"></i></a></p>
+                    <p align="center"><a id="table08_back" class="tableChanger" href="/state-plan-data.html#table08"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="/state-plan-data.html#table10">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table10container" class="displayToggle">
@@ -177,7 +178,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table10legend" class="pt-3">
                   <p>Nothing yet.</p>							
-                    <p align="center"><a id="table09_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table09"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table11_next" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table11">Next table <i class="fas fa-angle-double-right"></i></a></p>
+                    <p align="center"><a id="table09_back" class="tableChanger" href="/state-plan-data.html#table09"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table11_next" class="tableChanger" href="/state-plan-data.html#table11">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table11container" class="displayToggle">
@@ -185,9 +186,17 @@ permalink: /state-plan-data/
                </div>
                <div id="table11legend" class="pt-3">
                   <p>Nothing yet.</p>							
-                    <p align="center"><a id="table10_back" class="tableChanger" href="http://localhost:4000/state-plan-data.html#table10"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
+                    <p align="center"><a id="table10_back" class="tableChanger" href="/state-plan-data.html#table10"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table12_next" class="tableChanger" href="/state-plan-data.html#table12">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
+				<div id="table12container" class="displayToggle">
+               <div id="table12">
+               </div>
+               <div id="table12legend" class="pt-3">
+                  <p>Nothing yet.</p>							
+                    <p align="center"><a id="table11_back" class="tableChanger" href="/state-plan-data.html#table11"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
+            </div><hr />
+				</div>
 
   </div>
 </main>

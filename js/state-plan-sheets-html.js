@@ -43,6 +43,7 @@ jQuery(document).ready(function() {
     google.setOnLoadCallback(drawChart9);
     google.setOnLoadCallback(drawChart10);
     google.setOnLoadCallback(drawChart11);
+    google.setOnLoadCallback(drawChart12);
     var visualization;
     function drawChart1() {
 
@@ -249,13 +250,13 @@ jQuery(document).ready(function() {
         var data = response.getDataTable();
         visualization = new google.visualization.Table(document.getElementById('table09'));
 
-var formatter = new google.visualization.PatternFormat(
-    '<a href="https://{1}">{1}</a>');
-// Apply formatter and set the formatted value of the first column.
-formatter.format(data, [1,1]);
+        var formatter = new google.visualization.PatternFormat(
+            '<a href="https://{1}">{1}</a>');
+        // Apply formatter and set the formatted value of the first column.
+        formatter.format(data, [1,1]);
 
-var view = new google.visualization.DataView(data);
-view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column only.
+        var view = new google.visualization.DataView(data);
+        view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column only.
 
 
                 visualization.draw(view, {
@@ -345,4 +346,26 @@ view.setColumns([0,1,2,3,4,5,6,7,8,9]); // Create a view with the first column o
 
       }
     )
+    function drawChart12() {
+
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=693297057&headers=1&usp=sharing');
+        query.setQuery('SELECT A, B, C, D label A "State", B "Required Agency Members", C "Consumer Majority", D "Additional Agency Representatives"');
+        query.send(handleQueryResponse12);
+    }
+
+    function handleQueryResponse12(response) {
+        if (response.isError()) {
+            alert('There was a problem with your query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+            return;
+        }
+        var data = response.getDataTable();
+        visualization = new google.visualization.Table(document.getElementById('table12'));
+        visualization.draw(data, {
+            allowHtml: true,
+            legend: { position: 'top', alignment: 'start' }
+
+        });
+        var capon = jQuery('#table12').find('table').prepend('<caption>Advisory council<p class="notesLink"><a href="#table12legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption>');
+    }
+
 });
