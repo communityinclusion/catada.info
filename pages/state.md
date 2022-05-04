@@ -13,7 +13,7 @@ permalink: state.html
 
 <p><strong>Lead Agency:</strong> Alabama Department of Rehabilitation Services (ADRS)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.rehab.alabama.gov/individuals-and-families/star">STAR: Alabama's Assistive Technology Resource</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.rehab.alabama.gov/services/vr/star">STAR: Alabama's Assistive Technology Resource</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alabama State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
