@@ -1106,7 +1106,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> University of New Hampshire, Institute on Disability</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.iod.unh.edu/PriorityAreas/assistivetechnology/default.aspx">Assistive Technology in New Hampshire - ATinNH</a></p>
+<p><strong>Program Title:</strong> <a href="https://iod.unh.edu/assistive-technology-new-hampshire-atinnh">Assistive Technology in New Hampshire - ATinNH</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Hampshire State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
