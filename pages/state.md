@@ -235,7 +235,7 @@ permalink: state.html
 
 <p><strong>Implementing Entity:</strong> Assistive Technology Partners</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.ucdenver.edu/academics/colleges/medicalschool/programs/atp/Services/ATProgramofColorado/Pages/ColoradoATProgram.aspx">Assistive Technology Program of Colorado</a></p>
+<p><strong>Program Title:</strong> <a href="https://www1.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/community-engagement/colorado-assistive-technology-act-program">Assistive Technology Program of Colorado</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Colorado State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
