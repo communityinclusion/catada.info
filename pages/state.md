@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\_logo\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\_logo\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1918,7 +1918,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Lead Agency:</strong> Wisconsin Department of Health Services</p>
 
-<p><strong>Program Title:</strong> <a href="https://www.dhs.wisconsin.gov/wistec/index.htm">WisTech&nbsp;</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.dhs.wisconsin.gov/wistech/index.htm">WisTech&nbsp;</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wisconsin State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
