@@ -1320,7 +1320,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> CNMI Council on Developmental Disabilities</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.cnmicdd.org/Assistive.html">CNMI Assistive Technology Program</a></p>
+<p><strong>Program Title:</strong> <a href="https://cnmicdd.gov.mp/assistive-tech/">CNMI Assistive Technology Program</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MP%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Northern Mariana Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
