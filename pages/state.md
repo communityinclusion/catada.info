@@ -1074,6 +1074,8 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> Nevada Assistive Technology Collaborative (NATC)</p>
 
+<p><strong>Program Title:</strong> <a href="https://adsd.nv.gov/Programs/Physical/ATforIL/Nevada_Assistive_Technoloyg_Collaborative_(NATC)/Nevada_Assistive_Technology_Collaborative_(NATC)">Nevada Assistive Technology Collaborative (NATC)</a></p>
+
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nevada State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
 <p><a href="apr_reports21/Nevada_2021.html">View the Annual Progress Report data for FY2021.</a></p>
