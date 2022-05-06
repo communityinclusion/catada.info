@@ -35,14 +35,12 @@ Device Demonstrations
 </h5>
 <div class="card-body">
 	
-<p class="card-text"><b>A Big Picture Perspective</b></p>                                                      
+<p class="card-text"><b>Walking by Christmas</b></p>                                                      
 
-<p class="card-text"><img src="/assets/device-loan-a-big-picture.png" class="float-left img-fluid" style="padding-right:1em;" alt="John">
-John was born with some facial paralysis that made it difficult for him to close one eye. Over the course of his 40-year career as a registered nurse, John’s vision has slowly deteriorated. John’s nursing job requires him to review medical charts to help prepare patients for surgery, so he was devastated when he learned that his prescription eyeglasses could no longer help him see. </p>              
+<p class="card-text"><img src="/assets/device-loan-a-big-picture.png" class="float-left img-fluid" style="padding-right:1em;" alt="Gerald in standing frame">
+At 65, Gerald was hospitalized for eight months due to complications from COVID-19. The hospitalization and medication caused severe loss of muscle mass and weakness. Gerald was able to use the Evolv Standing Frame during rehabilitation sessions in the hospital. The standing frame helped Gerald increase standing time, gain muscle mass, and regain muscle control and balance. </p>              
 
-<p class="card-text">Fortunately, John’s doctor told him about the Illinois AT program (IATP). “It was like a breath of fresh air. I had hope again,” John said. “They showed me different devices that could help me.” John borrowed vision equipment from the IATP Device Loan Program, which enabled him to continue working in surgery.</p>                                                                                         
-
-<p class="card-text"> Now, John uses a special software for his computer, a camera that can project the image of documents on a larger computer screen, and a big keys keyboard. He wrote a letter thanking IATP, saying that the moment he visited the program, he had something he hadn’t had in years: hope. </p>      
+<p class="card-text">He is now able to independently use a walker inside the home, use the bathroom, shave, and brush his teeth. Gerald has a goal to walk by Christmas without a walker. “Thanks to the standing frame we were able to obtain through the Device Loan Program and the great group of therapists, we are confident that Gerald will meet that goal.”</p>                                                                                             
 
 <p class="card-text"><b>Eating Lunch with Obi</b></p>                                                      
 
