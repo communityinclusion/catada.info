@@ -42,12 +42,12 @@ At 65, Gerald was hospitalized for eight months due to complications from COVID-
 
 <p class="card-text">He is now able to independently use a walker inside the home, use the bathroom, shave, and brush his teeth. Gerald has a goal to walk by Christmas without a walker. “Thanks to the standing frame we were able to obtain through the Device Loan Program and the great group of therapists, we are confident that Gerald will meet that goal.”</p>                                                                                             
 
-<p class="card-text"><b>Eating Lunch with Obi</b></p>                                                      
+<p class="card-text"><b>Exploring Assistive Technology at Work</b></p>                                                      
 
-<p class="card-text"><img src="/assets/device-loan-eating-lunch.png" class="float-left img-fluid" style="padding-right:1em;" alt="Natalie">
-Natalie values her independence at the Orchard Farms School in St. Charles, Missouri. At school, it can take longer for Natalie to eat lunch than her peers. As a result, Natalie stays in the cafeteria for too long, and falls behind in class. Natalie’s educational support team had been looking for creative ways to help Natalie keep up with her school tasks.</p>            
+<p class="card-text"><img src="/assets/device-loan-eating-lunch.png" class="float-left img-fluid" style="padding-right:1em;" alt="Ms. CJ with keyboard at desk">
+Ms. CJ is currently employed with Lowe’s Corp. as a Workforce Supervisor in Wilkesboro, NC. Initially, Ms. CJ was concerned about how she would use the keyboard at her job with only one hand. North Carolina Assistive Technology Program staff introduced a few assistive technology options, including a one-handed keyboard, Five Finger Typist software, and speech recognition software.</p>            
 
-<p class="card-text">Natalie and her support team consulted with the Missouri AT program about assistive technologies that could potentially help Natalie. The Missouri AT program recommended Obi, a robotic dining device that helps people feed themselves independently by activating one switch. Now, with Obi, Natalie can eat lunch independently, socialize with her peers without an aid present, and return to class on time to complete her classwork.</p>                                                                                         
+<p class="card-text">Ms. CJ tested a few options at work. First, she tried the RH Maltron Keyboard, a uniquely shaped, one-handed keyboard that optimizes layout to minimize finger movement by having the more common letters closer to the finger “home position.” Next, she borrowed the trial version of Dragon NaturallySpeaking, which allows individuals to create text from their voice, along with a noise canceling headset and microphone. Ms. CJ reported that she loved the technologies and was much more productive at work. She and her employer requested information on how to purchase the items for Ms. CJ to use in her Workforce Supervisor role.</p>                                                                                         
 
 </div>
 </div>
