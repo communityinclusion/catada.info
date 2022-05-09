@@ -14,16 +14,17 @@ Device Demonstrations
 <div class="card-body">
 		
 
-  <p class="card-text"><b>Discovering Built-in Android Apps </b></p>    
+  <p class="card-text"><b>Speaking with Confidence (and Humor)</b></p>    
 
-  <p class="card-text"><img src="/assets/device-demo-discovering.png" class="float-left" style="padding-right:1em;" alt="Zoom call"> Melvin was having difficulty reading text on objects at work. His vocational rehabilitation counselor contacted the North Dakota AT program for assistance. Over a Zoom videoconference, program staff demonstrated some assistive technologies for Melvin and his mother. They showed Melvin how to use the free, built-in Android TalkBack feature on his phone for reading text aloud. </p>                                                                                                 
-  <p class="card-text">Through North Dakota AT’s virtual demonstration, Melvin also learned about the Android Claro ScanPen app, a free app that takes pictures of text and reads it aloud. ScanPen works especially well on objects, and can even read some handwriting.</p>
-  <p class="card-text">By the end of the demonstration, Melvin was testing the app with objects in his apartment, and ScanPen was accurately reading the text aloud. Melvin and his mom were delighted. “Now he can read text messages (from work) and everything on his phone, his TV screen, store flyers, coupons, you name it.” Melvin’s mom shared. “This was a phenomenal lesson. It was clear.”</p>
+  <p class="card-text"><img src="/assets/Device-Demonstration1.png" class="img-fluid w-50 float-left" style="padding-right:1em;" alt="Ms. K holding device"> After undergoing a total laryngectomy that left her with no voice, E.K., a 71-year-old ICU nurse, was referred for an Augmentative Alternative Communication (AAC) evaluation by the Division of Vocational Rehabilitation. In her role as a nurse, Ms. K. relied on her voice for immediate communication with doctors, other nurses, and patients. After a comprehensive AAC evaluation and device trials, Ms. K. found that the Wego 7A by TalkToMeTechnologies supported her communication in several different ways. </p>                                                                                                 
+  <p class="card-text">Through training with her Speech and Language Pathologist, Ms. K. learned to use the pre-set word buttons to build novel responses in a conversation, ask and answer questions, and support her social interactions. She uses the keyboard with word prediction as a different strategy to type novel messages. For more predictable communication interactions, Ms. K. customized her device with pre-stored personal and professional phrases to use in a job interview, or to convey her wry sense of humor. </p>
+  <p class="card-text">Searching for employment has been Ms. K.’s priority. While waiting for the perfect nursing position, Ms. K. has successfully worked with local food delivery services, communicating regularly with customers, restaurant staff, and her employers using her AAC device. When asked how her AAC device has impacted her daily life, smiling, she uses her AAC device to reply, “I can order food in a drive-thru, and be funny too”. Regarding returning to her career, Ms. K. emphatically demands, “I can do everything I used to be able to do, except talk.”</p>
 
-  <p class="card-text"><b>Opening New Doors</b></p>    
- <p class="card-text"><img src="/assets/device-demo-opening-doors.png" class="float-left img-fluid" style="padding-right:1em;" alt="Barnard">
- Barnard’s family was concerned that he could not hear the doorbell ring when he was home alone. Barnard’s caseworker at his local Area Agency on Aging referred him to an occupational therapist (OT) from the Disability Advocates of Kent County, a Michigan AT program subcontractor. In addition to assessing the doorbell, the OT correctly anticipated that Bernard might want to test a Pocket Talker, a hearing device that amplifies sound and reduces background noise. When testing the Pocket Talker, Bernard reported, “I can hear so much better now!”</p>                                                                                                 
-  <p class="card-text">The OT recommended a strobe light for Bernard that would flash when someone rang the doorbell. The OT also noticed that Bernard was watching TV with the volume turned up very high, and recommended the TV Ears headset, which makes TV audio clearer and reduces background noise. During the follow up visit, Bernard tried the TV Ears and was able to hear his television, even at a low volume. “I love it,” Bernard shared.</p>
+  <p class="card-text"><b>Family Matters</b></p>    
+ <p class="card-text"><img src="/assets/Device-Demonstration2.png" class="float-left img-fluid w-50" style="padding-right:1em;" alt="J.P and wife">As a person ages or their illness progresses, sometimes AT and adaptive equipment needs to change, too. MonTECH’s team works hard to make sure individuals have access to the best supports at each phase. This year, 32-year-old veteran J.P. visited MonTECH with his wife and caregiver. J.P. has frontal temporal dementia and his wife helps with his care. MonTECH was determined to provide any equipment that might make life sweeter or more comfortable for them.
+
+</p>                                                                                                 
+  <p class="card-text">MonTECH conducted a demonstration at their lab in Missoula and determined that J.P. needed loans for simple communication devices, universal cuffs, cup holders, mounts, and a temporary, more supportive wheelchair. J.P., his wife, and their young son were able to join a camping trip with extended family with the use of MonTECH’s Emma X3 All-terrain Wheelchair and a wide camp cot. J.P.'s participation was important to the whole family – MonTECH was grateful to be able to provide equipment to support them on their special weekend together.</p>
 
   </div>
   </div>
@@ -34,21 +35,19 @@ Device Demonstrations
 </h5>
 <div class="card-body">
 	
-<p class="card-text"><b>A Big Picture Perspective</b></p>                                                      
+<p class="card-text"><b>Walking by Christmas</b></p>                                                      
 
-<p class="card-text"><img src="/assets/device-loan-a-big-picture.png" class="float-left img-fluid" style="padding-right:1em;" alt="John">
-John was born with some facial paralysis that made it difficult for him to close one eye. Over the course of his 40-year career as a registered nurse, John’s vision has slowly deteriorated. John’s nursing job requires him to review medical charts to help prepare patients for surgery, so he was devastated when he learned that his prescription eyeglasses could no longer help him see. </p>              
+<p class="card-text"><img src="/assets/Device-Loan1.png" class="float-right img-fluid w-25" style="padding-right:1em;" alt="Gerald in standing frame">
+At 65, Gerald was hospitalized for eight months due to complications from COVID-19. The hospitalization and medication caused severe loss of muscle mass and weakness. Gerald was able to use the Evolv Standing Frame during rehabilitation sessions in the hospital. The standing frame helped Gerald increase standing time, gain muscle mass, and regain muscle control and balance. </p>              
 
-<p class="card-text">Fortunately, John’s doctor told him about the Illinois AT program (IATP). “It was like a breath of fresh air. I had hope again,” John said. “They showed me different devices that could help me.” John borrowed vision equipment from the IATP Device Loan Program, which enabled him to continue working in surgery.</p>                                                                                         
+<p class="card-text">He is now able to independently use a walker inside the home, use the bathroom, shave, and brush his teeth. Gerald has a goal to walk by Christmas without a walker. “Thanks to the standing frame we were able to obtain through the Device Loan Program and the great group of therapists, we are confident that Gerald will meet that goal.”</p>                                                                                             
 
-<p class="card-text"> Now, John uses a special software for his computer, a camera that can project the image of documents on a larger computer screen, and a big keys keyboard. He wrote a letter thanking IATP, saying that the moment he visited the program, he had something he hadn’t had in years: hope. </p>      
+<p class="card-text"><b>Exploring Assistive Technology at Work</b></p>                                                      
 
-<p class="card-text"><b>Eating Lunch with Obi</b></p>                                                      
+<p class="card-text"><img src="/assets/Device-Loan2.png" class="float-left img-fluid w-25" style="padding-right:1em;" alt="Ms. CJ with keyboard at desk">
+Ms. CJ is currently employed with Lowe’s Corp. as a Workforce Supervisor in Wilkesboro, NC. Initially, Ms. CJ was concerned about how she would use the keyboard at her job with only one hand. North Carolina Assistive Technology Program staff introduced a few assistive technology options, including a one-handed keyboard, Five Finger Typist software, and speech recognition software.</p>            
 
-<p class="card-text"><img src="/assets/device-loan-eating-lunch.png" class="float-left img-fluid" style="padding-right:1em;" alt="Natalie">
-Natalie values her independence at the Orchard Farms School in St. Charles, Missouri. At school, it can take longer for Natalie to eat lunch than her peers. As a result, Natalie stays in the cafeteria for too long, and falls behind in class. Natalie’s educational support team had been looking for creative ways to help Natalie keep up with her school tasks.</p>            
-
-<p class="card-text">Natalie and her support team consulted with the Missouri AT program about assistive technologies that could potentially help Natalie. The Missouri AT program recommended Obi, a robotic dining device that helps people feed themselves independently by activating one switch. Now, with Obi, Natalie can eat lunch independently, socialize with her peers without an aid present, and return to class on time to complete her classwork.</p>                                                                                         
+<p class="card-text">Ms. CJ tested a few options at work. First, she tried the RH Maltron Keyboard, a uniquely shaped, one-handed keyboard that optimizes layout to minimize finger movement by having the more common letters closer to the finger “home position.” Next, she borrowed the trial version of Dragon NaturallySpeaking, which allows individuals to create text from their voice, along with a noise canceling headset and microphone. Ms. CJ reported that she loved the technologies and was much more productive at work. She and her employer requested information on how to purchase the items for Ms. CJ to use in her Workforce Supervisor role.</p>                                                                                         
 
 </div>
 </div>
@@ -58,14 +57,14 @@ Natalie values her independence at the Orchard Farms School in St. Charles, Miss
 <img  style="width:75px;" src="/assets/Device-Reuse-icon.png" alt-text="Device Reuse icon"/> Device Reutilization
 </h5>
 <div class="card-body">
-  <p class="card-text"><b>Sharing Back</b> </p>
- <p class="card-text"><img src="/assets/reuse-sharing-back.png" class="float-left" style="padding-right:1em;" alt="A local police officer who was injured in the line of duty getting an electric wheelchair from the We Share Program ">
-Ciara, a local Mobile County resident, donated her military veteran husband’s durable medical equipment to the Mobile Goodwill Easter Seals We Share Program, a partnership with the Alabama AT Program. Ciara graciously gave several high-quality medical items, including an electric wheelchair in excellent condition.</p>                                                                             <p class="card-text">Mr. C, the chaplain for the Mobile Police Department, called the We Share Program to get an electric wheelchair for a local police officer who was injured in the line of duty. They were able to get the wheelchair and deliver it directly to the officer. Through the Alabama AT program, Ciara learned that Mr. C took the wheelchair to the injured officer, so she sold the accessible van to the Mobile Police Department for the injured officer’s use! </p>               
-
- 
-<p class="card-text"><b>Home School Solutions</b> </p>
-<p class="card-text"><img src="/assets/reuse-home-school.png" class="float-left img-fluid" style="padding-right:1em;" alt="Max">
-When the COVID-19 pandemic shut down schools in the spring of 2020, Elise, mother of four, found herself managing virtual schooling for all of her kids. One of her children, Max, uses a wheelchair.  At school, Max uses a stander throughout the day, which helps him stay supported while standing. However, when Elise requested a stander through her insurance, they denied it for home use. Elise contacted the Virginia AT Program’s community reuse contractor for children’s durable medical equipment. </p>                                                                             <p class="card-text">The Children’s Assistive Technology Service (CATS) was able to provide Elise and Max an Easy Stand Evolve, which offers 60 different standing support positions for Max. CATS’s gently used equipment helped Max fully participate in his educational program and be comfortable while learning from home!</p>  
+  <p class="card-text"><b>Shopping Independently</b> </p>
+ <p class="card-text"><img src="/assets/Device-Reuse1.png" class="float-left img-fluid w-25" style="padding-right:1em;" alt="Linda in wheelchair">
+Linda has limited mobility due to pain from chronic back issues and arthritis. She had been using a walker inside her apartment but has had difficulty traveling from her front door to the mailbox. Linda did not typically have the stamina to manage the uphill grade to the entrance of the local grocery store, or to cross the busy street before the traffic light changed.</p>                                                                                       <p class="card-text">Linda came to the Meyer Medical Equipment Center, operated by Washington AT Program’s device reuse partner, Bridge Disability Ministries, hoping to find a free or low-cost solution that would work for her fixed budget. Linda and the Center staff determined that a small (but powerful) electric scooter that could fit in her apartment would work well. The Center delivered the scooter to her home and helped adjust it to fit her body. On the first try, Linda was able to use the scooter to get up the hill, cross the street at the traffic light with time to spare, and enter the grocery store, which she had been unable to visit for months! Linda looks forward to using the scooter to regain her mobility and independence.	 </p>               
+<br />
+<br />
+<p class="card-text"><b>And the Band Played On</b> </p>
+<p class="card-text"><img src="/assets/Device-Reuse2.png" class="float-right img-fluid w-25" style="padding-right:1em;" alt="Addie holding an instrument">
+The best part of marching band is being at the games! At least that’s what Addie tells us. Addie received a power assist wheelchair from Assistive Technology for Kansans Reuse so she could keep up with her friends at school. Band students must cross a parking lot to get to the band building. Now, Addie can keep up when friends race up an incline to the cafeteria to grab lunch. She can also ride the school bus more easily, so she never has to miss the away games! </p>                                                                                    
 
 </div>
 
@@ -77,19 +76,16 @@ When the COVID-19 pandemic shut down schools in the spring of 2020, Elise, mothe
 </h5>
 <div class="card-body">
 
-<p class="card-text"><b>Creative Adventures</b> </p>                                                   
-<p class="card-text"><img src="/assets/state-financing-creative-adventures.png" class="float-left img-fluid" style="padding-right:1em;" alt="Isabel">
-Isabel is a young girl with Cerebral Palsy. Some of her favorite activities involve going out with her mother; just about any daily errand is a fun adventure. When the COVID-19 pandemic hit, all of that changed. Because of the virus’s risks, Isabel spent most of her time at home, indoors. Even once restrictions were partially lifted, Puerto Rico required that masks be worn in public spaces. Isabel tried many different options, but masking was not tolerable for her.</p>                                                                                                                                               <p class="card-text  clearfix">Isabel’s mother contacted the Puerto Rico AT Program (PRATP) to help her find a solution. PRATP’s AT Fabrication initiative built Isabel a custom transparent enclosure for her wheelchair, which included a removable, lightweight aluminum frame. The frame was designed to allow Isabel’s voluntary and involuntary movements without the cover touching her, which gave her space to look out, move, and use her mother’s smartphone on her lap. Soon after installation, fitting, and testing, Isabel and her mother were off running errands, going shopping, and even attending a long-postponed visit to the dentist, all while Isabel remained safe.</p>
+<p class="card-text"><b>Sounds Exciting</b> </p>                                                   
+<p class="card-text"><img src="/assets/State-Financing1.png" class="float-left img-fluid w-25" style="padding-right:1em;" alt="JD wearing hearing aid">
+Fourth grader JD has significant hearing loss in both ears. His parents’ insurance does not cover the full cost of hearing aids. JD’s mom is a teacher and was not comfortable approaching the school for funding assistance. Assistive Technology for Kansans (ATK) staff obtained $3,500 from private funders to cover the remaining costs of JD’s hearing aids. His mom and teacher say he’s like a different boy. He tells everyone about new sounds he hears. JD is excited about his progress on his speech with the increased amplification, and he is eager to go to school every day now.</p>                                                                                                                                               
+<div class="clearfix"></div>
+<br />
+<p class="card-text"><b>Life-Long Dependability</b> </p>                                                   
+<p class="card-text"><img src="/assets/State-Financing2.png" class="float-right img-fluid w-50" style="padding-right:1em;" alt="Large, black modified vehicle">
+Phil had been working with the Oklahoma Department of Rehabilitation Services (OKDRS) and his bank for almost two years to replace his existing modified vehicle that was over 18 years old. He applied for and received a low-interest loan through ABLE Tech’s Financial Loan Program. With this loan and support from OKDRS, Phil was able to get the vehicle he needed.</p>                                                                   
 
-<p class="card-text"><b>An Accessible Van for the Whole Family</b> </p>                                                   
-<p class="card-text"><img src="/assets/state-financing-accessible-van.png" class="float-left img-fluid" style="padding-right:1em;" alt="People who donated to help Oliver and his family buy a modified vehicle">
-Oliver is a 10 year-old boy with Cerebral Palsy. Oliver and his family needed a modified vehicle to help Oliver get to his appointments. Oliver also needed a vehicle that could be adapted and adjusted as he grows. His family set up a “Go Fund Me” page and received $5,000 of donations. Oliver’s family also secured a grant for $5,000 and borrowed funds from the Connecticut State AT Program’s financing program.</p>                                                                   
-
-<p class="card-text"> When it was time to pick up the vehicle from the dealer, many people who helped and donated gathered to meet Oliver and his parents. Oliver and his family wanted to thank everyone for making it possible for them to get the modified vehicle. With this new van, Oliver and his parents have a much easier time getting to occupational therapy, physical therapy, and school. Rather than lifting and straining, Oliver can use a ramp to get in the van with his wheelchair.</p>
-
-</div>
-
-</div>
+<p class="card-text">Phil shared, “ABLE Tech came through for me when others didn’t, and I couldn’t be more thankful! Here’s to hoping for another life-long dependable truck.” The Alternative Financial Loan Program is a great way to supplement additional funding in collaboration with other programs, such as OKDRS. “It was a pleasure to assist Phil in his employment goals by providing funding for his modified vehicle.”</p>
 
 </div>
 
@@ -97,3 +93,6 @@ Oliver is a 10 year-old boy with Cerebral Palsy. Oliver and his family needed a 
 
 </div>
 
+</div>
+
+</div>

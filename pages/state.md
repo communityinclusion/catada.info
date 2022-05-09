@@ -13,7 +13,7 @@ permalink: state.html
 
 <p><strong>Lead Agency:</strong> Alabama Department of Rehabilitation Services (ADRS)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.rehab.alabama.gov/individuals-and-families/star">STAR: Alabama's Assistive Technology Resource</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.rehab.alabama.gov/services/vr/star">STAR: Alabama's Assistive Technology Resource</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alabama State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN_logo_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\_logo\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -235,7 +235,7 @@ permalink: state.html
 
 <p><strong>Implementing Entity:</strong> Assistive Technology Partners</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.ucdenver.edu/academics/colleges/medicalschool/programs/atp/Services/ATProgramofColorado/Pages/ColoradoATProgram.aspx">Assistive Technology Program of Colorado</a></p>
+<p><strong>Program Title:</strong> <a href="https://www1.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/community-engagement/colorado-assistive-technology-act-program">Assistive Technology Program of Colorado</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Colorado State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -413,7 +413,7 @@ permalink: state.html
 
 <p><strong>Lead Agency:</strong> Georgia Department of Labor (GDOL)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.gatfl.org/">Tools For Life (TFL)</a></p>
+<p><strong>Program Title:</strong> <a href="https://gatfl.gatech.edu/index.php">Tools For Life (TFL)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Georgia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -550,7 +550,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> University of Idaho, Center on Disabilities and Human Development</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.idahoat.org/">Idaho Assistive Technology Project (IATP)</a></p>
+<p><strong>Program Title:</strong> <a href="https://idahoat.org/">Idaho Assistive Technology Project (IATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ID%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Idaho State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -1072,7 +1072,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> Nevada Aging and Disability Services Division</p>
 
-<p><strong>Program Title:</strong> Nevada Assistive Technology Collaborative (NATC)</p>
+<p><strong>Program Title:</strong> <a href="https://adsd.nv.gov/Programs/Physical/ATforIL/Nevada_Assistive_Technoloyg_Collaborative_(NATC)/Nevada_Assistive_Technology_Collaborative_(NATC)">Nevada Assistive Technology Collaborative (NATC)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nevada State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -1106,7 +1106,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> University of New Hampshire, Institute on Disability</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.iod.unh.edu/PriorityAreas/assistivetechnology/default.aspx">Assistive Technology in New Hampshire - ATinNH</a></p>
+<p><strong>Program Title:</strong> <a href="https://iod.unh.edu/assistive-technology-new-hampshire-atinnh">Assistive Technology in New Hampshire - ATinNH</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Hampshire State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -1142,7 +1142,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Implementing Entity:</strong> Disability Rights New Jersey</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.drnj.org/atac/">Richard West Assistive Technology Advocacy Center (ATAC)</a></p>
+<p><strong>Program Title:</strong> <a href="https://at4nj.org">Richard West Assistive Technology Advocacy Center (ATAC)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NJ%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Jersey State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -1320,7 +1320,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Lead Agency:</strong> CNMI Council on Developmental Disabilities</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.cnmicdd.org/Assistive.html">CNMI Assistive Technology Program</a></p>
+<p><strong>Program Title:</strong> <a href="https://cnmicdd.gov.mp/assistive-tech/">CNMI Assistive Technology Program</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MP%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Northern Mariana Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
@@ -1918,7 +1918,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Lead Agency:</strong> Wisconsin Department of Health Services</p>
 
-<p><strong>Program Title:</strong> <a href="https://www.wisconsinat4all.com/welcome.aspx">WisTech&nbsp;</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.dhs.wisconsin.gov/wistech/index.htm">WisTech&nbsp;</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wisconsin State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
 
