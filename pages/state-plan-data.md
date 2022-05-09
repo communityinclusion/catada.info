@@ -34,7 +34,7 @@ permalink: /state-plan-data/
 		</nav>
     <main class="col-lg-9 col-md-8 col-sm-12 py-2 content">
       <div id="tableDiv">
-        <div id="introDiv" class="displayToggle"><p>TThe State Plan for Assistive Technology provides a description of how each state/territory will implement the state level and state leadership activities as required by Section 4 of the AT Act and serves as the application for Section 4 State AT Program annual funding. The State Plan is submitted for a three-year period and is updated annually including final expenditure data for each closed-out fiscal year grant award.</p>
+        <div id="introDiv" class="displayToggle"><p>The State Plan for Assistive Technology provides a description of how each state/territory will implement the state level and state leadership activities as required by Section 4 of the AT Act and serves as the application for Section 4 State AT Program annual funding. The State Plan is submitted for a three-year period and is updated annually including final expenditure data for each closed-out fiscal year grant award.</p>
 				<p>The State Plan Tables display major data points from key state plan modules in standardized tables. These tables provide a general overview of activities and operations conducted by state AT Program.</p>
 				<p>Each table contains explanatory text of data points and header definitions. Select Table Notes to view this information. Users can sort table columns by selecting the header.</p>
 				<p>To begin, simply <a href="#tableSelectorhed">choose a state plan table on the left</a>. </p>
