@@ -1027,7 +1027,26 @@ th.google-visualization-table-th.tanHed { background-color: #cd7130; }
 div.displayToggle {display: none; }
 div.displayToggle.tableDisplay {display:block;}
 button.tableChanger {background-color: #fff;}
-button.tableChanger:hover {color: #fff; background-color: #007bff;}
+button.tableChanger:hover {color: #fff; background-color: #0156B2;}
+
+
+/* bootstrap class overides */
+
+.list-group-item.active {
+    background-color: #0156B2;
+    border-color: #0156B2;
+}
+.btn-outline-primary {
+    color: #0156B2;
+    border-color: #0156B2;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #0156B2;
+    border-color: #0156B2;
+}
+
 .displayToggle table.google-visualization-table-table caption { caption-side: top;
     color: #256497; font-size: 1.75rem;font-family: roboto, sans-serif; }
 

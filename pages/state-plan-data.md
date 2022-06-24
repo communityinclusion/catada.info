@@ -45,13 +45,11 @@ permalink: /state-plan-data/
 
            </div>
            <div id="table01legend" class="pt-3">
-             <p>Lead Agencies/Implementing Entities implement their activities in many ways. Some implement their activities directly using their own staff and resources, others use subcontractors, and others use combinations of both. Remember, the Implementing Entity is considered the Statewide AT Program, not an “other entity.” Indicate how your program conducts this activity using the following rules:</p><p>
-
-            “The Statewide AT Program” means this activity is carried out exclusively by employees of the Lead Agency/Implementing Entity working directly with consumers using Lead Agency/Implementing Entity facilities and resources. Regional sites that are staffed by employees of the Lead Agency/Implementing Entity are considered part of the Statewide AT Program.
-            </p><p>
-            “Other Entities” means the Lead Agency/Implementing Entity does not work directly with consumers using Lead Agency/Implementing Entity facilities and resources and instead uses external organizations only.
-            </p><p>
-            “Both” means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers and ALSO uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p><p>N/A indicates the activity is not conducted</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
+            <p>The Lead Agency or Implementing Entity of a grantee can implement AT Act activities in many ways. Some implement activities directly using their own staff and resources, others use subcontractors, and others use a combination of both. The Implementing Entity is considered the Statewide AT Program, not an &ldquo;other entity.&rdquo;</p>
+            <p><strong>State</strong>: &ldquo;The Statewide AT Program&rdquo; means this activity is carried out exclusively by employees of the Lead Agency/Implementing Entity working directly with consumers using Lead Agency/Implementing Entity facilities and resources. Regional sites that are staffed by employees of the Lead Agency/Implementing Entity are considered part of the Statewide AT Program.</p>
+            <p><strong>Other</strong>: &ldquo;Other Entities&rdquo; means the Lead Agency/Implementing Entity does not work directly with consumers using Lead Agency/Implementing Entity facilities and resources and instead uses external organizations only.</p>
+            <p><strong>Both</strong>: &ldquo;Both&rdquo; means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers, and uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p>
+            <p><strong>NA</strong>: indicates the activity is not conducted.</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
 
         </div>
         <div id="table02container" class="displayToggle">
@@ -59,63 +57,30 @@ permalink: /state-plan-data/
            <div id="table02">
            </div>
            <div id="table02legend" class="pt-3">
-               <p><strong>Central:</strong>	Select this if the Statewide AT Program conducts this activity from a single site that houses all employees and resources engaged in the activity. It may be the case that employees or resources travel from this site to other places, but they are based at a single site, and the other places are not established/permanent sites. Sites that simply serve as referral sources or provide minimal assistance to a central location are not considered regional sites.  </p>
-            <p><strong>Regional:</strong>		Select this only if the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters (if one of them is considered the headquarters, choose a combination of central location and regional sites instead). Regional sites can be directly managed by the Lead  Agency/Implementing Entity or can be subcontractors. </p>
-            <p><strong>Both:</strong>	Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites</p>
-
-            <p>NA indicates that activity is not conducted. </p><p align="center"><a id="table01_back" class="tableChanger" href="/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
+              <p><strong>Central</strong>: &ldquo;One central location&rdquo; means the Statewide AT Program conducts this activity from a single site that houses all employees and resources engaged in the activity. It may be the case that employees or resources travel from this site to other places, but they are based at a single site, and the other places are not established/permanent sites.</p>
+              <p><strong>Regional</strong>: this means that the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters. Regional sites can be directly managed by the Lead Agency /Implementing Entity or can be subcontractors.</p>
+              <p><strong>Both</strong>: this is a combination of central location and regional sites.</p>
+              <p><strong>NA</strong>: indicates the activity is not conducted.</p><p align="center"><a id="table01_back" class="tableChanger" href="/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
           </div><hr />
         </div>
         <div id="table03container" class="displayToggle">
            <div id="table03">
            </div>
            <div id="table03legend" class="pt-3">
-              <p><strong>Central:</strong>	Select this if the Statewide AT Program conducts this activity from a single site that houses all employees and resources engaged in the activity. It may be the case that employees or resources travel from this site to other places, but they are based at a single site, and the other places are not established/permanent sites. Sites that simply serve as referral sources or provide minimal assistance to a central location are not considered regional sites.</p>
-             <p><strong>Regional:</strong>	Select this only if the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters (if one of them is considered the headquarters, choose a combination of central location and regional sites instead). Regional sites can be directly managed by the Lead Agency/Implementing Entity or can be subcontractors.</p>
-             <p><strong>Both:</strong> Select this only if you have a site that is considered the main site or headquarters that houses the majority of employees and resources and regional sites that also have their own employees and resources. For example, if the majority of the devices for your loan program are located in a central inventory along with those responsible for operating the loan program, but independent living centers under subcontract house their own, smaller inventories and have staff assigned to do loans, you would have both a central location and regional sites	</p>					
-
-              <p>NA indicates that activity is not conducted. </p>							
+            <p><strong>Please note</strong>: Most tables show only &ldquo;Yes&rdquo; and &ldquo;No&rdquo; responses, meaning fees are or are not charged. &ldquo;<strong>Both</strong>&rdquo; is a response option for the two Other State Financing Activities as a few grantees report more than one activity within those modules. When &ldquo;<strong>Both</strong>&rdquo; is displayed it means at least one activity reported in that module does charge a fee and at least one does not.</p>
+            <p><strong>NA</strong>: indicates the activity is not conducted.</p>						
               <p align="center"><a id="table02_back" class="tableChanger" href="/state-plan-data.html#table02"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table04_next" class="tableChanger" href="/state-plan-data.html#table04">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
-        </div>
-        <div id="table04container" class="displayToggle">
+          </div>
+           <div id="table04container" class="displayToggle">
            <div id="table04">
            </div>
            <div id="table04legend" class="pt-3">
-              <p><strong>"Revolving loan:</strong> A loan that uses Statewide AT Program funds for loans. The AT
-        program directly provides the funds that are to be loaned out and retains full control over
-        to whom and at what terms the funds are loaned. As loans are repaid, the money is lent out
-        again to other AT consumers — that is, the same money “revolves” out to other borrowers
-        as earlier borrowers return it to the program."							
-
-
-
-        </p><p><strong>"Loan guarantee or insurance program:</strong> The grantee uses its funds to guarantee all or a
-        portion of loans for AT. A guaranteed loan is a loan in which the Statewide AT Program
-        guarantees that the loan to a consumer is secure and will be repaid, thus increasing the
-        lender’s willingness to loan funds."							
-
-
-
-
-
-
-        </p><p><strong>"Interest buy-down loan:</strong> A loan in which AT program funds are used to buy down the
-        interest rate of a loan. The AT program uses funds to reduce the interest rate that lending
-        institutions offer to consumers for loans to purchase AT. The AT program pays the lending
-        institution for a portion of the interest on the loan, resulting in lower interest payments for
-        the consumer over the long term."			</strong>				
-
-
-
-
-
-
-        </p><p><strong>Both:</strong> combined loan guarantee and interest buy-down							
-
-        </p>					
-
-              <p>NA indicates that activity is not conducted. </p>							
+             <p><strong>Please note</strong>: Only state programs with data are displayed.</p>
+            <p><strong>Revolving loan</strong>: A loan that uses Statewide AT Program funds for loans. The AT program directly provides the funds that are to be loaned out and retains full control over to whom and at what terms the funds are loaned. As loans are repaid, the money is lent out again to other AT consumers &mdash; that is, the same money &ldquo;revolves&rdquo; out to other borrowers as earlier borrowers return it to the program.</p>
+            <p><strong>Loan guarantee or insurance program</strong>: The grantee uses its funds to guarantee all or a portion of loans for AT. A guaranteed loan is a loan in which the Statewide AT Program guarantees that the loan to a consumer is secure and will be repaid, thus increasing the lender&rsquo;s willingness to loan funds.</p>
+            <p><strong>Interest buy-down loan</strong>: A loan in which AT program funds are used to buy down the interest rate of a loan. The AT program uses funds to reduce the interest rate that lending institutions offer to consumers for loans to purchase AT. The AT program pays the lending institution for a portion of the interest on the loan, resulting in lower interest payments for the consumer over the long term.</p>
+            <p><strong>Both</strong>: combined loan guarantee and interest buy-down</p>							
           <p align="center"><a id="table03_back" class="tableChanger" href="/state-plan-data.html#table03"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="/state-plan-data.html#table05">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -123,16 +88,14 @@ permalink: /state-plan-data/
                <div id="table05">
                </div>
                <div id="table05legend" class="pt-3">
-                  <p><strong>"Telecommunications Equipment Distribution Program (State): </strong>This is a state program to distribute telecommunications equipment that serves the needs of people with disabilities, including safety needs during emergencies. (This is not the federally funded NDBEDP or iCanConnect). States may not use AT Act dollars to provide funds or devices directly to individuals. AT Act dollars may be used to administer a telecommunications distribution program comprising non-AT Act dollars.
-
-            </p><p><strong>Deaf/Blind Telecommunications Equipment Distribution Program (Federal):</strong> This is the National Deaf/Blind Equipment Distribution Program funded by the Federal Communications Commission also known as iCanConnect. This program provides telecommunications equipment for individuals who are deaf/blind. States may not use AT Act dollars to provide funds or devices directly to individuals. AT Act dollars may be used to administer a telecommunications distribution program comprising non-AT Act dollars.
-
-            </p><p><strong>Last Resort Fund:</strong> These programs provide AT, or funds to purchase AT, to consumers when other options have been exhausted or are unavailable. These may be earmarked for particular types of consumers (such as children) or particular types of AT (such as home modification) or they may be for any group or type of AT. States may not use AT Act dollars to provide funds or devices directly to individuals. AT Act dollars may be used to administer a last resort fund comprised of non-AT Act dollars.
-
-            </p><p><strong>Home Modification Program:</strong> A home modification program provides home modifications, including the addition of wheelchair ramps. States may not use AT Act dollars to provide funds or devices directly to individuals. AT Act dollars may be used to administer a home modification program comprising non-AT Act dollars."									
-            </p>					
-
-                  <p>NA indicates that activity is not conducted. </p>							
+                <p><strong>Please note</strong>: Only state programs with data are displayed. States may not use AT Act dollars to provide funds or devices directly to individuals. AT Act dollars may only be used to administer Other State Financing Activities that utilize non-AT Act dollars to provide/purchase devices.</p>
+                <p><strong>Telecommunications Equipment Distribution Program</strong>: This is a state program to distribute telecommunications equipment that serves the needs of people with disabilities, including safety needs during emergencies.</p>
+                <p><strong>Deaf/Blind Telecommunications Equipment Distribution Program</strong>: This is the National Deaf/Blind Equipment Distribution Program funded by the Federal Communications Commission also known as iCanConnect. This program provides telecommunications equipment for individuals who are deaf/blind.</p>
+                <p><strong>Last Resort Fund</strong>: These programs provide AT, or funds to purchase AT, to consumers when other options have been exhausted or are unavailable. These may be earmarked for particular types of consumers (such as children) or particular types of AT (such as home modification) or they may be for any group or type of AT.</p>
+                <p><strong>Home Modification Program</strong>: A home modification program provides home modifications, including the addition of wheelchair ramps. States may not use AT Act dollars to provide funds or devices directly to individuals.</p>
+                <p><strong>Cooperative Buying Program</strong>: Cooperative buying programs procure AT in bulk at a discount from AT suppliers and then pass the savings on to consumers/beneficiary recipients.</p>
+                <p><strong>AT Lease Program</strong>: These programs provide AT to consumers on a leased arrangement which provides savings over a direct purchase. Typically, there is external funding used to purchase the devices that are leased to consumers. The leasing arrangement can include a lease-to-buy provision.</p>
+                <p><strong>AT Fabrication Program</strong>: These programs fabricate AT systems for recipients from readily available materials providing functional AT products at a significant savings.</p>							
                   <p align="center"><a id="table04_back" class="tableChanger" href="/state-plan-data.html#table04"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="/state-plan-data.html#table06">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -142,7 +105,11 @@ permalink: /state-plan-data/
                <div id="table06">
                </div>
                <div id="table06legend" class="pt-3">
-                  <p>There is no information in the spreadsheet yet.</p>							
+                <p><strong>Consumer-to-consumer</strong>: the exchange is set up so that the person who wants the device directly contacts the person who has the device and the two of them work out the details of the exchange without the involvement of the Statewide AT Program.</p>
+                <p><strong>Statewide AT Program is involved</strong>: A consumer who wants a device must go through the Statewide AT Program to connect with the person who has the device. The role of the Statewide AT Program may vary once this connection has been made, but the Statewide AT Program undertakes some level of control over the exchanges made through its program.</p>
+                <p><strong>Reassign Ownership</strong>: Device ownership is transferred to the recipient. After the device is reassigned, it is not tracked or in any way controlled by the State AT Program or its supportive agencies.</p>
+              <p><strong>Open-ended loan</strong>: Device is on open-ended loan. A recipient has possession of the device as long as they need it but the State AT Program or its partner agencies retain ownership of the device.</p>
+              <p><strong>NA</strong>: indicates the activity is not conducted.</p>							
                     <p align="center"><a id="table05_back" class="tableChanger" href="/state-plan-data.html#table05"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table07_next" class="tableChanger" href="/state-plan-data.html#table07"> Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -150,9 +117,9 @@ permalink: /state-plan-data/
                <div id="table07">
                </div>
                <div id="table07legend" class="pt-3">
-                  <p><strong>"Drop/Ship: </strong>The majority of devices are shipped via mail or other delivery service.
-
-                  </p><p><strong>Pick-up/deliver:</strong> The majority of devices are delivered or picked up in-person."	</p>
+                 <p>This table shows the primary loan method. If one column is selected, the other one should be blank.</p>
+                <p><strong>Drop/Ship</strong>: the majority of devices are shipped via mail or other delivery service.</p>
+                <p><strong>Pick-up/deliver</strong>: the majority of devices are delivered or picked up in-person.</p>
 
                     <p align="center"><a id="table06_back" class="tableChanger" href="/state-plan-data.html#table06"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table08_next" class="tableChanger" href="/state-plan-data.html#table08">Next table <i class="fas fa-angle-double-right"></i></a></p>
                   </div><hr />
@@ -169,7 +136,7 @@ permalink: /state-plan-data/
                <div id="table09">
                </div>
                <div id="table09legend" class="pt-3">
-                  <p>NA indicates that data is not available.</p>							
+                  <p><strong>NA</strong> indicates that data is not available.</p>							
                     <p align="center"><a id="table08_back" class="tableChanger" href="/state-plan-data.html#table08"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="/state-plan-data.html#table10">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -193,7 +160,10 @@ permalink: /state-plan-data/
                <div id="table12">
                </div>
                <div id="table12legend" class="pt-3">
-                  <p>Nothing yet.</p>							
+              <p>State AT programs are required to have a consumer-majority advisory council that provides consumer-responsive, consumer-driven advice to the state for planning of, implementation of, and evaluation of the activities carried out through the grant, including setting measurable goals.</p>
+              <p><strong>Required Agency Members</strong>: The AT Act requires a representative from the following agencies: Vocational Rehabilitation (plus one from the Blind Vocational Rehabilitation agency if there is a separate one), a center for independent living, the State workforce investment board, and the State education agency.</p>
+             <p><strong>Consumer Majority</strong>: The AT Act requires that a majority, not less than 51 percent, of the members of the advisory council be individuals with disabilities that use assistive technology or their family members or guardians.</p>
+              <p><strong>Additional Agency Representatives</strong>: Additional representatives from other state agencies, public agencies, or private organizations, may be members of the advisory council as long as the consumer majority is maintained.</p>					
                     <p align="center"><a id="table11_back" class="tableChanger" href="/state-plan-data.html#table11"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
             </div><hr />
 				</div>
