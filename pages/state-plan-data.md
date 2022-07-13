@@ -128,7 +128,7 @@ permalink: /state-plan-data/
                <div id="table08">
                </div>
                <div id="table08legend" class="pt-3">
-                  <p>There is no information in the spreadsheet yet.</p>							
+                  <p>No information available at this time.</p>							
                     <p align="center"><a id="table07_back" class="tableChanger" href="/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -136,7 +136,7 @@ permalink: /state-plan-data/
                <div id="table09">
                </div>
                <div id="table09legend" class="pt-3">
-                  <p><strong>NA</strong> indicates that data is not available.</p>							
+                  <p><strong>NA:</strong> Indicates there is no website available.</p>							
                     <p align="center"><a id="table08_back" class="tableChanger" href="/state-plan-data.html#table08"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="/state-plan-data.html#table10">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -144,7 +144,7 @@ permalink: /state-plan-data/
                <div id="table10">
                </div>
                <div id="table10legend" class="pt-3">
-                  <p>Nothing yet.</p>							
+                  <p>No information available at this time.</p>							
                     <p align="center"><a id="table09_back" class="tableChanger" href="/state-plan-data.html#table09"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table11_next" class="tableChanger" href="/state-plan-data.html#table11">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -152,7 +152,7 @@ permalink: /state-plan-data/
                <div id="table11">
                </div>
                <div id="table11legend" class="pt-3">
-                  <p>Nothing yet.</p>							
+                  <p>No information available at this time.</p>							
                     <p align="center"><a id="table10_back" class="tableChanger" href="/state-plan-data.html#table10"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table12_next" class="tableChanger" href="/state-plan-data.html#table12">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
