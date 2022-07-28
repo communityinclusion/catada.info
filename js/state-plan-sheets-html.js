@@ -349,7 +349,7 @@ jQuery(document).ready(function() {
     function drawChart12() {
 
         var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=693297057&headers=1&usp=sharing');
-        query.setQuery('SELECT A, B, C, D label A "State", B "Required Agency Members", C "Consumer Majority", D "Additional Agency Representatives"');
+        query.setQuery('SELECT A, B, C label A "State", B "Required Agency Members", C "Consumer Majority"');
         query.send(handleQueryResponse12);
     }
 
