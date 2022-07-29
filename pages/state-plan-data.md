@@ -161,9 +161,10 @@ permalink: /state-plan-data/
                </div>
                <div id="table12legend" class="pt-3">
               <p>State AT programs are required to have a consumer-majority advisory council that provides consumer-responsive, consumer-driven advice to the state for planning of, implementation of, and evaluation of the activities carried out through the grant, including setting measurable goals.</p>
-              <p><strong>Required Agency Members</strong>: The AT Act requires a representative from the following agencies: Vocational Rehabilitation (plus one from the Blind Vocational Rehabilitation agency if there is a separate one), a center for independent living, the State workforce investment board, and the State education agency.</p>
+              <p><strong>Required Agency Members</strong>: The AT Act requires a representative from the following agencies: Vocational Rehabilitation (VR) (plus one from the Blind Vocational Rehabilitation agency if there is a separate one), a center for independent living (CIL), the State workforce investment board (WIB), and the State education agency (SEA).</p>
              <p><strong>Consumer Majority</strong>: The AT Act requires that a majority, not less than 51 percent, of the members of the advisory council be individuals with disabilities that use assistive technology or their family members or guardians.</p>
-              <p><strong>Additional Agency Representatives</strong>: Additional representatives from other state agencies, public agencies, or private organizations, may be members of the advisory council as long as the consumer majority is maintained.</p>					
+              <p><strong>Yes</strong> = meets requirement<br />
+             <strong> No</strong> = does not meet requirement</p>					
                     <p align="center"><a id="table11_back" class="tableChanger" href="/state-plan-data.html#table11"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
             </div><hr />
 				</div>
