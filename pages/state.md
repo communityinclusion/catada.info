@@ -15,7 +15,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://www.rehab.alabama.gov/services/vr/star">STAR: Alabama's Assistive Technology Resource</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alabama State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alabama State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Alabama_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 <!-- Put subtitles in h3 tag -->
@@ -61,7 +61,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atlaak.org">Alaska Statewide AT Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AK%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Alaska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alaska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Alaska_2021.html">View the&nbsp;Annual Progress Report data for FY2021.</a></p>
 
@@ -97,7 +97,7 @@ permalink: state.html
 
 <p><strong>Program Title: </strong> American Samoa Assistive Technology Training Services</p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 American Samoa State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 American Samoa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/AmericanSamoa_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -131,7 +131,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://aztap.org">Arizona Technology Access Program (AzTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AZ%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Arizona State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AZ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arizona State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Arizona_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -165,7 +165,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.ar-ican.org/">Increasing Capabilities Access Network (ICAN)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/AR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Arkansas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arkansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Arkansas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -201,7 +201,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://abilitytools.org/">Ability Tools</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 California State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 California State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/California_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -237,7 +237,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://www1.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/community-engagement/colorado-assistive-technology-act-program">Assistive Technology Program of Colorado</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Colorado State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Colorado_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -271,7 +271,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://cttechact.com/#sthash.P7IkM21Y.dpbs">Connecticut Tech Act Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Connecticut State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Connecticut State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Connecticut_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -305,7 +305,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.dati.org/">Delaware Assistive Technology Initiative (DATI)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/DE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Delaware State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Delaware State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Delaware_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -341,7 +341,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">DC Assistive Technology Program (DCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/DC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 District of Columbia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 District of Columbia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/DistrictOfColumbia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -379,7 +379,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Assistive Technology Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/FL%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Florida State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/FL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Florida_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -415,7 +415,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://gatfl.gatech.edu/index.php">Tools For Life (TFL)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Georgia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Georgia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Georgia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -450,7 +450,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.gsatcedders.org/">Guam System for Assistive Technology (GSAT)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GU%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Guam State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GU%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Guam_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -486,7 +486,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atrc.org/">Assistive Technology Resource Centers of Hawaii (ATRC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/HI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Hawaii State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/HI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Hawaii State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Hawaii_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -520,7 +520,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easter Seals Iowa Assistive Technology Program (ESI ATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Iowa State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Iowa_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -552,7 +552,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://idahoat.org/">Idaho Assistive Technology Project (IATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ID%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Idaho State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ID%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Idaho State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Idaho_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -588,7 +588,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.iltech.org/">Illinois Assistive Technology Program (IATP)</a></p>
 
-<p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2018-2020 Illinois State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2021-2023 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Illinois_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -624,7 +624,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.eastersealstech.com/">Indiana Assistive Technology Act (INDATA) Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/IN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Indiana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Indiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Indiana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -658,7 +658,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://atk.ku.edu/">Assistive Technology for Kansans (ATK)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/KS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Kansas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Kansas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -692,7 +692,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.katsnet.org/">Kentucky Assistive Technology Service (KATS) Network</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/KY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Kentucky State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kentucky State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Kentucky_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -730,7 +730,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://latan.org/">Louisiana Assistive Technology Access Network (LATAN)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/LA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Louisiana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/LA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Louisiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Louisiana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -764,7 +764,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://mainecite.org/">Maine CITE Program (Maine Consumer Information and Technology Training Exchange)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ME%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Maine State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ME%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maine State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Maine_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -798,7 +798,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Technology Assistance Program (MDTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MD%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Maryland State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maryland State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Maryland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -832,7 +832,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.massmatch.org/">MassMATCH (Massachusetts Maximizing Assistive Technology in Consumer's Hands)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Massachusetts State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Massachusetts State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Massachusetts_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -866,7 +866,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.copower.org/assistive-tech">Michigan Assistive Technology Program (MATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Michigan State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Michigan State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Michigan_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -900,7 +900,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://mn.gov/admin/star/">Minnesota STAR Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Minnesota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Minnesota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Minnesota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -934,7 +934,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://at.mo.gov/">Missouri Assistive Technology (MoAT)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MO%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Missouri State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Missouri State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Missouri_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -968,7 +968,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.msprojectstart.org/">Project START (Success through Assistive RehabilitationTechnology)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MS%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Mississippi State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Mississippi State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Mississippi_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1004,7 +1004,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://montech.ruralinstitute.umt.edu/programs/montana-assistive-technology-program/">Montana Assistive Technology Program (MATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Montana State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Montana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Montana_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1038,7 +1038,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.atp.ne.gov/">Nebraska Assistive Technology Partnership (ATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NE%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nebraska State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nebraska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Nebraska_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1074,7 +1074,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://adsd.nv.gov/Programs/Physical/ATforIL/Nevada_Assistive_Technoloyg_Collaborative_(NATC)/Nevada_Assistive_Technology_Collaborative_(NATC)">Nevada Assistive Technology Collaborative (NATC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Nevada State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nevada State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Nevada_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1108,7 +1108,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://iod.unh.edu/assistive-technology-new-hampshire-atinnh">Assistive Technology in New Hampshire - ATinNH</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Hampshire State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Hampshire State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NewHampshire_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1144,7 +1144,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://at4nj.org">Richard West Assistive Technology Advocacy Center (ATAC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NJ%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Jersey State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NJ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Jersey State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NewJersey_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1178,7 +1178,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.tap.gcd.state.nm.us/">New Mexico Technology Assistance Program (NMTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NM%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New Mexico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NM%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Mexico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NewMexico_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1216,7 +1216,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://www.justicecenter.ny.gov/services-supports/assistive-technology-traid">New York State TRAID Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 New York State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New York State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NewYork_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1250,7 +1250,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/north-carolina-assistive-technology-program">North Carolina Assistive Technology Program (NCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/NC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 North Carolina State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NorthCarolina_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1286,7 +1286,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://ndassistive.org/">ND Assistive</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/ND%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 North Dakota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ND%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NorthDakota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1322,7 +1322,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://cnmicdd.gov.mp/assistive-tech/">CNMI Assistive Technology Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/MP%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Northern Mariana Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MP%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Northern Mariana Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/NorthernMarianaIslands_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1358,7 +1358,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://atohio.engineering.osu.edu/">Assistive Technology of Ohio</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/OH%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Ohio State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Ohio State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Ohio_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1392,7 +1392,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://www.ok.gov/abletech/">Oklahoma ABLE Tech</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/OK%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Oklahoma State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oklahoma State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Oklahoma_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1430,7 +1430,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.accesstechnologiesinc.org/">Oregon Statewide Assistive Technology Program</a></p>
 
-<p><a href="/assets/state_at_plans_2019/OR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Oregon State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="/assets/state_at_plans_2023/OR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oregon State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Oregon_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1464,7 +1464,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="https://techowlpa.org">TechOWL – Technology for Our Whole Lives </a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Pennsylvania State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Pennsylvania State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Pennsylvania_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1506,7 +1506,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://pratp.upr.edu/">Puerto Rico Assistive Technology Program (PRATP®)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/PR%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Puerto Rico State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Puerto Rico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/PuertoRico_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1542,7 +1542,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.atap.ri.gov/">Assistive Technology Access Partnership (ATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/RI%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Rhode Island State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/RI%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/RhodeIsland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1576,7 +1576,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://scatp.med.sc.edu/">South Carolina Assistive Technology Program (SCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/SC%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 South Carolina State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/SouthCarolina_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1612,7 +1612,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="https://dakotalink.net">DakotaLink, South Dakota Assistive Technology Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/SD%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 South Dakota State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/SouthDakota_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1646,7 +1646,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.tn.gov/humanservices/topic/ttap">Tennessee Technology Access Program (TTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/TN%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Tennessee State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Tennessee State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Tennessee_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1680,7 +1680,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://tatp.edb.utexas.edu/">Texas Technology Access Program (TTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/TX%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Texas State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TX%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Texas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Texas_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1714,7 +1714,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.uatpat.org/">Utah Assistive Technology Program (UATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/UT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Utah State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/UT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Utah State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Utah_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1751,7 +1751,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://viucedd.wix.com/home5">Virgin Islands Technology-Related Assistance for Individuals with Disabilities (VITRAID)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 U.S. Virgin Islands State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 U.S. Virgin Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/U.S.VirginIslands_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1785,7 +1785,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://www.atp.vt.gov/">Vermont Assistive Technology Program (VATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VT%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Vermont State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Vermont State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Vermont_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1819,7 +1819,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://www.vats.org/">Virginia Assistive Technology System (VATS)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/VA%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Virginia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Virginia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1853,7 +1853,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://watap.org/">Washington Assistive Technology Act Program (WATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WA%20State%20Plan%20FY%202019.pdf">Download the FY2018-2020 Washington State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WA%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Washington_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1886,7 +1886,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Program Title:</strong> <a href="http://wvats.cedwvu.org/">West Virginia Assistive Technology System (WVATS)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WV%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 West Virginia State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 West Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/WestVirginia_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1920,7 +1920,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Program Title:</strong> <a href="https://www.dhs.wisconsin.gov/wistech/index.htm">WisTech&nbsp;</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WI%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wisconsin State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wisconsin State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Wisconsin_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1955,7 +1955,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Program Title:</strong> <a href="http://www.uwyo.edu/wind/watr/">Wyoming Assistive Technology Resources (WATR)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WY%20State%20Plan%20FY%202019.docx">Download the FY2018-2020 Wyoming State Plan as certified and submitted by the lead agency.</a><br /><span style="font-size: 90%"><em>Please note that Screen 4 Expenditure Table data in the 2018-2020 State Plan posted reflects the grantee’s most recently closed out fiscal year award.</em></span></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Wyoming_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
