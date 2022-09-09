@@ -237,7 +237,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://www1.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/community-engagement/colorado-assistive-technology-act-program">Assistive Technology Program of Colorado</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/CO%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Colorado_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -450,7 +450,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.gsatcedders.org/">Guam System for Assistive Technology (GSAT)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/GU%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GU%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Guam_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -588,7 +588,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <p><strong>Program Title:</strong> <a href="http://www.iltech.org/">Illinois Assistive Technology Program (IATP)</a></p>
 
-<p><a href="/assets/state_at_plans_2019/IL State Plan FY 2019.docx">Download the FY2021-2023 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="/assets/state_at_plans_2023/IL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Illinois_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
@@ -1853,7 +1853,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://watap.org/">Washington Assistive Technology Act Program (WATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/WA%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/Washington_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
