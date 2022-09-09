@@ -49,7 +49,7 @@ permalink: /state-plan-data/
             <p><strong>State</strong>: &ldquo;The Statewide AT Program&rdquo; means this activity is carried out exclusively by employees of the Lead Agency/Implementing Entity working directly with consumers using Lead Agency/Implementing Entity facilities and resources. Regional sites that are staffed by employees of the Lead Agency/Implementing Entity are considered part of the Statewide AT Program.</p>
             <p><strong>Other</strong>: &ldquo;Other Entities&rdquo; means the Lead Agency/Implementing Entity does not work directly with consumers using Lead Agency/Implementing Entity facilities and resources and instead uses external organizations only.</p>
             <p><strong>Both</strong>: &ldquo;Both&rdquo; means the Lead Agency/Implementing Entity carries out the activity using its employees and facilities to work directly with consumers, and uses some subcontracts or other agreements with external organizations whose own employees, facilities, and resources are used to work directly with consumers.</p>
-            <p><strong>NA</strong>: indicates the activity is not conducted.</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
+            <p><strong>N/A</strong>: indicates the activity is not conducted.</p><p align="center"><a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table02_next" class="tableChanger" href="/state-plan-data.html#table02"> Next table <i class="fas fa-angle-double-right"></i></a></p></div><hr />
 
         </div>
         <div id="table02container" class="displayToggle">
@@ -60,7 +60,7 @@ permalink: /state-plan-data/
               <p><strong>Central</strong>: &ldquo;One central location&rdquo; means the Statewide AT Program conducts this activity from a single site that houses all employees and resources engaged in the activity. It may be the case that employees or resources travel from this site to other places, but they are based at a single site, and the other places are not established/permanent sites.</p>
               <p><strong>Regional</strong>: this means that the activity is conducted from at least two sites that operate relatively independently without any of them being considered the main site or headquarters. Regional sites can be directly managed by the Lead Agency /Implementing Entity or can be subcontractors.</p>
               <p><strong>Both</strong>: this is a combination of central location and regional sites.</p>
-              <p><strong>NA</strong>: indicates the activity is not conducted.</p><p align="center"><a id="table01_back" class="tableChanger" href="/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
+              <p><strong>N/A</strong>: indicates the activity is not conducted.</p><p align="center"><a id="table01_back" class="tableChanger" href="/state-plan-data.html#table01"><i class="fas fa-angle-double-left"></i> Previous table </a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table03_next" class="tableChanger" href="/state-plan-data.html#table03">Next table <i class="fas fa-angle-double-right"></i></a></p>
           </div><hr />
         </div>
         <div id="table03container" class="displayToggle">
@@ -68,7 +68,7 @@ permalink: /state-plan-data/
            </div>
            <div id="table03legend" class="pt-3">
             <p><strong>Please note</strong>: Most tables show only &ldquo;Yes&rdquo; and &ldquo;No&rdquo; responses, meaning fees are or are not charged. &ldquo;<strong>Both</strong>&rdquo; is a response option for the two Other State Financing Activities as a few grantees report more than one activity within those modules. When &ldquo;<strong>Both</strong>&rdquo; is displayed it means at least one activity reported in that module does charge a fee and at least one does not.</p>
-            <p><strong>NA</strong>: indicates the activity is not conducted.</p>						
+            <p><strong>N/A</strong>: indicates the activity is not conducted.</p>						
               <p align="center"><a id="table02_back" class="tableChanger" href="/state-plan-data.html#table02"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table04_next" class="tableChanger" href="/state-plan-data.html#table04">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
           </div>
@@ -80,7 +80,11 @@ permalink: /state-plan-data/
             <p><strong>Revolving loan</strong>: A loan that uses Statewide AT Program funds for loans. The AT program directly provides the funds that are to be loaned out and retains full control over to whom and at what terms the funds are loaned. As loans are repaid, the money is lent out again to other AT consumers &mdash; that is, the same money &ldquo;revolves&rdquo; out to other borrowers as earlier borrowers return it to the program.</p>
             <p><strong>Loan guarantee or insurance program</strong>: The grantee uses its funds to guarantee all or a portion of loans for AT. A guaranteed loan is a loan in which the Statewide AT Program guarantees that the loan to a consumer is secure and will be repaid, thus increasing the lender&rsquo;s willingness to loan funds.</p>
             <p><strong>Interest buy-down loan</strong>: A loan in which AT program funds are used to buy down the interest rate of a loan. The AT program uses funds to reduce the interest rate that lending institutions offer to consumers for loans to purchase AT. The AT program pays the lending institution for a portion of the interest on the loan, resulting in lower interest payments for the consumer over the long term.</p>
-            <p><strong>Both</strong>: combined loan guarantee and interest buy-down</p>							
+            <p><strong>Both</strong>: combined loan guarantee and interest buy-down</p>	
+
+           <p><strong>N/A</strong>: Indicates the program does not provide that type of loan.</p>	
+          <p><strong>None</strong>: there is no policy on the lowest or highest loan amount.</p>
+           						
           <p align="center"><a id="table03_back" class="tableChanger" href="/state-plan-data.html#table03"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="/state-plan-data.html#table05">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -95,7 +99,8 @@ permalink: /state-plan-data/
                 <p><strong>Home Modification Program</strong>: A home modification program provides home modifications, including the addition of wheelchair ramps. States may not use AT Act dollars to provide funds or devices directly to individuals.</p>
                 <p><strong>Cooperative Buying Program</strong>: Cooperative buying programs procure AT in bulk at a discount from AT suppliers and then pass the savings on to consumers/beneficiary recipients.</p>
                 <p><strong>AT Lease Program</strong>: These programs provide AT to consumers on a leased arrangement which provides savings over a direct purchase. Typically, there is external funding used to purchase the devices that are leased to consumers. The leasing arrangement can include a lease-to-buy provision.</p>
-                <p><strong>AT Fabrication Program</strong>: These programs fabricate AT systems for recipients from readily available materials providing functional AT products at a significant savings.</p>							
+                <p><strong>AT Fabrication Program</strong>: These programs fabricate AT systems for recipients from readily available materials providing functional AT products at a significant savings.</p>	
+                <p><strong> N/A</strong>: Indicates the activity is not conducted.</p>							
                   <p align="center"><a id="table04_back" class="tableChanger" href="/state-plan-data.html#table04"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="/state-plan-data.html#table06">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -109,7 +114,7 @@ permalink: /state-plan-data/
                 <p><strong>Statewide AT Program is involved</strong>: A consumer who wants a device must go through the Statewide AT Program to connect with the person who has the device. The role of the Statewide AT Program may vary once this connection has been made, but the Statewide AT Program undertakes some level of control over the exchanges made through its program.</p>
                 <p><strong>Reassign Ownership</strong>: Device ownership is transferred to the recipient. After the device is reassigned, it is not tracked or in any way controlled by the State AT Program or its supportive agencies.</p>
               <p><strong>Open-ended loan</strong>: Device is on open-ended loan. A recipient has possession of the device as long as they need it but the State AT Program or its partner agencies retain ownership of the device.</p>
-              <p><strong>NA</strong>: indicates the activity is not conducted.</p>							
+              <p><strong>N/A</strong>: indicates the activity is not conducted.</p>							
                     <p align="center"><a id="table05_back" class="tableChanger" href="/state-plan-data.html#table05"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table07_next" class="tableChanger" href="/state-plan-data.html#table07"> Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -128,7 +133,7 @@ permalink: /state-plan-data/
                <div id="table08">
                </div>
                <div id="table08legend" class="pt-3">
-                  <p>No information available at this time.</p>							
+                 						
                     <p align="center"><a id="table07_back" class="tableChanger" href="/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -136,23 +141,23 @@ permalink: /state-plan-data/
                <div id="table09">
                </div>
                <div id="table09legend" class="pt-3">
-                  <p><strong>NA:</strong> Indicates there is no website available.</p>							
+                  <p><strong>N/A</strong>:  Indicates that the activity is conducted, but there is no website available.</p>
+                  <p><strong>None</strong>: Indicates the activity is not conducted.</p>
+
                     <p align="center"><a id="table08_back" class="tableChanger" href="/state-plan-data.html#table08"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table10_next" class="tableChanger" href="/state-plan-data.html#table10">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table10container" class="displayToggle">
                <div id="table10">
                </div>
-               <div id="table10legend" class="pt-3">
-                  <p>No information available at this time.</p>							
+               <div id="table10legend" class="pt-3">					
                     <p align="center"><a id="table09_back" class="tableChanger" href="/state-plan-data.html#table09"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table11_next" class="tableChanger" href="/state-plan-data.html#table11">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
         <div id="table11container" class="displayToggle">
                <div id="table11">
                </div>
-               <div id="table11legend" class="pt-3">
-                  <p>No information available at this time.</p>							
+               <div id="table11legend" class="pt-3">						
                     <p align="center"><a id="table10_back" class="tableChanger" href="/state-plan-data.html#table10"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table12_next" class="tableChanger" href="/state-plan-data.html#table12">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
