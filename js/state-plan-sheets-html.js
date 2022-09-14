@@ -264,7 +264,7 @@ jQuery(document).ready(function() {
                     legend: { position: 'top', alignment: 'start' }
 
                 });
-                var capon = jQuery('#table09').find('table').prepend('<caption>Activity web links<p class="notesLink"><a href="#table09legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption>');
+                var capon = jQuery('#table09').find('table').prepend('<caption>Activity web links<p class="notesLink"><a href="#table09legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><colgroup><col span="1" style="width: 4%;"><col span="1" style="width: 10%;"><col span="1" style="width: 10%;"><col span="1" style="width: 12%;"><col span="1" style="width: 12%;"><col span="1" style="width: 10%;"><col span="1" style="width: 10%;"><col span="1" style="width: 12%;"><col span="1" style="width: 10%;"><col span="1" style="width: 10%;"></colgroup>');
     }
 
     function drawChart10() {
