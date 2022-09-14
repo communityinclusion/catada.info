@@ -1542,7 +1542,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.atap.ri.gov/">Assistive Technology Access Partnership (ATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/RI%20State%20Plan%20FY2021-2023.pdf.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/RI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/RhodeIsland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
