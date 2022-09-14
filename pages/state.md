@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\_logo\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\_logo\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1542,7 +1542,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.atap.ri.gov/">Assistive Technology Access Partnership (ATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2019/RI%20State%20Plan%20FY%202019.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/RI%20State%20Plan%20FY2021-2023.pdf.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports21/RhodeIsland_2021.html">View the Annual Progress Report data for FY2021.</a></p>
 
