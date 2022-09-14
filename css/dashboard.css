@@ -1060,3 +1060,4 @@ th.google-visualization-table-th {background-color: #333;}
     font-family: 'Cabin Condensed', sans-serif;
 }
 #table09 .google-visualization-table-table {min-width: 1050px;}
+#table09 .google-visualization-table-table td.google-visualization-table-td li {margin: 8px 0;}
