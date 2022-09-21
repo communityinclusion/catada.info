@@ -1248,7 +1248,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NorthCarolina">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTH CAROLINA</h2>
 
-<p><img alt="program logo" src="/assets/northcarolina.jpg" ></p>
+<p><img alt="program logo" src="/assets/northcarolina.jpg" style="width: 250px; height: 113px; border-width: 1px; border-style: solid;" ></p> 
 
 <p><strong>Lead Agency:</strong> North Carolina Department of Health and Human Services, Division of Vocational Rehabilitation Services</p>
 
