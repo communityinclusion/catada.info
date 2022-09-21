@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\_logo\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\_logo\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -371,13 +371,15 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="/assets/FAAST-Small-Logo-2.png" style="border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Florida Alliance for Assistive Services & Technology, FAAST, logo" src="/assets/FAAST_Florida_CATADA_Program_Info_Page_Logo_9_21_22.png" style="width: 200px; height: 150px;"" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
-<p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services and Technology, Inc. (FAAST)</p>
+<p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services & Technology, Inc. (FAAST)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Assistive Technology Program</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Alliance for Assistive Services & Technology, Inc. 
+
+</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/FL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
