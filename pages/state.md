@@ -371,7 +371,7 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="Florida Alliance for Assistive Services & Technology, FAAST, logo" src="/assets/FAAST_Florida_CATADA_Program_Info_Page_Logo_9_21_22.png" style="width: 200px; height: 150px;"" /></p>
+<p><img alt="Florida Alliance for Assistive Services & Technology, FAAST, logo" src="/assets/FAAST_Florida_CATADA_Program_Info_Page_Logo_9_21_22.png" style="width: 200px; height: 150px;" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
