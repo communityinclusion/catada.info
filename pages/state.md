@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\_logo\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\_logo\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -371,13 +371,15 @@ permalink: state.html
 <div id="Florida">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>FLORIDA</h2>
 
-<p><img alt="program logo" src="/assets/FAAST-Small-Logo-2.png" style="border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Florida Alliance for Assistive Services & Technology, FAAST, program logo" src="/assets/FAAST_Florida_CATADA_Program_Info_Page_Logo_9_21_22.png" style="width: 200px; height: 150px;" /></p>
 
 <p><strong>Lead Agency:</strong> Florida Department of Education, Division of Vocational Rehabilitation</p>
 
-<p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services and Technology, Inc. (FAAST)</p>
+<p><strong>Implementing Entity:</strong> Florida Alliance for Assistive Services & Technology, Inc. (FAAST)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Assistive Technology Program</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.faast.org/">Florida Alliance for Assistive Services & Technology, Inc. 
+
+</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/FL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -518,7 +520,7 @@ permalink: state.html
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easter Seals Iowa Assistive Technology Program (ESI ATP)</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easterseals Iowa Assistive Technology Program (ESI ATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -526,21 +528,21 @@ permalink: state.html
 
 <h3>State Financing Activities</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program contracts with Iowa Able Foundation to manage Iowa's Alternative Financing Program (AFP). The AFP program provides loans to individuals with disabilities and their families for the purchase of AT devices and services, including home and vehicle modifications. These are direct and guaranteed loans with flexible terms to help individuals increase their independence at home, at work and in the community.</p>
+<p>Easterseals Iowa Assistive Technology Program contracts with Iowa Able Foundation to manage Iowa's Alternative Financing Program (AFP). The AFP program provides loans to individuals with disabilities and their families for the purchase of AT devices and services, including home and vehicle modifications. These are direct and guaranteed loans with flexible terms to help individuals increase their independence at home, at work and in the community.</p>
 
 <h3>Device Reutilization</h3>
-Easter Seals Iowa Assistive Technology Program implements the Iowa Assistive Technology Exchange which is a free service that operates like a newspaper want ad and lists used devices for sale by consumers and AT vendors. This program also implements the Easter Seals Iowa Durable Medical Equipment Loan, a device recycling program that accepts donated used devices from across the state, cleans and refurbishes, and provides the devices to individuals who would not otherwise be able to acquire the needed device. In addition, a comprehensive listing of all the community and state device reutilization and recycling programs in Iowa and neighboring states is maintained and made available through Iowa COMPASS.
+Easterseals Iowa Assistive Technology Program implements the Iowa Assistive Technology Exchange which is a free service that operates like a newspaper want ad and lists used devices for sale by consumers and AT vendors. This program also implements the Easterseals Iowa Durable Medical Equipment Loan, a device recycling program that accepts donated used devices from across the state, cleans and refurbishes, and provides the devices to individuals who would not otherwise be able to acquire the needed device. In addition, a comprehensive listing of all the community and state device reutilization and recycling programs in Iowa and neighboring states is maintained and made available through Iowa COMPASS.
 
 <h3>Device Loan</h3>
-Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa Assistive Technology Lending Library which administers a short-term device loan to Iowans. This allows consumers an opportunity to try devices, software, and gadgets free of charge, before making any purchasing decisions. The inventory of this loan program consists of Alternative and Augmentative Communication Devices (AAC Devices), Recreational Devices, Aids to Daily Living, Computer Access, Educational Devices, and other Assistive Technology to support individuals to live, learn, work and play in their communities
+Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa Assistive Technology Lending Library which administers a short-term device loan to Iowans. This allows consumers an opportunity to try devices, software, and gadgets free of charge, before making any purchasing decisions. The inventory of this loan program consists of Alternative and Augmentative Communication Devices (AAC Devices), Recreational Devices, Aids to Daily Living, Computer Access, Educational Devices, and other Assistive Technology to support individuals to live, learn, work and play in their communities
 
 <h3>Device Demonstration</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program operates a statewide Demonstration Center located in Des Moines. The center focuses on devices for community living, activities of daily living, recreation and Autism. Easter Seals Iowa Assistive Technology Program also provides AT devices and software to the Iowa Division of Vocational Rehabilitation for device demonstration to its clients and employers in the state.</p>
+<p>Easterseals Iowa Assistive Technology Program operates a statewide Demonstration Center located in Des Moines. The center focuses on devices for community living, activities of daily living, recreation and Autism. Easterseals Iowa Assistive Technology Program also provides AT devices and software to the Iowa Division of Vocational Rehabilitation for device demonstration to its clients and employers in the state.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program engages in a number of activities to improve access to AT devices and services. Technical assistance and training is provided to agencies and organizations relating to education, employment, community living and emergency preparedness.</p>
+<p>Easterseals Iowa Assistive Technology Program engages in a number of activities to improve access to AT devices and services. Technical assistance and training is provided to agencies and organizations relating to education, employment, community living and emergency preparedness.</p>
 </div>
 
 <div id="Idaho">
@@ -580,7 +582,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="Illinois Assistive Technology Program" src="/assets/iatp.jpg" style="max-width:250px" /></p>
+<p><img alt="Illinois Assistive Technology Program" src="/assets/thumbnail_IATP-logo-2022%404x.png" style="margin-top: 0px; margin-bottom: 0px; border-width: 1px; border-style: solid; max-width:250px"/></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
@@ -792,11 +794,11 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Maryland">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MARYLAND</h2>
 
-<p><img alt="program logo" src="/assets/maryland.jpg" style="width: 179px; height: 144px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="Maryland Department of Disabilities Assistive Technology Program Logo" src="/assets/MDTAP_Logo_9_21_22.jpg" style="width: 179px; height: 144px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> Maryland Department of Disabilities</p>
 
-<p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Technology Assistance Program (MDTAP)</a></p>
+<p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Assistive Technology Program (MDTAP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maryland State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -808,19 +810,21 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 
 <h3>Device Reutilization</h3>
 
-<p>Maryland conducts multiple device reuse programs, including an online <a href="https://www.facebook.com/groups/443254832860014/">Facebook exchange website</a> for consumers to buy, sell, and donate AT directly. MDTAP also runs the Maryland Assistive Technology Reuse Center, a high-tech AT reuse center where we refurbish higher tech AT devices (such as video magnifiers, communication devices, computer peripherals, and more) and donate these items back out to consumers.</p>
+<p>Maryland conducts multiple device reuse programs, including an online <a href="https://www.facebook.com/groups/443254832860014/">Facebook exchange website</a> for consumers to buy, sell, and donate AT directly. MDTAP also runs the Maryland Assistive Technology Reuse Center, w﻿here we accept donations of gently used AT (such as video magnifiers, communication devices, computer peripherals, and more), conduct cleaning and repairs as necessary, and donate these items back out to consumers.
+
+</p>
 
 <h3>Device Loan</h3>
 
-<p>MDTAP runs three Equipment Demonstration & Loaner Libraries, lending equipment to schools, organizations, agencies, and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more.</p>
+<p>MDTAP runs nine (9) Community AT Libraries across the state, lending equipment to schools, organizations, agencies, and individuals across the state. Items for loan include augmentative communication devices, blindness and low-vision products, computer access devices, electronic note takers, adapted telephones and telecommunications devices for the deaf, assistive listening, alerting systems, aids for daily living and much more. MDTAP provides both in-person device loans and can ship equipment when consumer requests. Many of the most popular devices in the AT Library include QR codes linked to videos created for easy instruction. </p>
 
 <h3>Device Demonstration</h3>
 
-<p>Three AT demonstration sites are located within the state to allow for individuals with disabilities to receive information and try out a variety of AT. Additional demonstrations are provided off-site when individuals are unable to travel to a demonstration center and for group presentations. MDTAP also provides virtual AT consultations and demonstrations when appropriate.</p>
+<p>Each of the nine (9) Community AT Libraries allow for individuals with disabilities to receive information and try out a variety of AT. MDTAP also provides virtual AT consultations and demonstrations when appropriate.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>MDTAP provides workshops on a variety of topics relevant to AT and implements a multifaceted public awareness approach. MDTAP provides technical assistance for implementation of the state's information technology non-visual access policy, provides evaluations of state agency websites for accessibility, and collaborates with state procurement officers to ensure greater acquisition & implementation of accessible products.</p>
+<p>MDTAP provides workshops on a variety of topics relevant to AT and implements a multifaceted public awareness approach. MDTAP collaborates with other state agencies to implement and ensure best practices for the State of Maryland as a Technology First State. MDTAP provides technical assistance for implementation of the state's information technology non-visual access policy, provides evaluations of state agency websites for accessibility, and collaborates with state procurement officers to ensure greater acquisition & implementation of accessible products.</p>
 </div>
 
 <div id="Massachusetts">
@@ -1244,7 +1248,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="NorthCarolina">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTH CAROLINA</h2>
 
-<p><img alt="program logo" src="/assets/northcarolina.jpg" ></p>
+<p><img alt="program logo" src="/assets/northcarolina.jpg" style="width: 250px; height: 113px; border-width: 1px; border-style: solid;" ></p> 
 
 <p><strong>Lead Agency:</strong> North Carolina Department of Health and Human Services, Division of Vocational Rehabilitation Services</p>
 
@@ -1316,7 +1320,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Marianas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NORTHERN MARIANA ISLANDS</h2>
 
-<p><img alt="program logo" src="/assets/northernmarianaislands.png" style="width: 141px; height: 141px;" /></p>
+<p><img alt="A﻿ssistive Technology Program of the CNMI Council On Developmental Disabilities Logo " src="/assets/CNMI_Logo_Update_Catada_9_21_22.png" style="width: 200px; height: 200px;" /></p>
 
 <p><strong>Lead Agency:</strong> CNMI Council on Developmental Disabilities</p>
 
