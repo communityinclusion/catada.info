@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\_logo\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\_logo\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -520,7 +520,7 @@ permalink: state.html
 
 <p><strong>Lead Agency:</strong> University of Iowa, Center for Disabilities and Development (CDD)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easter Seals Iowa Assistive Technology Program (ESI ATP)</a></p>
+<p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easterseals Iowa Assistive Technology Program (ESI ATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -528,21 +528,21 @@ permalink: state.html
 
 <h3>State Financing Activities</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program contracts with Iowa Able Foundation to manage Iowa's Alternative Financing Program (AFP). The AFP program provides loans to individuals with disabilities and their families for the purchase of AT devices and services, including home and vehicle modifications. These are direct and guaranteed loans with flexible terms to help individuals increase their independence at home, at work and in the community.</p>
+<p>Easterseals Iowa Assistive Technology Program contracts with Iowa Able Foundation to manage Iowa's Alternative Financing Program (AFP). The AFP program provides loans to individuals with disabilities and their families for the purchase of AT devices and services, including home and vehicle modifications. These are direct and guaranteed loans with flexible terms to help individuals increase their independence at home, at work and in the community.</p>
 
 <h3>Device Reutilization</h3>
-Easter Seals Iowa Assistive Technology Program implements the Iowa Assistive Technology Exchange which is a free service that operates like a newspaper want ad and lists used devices for sale by consumers and AT vendors. This program also implements the Easter Seals Iowa Durable Medical Equipment Loan, a device recycling program that accepts donated used devices from across the state, cleans and refurbishes, and provides the devices to individuals who would not otherwise be able to acquire the needed device. In addition, a comprehensive listing of all the community and state device reutilization and recycling programs in Iowa and neighboring states is maintained and made available through Iowa COMPASS.
+Easterseals Iowa Assistive Technology Program implements the Iowa Assistive Technology Exchange which is a free service that operates like a newspaper want ad and lists used devices for sale by consumers and AT vendors. This program also implements the Easterseals Iowa Durable Medical Equipment Loan, a device recycling program that accepts donated used devices from across the state, cleans and refurbishes, and provides the devices to individuals who would not otherwise be able to acquire the needed device. In addition, a comprehensive listing of all the community and state device reutilization and recycling programs in Iowa and neighboring states is maintained and made available through Iowa COMPASS.
 
 <h3>Device Loan</h3>
-Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa Assistive Technology Lending Library which administers a short-term device loan to Iowans. This allows consumers an opportunity to try devices, software, and gadgets free of charge, before making any purchasing decisions. The inventory of this loan program consists of Alternative and Augmentative Communication Devices (AAC Devices), Recreational Devices, Aids to Daily Living, Computer Access, Educational Devices, and other Assistive Technology to support individuals to live, learn, work and play in their communities
+Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa Assistive Technology Lending Library which administers a short-term device loan to Iowans. This allows consumers an opportunity to try devices, software, and gadgets free of charge, before making any purchasing decisions. The inventory of this loan program consists of Alternative and Augmentative Communication Devices (AAC Devices), Recreational Devices, Aids to Daily Living, Computer Access, Educational Devices, and other Assistive Technology to support individuals to live, learn, work and play in their communities
 
 <h3>Device Demonstration</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program operates a statewide Demonstration Center located in Des Moines. The center focuses on devices for community living, activities of daily living, recreation and Autism. Easter Seals Iowa Assistive Technology Program also provides AT devices and software to the Iowa Division of Vocational Rehabilitation for device demonstration to its clients and employers in the state.</p>
+<p>Easterseals Iowa Assistive Technology Program operates a statewide Demonstration Center located in Des Moines. The center focuses on devices for community living, activities of daily living, recreation and Autism. Easterseals Iowa Assistive Technology Program also provides AT devices and software to the Iowa Division of Vocational Rehabilitation for device demonstration to its clients and employers in the state.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>Easter Seals Iowa Assistive Technology Program engages in a number of activities to improve access to AT devices and services. Technical assistance and training is provided to agencies and organizations relating to education, employment, community living and emergency preparedness.</p>
+<p>Easterseals Iowa Assistive Technology Program engages in a number of activities to improve access to AT devices and services. Technical assistance and training is provided to agencies and organizations relating to education, employment, community living and emergency preparedness.</p>
 </div>
 
 <div id="Idaho">
@@ -582,7 +582,7 @@ Easter Seals Iowa Assistive Technology Program implements the Easter Seals Iowa 
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="Illinois Assistive Technology Program" src="/assets/iatp.jpg" style="max-width:250px" /></p>
+<p><img alt="Illinois Assistive Technology Program" src="/assets/thumbnail_IATP-logo-2022%404x.png" style="max-width:250px" /></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
