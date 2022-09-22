@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\_logo\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\_logo\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -582,7 +582,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 <div id="Illinois">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ILLINOIS</h2>
 
-<p><img alt="Illinois Assistive Technology Program" src="/assets/thumbnail_IATP-logo-2022%404x.png" style="max-width:250px" /></p>
+<p><img alt="Illinois Assistive Technology Program" src="/assets/thumbnail_IATP-logo-2022%404x.png" style="margin-top: 0px; margin-bottom: 0px; border-width: 1px; border-style: solid; max-width:250px"/></p>
 
 <p><strong>Lead Agency:</strong> Illinois Department of Human Service (DHS), Division of Rehabilitation Services (DRS)</p>
 
