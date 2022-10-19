@@ -79,6 +79,8 @@ permalink: /training-materials/
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
+				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=HjvbtmvJnL0#t=5m25s"><em
+					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2022 APR Data Entry Webinar - October 17, 2022</a></li>
 				<li class="list-group-item"><a href="https://youtu.be/KpmeGcEXSLU?t=240"><em
 					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> State Plan for AT: Data Entry 2022 – March 31, 2022</a></li>
 			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=yT1s-METg34"><em
