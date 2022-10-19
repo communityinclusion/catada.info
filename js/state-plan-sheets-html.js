@@ -238,7 +238,7 @@ jQuery(document).ready(function() {
     function drawChart9() {
 
         var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=414645865&headers=1&usp=sharing');
-        query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "State", B "Home", C "Cash Loan", D "SFA-Provide", E "SFA-Savings", F "Exchange", G "Refurbish", H "Device Loan", I "Demo", J "Training"');
+        query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "State", B "Home", C "Cash Loan", D "State Financing Activity-Provide", E "State Financing Activity-Savings", F "Exchange", G "Refurbish", H "Device Loan", I "Demo", J "Training"');
         query.send(handleQueryResponse9);
     }
 
