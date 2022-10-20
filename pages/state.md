@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\_logo\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1953,7 +1953,7 @@ WEST VIRGINIA</div>
 <div id="Wyoming">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WYOMING</h2>
 
-<p><img alt="Wyoming Assistive Technology Resources Program Logo"  src="/thumbnail_WINDlogo.png" style="width: 290px; height: 123px;"  /></p>
+<p><img alt="Wyoming Institute for Disabilities Logo"  src="/assets/thumbnail_WINDlogo.png" style="width: 350px; height: 123px;"  /></p> 
 
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
