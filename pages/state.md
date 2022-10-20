@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\_logo\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\_logo\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1678,7 +1678,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 <div id="Texas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>TEXAS</h2>
 
-<p><img alt="program logo" src="/assets/texas.jpg" style="width: 200px; height: 87px;" /></p>
+<p><img alt="Texas Technology Access Program Logo" src="/assets/thumbnail_TTAPLogo_whitecircle.png" style="width: 200px; height: 200px;" /></p>
 
 <p><strong>Lead Agency:</strong> The University of Texas at Austin</p>
 
@@ -1953,7 +1953,7 @@ WEST VIRGINIA</div>
 <div id="Wyoming">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>WYOMING</h2>
 
-<p><img alt="WIND"  src="/assets/files/WIND_Logo.png"  /></p>
+<p><img alt="Wyoming Assistive Technology Resources Program Logo"  src="/thumbnail_WINDlogo.png"  /></p>
 
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
