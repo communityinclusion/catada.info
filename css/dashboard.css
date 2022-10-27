@@ -522,7 +522,7 @@ display:block;
  }
  #summ_accordion .google-visualization-table-tr-head th {
 	background: none !important;
-	background-color: #eee !important;}
+/* background-color: #eee !important; */}
 	#summ_accordion table.google-visualization-table-table th {border-bottom: solid 2px black; border-top: solid 2px black; }
 	 #summ_accordion table.google-visualization-table-table td {border-bottom: solid 2px black; }
 
