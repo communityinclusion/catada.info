@@ -170,7 +170,7 @@ permalink: /program-participation/
 </tr>
 <tr>
 <th scope="col">Maine</th>
-<td align="center">Comparability</td>
+<td align="center">Flexibility</td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
@@ -247,7 +247,7 @@ permalink: /program-participation/
 </tr>
 <tr>
 <th scope="col">New Jersey</th>
-<td align="center">Comparability</td>
+<td align="center">Flexibility</td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
 <td align="center"><i class="fas fa-check-circle" aria-hidden="true"> <span class="sr-only">yes</span></i></td>
