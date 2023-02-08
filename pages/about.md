@@ -63,7 +63,7 @@ permalink: about/
 <div class="row">
   <div class="col-md-3">
     <a href="https://www.iltech.org/"><img class="img-fluid"
-        style="padding-right:10px;padding-bottom:10px; max-width:200px;" src="/assets/iatp.jpg" alt="itap logo" /></a>
+        style="padding-right:10px;padding-bottom:10px;" src="/assets/iatp-big.jpg" alt="itap logo" /></a>
   </div>
   <div class="col-md-9">
     <h3><a href="https://www.iltech.org/">IATP</a></h3>
