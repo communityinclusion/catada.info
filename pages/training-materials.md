@@ -10,48 +10,62 @@ permalink: /training-materials/
 			<h2 class="block-heading"><span>Resources for APR Data and State Plan Reporting</span></h2>
 			<div class="container">
 				<div class="row">
+
+					<div class="alert alert-info" role="alert" style="margin:auto;" >
+
+
+					<p><a
+								href="https://docs.communityinclusion.org/training-and-technical-assistance-materials/"><i class="bi bi-filetype-html"></i> See all briefs in our online Resource Briefs tool.</a> <span style="color:red;">New!</span></p>
+					
+					</div>
+				</div>
+				<div class="row">
 					<div class="col-md">
+						
 						<ul class="list-group">
+							
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 1 APR Data Fidelity Review.docx"><i
+									href="/assets/reporting2023/Brief-1---APR-Data-Fidelity-Review.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 1: APR Data Fidelity Review</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 2 Short-term vs Open-Ended Loans.docx"><i
+									href="/assets/reporting2023/Brief-2---Short-term-versus-Open-ended-Loans--.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 2: Short-term vs Open-Ended Loans</a>
 							</li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 3 Annual Performance Report Data Structure.docx"><i
+									href="/assets/reporting2023/Brief-3---Annual-Performance-Report-Data-Structure-.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 3: Annual Performance Report Data
 									Structure</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 4 AT Maker APR Data Reporting.docx"><i
+									href="/assets/reporting2023/Brief-4---Assistive-Technology-“Maker”-Activities.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 4: AT Maker APR Data Reporting</a>
 							</li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 5 AT Leasing Activities-1.docx"><i
+									href="/assets/reporting2023/Brief-5---Assistive-Technology-Advisory-Council-.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 5: AT Leasing Activities</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 6 Annual Data-Fiscal Calendar.docx"><i
+									href="/assets/reporting2023/Brief-6---Annual-AT-Data-&-Fiscal-Calendar.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 6: Annual Data-Fiscal Calendar</a>
 							</li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 7 State Plan Expenditure Tracking and Reporting-1.docx"><i
+									href="/assets/reporting2023/Brief-7---State-Plan-Expenditure-Tracking-&-Reporting-.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 7: State Plan Expenditure Tracking
 									and Reporting</a></li>
 									<li class="list-group-item"><a
-									href="/assets/reporting/Brief 8 Flexibility, Comparability and Data Reporting.docx"><i
-										class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
-									Data Reporting</a></li>
+										href="/assets/reporting2023/Brief-8---Flexibility,-Comparability-&-Data-Reporting.docx"><i
+											class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
+										Data Reporting</a></li>
+									
 						</ul>
 					</div>
 					<div class="col-md">
 						<ul class="list-group">
+							
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 9 Contract Compensation Options and Data Reporting.docx"><i
+									href="/assets/reporting2023/Brief-9---Contract-Compensation-Options-&-Data-Reporting-.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 9: Contract Compensation Options and
 									Data Reporting</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 10 Managing and Leveraging Resources.docx"><i
+									href="/assets/reporting2023/Brief-10---Managing-&-Leveraging-Resources.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 10: Managing and Leveraging
 									Resources</a></li>
 							<li class="list-group-item"><a
@@ -59,11 +73,11 @@ permalink: /training-materials/
 										class="bi bi-file-earmark-word"></i> Brief 11: Data Considerations in Emergency
 									Situations</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 12 Leveraged Funding Grant Types.docx"><i
+									href="/assets/reporting2023/Brief-12---Leveraged-Funding--Understanding-Grant-Types.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 12: Leveraged Funding Grant Types</a>
 							</li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 13 When is demonstrating devices a Device Demonstration.docx"><i
+									href="/assets/reporting2023/Brief-13---When-is-demonstrating-devices-a-device-demonstration--.docx"><i
 										class="bi bi-file-earmark-word"></i> 
 										Brief 13: When is “demonstrating devices” a Device Demonstration? </a>
 							</li>
