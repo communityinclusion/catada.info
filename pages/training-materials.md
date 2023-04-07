@@ -41,7 +41,7 @@ permalink: /training-materials/
 							</li>
 							<li class="list-group-item"><a
 									href="/assets/reporting2023/Brief-5---Assistive-Technology-Advisory-Council-.docx"><i
-										class="bi bi-file-earmark-word"></i> Brief 5: AT Leasing Activities</a></li>
+										class="bi bi-file-earmark-word"></i> Brief 5: AT Advisory Council</a></li>
 							<li class="list-group-item"><a
 									href="/assets/reporting2023/Brief-6---Annual-AT-Data-&-Fiscal-Calendar.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 6: Annual Data-Fiscal Calendar</a>
@@ -69,9 +69,8 @@ permalink: /training-materials/
 										class="bi bi-file-earmark-word"></i> Brief 10: Managing and Leveraging
 									Resources</a></li>
 							<li class="list-group-item"><a
-									href="/assets/reporting/Brief 11 Data Considerations in Emergency Situations.docx"><i
-										class="bi bi-file-earmark-word"></i> Brief 11: Data Considerations in Emergency
-									Situations</a></li>
+									href="/assets/reporting2023/Brief-11---Lead-Agency-&-Implementing-Entity.docx"><i
+										class="bi bi-file-earmark-word"></i> Brief 11: Lead Agency & Implementing Entity</a></li>
 							<li class="list-group-item"><a
 									href="/assets/reporting2023/Brief-12---Leveraged-Funding--Understanding-Grant-Types.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 12: Leveraged Funding Grant Types</a>
