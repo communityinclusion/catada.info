@@ -7,7 +7,33 @@ permalink: /publications-archive/
 <div class="container">
 	 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
 <div class="row">
-
+	<div class="col-md">
+		<div class="card bg-light">
+			<div class="card-body">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="image ">
+							<img class="img-fluid"
+								src="/assets/catada_pub_thumbs/ATAP_2021_FinalAccessible-1.png"
+								alt="Card image" />
+						</div>
+					</div>
+					<div class="col-md-9">
+						<div class="content">
+							<h4 class="card-title">
+								A National Data Summary of State Assistive Technology Programs: Fiscal Year 2020
+							</h4>
+							<h5 class="card-subtitle mb-2 text-muted">Issue No. 13 - 2021</h5>
+							<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2020 data.
+							</p>
+							<a href="/assets/files/ATAP_2021_FinalAccessible.pdf" class="btn btn-primary">View
+								PDF</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 
 <div class="col-md-6 d-flex">
