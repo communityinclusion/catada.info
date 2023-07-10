@@ -14,7 +14,7 @@ permalink: /catada-publications/
 						<div class="col-md-3">
 							<div class="image ">
 								<img class="img-fluid"
-									src="/assets/catada_pub_thumbs/ATAP-2023_D3-thumb.jpg"
+									src="/assets/catada_pub_thumbs/AT-2023_D3-thumb.jpg"
 									alt="ATP 2023" />
 							</div>
 						</div>
@@ -26,7 +26,7 @@ permalink: /catada-publications/
 								<h5 class="card-subtitle mb-2 text-muted">Issue No. 15 - 2023</h5>
 								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2022 data.
 								</p>
-								<a href="/assets/files/ATAP-2023_D3.pdf" class="btn btn-primary">View
+								<a href="/assets/files/AT-2023_D3.pdf" class="btn btn-primary">View
 									PDF</a>
 							</div>
 						</div>
@@ -51,7 +51,7 @@ permalink: /catada-publications/
 									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2021
 								</h4>
 								<h5 class="card-subtitle mb-2 text-muted">Issue No. 14 - 2022</h5>
-								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs’ FY 2021 data.
+								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2021 data.
 								</p>
 								<a href="/assets/files/AT Report FY22_Final_R.pdf" class="btn btn-primary">View
 									PDF</a>
