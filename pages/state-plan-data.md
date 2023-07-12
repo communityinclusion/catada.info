@@ -166,6 +166,7 @@ permalink: /state-plan-data/
                <div id="table12">
                </div>
                <div id="table12legend" class="pt-3">
+ ﻿             <p>The data in this table are from the most current State Plan or Update available.</p>
               <p>State AT programs are required to have a consumer-majority advisory council that provides consumer-responsive, consumer-driven advice to the state for planning of, implementation of, and evaluation of the activities carried out through the grant, including setting measurable goals.</p>
               <p><strong>Required Agency Members</strong>: The AT Act requires a representative from the following agencies: Vocational Rehabilitation (VR) (plus one from the Blind Vocational Rehabilitation agency if there is a separate one), a center for independent living (CIL), the State workforce investment board (WIB), and the State education agency (SEA).</p>
              <p><strong>Consumer Majority</strong>: The AT Act requires that a majority, not less than 51 percent, of the members of the advisory council be individuals with disabilities that use assistive technology or their family members or guardians.</p>
