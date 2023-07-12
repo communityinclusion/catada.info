@@ -133,7 +133,8 @@ permalink: /state-plan-data/
                <div id="table08">
                </div>
                <div id="table08legend" class="pt-3">
-                 						
+                 <p>The data in this table are from the most current State Plan or Update available.</p>
+						
                     <p align="center"><a id="table07_back" class="tableChanger" href="/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
