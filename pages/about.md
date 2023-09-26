@@ -30,10 +30,10 @@ permalink: about/
 <p><strong>Daria Domin, MSW </strong><br />Email: <a href="mailto:daria.domin@umb.edu">daria.domin@umb.edu</a><br />Phone: 617-287-4277 </p>
 
 <p><strong>Diane Cordry Golden, Ph.D. </strong><br />Email: <a
-    href="mailto:diane.golden@ataporg.org">dgolden@iltech.org</a>
+    href="mailto:dgolden@iltech.org">dgolden@iltech.org</a>
     <br />Phone: 816-616-7668 </p>
 
-<p><strong>Vance Dhooge </strong><br />Email: <a href="mailto:diane.golden@ataporg.org">vdhooge@iltech.org</a><br />Phone: 217-522-7985 </p>
+<p><strong>Vance Dhooge </strong><br />Email: <a href="mailto:vdhooge@iltech.org">vdhooge@iltech.org</a><br />Phone: 217-522-7985 </p>
 
 <hr />
 
