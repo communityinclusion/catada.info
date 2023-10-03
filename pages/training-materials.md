@@ -92,6 +92,10 @@ permalink: /training-materials/
 			</div>
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
+
+				
+				<li class="list-group-item"><script src="https://fast.wistia.com/embed/medias/8wz8xb0vxq.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_8wz8xb0vxq popover=true popoverContent=link videoFoam=false" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><em
+					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> Input from AT Act Grantees on Potential Changes to AT Data Collection Instruments - APR and State Plan for AT - September 28, 2023</a></span></li>
 				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=HjvbtmvJnL0#t=5m25s"><em
 					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2022 APR Data Entry Webinar - October 17, 2022</a></li>
 				<li class="list-group-item"><a href="https://youtu.be/KpmeGcEXSLU?t=240"><em
