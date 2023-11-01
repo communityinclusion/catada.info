@@ -80,11 +80,11 @@ permalink: /state-plan-data/
             <p><strong>Revolving loan</strong>: A loan that uses Statewide AT Program funds for loans. The AT program directly provides the funds that are to be loaned out and retains full control over to whom and at what terms the funds are loaned. As loans are repaid, the money is lent out again to other AT consumers &mdash; that is, the same money &ldquo;revolves&rdquo; out to other borrowers as earlier borrowers return it to the program.</p>
             <p><strong>Loan guarantee or insurance program</strong>: The grantee uses its funds to guarantee all or a portion of loans for AT. A guaranteed loan is a loan in which the Statewide AT Program guarantees that the loan to a consumer is secure and will be repaid, thus increasing the lender&rsquo;s willingness to loan funds.</p>
             <p><strong>Interest buy-down loan</strong>: A loan in which AT program funds are used to buy down the interest rate of a loan. The AT program uses funds to reduce the interest rate that lending institutions offer to consumers for loans to purchase AT. The AT program pays the lending institution for a portion of the interest on the loan, resulting in lower interest payments for the consumer over the long term.</p>
-            <p><strong>Both</strong>: combined loan guarantee and interest buy-down</p>	
+            <p><strong>Both</strong>: combined loan guarantee and interest buy-down</p>
 
-           <p><strong>N/A</strong>: Indicates the program does not provide that type of loan.</p>	
+           <p><strong>N/A</strong>: Indicates the program does not provide that type of loan.</p>
           <p><strong>None</strong>: there is no policy on the lowest or highest loan amount.</p>
-           						
+
           <p align="center"><a id="table03_back" class="tableChanger" href="/state-plan-data.html#table03"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table05_next" class="tableChanger" href="/state-plan-data.html#table05">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -99,7 +99,7 @@ permalink: /state-plan-data/
                 <p><strong>Home Modification Program</strong>: A home modification program provides home modifications, including the addition of wheelchair ramps. States may not use AT Act dollars to provide funds or devices directly to individuals.</p>
                 <p><strong>Cooperative Buying Program</strong>: Cooperative buying programs procure AT in bulk at a discount from AT suppliers and then pass the savings on to consumers/beneficiary recipients.</p>
                 <p><strong>AT Lease Program</strong>: These programs provide AT to consumers on a leased arrangement which provides savings over a direct purchase. Typically, there is external funding used to purchase the devices that are leased to consumers. The leasing arrangement can include a lease-to-buy provision.</p>
-                <p><strong>AT Fabrication Program</strong>: These programs fabricate AT systems for recipients from readily available materials providing functional AT products at a significant savings.</p>	
+                <p><strong>AT Fabrication Program</strong>: These programs fabricate AT systems for recipients from readily available materials providing functional AT products at a significant savings.</p>
                 <p><strong> N/A</strong>: Indicates the activity is not conducted.</p>							
                   <p align="center"><a id="table04_back" class="tableChanger" href="/state-plan-data.html#table04"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table06_next" class="tableChanger" href="/state-plan-data.html#table06">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
@@ -134,7 +134,7 @@ permalink: /state-plan-data/
                </div>
                <div id="table08legend" class="pt-3">
                  <p>The data in this table are from the most current State Plan or Update available.</p>
-						
+
                     <p align="center"><a id="table07_back" class="tableChanger" href="/state-plan-data.html#table07"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a id="table09_next" class="tableChanger" href="/state-plan-data.html#table09">Next table <i class="fas fa-angle-double-right"></i></a></p>
             </div><hr />
         </div>
@@ -171,7 +171,8 @@ permalink: /state-plan-data/
               <p><strong>Required Agency Members</strong>: The AT Act requires a representative from the following agencies: Vocational Rehabilitation (VR) (plus one from the Blind Vocational Rehabilitation agency if there is a separate one), a center for independent living (CIL), the State workforce investment board (WIB), and the State education agency (SEA).</p>
              <p><strong>Consumer Majority</strong>: The AT Act requires that a majority, not less than 51 percent, of the members of the advisory council be individuals with disabilities that use assistive technology or their family members or guardians.</p>
               <p><strong>Yes</strong> = meets requirement<br />
-             <strong> No</strong> = does not meet requirement</p>					
+             <strong> No</strong> = does not meet requirement<br />
+						 Advisory Council membership across AT Programs ranges between 6 and 29 members. The median is 16 and the mean is 15 members. </p>					
                     <p align="center"><a id="table11_back" class="tableChanger" href="/state-plan-data.html#table11"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
             </div><hr />
 				</div>
