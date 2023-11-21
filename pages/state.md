@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -1978,6 +1978,8 @@ WEST VIRGINIA</div>
 <p><a href="apr_reports22/Wyoming_2022.html">View the Annual Progress Report data for FY2022.</a></p>
 
 View the FY 2022-2023 Annual Report.
+
+
 
 <h3>State Financing Activities</h3>
 
