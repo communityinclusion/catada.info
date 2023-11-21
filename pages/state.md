@@ -1972,6 +1972,7 @@ WEST VIRGINIA</div>
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
 <p><strong>Program Title:</strong> <a href="http://www.uwyo.edu/wind/watr/">Wyoming Assistive Technology Resources (WATR)</a></p>
+<p><a href="/assets/2023/watr_report_2022.pdf">View the FY 2022-2023 Annual Report</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -1987,7 +1988,7 @@ View the FY 2022-2023 Annual Report.
 
 <h3>Device Reutilization</h3>
 
-<p>WATR’s reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
+<p>WATR's reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
 
 <h3>Device Loan</h3>
 
