@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -877,7 +877,8 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 <h3>State Financing Activities</h3>
 
 <p>MATP partners with funders to provide assistive technology to reduce social isolation and to access healthcare. Types of devices provided have included tablets with accessibility features, smart speakers, smart screens, and healthcare related assistive technology including talking blood pressure monitors. Additional options for healthcare related AT include talking glucometers, talking pulse
-oximeters, and talking thermometers. Funding sources for the assistive technology have included Michigan Developmental Disabilities Council grant programs, No Wrong Door funding from Michigan Aging and Adult Services Administration, private donors and private foundations.</p>
+oximeters, and talking thermometers. Funding sources for the assistive technology have included Michigan Developmental Disabilities Council grant programs, No Wrong Door funding from Michigan Aging and Adult Services Administration, private donors and private foundations.
+</p>
 
 <h3>Device Reutilization</h3>
 
@@ -888,6 +889,7 @@ oximeters, and talking thermometers. Funding sources for the assistive technolog
 <p>Michigan Assistive Technology Program’s (MATP) short term loan program allows a person to borrow equipment, free of charge, from MATP’s inventory. Device loans assist in decision making, serve as a loaner while waiting for funding for a device or for a device repair, or as an accommodation for a short period, or for professional development or to conduct a training for a professional.
 
 The MATP device loan library has hundreds of items available to borrow. The MATP website will be fully updated with the lending library inventory available for people to browse by December 2022. MATP specializes in various AT including daily living, outdoor recreation, gaming, crafting, vision, mental health, parenting, youth, and aging. MATP is a program by people with disabilities, for people with disabilities and their allies. MATP serves underserved communities and addresses the disparities of access to assistive technology in communities of color. MATP serves across the lifespan and in all areas of life, focusing on community living.
+
 </p>
 
 <h3>Device Demonstration</h3>
@@ -903,6 +905,7 @@ MATP has been working with a coalition of organizations and state agencies aroun
 MATP participates in conferences, fairs, and exhibits at various locations throughout the state. These are selected to fill in gaps where assistive technology information may not otherwise be present. MATP provides information on AT on social media and other platforms that reaches thousands of people. Topics include information on transportation access, AT for education, AT for recreation, AT for community living, text access, web access, employment, AT innovations, and dozens more topics important to people with disabilities and AT.
 
 MATP provides email, web-based, and toll-free phone information and assistance service. Calls, emails, and other assistance requests are either answered directly or forwarded to the appropriate MATP staff member who is familiar with a region of the state or the specific requested information.
+
 </p>
 </div>
 
@@ -1973,6 +1976,8 @@ WEST VIRGINIA</div>
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports22/Wyoming_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+
+View the FY 2022-2023 Annual Report.
 
 <h3>State Financing Activities</h3>
 
