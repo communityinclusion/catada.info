@@ -1996,11 +1996,11 @@ View the FY 2022-2023 Annual Report.
 
 <h3>Device Demonstration</h3>
 
-<p>WATR offers device demonstrations during scheduled Open Lab hours at the WATR program office on the University of Wyoming campus in Laramie, by appointment at Casper College as part of a collaboration between WATR and the college occupational therapy education program, and by appointment on site.&nbsp; WATR does not charge for device demonstrations except when they are connected to assistive technology assessments.&nbsp;</p>
+<p>WATR offers free assistive technology device demonstrations, designed to meet the specific needs of an individual. These demonstrations can be held virtually via Zoom or in-person in the Laramie lab, or by appointment at Casper College as part of a collaboration between WATR and the college occupational therapy education program. WATR does not charge for device demonstrations except when they are connected to requested assistive technology fee-based assessments.&nbsp;</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>WATR provides training and technical assistance, public awareness, and information and assistance about assistive technology devices and services. WATR offers assistive technology informational brochures and posters; a website; a monthly electronic newsletter, <em>DispATch</em>; <em>Stories of Success</em>, our annual report; and Wyoming’s only assistive technology magazine <em>WATR Waves</em>. In addition, WATR produced a video series about transitions and our AT Act program; these are available on the WATR website.&nbsp; WATR conducts UW ECHO in AT, a novel approach to building capacity in assistive technology that is a lifelong learning and guided practice model with hub and spoke knowledge sharing networks. Also offered are online assistive technology distance learning courses through the University of Wyoming Outreach School.</p>
+<p>WWATR provides training and technical assistance, public awareness, and information and assistance about assistive technology devices and services. WATR offers assistive technology informational brochures and posters; a website; and a monthly electronic newsletter, <em>dispATch</em>. In addition, WATR produced video resources about connecting older adults with disabilities through technology to remote social services, healthcare services, and to help them combat social isolation; these are available on the WATR website.  WATR conducts bi-weekly UW ECHO in AT trainings, a novel approach to building capacity in assistive technology that is a lifelong learning and guided practice model with hub and spoke knowledge sharing networks. Also offered are online assistive technology distance learning courses through the University of Wyoming Outreach School.</p>T
 </div>
 </div>
 
