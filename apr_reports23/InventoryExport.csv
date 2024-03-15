@@ -1,0 +1,242 @@
+InventoryId,AutoInventoryId,StateInventoryNum,State_ID,State_Name,Region_ID,RegionName,InventoryName,ManufacturerName,Model,SerialNumber,RetailCost,CostPaid,PurchaseDate,Status,Active,DueDate,Location,Description,DeviceCategory,SubCategory,CurrentDevLoan_ID,LendingFee,DoNotCheckout
+a1e94d87-a0ad-495e-9516-7cdecd8bfd9f,15-IN-10213,,15,Hawaii,,,20/20 Easy-Read Pens,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+094af4fb-5b92-4999-9e61-d8523d3f8c69,15-IN-10004,,15,Hawaii,,,ABLENET Hook & Switch,Ablenet,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+27232024-2da5-4630-972e-2b1bf7105292,15-IN-10016,,15,Hawaii,,,ABLENET Master Switchboard,Ablenet,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+bec3e325-9e34-40ed-a54c-692e62b297b4,15-IN-10002,,15,Hawaii,,,ABLENET QuickTalker 1,Ablenet,QuickTalker 1,10000009,75.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+1d7e1513-a8b3-43f9-a456-4489c6c7b2b1,15-IN-10003,,15,Hawaii,,,ABLENET Quicktalker S,Ablenet,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+38d97e8b-7a99-4ab8-8391-79760ad9d85c,15-IN-10005,,15,Hawaii,,,ABLENET String Switch,Ablenet,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+c6dc087a-d416-483b-a207-96037a02c014,15-IN-10017,,15,Hawaii,,,ABLENET Switchboard,Ablenet,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+5769a476-c505-41f3-8840-067867834671,15-IN-10039,,15,Hawaii,,,ABLEWARE Round Up Plate,Ableware,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+51afa66e-3f63-46fe-9ad8-dd9ea5eabb52,15-IN-10149,,15,Hawaii,,,ACM-70 Analog Headset,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+df300ca6-aaa4-4469-8aca-a9c3de5e1678,15-IN-10132,,15,Hawaii,,,ADVANTAGE KINESIS Keyboard,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+c8439d93-cd27-4224-9231-29af95e469b7,15-IN-10076,,15,Hawaii,,,ALERTMASTER Door Announcer,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+320a0d01-09c8-4651-9c3a-a07ba70390f7,15-IN-10100,,15,Hawaii,,,AM-RX2 Alertmaster Remote Receiver,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+7862dfb7-7090-4dd0-be94-252c407422b1,15-IN-10097,,15,Hawaii,,,AMERIPHONE Alertmaster AM-6000,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+c5eb39ae-7104-4e13-93ba-ebb506e4294a,15-IN-10099,,15,Hawaii,,,AMERIPHONE Alertmaster AM-RX2 Remote Receiver,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+d5485e4f-2287-4daa-b00f-d35c97c48b39,15-IN-10075,,15,Hawaii,,,AMERIPHONE Phone Amplifier,Ameriphone,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+8cfbd626-6ba0-4302-ba53-29519f746b25,15-IN-10094,,15,Hawaii,,,AMERIPHONE Photo Phone,Ameriphone,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+e5902164-aae4-4ed8-93ad-8e5c06cd6589,15-IN-10184,,15,Hawaii,,,AMIGO Enhanced Vision,Enhanced Vision,AMIGO-NTSC (discontinued),,299.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+df3a9a1c-5549-4831-a441-d5cbf5e60ef0,15-IN-10163,,15,Hawaii,,,Apple iPad 64 GB WIFI &CELLULAR,Apple,M775LLA,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+f5cce3f1-a6b7-4663-933a-4540dc5911c6,15-IN-10167,,15,Hawaii,,,Apple iPad AIR 2 128GB WIFI & CELLULAR,Apple,FH312LL,,629.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+0039313f-d3f4-4617-bfbf-07460fba03f1,15-IN-10164,,15,Hawaii,,,Apple iPad AIR 2 64GB WIFI & CELLULAR (lost),Apple,MH2M2LL,,829.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+1539771e-9a94-4fc3-b969-4f589b7aceed,15-IN-10165,,15,Hawaii,,,Apple iPad PRO 12.9"" 256GB WIFI & CELLULAR + APPLECARE,Apple,ML3T2LL,,1328.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+c1fb5766-c36d-4878-8897-74417b6ba53b,15-IN-10153,,15,Hawaii,,,APPLE Laptop Chargers,Apple,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+ee74a357-5b43-4b31-87fb-055a77ecddc5,15-IN-10166,,15,Hawaii,,,APPLE PENCIL FOR IPAD PRO,Apple,A1603,,99.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+7f991ed2-f498-4ca9-882d-49aca646bbb9,15-IN-10080,,15,Hawaii,,,AZDEN Wireless Receiver,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+7864fe0b-0b71-4389-bc53-6fc561f833b8,15-IN-10081,,15,Hawaii,,,AZDEN Wireless Transmitter,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+bc7050e5-449c-4e68-81a5-34442e5cb2af,15-IN-10111,,15,Hawaii,,,BELKIN WaveRest Gel Mouse Pad,Belkin,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+58fab567-4faf-45ab-bd10-4c7deffc714b,15-IN-10087,,15,Hawaii,,,BELL PHONES Big Button Telephone,Bell,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+7512d4fb-792b-4287-849e-b2bb36876cad,15-IN-10119,,15,Hawaii,,,Bendable Fork,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+5d0b65b2-04cb-4f73-a567-660f03f28f15,15-IN-10120,,15,Hawaii,,,Bendable Spoon,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+eb1976ae-25f2-48ca-a5ef-0d3ea9b7c11f,15-IN-10201,,15,Hawaii,,,BIERLEY Magnifying Mouse,Bierley,MonoMouse,,149.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+beb4ed94-cfb3-459e-935b-6ff8b6d9fa78,15-IN-10112,,15,Hawaii,,,BIG GRIPS iPad Frame,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+ed3df2c9-deb2-46c5-9af2-c4ed7f22d1c4,15-IN-10113,,15,Hawaii,,,BIG GRIPS iPad Frame,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+765ddfba-d0f8-449d-8f4e-8313579ec0ca,15-IN-10230,,15,Hawaii,,,BIGKEYS LX Vision Keyboard,Ablenet,,,159.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+9a0a0d38-59bf-4beb-8ce9-71a4bf3cdb07,15-IN-10018,,15,Hawaii,,,Blue 2 Switch,Ablenet,Blue 2 Switch,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+130c2a40-92fa-47ad-8285-c1bf225dce3d,15-IN-10210,,15,Hawaii,,,Braille Alphanumeric Stickers,Maxiaids,Braille Feel n Peel Alphabet Stickers,,12.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+ed89a736-aaa7-4ca9-9fb9-10f5707d3d04,15-IN-10223,,15,Hawaii,,,Braille Pin (hook),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+8df10f3d-dfe0-4bec-bd10-c20e5f0cd7be,15-IN-10222,,15,Hawaii,,,Braille Pin (pinhead),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+28b146ac-b91e-460f-96a5-5dddc634abaa,15-IN-10050,,15,Hawaii,,,Braille Playing Card,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+344527ec-aad6-4abf-b50b-5fd414dba2d7,15-IN-10220,,15,Hawaii,,,Braille Stencils (long),Maxiaids,,,29.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+b1602228-6b11-4abb-8df9-475703704984,15-IN-10218,,15,Hawaii,,,Braille Stencils (ruler),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+644d7a59-5ae9-4c8c-b6af-c3f4031e4d29,15-IN-10221,,15,Hawaii,,,Braille Stencils (short),Maxiaids,,,19.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+09f2d1a2-25a8-4b65-898a-47f9034d7b5e,15-IN-10219,,15,Hawaii,,,Braille Stencils (wide),Maxiaids,,,29.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+9011ec2e-026f-4f4f-8846-67e565e56c3b,15-IN-10114,,15,Hawaii,,,BROTHER P-Touch Label Maker,Brother,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+626df1d6-9a76-42a5-9cb6-5fdc3c174907,15-IN-10146,,15,Hawaii,,,BUDDY Mini Desktop Microphone,Buddy,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+54ab40d7-df89-41e7-ad6a-55a0a2c3443a,15-IN-10032,,15,Hawaii,,,Button Fastener,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+8b5e8114-4ddb-4efc-a40f-bca7396e7e73,15-IN-10089,,15,Hawaii,,,Califone,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+59674b85-e1f4-4a4e-b7e9-094dd1f8ad67,15-IN-10084,,15,Hawaii,,,CAPTEL Phone with Captions,Captel,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+16253c4d-088a-44ad-ba7b-096a7b06a691,15-IN-10083,,15,Hawaii,,,CAPTIONCALL Phone with Captions,CaptionCall,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+03145292-dbb3-4b11-a105-eb65e6b2c822,15-IN-10020,,15,Hawaii,,,Chatter Vox,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+002aac86-8460-413b-b265-4c5aab7db7c2,15-IN-10193,,15,Hawaii,,,Circular Pocket Magnifier,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+60c74ca3-12fe-450f-aca5-452b88af92ab,15-IN-10185,,15,Hawaii,,,CLASSMATE Reader,Humanware,100CMR (discontinued),,50.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+aff9809a-b537-4bd6-a555-ca9de9081052,15-IN-10085,,15,Hawaii,,,CLEARHEAR Amplifier Phone,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+8c972029-b236-48bc-a759-012a5ff4481e,15-IN-10070,,15,Hawaii,,,CLEARSOUND Neckloop,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+88a61ac5-d68c-499d-8305-bd4b2769efd5,15-IN-10067,,15,Hawaii,,,Click N' Dig Item Finder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+9db892b4-1d5e-4fc8-8607-da657076e752,15-IN-10204,,15,Hawaii,,,COIL Magnifying Glasses,Coil,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+62247ddb-d59d-490b-9063-8aa01c4107cb,15-IN-10229,,15,Hawaii,,,COIL Stand Magnifier (set),Coil,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+759b3707-08f7-487f-adda-8d0fb816d502,15-IN-10196,,15,Hawaii,,,Concave Magnifier (large),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+9c4bb1f7-1248-4431-83b4-1831c47c8189,15-IN-10195,,15,Hawaii,,,Concave Magnifier (small),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+b2875e4b-33e7-4469-834a-25f55f207e1f,15-IN-10138,,15,Hawaii,,,CONTOUR Roller Red Mouse,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+6962477a-2475-485d-a0e1-175a7ec44183,15-IN-10057,,15,Hawaii,,,Cushion Grip Gardening Tools,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+770965c7-6278-474a-ba34-b60c250d347e,15-IN-10117,,15,Hawaii,,,Cylindrical Foam Tubing,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+f06ab784-db2d-4b18-8d94-966e1886b29e,15-IN-10055,,15,Hawaii,,,Dangerous Toe Nail Clipper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+75e0dfae-0be3-42e0-9595-eeac7fb7b90d,15-IN-10217,,15,Hawaii,,,DAYLIGHT Desk Lamp,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+10b0aeb2-888d-4c4d-9a39-b1782aac5457,15-IN-10007,,15,Hawaii,,,DON JOHNSTON Sensor Switch,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+ad174fec-26e1-463d-a956-c97161cba369,15-IN-10124,,15,Hawaii,,,Easy Cut Scissors,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+4ae2626f-305c-47eb-b754-99edaaedef91,15-IN-10053,,15,Hawaii,,,Easy Grip Gardening Hoe,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+cab01330-ea08-4d35-a62a-9a485910157b,15-IN-10054,,15,Hawaii,,,Easy Grip Gardening Rake,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+529f6fc2-7520-46e1-aa3b-37625ae6b971,15-IN-10129,,15,Hawaii,,,Easy Reader Book Stand,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+4c413d23-93b5-4a03-9010-1dbe5d74ce45,15-IN-10052,,15,Hawaii,,,Elongated Scrubbers,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+3e2e3da7-0548-4c5b-9e33-4bed84227b9e,15-IN-10142,,15,Hawaii,,,Ergonomic Mouse,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+d0722d93-4ea9-463e-8c5f-75b0af0ff79a,15-IN-10118,,15,Hawaii,,,Ergonomic Pen,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+bd7d950d-df27-4db0-b202-25947a661a4f,15-IN-10141,,15,Hawaii,,,Ergonomic Roller Ball Mouse,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+833ac5a1-f6d8-4482-a157-4267d548bb1b,15-IN-10127,,15,Hawaii,,,Ergorest,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+2080cf67-02d8-4262-9db0-0ba4d8c7bab3,15-IN-10203,,15,Hawaii,,,ESCHENBACH MAXTV Magnifying Glasses,Eschenbach,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+d1e499b9-4485-4b9e-9606-00f1c6c0e5fe,15-IN-10238,,15,Hawaii,,,ESCHENBACH SmartLux,Eschenbach,Smartlux Digital Portable Video Magnifier,,650.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+97c0fafb-9eab-422d-9f64-7349ae9a6a20,15-IN-10090,,15,Hawaii,,,Fentone Cord,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+a226fb08-9d6f-4d8d-baf4-9388a6e46818,15-IN-10104,,15,Hawaii,,,FRANKLIN Language Master,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+aeed47d6-4437-42a4-b509-5598802da696,15-IN-10178,,15,Hawaii,,,FREEDOM SCIENTIFIC Eye Pal Ace Plus,Freedom Scientific,Eye-Pal Ace Plus,,2995.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+a4180f93-a704-42ed-8642-c1c2247eb14a,15-IN-10179,,15,Hawaii,,,FREEDOM SCIENTIFIC Jaws Screenreader 15,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+5015f49f-536e-4ab5-a659-cdb62cb33cb4,15-IN-10180,,15,Hawaii,,,FREEDOM SCIENTIFIC Jaws Screenreader 15,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+e9d6b568-4d2c-4d29-b14b-9131e88725f0,15-IN-10181,,15,Hawaii,,,FREEDOM SCIENTIFIC Jaws Screenreader 15,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+2d6689be-78ba-4ad2-a226-2e1f8f4b789e,15-IN-10182,,15,Hawaii,,,FREEDOM SCIENTIFIC Jaws Screenreader 16,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+6e6ae8a4-41b8-4094-9261-3d195502638e,15-IN-10209,,15,Hawaii,,,FREEDOM SCIENTIFIC Pearl,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+3e9d090b-5f3d-4a9b-9ae4-a8fc96a9fdb7,15-IN-10174,,15,Hawaii,,,FREEDOM SCIENTIFIC Ruby,Freedom Scientific,Ruby,,545.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+0d2c7a17-446d-4c9b-b39e-3da903c4835a,15-IN-10175,,15,Hawaii,,,FREEDOM SCIENTIFIC Ruby HD,Freedom Scientific,Ruby HD,,645.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+353352bf-e8ae-4312-9049-c5f717ac3330,15-IN-10176,,15,Hawaii,,,FREEDOM SCIENTIFIC Ruby XL HD,Freedom Scientific,Ruby XL HD,,895.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+39c15984-f35d-4df9-bde3-c9dc39d38b3a,15-IN-10177,,15,Hawaii,,,FREEDOM SCIENTIFIC Topaz PHD,Freedom Scientific,Topaz PHD,,2095.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+b6cb8695-c182-42d1-a57e-a8a7052b538e,15-IN-10151,,15,Hawaii,,,GENERIC Analog Headset,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+c53aba1b-8a20-452c-89bf-2a4477d37364,15-IN-10125,,15,Hawaii,,,Generic Rubber Utensil Grip,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+9010d423-5991-45f1-8897-30086f8ce7a9,15-IN-10207,,15,Hawaii,,,Giant Address Book,Maxiaids,Giant Print Address Book,,16.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+86d5912c-9a77-477d-acc6-d1e3a32f1734,15-IN-10136,,15,Hawaii,,,GOLDTOUCH Half-able Keyboard,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+776ea464-5d35-43c5-b07f-0c2632089fcd,15-IN-10022,,15,Hawaii,,,GOODLIVING Measuring Cup,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+57d5beac-bb5f-4e5a-bd49-b65ad6aab592,15-IN-10154,,15,Hawaii,,,GOOGLE Nexus 7,Google,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+ef50c2a0-26d1-4fea-bfcd-6bfc482b9fa3,15-IN-10021,,15,Hawaii,,,Grabber,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+226b3875-304b-4fd8-b00a-9b4067c2e393,15-IN-10024,,15,Hawaii,,,GREATGRIPS Grips,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+f9eb1160-52cd-408d-ab28-a69d369f21c7,15-IN-10011,,15,Hawaii,,,Gumball Switch (Red),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+384a9c1d-9367-413d-85c4-080b5609b7b5,15-IN-10071,,15,Hawaii,,,HEARIT SE Voice Amplifier,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+c9a90c51-c3ec-4a31-84ca-a42ce9e69a52,15-IN-10143,,15,Hawaii,,,Heavyweight Pen (right),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+6dccf3d6-efc6-4972-a64e-895507cc21ab,15-IN-10060,,15,Hawaii,,,Helpathand Emergency Tel. Dialer,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+6b07abd4-10be-43f6-a52e-ae4dfda4f6af,15-IN-10137,,15,Hawaii,,,HENRI BEDEL Roll-Up Keyboard,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+9514fe41-5909-43ce-bcaa-9b9a7368c6e6,15-IN-10200,,15,Hawaii,,,HIMS Braille Sense,HIMS,Braille Sense U2,,5595.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+3872577d-2f77-46f2-ac0c-fca63eb4e7af,15-IN-10170,,15,Hawaii,,,Humanware Explore 5,Humanware,Explore 5,,749.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+bbe3cdeb-5ff8-4f07-b6c6-a2bf6ed83acb,15-IN-10171,,15,Hawaii,,,Humanware Explore 7,Humanware,Explore 7,,1099.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+3ef7dac4-3ab6-4e5d-ae07-a5a508c6e035,15-IN-10236,,15,Hawaii,,,HUMANWARE Prodigi,Humanware,Prodigi100,,2495.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+df0fb831-d5bb-4889-a98c-8c5eaaabcb7d,15-IN-10169,,15,Hawaii,,,Humanware Prodigi Connect12,Humanware,Prodigi Connect 12 + Kodak Camera Lens,,2995.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+eda893b1-bc8a-440d-9c19-4e5780a85f3e,15-IN-10198,,15,Hawaii,,,INTEL Reader,Intel,R1IAT11,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+537d46b7-e66c-47f0-a569-68e01946b300,15-IN-10158,,15,Hawaii,,,iPad 2ND GEN 64 WIFI & CELLULAR,Apple,MC775LL,,275.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+eace7868-ae96-4d9d-80f6-9399170451d7,15-IN-10156,,15,Hawaii,,,iPad 2ND GEN 64 WIFI & CELLULAR,Apple,MC775LL,,275.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+8a018621-4c12-43ba-8a10-ae8c86c85724,15-IN-10155,,15,Hawaii,,,iPad 3RD GEN 64GB WIFI & CELLULAR,Apple,MD368LL,,829.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+f847779f-f0ef-4684-ae10-14cd6a3da38d,15-IN-10157,,15,Hawaii,,,iPad 4TH GEN 64GB WIFI & CELLULAR,Apple,MD518LL,,829.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+24a51289-a6d6-4a56-8e12-0e3b4b431893,15-IN-10160,,15,Hawaii,,,iPad 4TH GEN 64GB WIFI & CELLULAR,Apple,MD518LL,,829.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+199eb1b3-186c-4a65-9e2b-dbda22e2e4e0,15-IN-10161,,15,Hawaii,,,iPad AIR 16GB WIFI,Apple,MD785LL,,450.0000,0.0000,1/17/2017 12:00:00 AM,Out,True,1/26/2018 12:00:00 AM,,,Computers and Related,,15-DL-10002,,False
+80a6a946-c016-403d-ae00-8331eeef5d45,15-IN-10162,,15,Hawaii,,,iPad AIR 16GB WIFI,Apple,MD785LL,,450.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+8d1a5bf3-b98c-49ad-b1d8-8fc7c0dff7ce,15-IN-10159,,15,Hawaii,,,iPad AIR 16GB WIFI (donated to Eduardo Imperial),Apple,MD785LL,,450.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+66942cc0-70b7-4368-85cc-6c66a74589e7,15-IN-10012,,15,Hawaii,,,iPad Wireless Switch Interface,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+1e504589-7ffd-4872-80fb-c1089f7265b1,15-IN-10045,,15,Hawaii,,,Jar Popper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+c68430a6-3623-4260-a06e-5260f57d026c,15-IN-10152,,15,Hawaii,,,JBL FLIP Bluetooth Speaker,JBL,Flip 2,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+83c288d7-7248-4662-8a14-f6eda81688b6,15-IN-10068,,15,Hawaii,,,JENDA Lifetime Voice Calendar,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,Out,True,3/5/2018 12:00:00 AM,,,Daily Living,,15-DL-10003,,False
+ba3bfeea-0b6e-478f-9aed-e45769ba5b45,15-IN-10010,,15,Hawaii,,,Jumbo Gumball Switch (Blue),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+59421f2a-23da-444f-917f-d879e2bfa80b,15-IN-10036,,15,Hawaii,,,Key Lever,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+c925f8e2-740e-4c33-84bd-d316018cc8c0,15-IN-10232,,15,Hawaii,,,KEYSUSEE Keyboard,Ablenet,Keys-U-See,,35.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+19b6cf62-7bb9-43d1-8d99-6658fe75e734,15-IN-10115,,15,Hawaii,,,KINSMAN Universal Holders (Large),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+1672ef29-d80d-408b-9d2c-7efa6162e427,15-IN-10116,,15,Hawaii,,,KINSMAN Universal Holders (Small),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+7ced10c3-5d4e-42f3-a3a5-2feac05de4d0,15-IN-10191,,15,Hawaii,,,L-Shaped Magnifiers,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+203328e8-fbbe-4125-91a5-b320a4fd4c57,15-IN-10172,,15,Hawaii,,,Labeled Pill Boxes,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+b77bd9ef-adcd-410a-a10a-320ec409aaed,15-IN-10224,,15,Hawaii,,,Large Numbered Watch,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+bc9b43f5-4169-4b07-b019-ea87b8867475,15-IN-10051,,15,Hawaii,,,Large Print Playing Card,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+f25e0e45-c517-485f-a0e7-adeb870bedae,15-IN-10121,,15,Hawaii,,,Large Rubber Grip Fork,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+5ce11417-df54-4aec-be1c-f408076e80d1,15-IN-10122,,15,Hawaii,,,Large Rubber Grip Spoon,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+4be58b8f-a0c1-45e3-87aa-c60566080eca,15-IN-10212,,15,Hawaii,,,Large-Lined Paper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+7753f673-a2f1-4855-a7af-cad165f3a26a,15-IN-10140,,15,Hawaii,,,LAZEE TEK Mouse Pro,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+306cc7b7-92a0-49dc-9eb0-846e7795524c,15-IN-10033,,15,Hawaii,,,Left-Handed Stylus Holder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+92d71c8d-431b-4bae-b397-1172407ab873,15-IN-10214,,15,Hawaii,,,Lengthwise Reading Magnifier (large),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+1d95c9a7-bd17-4b03-b758-ef3253848980,15-IN-10194,,15,Hawaii,,,Lengthwise Reading Magnifier (small),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+ce73d103-4e67-4f15-9243-8b2688de9b69,15-IN-10069,,15,Hawaii,,,Liftware Anti-tremor Silverware,Liftware,Liftware Steady Starter Kit,,195.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+c85a3512-6b32-427a-b223-f041a73ae4fb,15-IN-10108,,15,Hawaii,,,LIVESCRIBE 3 Smart Pen,Livescribe,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+7deccf0a-a76a-414d-b59c-f79644deffb6,15-IN-10105,,15,Hawaii,,,LIVESCRIBE Echo Smart Pen,Livescribe,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+a75e6a0b-e244-4100-8813-f58613ea8482,15-IN-10106,,15,Hawaii,,,LIVESCRIBE Echo Smart Pen,Livescribe,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+1fb4251a-a3e3-466b-946f-02c6236e906d,15-IN-10109,,15,Hawaii,,,LIVESCRIBE Pulse Smart Pen,Livescribe,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+6e23775a-f384-405f-98f7-7e66bfef793e,15-IN-10107,,15,Hawaii,,,LIVESCRIBE Sky Smart Pen,Livescribe,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+0fdfacfb-a2eb-4d48-b90f-f3005567072e,15-IN-10148,,15,Hawaii,,,LOGITECH USB Headset,Logitech,,,0.0000,0.0000,1/17/2017 12:00:00 AM,Out,True,3/14/2018 12:00:00 AM,,,Computers and Related,,15-DL-10004,,False
+16e06155-11e6-4255-a440-876b8483064c,15-IN-10037,,15,Hawaii,,,Magnifying Fingernail Clipper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+27d2b46a-7756-419e-b174-8d5307021d2d,15-IN-10189,,15,Hawaii,,,Magnifying Glass with Light,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+3808efde-d285-41ca-9867-263c36b11608,15-IN-10046,,15,Hawaii,,,Magnifying Pill Cutter,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+6a5169de-0c03-495a-b80f-9923e78044e2,15-IN-10186,,15,Hawaii,,,MANO Magnifier,Reinecker Reha-technik,Mano (discontinued),,727.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+f900f91e-ce8d-4959-9b57-63335ef96225,15-IN-10135,,15,Hawaii,,,MATTIAS  Programmable Keyboard,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+75394e47-08df-4c26-816b-bfc4e040c412,15-IN-10133,,15,Hawaii,,,MATTIAS Left-Handed Keyboard,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+f1adb947-735c-4750-af64-8296e71ee1ec,15-IN-10211,,15,Hawaii,,,MAXIAIDS Tactile Markers Sample Sheet,Maxiaids,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+170669c3-242c-4955-b985-afc2cde2f5ae,15-IN-10239,,15,Hawaii,,,Meteor Vibrating Watch,Alexandravision Ltd,meteor-bi,,117.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+e67ba46f-56a1-4bbc-a738-3c2264c08079,15-IN-10128,,15,Hawaii,,,MORENCY Keyboard Armrest,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+3677658f-39a2-4174-96ef-4732b6cc3cb5,15-IN-10103,,15,Hawaii,,,MOTIVA FM Transmitter,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+61d1ff6c-7407-432d-ae9b-4c1bc2fbf63f,15-IN-10197,,15,Hawaii,,,Necklace Magnifier,Maxiaids,,,14.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+f7de8c7b-7749-4a9d-ab41-927d42390112,15-IN-10134,,15,Hawaii,,,NOHANDS MOUSE Foot-Controlled Mouse,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+43ea7efb-4d37-4ef2-9212-ddfedf5893ca,15-IN-10047,,15,Hawaii,,,Non-Slip Place Mat,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+b7e2292b-8de0-4e15-958c-1a87eac031c6,15-IN-10147,,15,Hawaii,,,OLYMPUS DM-420 Voice Recorder,Olympus,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+54bf5eb3-fec9-4383-a43b-a683bfc75909,15-IN-10234,,15,Hawaii,,,ONYX CCTV,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+6efeb9ff-6db0-44e9-bab4-de5c30b0c2ea,15-IN-10216,,15,Hawaii,,,OPTELEC Illuminating Magnifier,Optelec,PowerMag+ LED Hand-Held Magnifier,,65.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+6d00bafc-e3d9-43dd-8015-31d61ea17007,15-IN-10208,,15,Hawaii,,,OTTLITE Large Lamp,OTTLITE,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+78b65ea7-d22a-40e1-9320-df25be107f9c,15-IN-10101,,15,Hawaii,,,OVAL WINDOW AUDIO Microloop II Induction Loop,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+dc6a2ccd-3d6f-4147-a0bc-a6c1401a09ff,15-IN-10102,,15,Hawaii,,,OVAL WINDOW AUDIO Wireless Microphone Receiver,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+27de4ed1-3748-4dee-a29e-b09d3817b23c,15-IN-10059,,15,Hawaii,,,PHILIPS Lifeline,Philips,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+23e91916-9d6b-4e9e-ab5c-e9d1735d9a22,15-IN-10187,,15,Hawaii,,,PICO Magnifier,Telesensory,(discontinued),,32.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+9c35cea2-4d55-4d3f-9501-ecc4c425bfe5,15-IN-10150,,15,Hawaii,,,PLANTARONICS USB Headset (Convertible),Plantronics,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+083cdd46-6f95-4df5-b4a1-05e45d6252b3,15-IN-10049,,15,Hawaii,,,Plastic Playing Card Holder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+441f3142-9646-4f26-bca8-5be077c81559,15-IN-10062,,15,Hawaii,,,POWERHOUSE Appliance Modules,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+b7139ade-eae7-480b-87de-87284c6a5366,15-IN-10063,,15,Hawaii,,,POWERHOUSE Lamp Module,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+812ca1a2-e984-4e93-9fd2-29e25df63b6c,15-IN-10064,,15,Hawaii,,,POWERHOUSE Transceiver Module,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+a8d4f71b-f49f-4b2a-a179-dfdfa5817fab,15-IN-10061,,15,Hawaii,,,POWERHOUSE X10 Command Center,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+025b0749-48a1-4973-90fd-0bc64ea2b843,15-IN-10131,,15,Hawaii,,,PRETORIAN J-Pad iPad Joystick,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+ed5ecaa6-a6d7-4bd4-893e-92d238aafbbc,15-IN-10074,,15,Hawaii,,,PT-TOOLS TA-1 Strap-On Phone Amplifier,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+0f6c5e3e-c454-4ac5-b38f-9d15409b1e9a,15-IN-10066,,15,Hawaii,,,RADIOSHACK 6-in-One Remote Control,Radio Shack,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+90fa534b-33f8-4456-be36-7e673dc7df9c,15-IN-10091,,15,Hawaii,,,RADIOSHACK Unidirectional Headset Microphone,Radio Shack,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+32fc57e9-6efe-442d-b8ad-d471f9e28ac1,15-IN-10065,,15,Hawaii,,,RADIOSHACK X10 Command Center,Radio Shack,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+8f556539-de52-4235-ba23-938c0137fd73,15-IN-10206,,15,Hawaii,,,Rectangular Magnifying Sheets,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+477788e9-9cff-4468-8f01-cbdf4631f8f4,15-IN-10233,,15,Hawaii,,,Regular keyboard with Vision Stickers,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+91bf6b30-ac4d-40a2-9c4c-1a63525c6bc4,15-IN-10215,,15,Hawaii,,,REIZEN Braille Labeler,Reizen,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+042cc54f-2b82-4158-86b8-73587dd0c5c4,15-IN-10173,,15,Hawaii,,,REIZEN Talking Label Identifier,Reizen,Talking Label Wand,,88.7400,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+d8614eee-4c01-4405-8330-22994f040e3e,15-IN-10226,,15,Hawaii,,,REIZEN watch,Reizen,Talking Atomic Watch,,39.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+a2582a0b-1a39-4c07-923d-d5c6173ddd76,15-IN-10034,,15,Hawaii,,,Right-Handed Stylus Holder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+d188ad96-345d-44a0-8264-2d1398ebe07b,15-IN-10006,,15,Hawaii,,,RJCOOPER Bluetooth Switch Interface,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+fb267e81-cd13-4354-b3aa-ac45901e8ed6,15-IN-10044,,15,Hawaii,,,Rubber Grip Can Opener,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+56d28e6d-dd24-4f60-93bb-45ed50a40c0f,15-IN-10043,,15,Hawaii,,,Rubber Grip Jar Opener,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+02e45888-aea9-457d-a4f0-34a25e6bcd48,15-IN-10042,,15,Hawaii,,,Rubberized Bath Kit,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+6b5c3cb7-2e66-4cd6-8354-215c63137bf4,15-IN-10040,,15,Hawaii,,,Rubberized Grip Fingernail Clipper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+63ab4f73-8cf7-43af-a187-1396c92c9d5a,15-IN-10041,,15,Hawaii,,,Rubberized Grip Toenail Clipper,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+c79c884e-3890-48ce-81fd-6e9f6474d2d2,15-IN-10205,,15,Hawaii,,,RXOPTICS Hands-Free Lighted Magnifier,RX Optics,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+aa6e632b-c67b-4c0a-b0a7-97b67d0e8a2e,15-IN-10095,,15,Hawaii,,,SENNHEISER Cordless TV Listening System,Sennheiser,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+895f0108-ede0-4943-8b7c-049b05dc8596,15-IN-10183,,15,Hawaii,,,SENSA VIEW Duo Magnifier,HIMS,M430,,695.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+daa10da0-fd9c-49a9-b411-574ca2b1edad,15-IN-10077,,15,Hawaii,,,SERENE Voice Tester,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+adead2e8-230b-42c5-b1d3-61c9eb375844,15-IN-10056,,15,Hawaii,,,Shoehorn,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+0d369838-660f-4333-b7bd-2bbeefa2ce90,15-IN-10145,,15,Hawaii,,,SHURE Microphone,Shure,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Computers and Related,,,,False
+bf53d36c-7acb-4746-b214-f25b07fe55de,15-IN-10096,,15,Hawaii,,,SHURE Wireless Receiver + Transmitter,Shure,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+cc51cce4-3e7f-45f9-9939-336cd69af5db,15-IN-10093,,15,Hawaii,,,SILENTCALL Omni Pager,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+9ba28b27-2027-40ce-a6ad-984bf78ac450,15-IN-10110,,15,Hawaii,,,Slide-A-Round Math Manipulators,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Learning, Cognition and Development",,,,False
+bfc77892-75f4-409b-ac31-3b0dc45a940f,15-IN-10035,,15,Hawaii,,,Slip-On Typing Aid,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+81bf3c4d-63fb-4106-bfb3-69baadde5244,15-IN-10078,,15,Hawaii,,,SONIC ALERT Alarm Clock,Sonic Alert,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+d0fa4f66-8a76-41f4-8885-07aa25ea60e2,15-IN-10098,,15,Hawaii,,,SORENSON VP-100 Videophone,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+5c51708f-430f-447d-8f81-60d72d8a689f,15-IN-10123,,15,Hawaii,,,SpillNot,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+2dc42377-c6dc-4410-bcf4-aaa8fd8ca358,15-IN-10202,,15,Hawaii,,,SPORTIERE Adjustable Magnifying Glasses,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+5fe67eba-76ac-46dd-9cf3-0b6971a283de,15-IN-10126,,15,Hawaii,,,STANDER Car Handybar,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+c01c828c-3974-4fea-a580-2c202a1c6a98,15-IN-10038,,15,Hawaii,,,Suction Brush,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+2b00c383-e632-4db4-8e34-58d07b64c871,15-IN-10058,,15,Hawaii,,,Swedish Sock Aid,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+9e1e454e-2694-450f-9c68-62d973d587cb,15-IN-10009,,15,Hawaii,,,Switch - Grip,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+50cfdd8b-b9bb-4f64-be7f-587f2038bb4a,15-IN-10015,,15,Hawaii,,,Switch - Infrared,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+62fbef4a-4f78-4c40-99fa-6f295265338d,15-IN-10008,,15,Hawaii,,,Switch - Joystick,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+3529552c-481f-43d0-aae4-449d59865d61,15-IN-10013,,15,Hawaii,,,Switch - Treadle,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+77c92c95-6608-4a44-9ea6-b7ed761d7490,15-IN-10228,,15,Hawaii,,,Talking Alarm Clock,LS&S,Talking Penguin Clock,,19.0200,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+cc92b422-dbac-4b7a-bbd7-b69e141097d9,15-IN-10227,,15,Hawaii,,,Talking Calculators,Reizen,8-Digit Talking Calculator,,10.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+de931359-c7c4-4ed6-b473-0d8fa0c9da0a,15-IN-10031,,15,Hawaii,,,TALKING RX Pill Reminder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+0ef1c0e2-c5c5-4331-9d67-18efd0f4133d,15-IN-10001,,15,Hawaii,,,Talking Tom,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+c5bbf9d7-c01e-4e27-9ac1-838f60a0ddf7,15-IN-10168,,15,Hawaii,,,TEKPARTNER Universal Remote Control,TEK Partner,Large Universal Remote Control,,40.3100,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+033d9c9e-4c7f-4384-afc6-09b40a424364,15-IN-10240,test,15,Hawaii,,,Test Hearing Device,Ablenet,MD-TEST,,100.0000,75.0000,1/19/2017 12:00:00 AM,In,True,,,Test Description,Hearing,,,,False
+e9902788-4007-4bfe-9540-814f1bfcfc59,15-IN-10092,,15,Hawaii,,,THOMSON Digital Messaging System,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+8b002bc6-c3f1-491f-afa7-9bcc91c7db16,15-IN-10000,,15,Hawaii,,,TOBII C8,Tobii,C8,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+9cbf6d1d-2cde-40dc-b109-f6d145eb7e3a,15-IN-10144,,15,Hawaii,,,TOBII I-15,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+f29d36c2-ae1d-48ec-9c06-4e511c69aec6,15-IN-10019,,15,Hawaii,,,TOBII Tablet,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+0d1dff7b-2336-48c2-a7e9-b036eee657e5,15-IN-10235,,15,Hawaii,,,TOPAZ CCTV,Freedom Scientific,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+28ab897e-5d4a-4b32-9ccb-c04b448c1a05,15-IN-10139,,15,Hawaii,,,TRAXSYS Joystick,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+cab6d705-c3f0-49b0-bfb2-c114c0b85352,15-IN-10073,,15,Hawaii,,,TURBO EAR Sound Amplifier,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+f8aef4ec-3b2d-498c-a938-2a443564fdeb,15-IN-10023,,15,Hawaii,,,Two-Handed Drinking Cup,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+c7e50482-5b01-4413-a6b7-7c2065a58a10,15-IN-10190,,15,Hawaii,,,ULTRAOPTIX 7X Magnifying Glass,UltraOptix,Pocket LED Lighted Magnifier,,10.9900,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+cf9a4382-045e-42c4-9a84-75b21b841b15,15-IN-10192,,15,Hawaii,,,ULTRAOPTIX Flat Magnifier,UltraOptix,Br Magnifier,,7.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+f6e82d02-8a26-4b02-b0d2-e27cf0670b0b,15-IN-10225,,15,Hawaii,,,VIBRALITE watch,VibraLITE,Vibrating Reminder Watch,,59.9500,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+32e1b9f0-44b5-4f2b-82c1-d2863d658587,15-IN-10199,,15,Hawaii,,,VICTORSTREAM Reader,Humanware,Victor Stream Reader,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+35767733-ac65-4995-bd7e-6de0e4779142,15-IN-10237,,15,Hawaii,,,VISIOBOOK CCTV + Farsight,Baum,VisioBook CCTV + Farsight,,2750.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+5f7ab602-c417-4dc8-bbf0-fbd6d0736363,15-IN-10082,,15,Hawaii,,,VOISTA Voice Amplifier,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+451f531d-36bf-4259-b478-a075ffa7101d,15-IN-10025,,15,Hawaii,,,WANCHIK Left-Handed Writer (arm),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+dafce196-3fb8-4e3c-8e59-d4c29640e087,15-IN-10027,,15,Hawaii,,,WANCHIK Left-Handed Writer (hand),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+d88e5d63-d6a0-491e-9074-f27105ed0740,15-IN-10029,,15,Hawaii,,,WANCHIK Left-Handed Writer (small),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+b0e102e5-2448-4444-ae45-0836ff8e420e,15-IN-10026,,15,Hawaii,,,WANCHIK Right-Handed Writer (arm),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+7c336de0-bfcb-4b0e-82ab-c5e447d9d274,15-IN-10028,,15,Hawaii,,,WANCHIK Right-Handed Writer (small),,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+30e6e5e5-1573-47c8-b165-49c753736784,15-IN-10130,,15,Hawaii,,,Wheelchair Mounts,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,"Mobility, Seating and Positioning",,,,False
+385baf79-cb70-4c85-b7c6-440b7d011fcf,15-IN-10072,,15,Hawaii,,,WILLIAMS SOUND Neckloop,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+78d0d55c-a6e9-4ae1-aace-0016e4c037a5,15-IN-10079,,15,Hawaii,,,WILLIAMS SOUND Pocket Talker,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+66e384ae-36d8-4f1d-b7cd-860e70c9ac9b,15-IN-10048,,15,Hawaii,,,Wooden Playing Card Holder,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+a53a74ef-7cec-4a01-a640-7a5bb6bbc6de,15-IN-10014,,15,Hawaii,,,WORDS + Softkey/Voice Interface,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Speech Communication,,,,False
+d6c1e723-bee8-4c80-819f-0307e7bad08a,15-IN-10030,,15,Hawaii,,,Writing Bird,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Daily Living,,,,False
+bb50f034-9246-4d4e-bde8-cf3c10be93ca,15-IN-10086,,15,Hawaii,,,XL-50 Amplified Phone,,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+87f0e862-2f51-4b5f-9342-af1845b3d088,15-IN-10088,,15,Hawaii,,,ZBAND Silent Alarm Watch,Z-Band,,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Hearing,,,,False
+49775e9a-c360-4b98-9db5-2557b9d7a479,15-IN-10188,,15,Hawaii,,,ZOOMAX Snow 7 HD,Zoomax,Snow 7,,0.0000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False
+43dffb37-8d94-4596-a6c8-faa2a7656845,15-IN-10231,,15,Hawaii,,,ZOOMCAPS Keyboard Vision Stickers,Reizen/ZoomCaps,,,29.9000,0.0000,1/17/2017 12:00:00 AM,In,True,,,,Vision,,,,False

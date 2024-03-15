@@ -17,7 +17,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alabama State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Alabama_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Alabama_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 <!-- Put subtitles in h3 tag -->
 
 <h3>State Financing Activities</h3>
@@ -63,7 +63,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alaska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Alaska_2022.html">View the&nbsp;Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Alaska_2023.html">View the&nbsp;Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -99,7 +99,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 American Samoa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/AmericanSamoa_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/AmericanSamoa_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -133,7 +133,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AZ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arizona State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Arizona_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Arizona_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -167,7 +167,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arkansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Arkansas_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Arkansas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -203,7 +203,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 California State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/California_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/California_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -239,7 +239,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Colorado_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Colorado_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -273,7 +273,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Connecticut State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Connecticut_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Connecticut_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -307,7 +307,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Delaware State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Delaware_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Delaware_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -343,7 +343,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 District of Columbia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/DistrictOfColumbia_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/DistrictOfColumbia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -383,7 +383,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/FL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Florida_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Florida_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -419,7 +419,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Georgia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Georgia_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Georgia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -454,7 +454,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GU%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Guam_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Guam_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -490,7 +490,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/HI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Hawaii State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Hawaii_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Hawaii_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -524,7 +524,7 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Iowa_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Iowa_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -556,7 +556,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ID%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Idaho State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Idaho_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Idaho_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -592,7 +592,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="/assets/state_at_plans_2023/IL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Illinois_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Illinois_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -628,7 +628,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Indiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Indiana_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Indiana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -662,7 +662,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Kansas_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Kansas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -696,7 +696,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kentucky State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Kentucky_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Kentucky_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -734,7 +734,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/LA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Louisiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Louisiana_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Louisiana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -768,7 +768,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ME%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maine State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Maine_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Maine_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -802,7 +802,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maryland State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Maryland_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Maryland_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -838,7 +838,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Massachusetts State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Massachusetts_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Massachusetts_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -872,7 +872,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Michigan State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Michigan_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Michigan_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -920,7 +920,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Minnesota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Minnesota_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Minnesota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -954,7 +954,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Missouri State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Missouri_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Missouri_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -988,7 +988,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Mississippi State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Mississippi_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Mississippi_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1024,7 +1024,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Montana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Montana_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Montana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1058,7 +1058,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nebraska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Nebraska_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Nebraska_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1094,7 +1094,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nevada State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Nevada_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Nevada_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1128,7 +1128,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Hampshire State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NewHampshire_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NewHampshire_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1164,7 +1164,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NJ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Jersey State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NewJersey_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NewJersey_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1198,7 +1198,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NM%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Mexico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NewMexico_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NewMexico_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1236,7 +1236,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New York State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NewYork_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NewYork_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1270,7 +1270,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NorthCarolina_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NorthCarolina_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1306,7 +1306,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ND%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NorthDakota_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NorthDakota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1342,7 +1342,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MP%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Northern Mariana Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/NorthernMarianaIslands_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/NorthernMarianaIslands_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1378,7 +1378,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Ohio State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Ohio_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Ohio_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1412,7 +1412,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oklahoma State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Oklahoma_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Oklahoma_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1450,7 +1450,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="/assets/state_at_plans_2023/OR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oregon State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Oregon_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Oregon_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1484,7 +1484,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Pennsylvania State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Pennsylvania_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Pennsylvania_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1526,7 +1526,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Puerto Rico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/PuertoRico_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/PuertoRico_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1562,7 +1562,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/RI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/RhodeIsland_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/RhodeIsland_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1596,7 +1596,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/SouthCarolina_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/SouthCarolina_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1632,7 +1632,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/SouthDakota_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/SouthDakota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1666,7 +1666,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Tennessee State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Tennessee_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Tennessee_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1700,7 +1700,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TX%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Texas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Texas_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Texas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1734,7 +1734,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/UT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Utah State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Utah_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Utah_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1771,7 +1771,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 U.S. Virgin Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/U.S.VirginIslands_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/U.S.VirginIslands_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1805,7 +1805,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Vermont State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Vermont_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Vermont_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1839,7 +1839,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Virginia_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Virginia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1873,7 +1873,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Washington_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Washington_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1906,7 +1906,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 West Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/WestVirginia_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/WestVirginia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1940,7 +1940,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wisconsin State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Wisconsin_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Wisconsin_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 <h3>State Financing Activities</h3>
 
@@ -1976,7 +1976,7 @@ WEST VIRGINIA</div>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-<p><a href="apr_reports22/Wyoming_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+<p><a href="apr_reports23/Wyoming_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 View the FY 2022-2023 Annual Report.
 
