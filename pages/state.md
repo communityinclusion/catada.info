@@ -159,7 +159,7 @@ permalink: state.html
 <div id="Arkansas">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>ARKANSAS</h2>
 
-<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
+<p><img alt="program logo" src="/assets/ICAN\\\\\\\\\\\\\\\\_logo\\\\\\\\\\\\\\\\_.png" width="170" class="img-fluid"/></p>
 
 <p><strong>Lead Agency:</strong> Department of Career Education, Division of Arkansas Rehabilitation Services (ARS)</p>
 
@@ -866,7 +866,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><img alt="program logo" src="/assets/michigan.gif" style="width: 184px; height: 106px; border-width: 1px; border-style: solid;" /></p>
 
-<p><strong>Lead Agency:</strong> Department of Human Resources-Michigan Rehabilitation Services</p>
+<p><strong>Lead Agency:</strong> Michigan Department of Labor and Economic Opportunity (LEO) - Michigan Rehabilitation Services (MRS)</p>
 
 <p><strong>Program Title:</strong> <a href="http://www.copower.org/assistive-tech">Michigan Assistive Technology Program (MATP)</a></p>
 
@@ -876,23 +876,37 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <h3>State Financing Activities</h3>
 
-<p>Michigan's AT Loan Fund provides low-interest loans to people with disabilities so they can purchase AT. This program is administered by UCP Michigan and supported by the AT Program. The Michigan Employment Loan Fund, also operated by UCP Michigan and partially supported by the AT Program: <a href="http://www.michiganloanfunds.org/">http://www.michiganloanfunds.org/atlf/</a>.</p>
+<p>MATP partners with funders to provide assistive technology to reduce social isolation and to access healthcare. Types of devices provided have included tablets with accessibility features, smart speakers, smart screens, and healthcare related assistive technology including talking blood pressure monitors. Additional options for healthcare related AT include talking glucometers, talking pulse
+oximeters, and talking thermometers. Funding sources for the assistive technology have included Michigan Developmental Disabilities Council grant programs, No Wrong Door funding from Michigan Aging and Adult Services Administration, private donors and private foundations.
+</p>
 
 <h3>Device Reutilization</h3>
 
-<p>The Michigan AT Program provides the AT Xchange (ATX) for individuals with an AT device wishing to either sell or give it away. The ATX is a website ad service that connects buyers and sellers of devices, and is located at: <a href="http://www.atxchange.org">http://www.atxchange.org</a>.</p>
+<p>MATP strategically provides Open Ended Loans of devices to decrease social isolation and reduce gaps in access to the internet and services. MATP partners with Michigan Rehabilitation Services, the Bureau of Services for Blind Persons, Michigan Developmental Disabilities Council, and Wayne State University’s Developmental Disabilities Institute to identify people with disabilities who need access to AT to reduce social isolation and access information and supports. People with disabilities who participate in the open ended loans do not have other ways of obtaining AT devices. Most open-ended loan devices are tablets or smart speakers/screens for accessing the internet/connecting to friends and family and information and supports. Other open ended loan items have included robotic pets. When people need access to the internet to use their open-ended loan devices, MATP staff connect them to the Emergency Broadband Benefit program and other internet options for people with disabilities and people with low incomes. Devices provided through open ended loans are returned if/when the person no longer needs the devices.</p>
 
 <h3>Device Loan</h3>
 
-<p>The Michigan AT Program provides an opportunity for people to borrow a device on a short-term loan following a device demonstration for purpose of deciding if the device will help them or not.</p>
+<p>Michigan Assistive Technology Program’s (MATP) short term loan program allows a person to borrow equipment, free of charge, from MATP’s inventory. Device loans assist in decision making, serve as a loaner while waiting for funding for a device or for a device repair, or as an accommodation for a short period, or for professional development or to conduct a training for a professional.
+
+The MATP device loan library has hundreds of items available to borrow. The MATP website will be fully updated with the lending library inventory available for people to browse by December 2022. MATP specializes in various AT including daily living, outdoor recreation, gaming, crafting, vision, mental health, parenting, youth, and aging. MATP is a program by people with disabilities, for people with disabilities and their allies. MATP serves underserved communities and addresses the disparities of access to assistive technology in communities of color. MATP serves across the lifespan and in all areas of life, focusing on community living.
+
+</p>
 
 <h3>Device Demonstration</h3>
 
-<p>Michigan works with other organizations around the state to provide demonstrations of devices. Devices are organized into kits which include AT devices for community living called "small changes, Big Differences," AT for Safety and Emergencies, Low Vision and Hard of Hearing kits and kits of devices &nbsp;people who are neurodiverse. People can learn about demonstrations and locations <a href="http://www.copower.org/assistive-tech/device-demonstrations-loan">program's web site</a>.</p>
+<p>MATP provides device demonstrations free of charge. Demonstrations may include the person with a disability along with family members, and professionals including employers/businesses. People with disabilities attending demonstrations will also be given information about how to contact funding sources, vendors, repair services or other services. Device demonstrations may take place at the person’s home or work, in the community, or virtually. The MATP device demonstration library has hundreds of items available to try. MATP specializes in various AT including daily living, outdoor recreation, gaming, crafting, vision, mental health, parenting, youth, and aging. MATP is a program by people with disabilities, for people with disabilities and their allies. MATP serves underserved communities and addresses the disparities of access to assistive technology in communities of color. MATP serves across the lifespan and in all areas of life, focusing on community living. People with disabilities and others can learn about device demonstrations through MATP directly through newsletters, trainings, social media, and blogs or through service and partner organizations that make referrals.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>Michigan's <a href="https://miassisttech.org/">program</a> maintains <a href="http://www.copower.org/assistive-tech">a website</a> that includes an AT Directory and <a href="https://miassisttech.org/">a blog</a>. The program has extensive partnerships for coordination and collaboration on statewide issues. In partnership with the Disability Network Michigan, Michigan also provides local information and assistance. The program also presents at conferences, provides webinars and materials for publications and training about AT.</p>
+<p>MATP offers training and webinars through an accessible platform and has a number of recorded sessions available for review. MATP’s trainings are fully accessible including ASL interpretation and CART as well as visual descriptions of slides and materials and fully accessible handouts. Strategic topic areas include an introduction to AT and overview of the MATP program; AT to reduce social isolation; AT for parenting; AT for low vision and blindness; AT for neurodiversity; AT for gaming; AT for outdoor recreation including gardening, camping, e-bikes, and fishing; AT for crafting; and AT for daily living/transition to the community.
+
+MATP has been working with a coalition of organizations and state agencies around long-term care in community settings for people with disabilities and older adults. As a part of this area, MATP has supported Area Agencies on Aging, Centers for Independent Living, and nursing facilities to provide AT to reduce social isolation to people in transition. Additionally, MATP provides technical assistance to programs and services working to support people at risk of entering nursing facilities in groups like adult day programs, senior centers, Ingham Senior Technology Access and other community-based collaboratives to increase access to AT for people with disabilities and older adults. Finally, MATP is working to develop a partnership for on-going support and technical assistance for youth with disabilities transitioning in the foster care system.
+
+MATP participates in conferences, fairs, and exhibits at various locations throughout the state. These are selected to fill in gaps where assistive technology information may not otherwise be present. MATP provides information on AT on social media and other platforms that reaches thousands of people. Topics include information on transportation access, AT for education, AT for recreation, AT for community living, text access, web access, employment, AT innovations, and dozens more topics important to people with disabilities and AT.
+
+MATP provides email, web-based, and toll-free phone information and assistance service. Calls, emails, and other assistance requests are either answered directly or forwarded to the appropriate MATP staff member who is familiar with a region of the state or the specific requested information.
+
+</p>
 </div>
 
 <div id="Minnesota">
@@ -1958,10 +1972,15 @@ WEST VIRGINIA</div>
 <p><strong>Lead Agency:</strong> Wyoming Institute for Disabilities (WIND)</p>
 
 <p><strong>Program Title:</strong> <a href="http://www.uwyo.edu/wind/watr/">Wyoming Assistive Technology Resources (WATR)</a></p>
+<p><a href="/assets/2023/watr_report_2022.pdf">View the FY 2022-2023 Annual Report</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports22/Wyoming_2022.html">View the Annual Progress Report data for FY2022.</a></p>
+
+View the FY 2022-2023 Annual Report.
+
+
 
 <h3>State Financing Activities</h3>
 
@@ -1969,7 +1988,7 @@ WEST VIRGINIA</div>
 
 <h3>Device Reutilization</h3>
 
-<p>WATR’s reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
+<p>WATR's reuse program provides networking opportunities for individuals to exchange, sell, and recycle lightly-used assistive technology throughout the state of Wyoming. All sale profits allow WATR to buy, update, and maintain new devices and technology. WATR coordinates with other states to offer the sale, purchase, and donation of lightly-used assistive technology through a collaborative website AT4ALL: <a href="https://wy.at4all.com/">www.wy.at4all.com</a></p>
 
 <h3>Device Loan</h3>
 
@@ -1977,11 +1996,11 @@ WEST VIRGINIA</div>
 
 <h3>Device Demonstration</h3>
 
-<p>WATR offers device demonstrations during scheduled Open Lab hours at the WATR program office on the University of Wyoming campus in Laramie, by appointment at Casper College as part of a collaboration between WATR and the college occupational therapy education program, and by appointment on site.&nbsp; WATR does not charge for device demonstrations except when they are connected to assistive technology assessments.&nbsp;</p>
+<p>WATR offers free assistive technology device demonstrations, designed to meet the specific needs of an individual. These demonstrations can be held virtually via Zoom or in-person in the Laramie lab, or by appointment at Casper College as part of a collaboration between WATR and the college occupational therapy education program. WATR does not charge for device demonstrations except when they are connected to requested assistive technology fee-based assessments.&nbsp;</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>WATR provides training and technical assistance, public awareness, and information and assistance about assistive technology devices and services. WATR offers assistive technology informational brochures and posters; a website; a monthly electronic newsletter, <em>DispATch</em>; <em>Stories of Success</em>, our annual report; and Wyoming’s only assistive technology magazine <em>WATR Waves</em>. In addition, WATR produced a video series about transitions and our AT Act program; these are available on the WATR website.&nbsp; WATR conducts UW ECHO in AT, a novel approach to building capacity in assistive technology that is a lifelong learning and guided practice model with hub and spoke knowledge sharing networks. Also offered are online assistive technology distance learning courses through the University of Wyoming Outreach School.</p>
+<p>WATR provides training and technical assistance, public awareness, and information and assistance about assistive technology devices and services. WATR offers assistive technology informational brochures and posters; a website; and a monthly electronic newsletter, <em>dispATch</em>. In addition, WATR produced video resources about connecting older adults with disabilities through technology to remote social services, healthcare services, and to help them combat social isolation; these are available on the WATR website.  WATR conducts bi-weekly UW ECHO in AT trainings, a novel approach to building capacity in assistive technology that is a lifelong learning and guided practice model with hub and spoke knowledge sharing networks. Also offered are online assistive technology distance learning courses through the University of Wyoming Outreach School.</p>
 </div>
 </div>
 
