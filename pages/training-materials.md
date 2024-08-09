@@ -94,6 +94,9 @@ permalink: /training-materials/
 			<ul class="list-group">
 
 				
+				<li class="list-group-item"><a href="/assets/2024/Transcript-for-the-State-Plan-for-AT.docx"><em
+					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
+					<li class="list-group-item"><a href="/assets/2024/2024-State-Plan-and-APR-data-entry-webinar-PPT.pptx"><i class="bi bi-file-earmark-ppt"></i> Presentation for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
 				<li class="list-group-item"><script src="https://fast.wistia.com/embed/medias/8wz8xb0vxq.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_8wz8xb0vxq popover=true popoverContent=link videoFoam=false" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><em
 					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> Input from AT Act Grantees on Potential Changes to AT Data Collection Instruments - APR and State Plan for AT - September 28, 2023</a></span></li>
 				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=HjvbtmvJnL0#t=5m25s"><em
@@ -118,8 +121,7 @@ permalink: /training-materials/
 				<ul>
 				<p><br></p>
 					<h2 class="block-heading"><span>Conference Materials</span></h2>
-					<p><a href="/assets/files/Anecdotes%20Slides.pptx"><i class="fas fa-file-powerpoint"
-								aria-hidden="true">&nbsp;</i>PowerPoint slides on how to create a quality
+					<p><a href="/assets/files/Anecdotes%20Slides.pptx"><i class="bi bi-file-earmark-ppt"></i>PowerPoint slides on how to create a quality
 							anecdote.</a>&nbsp;<em>Developed by PIAT to help explain the critical component of a quality
 							anecdote, these slides include a quiz format that provides examples of stories with good
 							content and narratives that are not complete or quality anecdotes. Modify these slides to
