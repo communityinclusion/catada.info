@@ -1813,7 +1813,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <h3>Device Reutilization</h3>
 
-<p>VATP partners with other New England states to operate http://<a href="http://www.GetATStuff.com">getATstuff.com</a>, a Web-based AT exchange that connects people seeking AT with those who have AT that is no longer needed. The program is promoted to disability organizations and other agencies. A toll-free number serves those who lack Internet access. VATP also has a similar program, http://<a href="http://vermont.atschoolswap.com/">Vermont.ATschoolswap.com</a>, for Vermont schools, which includes the University of Vermont I-Team. Additionally, VATP, Vermont Family Network, and the Department of Vermont Health Access are working with equipment vendors to retrieve and reuse Medicaid-funded equipment.</p>
+<p>VATP uses <a href="https://vt.at4all.com/">vt.at4all.com </a>, a Web-based AT exchange that connects people seeking AT with those who have AT that is no longer needed. The program is promoted to disability organizations and other agencies. A toll-free number serves those who lack Internet access. Additionally, VATP can refer Vermonters to the closest location of independent, volunteer run reuse distribution sites throughout the state.</p>
 
 <h3>Device Loan</h3>
 
