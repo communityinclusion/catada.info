@@ -47,7 +47,7 @@ jQuery(document).ready(function() {
     var visualization;
     function drawChart1() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=841955333&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1586133310&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
         query.send(handleQueryResponse1);
     }
@@ -70,7 +70,7 @@ jQuery(document).ready(function() {
     }
     function drawChart2() {
       var visualization;
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=293649242&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1459009669&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
         query.send(handleQueryResponse2);
     }
@@ -94,7 +94,7 @@ jQuery(document).ready(function() {
     }
     function drawChart3() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1512482700&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=409055823&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H label A "State", B "Cash Loan", C "Other Provider", D "Other Save", E "Exchange", F "Refurbish", G "Device Loan Activities", H "Device Demo Activities"');
         query.send(handleQueryResponse3);
     }
@@ -118,7 +118,7 @@ jQuery(document).ready(function() {
     }
     function drawChart4() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=796274859&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=508387747&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H, I label A "data field type", B "check mark or NA", C "check mark or NA", D "check mark or NA", E "check mark or NA", F "XX.XX percent", G "XX.XX percent", H "dollar amount", I "dollar amount"');
         query.send(handleQueryResponse4);
     }
@@ -141,7 +141,7 @@ jQuery(document).ready(function() {
     }
     function drawChart5() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&headers=2&gid=1476775117&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&headers=2&gid=48360322&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A " ", B "Telecom EDP", C "DB Telecom EDP", D "Last Resort Fund", E "Home Mod Program", F "Other w Description", G "Cooperative Buying Program", H "AT Leasing Program", I "AT Fabrication Program", J "Other w Description" ');
         query.send(handleQueryResponse5);
     }
@@ -165,7 +165,7 @@ jQuery(document).ready(function() {
 
     function drawChart6() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=174046287&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1645139666&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E label A "State", B "Consumer to Consumer", C "AT Program Involved", D "Reassign Ownership", E "Open-ended Loan"');
         query.send(handleQueryResponse6);
     }
@@ -189,7 +189,7 @@ jQuery(document).ready(function() {
 
     function drawChart7() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1608376186&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1164695119&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C label A "State", B "Drop/Ship", C "Pick-up/deliver"');
         query.send(handleQueryResponse7);
     }
@@ -213,7 +213,7 @@ jQuery(document).ready(function() {
 
     function drawChart8() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=245703250&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=952307452&usp=sharing');
         query.setQuery('SELECT A, B, C, D label A "State", B "State Level", C "State Leadership", D "Transition"');
         query.send(handleQueryResponse8);
     }
@@ -237,7 +237,7 @@ jQuery(document).ready(function() {
 
     function drawChart9() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=414645865&headers=1&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1055240753&headers=1&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H, I, J label A "State", B "Home", C "Cash Loan", D "State Financing Activity-Provide", E "State Financing Activity-Savings", F "Exchange", G "Refurbish", H "Device Loan", I "Demo", J "Training"');
         query.send(handleQueryResponse9);
     }
@@ -269,7 +269,7 @@ jQuery(document).ready(function() {
 
     function drawChart10() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1968385764&headers=1&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=969271474&headers=1&usp=sharing');
         query.setQuery('SELECT A, B, C label A "State", B "Implementing State AT Program", C "Lead Agency"');
         query.send(handleQueryResponse10);
     }
@@ -291,7 +291,7 @@ jQuery(document).ready(function() {
 
     function drawChart11() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=1179168944&headers=2&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=839138705&headers=2&usp=sharing');
         query.setQuery('SELECT A, B, C, D, E, F, G, H label A " ", B "State", C "Other", D "Both", E "Central", F "Regional", G "Both", H " "');
         query.send(handleQueryResponse11);
     }
@@ -348,7 +348,7 @@ jQuery(document).ready(function() {
     )
     function drawChart12() {
 
-        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1YZJ-ki12fU9nRZZ0S4Nclnhks92uYGuifS3nSBXmOmQ/gviz/tq?output=html&gid=693297057&headers=1&usp=sharing');
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=1012348465&headers=1&usp=sharing');
         query.setQuery('SELECT A, B, C label A "State", B "Required Agency Members", C "Consumer Majority"');
         query.send(handleQueryResponse12);
     }
