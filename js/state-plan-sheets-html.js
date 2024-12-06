@@ -230,7 +230,7 @@ jQuery(document).ready(function() {
             legend: { position: 'top', alignment: 'start' }
 
         });
-        var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="2" scope="colgroup">Percentage of Total Award</th><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">Transition</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State Level</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State Leadership</th></tr>';
+        var tablehead ='<tr><th class="google-visualization-table-th gradient unsorted redHed" rowspan="2" scope="col">State</th><th class="google-visualization-table-th gradient unsorted tblhed1" colspan="3" scope="colgroup">Percentage of Total Award</th></tr><tr><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State Level</th><th class="google-visualization-table-th gradient unsorted row2even" scope="col">State Leadership</th><th class="google-visualization-table-th gradient unsorted row2even" rowspan="2" scope="col">Transition</th></tr>';
         var insert = jQuery('#table08').find('thead').prepend(tablehead);
         var capon = jQuery('#table08').find('table').prepend('<caption>Closeout expenditures<p class="notesLink"><a href="#table08legend"><i class="fas fa-file-alt"></i> Table notes</a></p></caption><col><colgroup span="3"></colgroup>');
     }
@@ -270,7 +270,7 @@ jQuery(document).ready(function() {
     function drawChart10() {
 
         var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=969271474&headers=1&usp=sharing');
-        query.setQuery('SELECT A, B, C label A "State", B "Implementing State AT Program", C "Lead Agency"');
+        query.setQuery('SELECT A, B, C label A "State", B "Agency Implementing State AT Program", C "Lead Agency (if different)"');
         query.send(handleQueryResponse10);
     }
 
