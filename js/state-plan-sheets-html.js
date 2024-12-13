@@ -270,7 +270,7 @@ jQuery(document).ready(function() {
     function drawChart10() {
 
         var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1id5800hLqlCZbYoSWr0qIpwh-KCUkRMT3PoKwggqCo4/gviz/tq?output=html&gid=969271474&headers=1&usp=sharing');
-        query.setQuery('SELECT A, B, C label A "State", B "Agency Implementing State AT Program", C "Lead Agency (if different)"');
+        query.setQuery('SELECT A, B, C label A "State", B "Lead Agency", C "Agency Implementing (if different)"');
         query.send(handleQueryResponse10);
     }
 
