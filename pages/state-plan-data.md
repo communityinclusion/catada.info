@@ -172,7 +172,7 @@ permalink: /state-plan-data/
              <p><strong>Consumer Majority</strong>: The AT Act requires that a majority, not less than 51 percent, of the members of the advisory council be individuals with disabilities that use assistive technology or their family members or guardians.</p>
               <p><strong>Yes</strong> = meets requirement<br />
              <strong> No</strong> = does not meet requirement<br />
-						 Advisory Council membership across AT Programs ranges between 6 and 29 members. The median is 16 and the mean is 15 members. </p>					
+						 Advisory Council membership across AT Programs ranges between 8 and 41 members. The median is 21 and the mean is 22 members. </p>					
                     <p align="center"><a id="table11_back" class="tableChanger" href="/state-plan-data.html#table11"><i class="fas fa-angle-double-left"></i> Previous table</a>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="#tableDiv">To top</a>&nbsp;&nbsp;&nbsp;</p>
             </div><hr />
 				</div>
