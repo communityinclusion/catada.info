@@ -15,7 +15,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://www.rehab.alabama.gov/services/vr/star">STAR: Alabama's Assistive Technology Resource</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alabama State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/AL%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Alabama State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Alabama_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 <!-- Put subtitles in h3 tag -->
@@ -61,7 +61,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atlaak.org">Alaska Statewide AT Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alaska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/AK%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Alaska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Alaska_2023.html">View the&nbsp;Annual Progress Report data for FY2023.</a></p>
 
@@ -97,7 +97,7 @@ permalink: state.html
 
 <p><strong>Program Title: </strong> American Samoa Assistive Technology Training Services</p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 American Samoa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/AS%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 American Samoa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/AmericanSamoa_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -131,7 +131,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://aztap.org">Arizona Technology Access Program (AzTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AZ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arizona State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/AZ%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Arizona State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Arizona_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -165,7 +165,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.ar-ican.org/">Increasing Capabilities Access Network (ICAN)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Arkansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/AR%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Arkansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Arkansas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -201,7 +201,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://abilitytools.org/">Ability Tools</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 California State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/CA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 California State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/California_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -237,7 +237,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://www1.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/community-engagement/colorado-assistive-technology-act-program">Assistive Technology Program of Colorado</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/CO%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Colorado State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Colorado_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -271,7 +271,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://cttechact.com/#sthash.P7IkM21Y.dpbs">Connecticut Tech Act Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/CT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Connecticut State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/CT%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Connecticut State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Connecticut_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -305,7 +305,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.dati.org/">Delaware Assistive Technology Initiative (DATI)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Delaware State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/DE%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Delaware State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Delaware_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -341,7 +341,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atpdc.org/">DC Assistive Technology Program (DCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/DC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 District of Columbia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/DC%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 District of Columbia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/DistrictOfColumbia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -381,7 +381,7 @@ permalink: state.html
 
 </a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/FL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/FL%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Florida State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Florida_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -417,7 +417,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="https://gatfl.gatech.edu/index.php">Tools For Life (TFL)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Georgia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/GA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Georgia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Georgia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -452,7 +452,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.gsatcedders.org/">Guam System for Assistive Technology (GSAT)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/GU%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/GU%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Guam State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Guam_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -488,7 +488,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.atrc.org/">Assistive Technology Resource Centers of Hawaii (ATRC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/HI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Hawaii State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/HI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Hawaii State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Hawaii_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -522,7 +522,7 @@ permalink: state.html
 
 <p><strong>Program Title:</strong> <a href="http://www.easterseals.com/ia/our-programs/assistive-technology-center/">Easterseals Iowa Assistive Technology Program (ESI ATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/IA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Iowa State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Iowa_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -554,7 +554,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="https://idahoat.org/">Idaho Assistive Technology Project (IATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ID%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Idaho State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/ID%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Idaho State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Idaho_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -590,7 +590,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://www.iltech.org/">Illinois Assistive Technology Program (IATP)</a></p>
 
-<p><a href="/assets/state_at_plans_2023/IL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="/assets/state_at_plans_2024/IL%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Illinois State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Illinois_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -626,7 +626,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://www.eastersealstech.com/">Indiana Assistive Technology Act (INDATA) Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/IN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Indiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/IN%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Indiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Indiana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -660,7 +660,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="https://atk.ku.edu/">Assistive Technology for Kansans (ATK)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/KS%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Kansas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Kansas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -694,7 +694,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://www.katsnet.org/">Kentucky Assistive Technology Service (KATS) Network</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/KY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Kentucky State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/KY%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Kentucky State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Kentucky_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -732,7 +732,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://latan.org/">Louisiana Assistive Technology Access Network (LATAN)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/LA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Louisiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/LA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Louisiana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Louisiana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -766,7 +766,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://mainecite.org/">Maine CITE Program (Maine Consumer Information and Technology Training Exchange)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ME%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maine State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/ME%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Maine State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Maine_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -800,7 +800,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://mdod.maryland.gov/mdtap/Pages/MDTAP-Home.aspx">Maryland Assistive Technology Program (MDTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Maryland State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MD%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Maryland State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Maryland_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -836,7 +836,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://www.massmatch.org/">MassMATCH (Massachusetts Maximizing Assistive Technology in Consumer's Hands)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Massachusetts State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Massachusetts State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Massachusetts_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -870,7 +870,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Program Title:</strong> <a href="http://www.copower.org/assistive-tech">Michigan Assistive Technology Program (MATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Michigan State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Michigan State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Michigan_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -918,7 +918,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://mn.gov/admin/star/">Minnesota STAR Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Minnesota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MN%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Minnesota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Minnesota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -952,7 +952,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://at.mo.gov/">Missouri Assistive Technology (MoAT)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MO%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Missouri State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MO%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Missouri State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Missouri_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -986,7 +986,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://www.msprojectstart.org/">Project START (Success through Assistive RehabilitationTechnology)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MS%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Mississippi State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MS%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Mississippi State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Mississippi_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1022,7 +1022,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://montech.ruralinstitute.umt.edu/programs/montana-assistive-technology-program/">Montana Assistive Technology Program (MATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Montana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MT%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Montana State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Montana_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1056,7 +1056,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://www.atp.ne.gov/">Nebraska Assistive Technology Partnership (ATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NE%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nebraska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NE%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Nebraska State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Nebraska_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1092,7 +1092,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://adsd.nv.gov/Programs/Physical/ATforIL/Nevada_Assistive_Technoloyg_Collaborative_(NATC)/Nevada_Assistive_Technology_Collaborative_(NATC)">Nevada Assistive Technology Collaborative (NATC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Nevada State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NV%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Nevada State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Nevada_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1126,7 +1126,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://iod.unh.edu/assistive-technology-new-hampshire-atinnh">Assistive Technology in New Hampshire - ATinNH</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Hampshire State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NH%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 New Hampshire State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NewHampshire_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1162,7 +1162,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://at4nj.org">Richard West Assistive Technology Advocacy Center (ATAC)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NJ%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Jersey State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NJ%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 New Jersey State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NewJersey_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1196,7 +1196,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://www.tap.gcd.state.nm.us/">New Mexico Technology Assistance Program (NMTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NM%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New Mexico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NM%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 New Mexico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NewMexico_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1234,7 +1234,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://www.justicecenter.ny.gov/services-supports/assistive-technology-traid">New York State TRAID Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 New York State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NY%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 New York State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NewYork_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1268,7 +1268,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/north-carolina-assistive-technology-program">North Carolina Assistive Technology Program (NCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/NC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/NC%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 North Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NorthCarolina_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1304,7 +1304,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://ndassistive.org/">ND Assistive</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/ND%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 North Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/ND%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 North Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NorthDakota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1340,7 +1340,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://cnmicdd.gov.mp/assistive-tech/">CNMI Assistive Technology Program</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/MP%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Northern Mariana Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MP%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Northern Mariana Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/NorthernMarianaIslands_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1376,7 +1376,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://atohio.engineering.osu.edu/">Assistive Technology of Ohio</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OH%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Ohio State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/OH%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Ohio State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Ohio_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1410,7 +1410,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://www.ok.gov/abletech/">Oklahoma ABLE Tech</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/OK%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oklahoma State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/OK%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Oklahoma State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Oklahoma_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1448,7 +1448,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="http://www.accesstechnologiesinc.org/">Oregon Statewide Assistive Technology Program</a></p>
 
-<p><a href="/assets/state_at_plans_2023/OR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Oregon State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="/assets/state_at_plans_2024/OR%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Oregon State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Oregon_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1482,7 +1482,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <p><strong>Program Title:</strong> <a href="https://techowlpa.org">TechOWL – Technology for Our Whole Lives </a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Pennsylvania State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/PA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Pennsylvania State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Pennsylvania_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1524,7 +1524,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://pratp.upr.edu/">Puerto Rico Assistive Technology Program (PRATP®)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/PR%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Puerto Rico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/PR%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Puerto Rico State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/PuertoRico_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1560,7 +1560,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.atap.ri.gov/">Assistive Technology Access Partnership (ATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/RI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/RI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Rhode Island State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/RhodeIsland_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1594,7 +1594,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://scatp.med.sc.edu/">South Carolina Assistive Technology Program (SCATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SC%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/SC%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 South Carolina State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/SouthCarolina_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1630,7 +1630,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="https://dakotalink.net">DakotaLink, South Dakota Assistive Technology Project</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/SD%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 South Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/SD%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 South Dakota State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/SouthDakota_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1664,7 +1664,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.tn.gov/humanservices/topic/ttap">Tennessee Technology Access Program (TTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TN%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Tennessee State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/TN%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Tennessee State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Tennessee_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1698,7 +1698,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://tatp.edb.utexas.edu/">Texas Technology Access Program (TTAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/TX%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Texas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/TX%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Texas State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Texas_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1732,7 +1732,7 @@ TechOWL developed CreATe Together, a project in which we match AT Makers with AT
 
 <p><strong>Program Title:</strong> <a href="http://www.uatpat.org/">Utah Assistive Technology Program (UATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/UT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Utah State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/UT%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Utah State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Utah_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1769,7 +1769,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://viucedd.wix.com/home5">Virgin Islands Technology-Related Assistance for Individuals with Disabilities (VITRAID)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 U.S. Virgin Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/VI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 U.S. Virgin Islands State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/U.S.VirginIslands_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1803,7 +1803,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://www.atp.vt.gov/">Vermont Assistive Technology Program (VATP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VT%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Vermont State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/VT%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Vermont State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Vermont_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1837,7 +1837,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://www.vats.org/">Virginia Assistive Technology System (VATS)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/VA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/VA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Virginia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1871,7 +1871,7 @@ UATP provides AT classifieds utilizing NATADS AT Classifieds platform to individ
 
 <p><strong>Program Title:</strong> <a href="http://watap.org/">Washington Assistive Technology Act Program (WATAP)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WA%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/WA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Washington State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Washington_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1904,7 +1904,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Program Title:</strong> <a href="http://wvats.cedwvu.org/">West Virginia Assistive Technology System (WVATS)</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WV%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 West Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/WV%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 West Virginia State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/WestVirginia_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1938,7 +1938,7 @@ WEST VIRGINIA</div>
 
 <p><strong>Program Title:</strong> <a href="https://www.dhs.wisconsin.gov/wistech/index.htm">WisTech&nbsp;</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WI%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wisconsin State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/WI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Wisconsin State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Wisconsin_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
@@ -1974,7 +1974,7 @@ WEST VIRGINIA</div>
 <p><strong>Program Title:</strong> <a href="http://www.uwyo.edu/wind/watr/">Wyoming Assistive Technology Resources (WATR)</a></p>
 <p><a href="/assets/2023/watr_report_2022.pdf">View the FY 2022-2023 Annual Report</a></p>
 
-<p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/WY%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
+<p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/WY%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Wyoming State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
 <p><a href="apr_reports23/Wyoming_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
