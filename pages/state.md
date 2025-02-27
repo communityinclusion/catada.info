@@ -17,7 +17,6 @@ permalink: state.html
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2023/AL%20State%20Plan%20FY2021-2023.pdf">Download the FY2021-2023 Alabama State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
-
 <p><a href="apr_reports23/Alabama_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 <!-- Put subtitles in h3 tag -->
 
