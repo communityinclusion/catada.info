@@ -139,7 +139,10 @@ permalink: /state-plan-data/
             </div><hr />
         </div>
         <div id="table09container" class="displayToggle">
-               <div id="table09">
+               <div id="table09"><p><strong>The Activity web links table is available in <a href="/assets/CATADA table_2025_R.pdf">this linked PDF document</a>.</strong></p>
+                <p>The State Plan for Assistive Technology provides a description of how each state/territory will implement the state level and state leadership activities as required by Section 4 of the AT Act and serves as the application for Section 4 State AT Program annual funding.</p>
+                <p>The document linked above provides links to web pages for specific AT activities for each state AT Program.</p>
+
                </div>
                <div id="table09legend" class="pt-3">
                   <p><strong>N/A</strong>:  Indicates that the activity is conducted, but there is no website available.</p>
