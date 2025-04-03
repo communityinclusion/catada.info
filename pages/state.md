@@ -264,7 +264,8 @@ permalink: state.html
 <div id="Connecticut">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>CONNECTICUT</h2>
 
-<p><img alt="program logo" src="/assets/connecticut.gif" style="width: 113px; height: 45px;" /></p>
+
+<p><img alt="program logo" src="/assets/CTTAP_Logos_Color.jpg" style="width: 113px;" /></p>
 
 <p><strong>Lead Agency:</strong> Connecticut Bureau of Rehabilitation Services</p>
 
