@@ -264,7 +264,6 @@ permalink: state.html
 <div id="Connecticut">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>CONNECTICUT</h2>
 
-
 <p><img alt="program logo" src="/assets/CTTAP_Logos_Color.jpg" style="width: 113px;" /></p>
 
 <p><strong>Lead Agency:</strong> Connecticut Bureau of Rehabilitation Services</p>
@@ -868,7 +867,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Lead Agency:</strong> Michigan Department of Labor and Economic Opportunity (LEO) - Michigan Rehabilitation Services (MRS)</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.copower.org/assistive-tech">Michigan Assistive Technology Program (MATP)</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.mi-at.org">Michigan Assistive Technology Program (MATP)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MI%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Michigan State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
@@ -1982,8 +1981,6 @@ WEST VIRGINIA</div>
 <p><a href="apr_reports23/Wyoming_2023.html">View the Annual Progress Report data for FY2023.</a></p>
 
 View the FY 2022-2023 Annual Report.
-
-
 
 <h3>State Financing Activities</h3>
 
