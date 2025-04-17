@@ -40,7 +40,7 @@ jQuery(document).ready(function() {
     google.setOnLoadCallback(drawChart6);
     google.setOnLoadCallback(drawChart7);
     google.setOnLoadCallback(drawChart8);
-    google.setOnLoadCallback(drawChart9);
+    // google.setOnLoadCallback(drawChart9);
     google.setOnLoadCallback(drawChart10);
     google.setOnLoadCallback(drawChart11);
     google.setOnLoadCallback(drawChart12);
