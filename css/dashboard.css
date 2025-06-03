@@ -911,6 +911,16 @@ padding: 4px ;
 .shade-box h2 {	text-transform:uppercase;font-size: 30px ; text-align: center;
  }
 .shade-box h4 {font-size: 16px;border-bottom:#3d3d3d solid 2px;}
+
+ul.block-list {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+
 .huge {
 	font-size: 50px;
 	padding: 10px;
