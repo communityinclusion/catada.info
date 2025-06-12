@@ -903,14 +903,14 @@ padding: 4px ;
 .shade-box {width:100%;
 	height:auto;
 	background-color: rgba(214, 234, 248, 0.3);
-	padding:15px;
+	padding:10px;
 	   background-clip: padding-box;
-    border: 10px solid transparent;
+    border: 5px solid transparent;
 }
 
-.shade-box h2 {	text-transform:uppercase;font-size: 30px ; text-align: center;
+.shade-box h1 {	text-transform:uppercase;font-size: 36px ; text-align: center;color: #256497;
  }
-.shade-box h4 {font-size: 16px;border-bottom:#3d3d3d solid 2px;}
+.shade-box h3 {font-size: 18px;border-bottom:#333 solid 2px;text-align:center;}
 
 ul.block-list {
     display: block;
