@@ -101,9 +101,7 @@ permalink: about/
   </h5>
   <div class="card-body">
 
-  <p class="card-text">The Center for Assistive Technology Act Data Assistance (CATADA) is a project funded under
-  grant # 90AN0001 by the U.S. Department of Health and Human Services Administration For Community Living (ACL).CATADA provides technical assistance and supports to State Assistive Technology (AT) Programs funded under Section 4 of the Assistive Technology Act of 1998, as amended (P.L. 108-364). CATADA is a collaborative project of theInstitute for Community Inclusion (ICI) at UMass Boston and The Illinois Assistive Technology Project (IATP). Theinformation on this website does not necessarily reflect the position or policy of ACL, and no official
-      endorsement should be inferred.</p>
+  <p class="card-text">The Center for Assistive Technology Act Data Assistance (CATADA) is a project supported by the Association of University Centers on Disabilities through Administration for Community Living (ACL) contract #75P00121C00057. CATADA provides technical assistance and supports to State Assistive Technology Programs funded under Section 4 of the 21st Century Assistive Technology Act (Public Law Number 117–263). CATADA is a collaborative project of the Institute for Community Inclusion at the University of Massachusetts Boston, and the Illinois Assistive Technology Program (IATP). The information on this website does not necessarily reflect the position or policy of ACL, and no official endorsement should be inferred.</p>
 
   </div>
 

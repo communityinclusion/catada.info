@@ -900,17 +900,25 @@ padding: 4px ;
 	text-transform: uppercase
 }
 
-.shade-box {width:100%;
+.shadebox{width:100%;
 	height:auto;
-	background-color: rgba(214, 234, 248, 0.3);
+	border: #dddddc solid 2px;
 	padding:10px;
 	   background-clip: padding-box;
-    border: 5px solid transparent;
+ 
+    
 }
 
-.shade-box h1 {	text-transform:uppercase;font-size: 36px ; text-align: center;color: #256497;
+
+.shadebox-full {background-color: #fefadc;}
+
+
+.shadebox-trans{
+background-color:#fffef8;}
+
+.shadebox h1 {	text-transform:uppercase;font-size: 36px ; text-align: center;color: #256497;
  }
-.shade-box h3 {font-size: 18px;border-bottom:#333 solid 2px;text-align:center;}
+.shadebox h3 {font-size: 18px;border-bottom:#dddddc solid 2px;text-align:center; font-weight: 700;}
 
 ul.block-list {
     display: block;
