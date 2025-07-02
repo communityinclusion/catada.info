@@ -1080,3 +1080,25 @@ th.google-visualization-table-th {background-color: #333;}
 }
 #table09 .google-visualization-table-table {min-width: 1050px;}
 #table09 .google-visualization-table-table td.google-visualization-table-td li {margin: 8px 0;}
+
+
+/* Eye on Data homepage css for chart */
+
+canvas {
+	max-width: 100%;
+	height: auto;
+	padding-top:5px;
+  }
+  .chart-container {
+	position: relative;
+	margin: 2rem auto;
+	width: 95%;
+	max-width: 800px;
+  }
+  .visually-hidden {
+	position: absolute !important;
+	height: 1px; width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	white-space: nowrap;
+  }
