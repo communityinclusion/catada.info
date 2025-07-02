@@ -1084,17 +1084,22 @@ th.google-visualization-table-th {background-color: #333;}
 
 /* Eye on Data homepage css for chart */
 
-canvas {
-	max-width: 100%;
-	height: auto;
-	padding-top:5px;
-  }
+
   .chart-container {
 	position: relative;
 	margin: 2rem auto;
+	padding-bottom:10px;
 	width: 95%;
-	max-width: 800px;
+	max-width: 1000px;
+	height: 600px; /* taller chart */
   }
+  canvas {
+	max-width: 100%;
+	height: 100% !important;
+	padding-top:5px;
+  }
+
+
   .visually-hidden {
 	position: absolute !important;
 	height: 1px; width: 1px;

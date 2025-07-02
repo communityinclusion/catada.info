@@ -62,20 +62,12 @@ layout: default
       </div>
     </div>
  
-    <div class="row">
-
-
-      <div class="col-12 d-flex feature-box">
-        <div class="box">
-        <h2><span>ABOUT CATADA</span></h2>
-<p><img src="/assets/catada-icon.png" alt="CATADA Icon" align="right" width="100"/>CATADA is a central hub for data, best practices, consumer stories, and resources focused on improving access to assistive technology (AT) as reported by State and Territory Assistive Technology Programs. The AT Act requires these programs report data annually in a State Plan for AT and Annual Performance Report. CATADA serves as a repository for this data to support program planning and reporting to Congress, the Secretary of Health and Human Services, and other stakeholders, along with real-life stories showcasing the impact of AT programs.</p></div>
-
-</div>
-        <div class="col-md-5 d-flex feature-box">
-
+<div class="row">
+<div class="col-md-5 d-flex feature-box">
 <div class="box">
 
-
+<h2><span>ABOUT CATADA</span></h2>
+<p><img src="/assets/catada-icon.png" alt="CATADA Icon" align="right" width="100"/>CATADA is a central hub for data, best practices, consumer stories, and resources focused on improving access to assistive technology (AT) as reported by State and Territory Assistive Technology Programs. The AT Act requires these programs report data annually in a State Plan for AT and Annual Performance Report. CATADA serves as a repository for this data to support program planning and reporting to Congress, the Secretary of Health and Human Services, and other stakeholders, along with real-life stories showcasing the impact of AT programs.</p>
 
 <h3>WHAT IS AT?</h3>
 <p>Assistive technology (AT) plays a vital role in supporting independence for people with disabilities. It includes any device, equipment, or system—commercial, modified, or custom-made—used to enhance functional abilities of people with disabilities.</p>
@@ -94,20 +86,17 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
 <div class="box">
 
 <h2><span> EYE ON DATA</span></h2>
-
-
-
-
-	<p><b>Explore this interactive chart to see the percentage of devices demonstrated across 11 types of AT</b>. In FY 2024, 56 programs demoed 42,614 devices. Speech communication devices were the most common, making up 21% (9,109 demos). For more national data, view the <a href="/assets/aggr_reports24/device%20demo">State Data Summary report</a>. </p>
+<p><b>Explore this interactive chart to see the percentage of devices demonstrated across 11 types of AT</b>. In FY 2024, 56 programs demoed 42,614 devices. Speech communication devices were the most common, making up 21% (9,109 demos). For more national data, view the <a href="/assets/aggr_reports24/device%20demo">State Data Summary report</a>.</p>
 
 
 
 	<figure class="chart-container">
-    <figcaption id="chart-caption">
-      Bar chart titled "Device Demonstrations by AT Device (2024)", showing the percentage of device demonstrations by device type for all programs in FY 2024.
+
+    <canvas id="atUsageChart" role="img" tabindex="0" aria-describedby="chart-caption"></canvas>
+        <figcaption id="chart-caption">
+     Horizontal bar chart titled "Device Demonstrations by AT Device (2024)", showing the percentage of device demonstrations by device type for all programs in FY 2024.
  
     </figcaption>
-    <canvas id="atUsageChart" role="img" tabindex="0" aria-describedby="chart-caption"></canvas>
   </figure>
 
   <!-- Screen-reader-only data table fallback -->
@@ -131,7 +120,7 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
   </table>
 
   <script>
-    const ctx = document.getElementById('atUsageChart');
+ const ctx = document.getElementById('atUsageChart');
     new Chart(ctx, {
       type: 'bar',
       data: {
@@ -155,10 +144,12 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
       },
       options: {
         responsive: true,
+        maintainAspectRatio: false,
+        indexAxis: 'y',
         plugins: {
           datalabels: {
             anchor: 'end',
-            align: 'top',
+            align: 'right',
             formatter: (value) => value + '%',
             color: '#000',
             font: { weight: 'bold' }
@@ -176,25 +167,23 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
                 const rawLabel = context[0].chart.data.labels[index];
                 return Array.isArray(rawLabel) ? rawLabel.join(' ') : rawLabel;
               },
-              label: ctx => `${ctx.dataset.label}: ${ctx.parsed.y}%`
+              label: ctx => `${ctx.dataset.label}: ${ctx.parsed.x}%`
             }
           }
         },
         scales: {
           x: {
-            ticks: {
-              minRotation: 70,
-              maxRotation: 70,
-              font: { size: 11 }
-            }
-          },
-          y: {
             title: {
               display: true,
               text: 'Percentage (%)'
             },
             beginAtZero: true,
-            max: 30
+            max: 25
+          },
+          y: {
+            ticks: {
+              font: { size: 11 }
+            }
           }
         }
       },
@@ -202,7 +191,7 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
     });
   </script>
 
-  <p class="small text-muted">SOURCE: National Assistive Technology Act Data System, State Grants for AT Program annual progress report aggregate data for FY 2024.</p>
+  <p class="pt-5 small text-muted">SOURCE: National Assistive Technology Act Data System, State Grants for AT Program annual progress report aggregate data for FY 2024.</p>
    </div>
 
 	        </div>
