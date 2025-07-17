@@ -26,7 +26,7 @@ permalink: /catada-publications/
 								<h5 class="card-subtitle mb-2 text-muted">Issue No. 17 – 2025</h5>
 								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2024 data and impactful consumer anecdotes.
 								</p>
-								<a href="/assets/files/AT-Report-FY25_F.pdf" class="btn btn-primary">View
+								<a href="/assets/files/AT-Report-FY25_R.pdf" class="btn btn-primary">View
 									PDF</a>
 							</div>
 						</div>
