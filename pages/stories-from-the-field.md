@@ -14,13 +14,9 @@ Device Demonstrations
 <div class="card-body">
 		
 
-  
-
-  <p class="card-text"><b>Family Matters</b></p>    
- <p class="card-text"><img src="/assets/Device-Demonstration2.png" class="float-left img-fluid" style="padding-right:1em;" alt="J.P and wife">As a person ages or their illness progresses, sometimes AT and adaptive equipment needs to change, too. MonTECH’s team works hard to make sure individuals have access to the best supports at each phase. This year, 32-year-old veteran J.P. visited MonTECH with his wife and caregiver. J.P. has frontal temporal dementia and his wife helps with his care. MonTECH was determined to provide any equipment that might make life sweeter or more comfortable for them.
-
-</p>                                                                                                 
-  <p class="card-text">MonTECH conducted a demonstration at their lab in Missoula and determined that J.P. needed loans for simple communication devices, universal cuffs, cup holders, mounts, and a temporary, more supportive wheelchair. J.P., his wife, and their young son were able to join a camping trip with extended family with the use of MonTECH’s Emma X3 All-terrain Wheelchair and a wide camp cot. J.P.'s participation was important to the whole family – MonTECH was grateful to be able to provide equipment to support them on their special weekend together.</p>
+  <p class="card-text"><b>Joe Finds the Right Fit with AAC Device Trial</b></p>    
+ <p class="card-text"><img src="/assets/Device-Demonstration2.png" class="float-left img-fluid" style="padding-right:1em;" alt="J.P and wife">Joe, a social and resilient individual who has survived a brain tumor resection and a stroke, uses a communication device to stay connected with family, friends, and his community. His current device was outdated, so through the Ability Tools program, he borrowed an Accent 1000 to compare it with his existing Accent 1400. After an extended trial, Joe found he could communicate faster with the smaller Accent 1000 but ultimately felt the Accent 1400 better suited his needs. He is now awaiting insurance approval to receive a new Accent 1400 as his permanent replacement.</p>                                                                                                 
+</p>
 
   </div>
   </div>
@@ -31,20 +27,18 @@ Device Demonstrations
 </h5>
 <div class="card-body">
 	
-<p class="card-text"><b>Walking by Christmas</b></p>                                                      
+<p class="card-text"><b>Lending Library Helps Three Generations Experience the Redwoods</b></p>                                                      
 
 <p class="card-text"><img src="/assets/Device-Loan1.png" class="float-right img-fluid w-25" style="padding-right:1em;" alt="Gerald in standing frame">
-At 65, Gerald was hospitalized for eight months due to complications from COVID-19. The hospitalization and medication caused severe loss of muscle mass and weakness. Gerald was able to use the Evolv Standing Frame during rehabilitation sessions in the hospital. The standing frame helped Gerald increase standing time, gain muscle mass, and regain muscle control and balance. </p>              
+Katie contacted the Oregon AT Program’s lending library for mobility equipment for an upcoming trip. Her grandmother and mother were visiting to experience the beauty of the Pacific Northwest, with a highlight being her grandmother’s lifelong dream of seeing the redwoods. To meet her grandmother’s mobility needs, Katie and her mother researched ADA-accessible trails in the area. Katie borrowed a manual wheelchair and a rolling walker with a seat from the lending library to make the trip easier. </p>              
 
-<p class="card-text">He is now able to independently use a walker inside the home, use the bathroom, shave, and brush his teeth. Gerald has a goal to walk by Christmas without a walker. “Thanks to the standing frame we were able to obtain through the Device Loan Program and the great group of therapists, we are confident that Gerald will meet that goal.”</p>                                                                                             
+<p class="card-text">The visit was a success, and Katie shared, “Even though I knew the forest was majestic, I was surprised by how deeply it moved my grandmother. She kept thanking us and telling strangers that visiting the redwoods was on her bucket list—and that her daughter and granddaughter had made it happen. Without the lending library, none of this would’ve been possible.”</p>                                                                                             
 
 <div class="clearfix"></div>
-<p class="card-text"><b>Exploring Assistive Technology at Work</b></p>                                                      
+<p class="card-text"><b>Supporting Success at the Alabama State Bar Exam</b></p>                                                      
 
 <p class="card-text"><img src="/assets/Device-Loan2.png" class="float-left img-fluid" style="padding-right:1em;" alt="Ms. CJ with keyboard at desk">
-Ms. CJ is currently employed with Lowe’s Corp. as a Workforce Supervisor in Wilkesboro, NC. Initially, Ms. CJ was concerned about how she would use the keyboard at her job with only one hand. North Carolina Assistive Technology Program staff introduced a few assistive technology options, including a one-handed keyboard, Five Finger Typist software, and speech recognition software.</p>            
-
-<p class="card-text">Ms. CJ tested a few options at work. First, she tried the RH Maltron Keyboard, a uniquely shaped, one-handed keyboard that optimizes layout to minimize finger movement by having the more common letters closer to the finger “home position.” Next, she borrowed the trial version of Dragon NaturallySpeaking, which allows individuals to create text from their voice, along with a noise canceling headset and microphone. Ms. CJ reported that she loved the technologies and was much more productive at work. She and her employer requested information on how to purchase the items for Ms. CJ to use in her Workforce Supervisor role.</p>                                                                                         
+The admissions officer for the Alabama State Bar Exam contacted Alabama’s Assistive Technology Resource (APTAT). The Bar Office was referred to APTAT by vocational rehabilitation for assistive technology support. Two examinees had requested accommodations, and each visited APTAT to trial devices from our library. One explored mobile standing desks and ergonomic mice; the other tested CCTVs, text-to-speech tools, keyboards, and screen magnification. Each selected a setup tailored to their needs. APTAT delivered and set up the devices at the exam site for their three-day exam. The Bar Office was grateful for the support, and we were proud to contribute to such an important event!</p>                                                                                         
 
 </div>
 </div>
@@ -54,15 +48,15 @@ Ms. CJ is currently employed with Lowe’s Corp. as a Workforce Supervisor in Wi
 <img  style="width:75px;" src="/assets/Device-Reuse-icon.png" alt-text="Device Reuse icon"/> Device Reutilization
 </h5>
 <div class="card-body">
-  <p class="card-text"><b>Shopping Independently</b> </p>
+  <p class="card-text"><b>Rain, Grain, and All-Terrain: Navigating Farm Life with an M3 Power Chair</b> </p>
  <p class="card-text"><img src="/assets/Device-Reuse1.png" class="float-left img-fluid" style="padding-right:1em;" alt="Linda in wheelchair">
-Linda has limited mobility due to pain from chronic back issues and arthritis. She had been using a walker inside her apartment but has had difficulty traveling from her front door to the mailbox. Linda did not typically have the stamina to manage the uphill grade to the entrance of the local grocery store, or to cross the busy street before the traffic light changed.</p>                                                                                       <p class="card-text">Linda came to the Meyer Medical Equipment Center, operated by Washington AT Program’s device reuse partner, Bridge Disability Ministries, hoping to find a free or low-cost solution that would work for her fixed budget. Linda and the Center staff determined that a small (but powerful) electric scooter that could fit in her apartment would work well. The Center delivered the scooter to her home and helped adjust it to fit her body. On the first try, Linda was able to use the scooter to get up the hill, cross the street at the traffic light with time to spare, and enter the grocery store, which she had been unable to visit for months! Linda looks forward to using the scooter to regain her mobility and independence.	 </p>               
+Ranchers wear boots for a reason—they’re built for the rough terrain of pastureland and cattle corrals. Now, imagine navigating that same ground in a wheelchair. That’s daily life for Bret, who checks fences, feeds cattle, and tags calves using a manual or power wheelchair, an ATV, or a pickup with a lift. After a 2004 accident left him with a spinal cord injury, Bret adapted—but most power wheelchairs aren’t made for rugged ranch work. He’s worn out many wheelchairs, and even with heavy-duty models, tasks like tossing grain, fixing fences, or vaccinating over 150 cattle each season remain physically taxing. That changed when Assistive Technology for Kansans (ATK) provided a used Permobil Corpus M3 power chair with a 12-inch seat elevation.</p>                                                                                       <p class="card-text">Bret immediately saw the benefits. “There’s a fridge right next to the chute with the vaccines,” he said. “Being able to turn on a dime and raise the seat makes a huge difference. I can work more independently, and it’s eased the strain on my shoulders—especially important since I recently found out I have two torn rotator cuffs.”</p>               
 
 <div class="clearfix"></div>
 <br />
-<p class="card-text"><b>And the Band Played On</b> </p>
+<p class="card-text"><b>Low-Tech Solutions with High-Impact Results</b> </p>
 <p class="card-text"><img src="/assets/Device-Reuse2.png" class="float-right img-fluid w-25-lg" style="padding-right:1em;" alt="Addie holding an instrument">
-The best part of marching band is being at the games! At least that’s what Addie tells us. Addie received a power assist wheelchair from Assistive Technology for Kansans Reuse so she could keep up with her friends at school. Band students must cross a parking lot to get to the band building. Now, Addie can keep up when friends race up an incline to the cafeteria to grab lunch. She can also ride the school bus more easily, so she never has to miss the away games! </p>                                                                                    
+Eduard, an 8th grader with cerebral palsy receiving outpatient Augmentative and Alternative Communication (AAC) services at the CIDE Assistive Technology Clinic, was a recipient of one of the Assistive Technology Program of Colorado’s open-ended loans. He came to our clinic with a Tobi I5 and eye gaze system but no mount to secure it to his wheelchair, rendering it unusable. Since he wasn't due for a new device for another two years, he was provided with a device mount. Using the mount in conjunction with his Tobi I5 has transformed Eduard's life. He now uses his AAC device regularly and has access to a means of communication at school, at home, and in the community. One of his teacher’s states, “He is a completely different kid and is now interacting with his peers and other teachers.” </p>                                                                                    
 
 </div>
 
@@ -74,16 +68,16 @@ The best part of marching band is being at the games! At least that’s what Add
 </h5>
 <div class="card-body">
 
-<p class="card-text"><b>Sounds Exciting</b> </p>                                                   
+<p class="card-text"><b>Exploring New Places with Orin & Noodle</b> </p>                                                   
 <p class="card-text"><img src="/assets/State-Financing1.png" class="float-left img-fluid w-25" style="padding-right:1em;" alt="JD wearing hearing aid">
-Fourth grader JD has significant hearing loss in both ears. His parents’ insurance does not cover the full cost of hearing aids. JD’s mom is a teacher and was not comfortable approaching the school for funding assistance. Assistive Technology for Kansans (ATK) staff obtained $3,500 from private funders to cover the remaining costs of JD’s hearing aids. His mom and teacher say he’s like a different boy. He tells everyone about new sounds he hears. JD is excited about his progress on his speech with the increased amplification, and he is eager to go to school every day now.</p>                                                                                                                                               
+Our new partnership to support the administration of the last-resort funding organization, Libby’s Friends, has been a joy to see come to fruition. Libby’s Friends does amazing work—fundraising and working tirelessly to fulfill as many assistive technology requests as their budget allows. One heartwarming story comes from a family who received a folding power chair for their son, Orin. The chair, affectionately named “Noodle,” has given Orin the freedom and independence to explore his world. His mom shared, “We are learning so much more about O’s personality now that he can explore new places at his own pace. He looked at me in amazement the first time we took Noodle out and I told Orin, ‘Go where you want to—I’m right behind you.’ We were at a community festival, and he went straight for the cake tables!” They also report that the chair’s impact is growing, as Orin’s providers are now recommending similar devices to other patients after seeing the positive results.</p>                                                                                                                                               
 <div class="clearfix"></div>
 <br />
-<p class="card-text"><b>Life-Long Dependability</b> </p>                                                   
+<p class="card-text"><b>Transformative Technology for a 21st Century School Experience</b> </p>                                                   
 <p class="card-text"><img src="/assets/State-Financing2.png" class="float-right img-fluid" style="padding-right:1em;" alt="Large, black modified vehicle">
-Phil had been working with the Oklahoma Department of Rehabilitation Services (OKDRS) and his bank for almost two years to replace his existing modified vehicle that was over 18 years old. He applied for and received a low-interest loan through ABLE Tech’s Financial Loan Program. With this loan and support from OKDRS, Phil was able to get the vehicle he needed.</p>                                                                   
+After trying out a CloverBook recommended by DakotaLink, one student finally received a device of his own—and the difference has been remarkable. Previously, he used a bulky, outdated vision board that was heavy, hard to move, and offered limited features. It became more of a burden than a support, especially as academic demands increased. After an assessment, DakotaLink provided a CloverBook for trial. The student received the CloverBook within one week, and staff helped train the student and his teachers.</p>                                                                   
 
-<p class="card-text">Phil shared, “ABLE Tech came through for me when others didn’t, and I couldn’t be more thankful! Here’s to hoping for another life-long dependable truck.” The Alternative Financial Loan Program is a great way to supplement additional funding in collaboration with other programs, such as OKDRS. “It was a pleasure to assist Phil in his employment goals by providing funding for his modified vehicle.”</p>
+<p class="card-text">From day one, his classroom engagement and confidence noticeably improved. Now, he can view the front of the classroom and complete written work at the same time. He can track a moving teacher and switch between materials with ease. His independence and participation have increased dramatically. The right technology can be life-changing and this device has transformed his school experience. </p>
 
 </div>
 
