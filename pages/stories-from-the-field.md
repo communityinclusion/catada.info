@@ -14,13 +14,9 @@ Device Demonstrations
 <div class="card-body">
 		
 
-  
-
-  <p class="card-text"><b>Family Matters</b></p>    
- <p class="card-text"><img src="/assets/Device-Demonstration2.png" class="float-left img-fluid" style="padding-right:1em;" alt="J.P and wife">As a person ages or their illness progresses, sometimes AT and adaptive equipment needs to change, too. MonTECH’s team works hard to make sure individuals have access to the best supports at each phase. This year, 32-year-old veteran J.P. visited MonTECH with his wife and caregiver. J.P. has frontal temporal dementia and his wife helps with his care. MonTECH was determined to provide any equipment that might make life sweeter or more comfortable for them.
-
-</p>                                                                                                 
-  <p class="card-text">MonTECH conducted a demonstration at their lab in Missoula and determined that J.P. needed loans for simple communication devices, universal cuffs, cup holders, mounts, and a temporary, more supportive wheelchair. J.P., his wife, and their young son were able to join a camping trip with extended family with the use of MonTECH’s Emma X3 All-terrain Wheelchair and a wide camp cot. J.P.'s participation was important to the whole family – MonTECH was grateful to be able to provide equipment to support them on their special weekend together.</p>
+  <p class="card-text"><b>Joe Finds the Right Fit with AAC Device Trial</b></p>    
+ <p class="card-text"><img src="/assets/Device-Demonstration2.png" class="float-left img-fluid" style="padding-right:1em;" alt="J.P and wife">Joe, a social and resilient individual who has survived a brain tumor resection and a stroke, uses a communication device to stay connected with family, friends, and his community. His current device was outdated, so through the Ability Tools program, he borrowed an Accent 1000 to compare it with his existing Accent 1400. After an extended trial, Joe found he could communicate faster with the smaller Accent 1000 but ultimately felt the Accent 1400 better suited his needs. He is now awaiting insurance approval to receive a new Accent 1400 as his permanent replacement.</p>                                                                                                 
+</p>
 
   </div>
   </div>
@@ -31,12 +27,12 @@ Device Demonstrations
 </h5>
 <div class="card-body">
 	
-<p class="card-text"><b>Walking by Christmas</b></p>                                                      
+<p class="card-text"><b>Lending Library Helps Three Generations Experience the Redwoods</b></p>                                                      
 
 <p class="card-text"><img src="/assets/Device-Loan1.png" class="float-right img-fluid w-25" style="padding-right:1em;" alt="Gerald in standing frame">
-At 65, Gerald was hospitalized for eight months due to complications from COVID-19. The hospitalization and medication caused severe loss of muscle mass and weakness. Gerald was able to use the Evolv Standing Frame during rehabilitation sessions in the hospital. The standing frame helped Gerald increase standing time, gain muscle mass, and regain muscle control and balance. </p>              
+Katie contacted the Oregon AT Program’s lending library for mobility equipment for an upcoming trip. Her grandmother and mother were visiting to experience the beauty of the Pacific Northwest, with a highlight being her grandmother’s lifelong dream of seeing the redwoods. To meet her grandmother’s mobility needs, Katie and her mother researched ADA-accessible trails in the area. Katie borrowed a manual wheelchair and a rolling walker with a seat from the lending library to make the trip easier. </p>              
 
-<p class="card-text">He is now able to independently use a walker inside the home, use the bathroom, shave, and brush his teeth. Gerald has a goal to walk by Christmas without a walker. “Thanks to the standing frame we were able to obtain through the Device Loan Program and the great group of therapists, we are confident that Gerald will meet that goal.”</p>                                                                                             
+<p class="card-text">The visit was a success, and Katie shared, “Even though I knew the forest was majestic, I was surprised by how deeply it moved my grandmother. She kept thanking us and telling strangers that visiting the redwoods was on her bucket list—and that her daughter and granddaughter had made it happen. Without the lending library, none of this would’ve been possible.”</p>                                                                                             
 
 <div class="clearfix"></div>
 <p class="card-text"><b>Exploring Assistive Technology at Work</b></p>                                                      
