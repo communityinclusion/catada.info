@@ -833,7 +833,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p><strong>Lead Agency:</strong> Massachusetts Rehabilitation Commission, Community Living Division</p>
 
-<p><strong>Program Title:</strong> <a href="http://www.massmatch.org/">MassMATCH (Massachusetts Maximizing Assistive Technology in Consumer's Hands)</a></p>
+<p><strong>Program Title:</strong> <a href="https://www.mass.gov/orgs/massability/">MassMATCH (Massachusetts Maximizing Assistive Technology in Consumer's Hands)</a></p>
 
 <p><a href="{{ site.baseurl }}/assets/state_at_plans_2024/MA%20State%20Plan%20FY2024-2026.pdf">Download the FY2024-2026 Massachusetts State Plan as certified and submitted by the lead agency and approved by ACL.</a></p>
 
