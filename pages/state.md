@@ -841,23 +841,84 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <h3>State Financing Activities</h3>
 
-<p>Massachusetts supports an Alternative Financing Program known as the Massachusetts Assistive Technology Loan Program (MATLP). The program provides low-interest loans and loan guarantees for people purchasing assistive technology. Massachusetts partners with Easter Seals of Massachusetts and Sovereign Bank to provide these loans.</p>
+<p>Our Alternative Finance Program (AFP) promotes the purchase of AT through financial loans and other initiatives, helping consumers save money. The AFP offers two distinct loan options:
+
+* Reduced-interest Financial Loan Program: This program, in partnership with Berkshire Bank, provides loans at low interest rates with no limit on the loan amount to purchase AT devices and services.
+* Mini Loan Program: This program offers zero-interest loans from $100 to $4,000. It has a fast application process and is designed for individuals with low or no credit history.
+
+In addition, the AFP includes the Long-Term Device Loan Program (LTDLP), which provides brand new AT devices valued at less than $500 to people who have a demonstrated financial need. The equipment can be used for as long as needed, with no repayment required.
+
+MA Alternative Finance Program Contact:
+
+Operated by Easterseals of MA
+
+Address: 18 Chestnut Street, Worcester, MA 01608
+
+Phone: 508-751-6370
+
+Email: afp@eastersealsma.org
+
+Website: https://www.massalternativefinance.org/ </p>
 
 <h3>Device Reutilization</h3>
 
-<p>Together with the other New England states, Massachusetts maintains the AT Exchange in New England website, which provides an online catalog of used AT available for sale or donation. Announcements about needed AT can also be posted. The AT Exchange can be accessed by going to http://<a href="http://www.getATstuff.org">www.getATstuff.org</a> Massachusetts also has a device exchange program specially designed for schools and other educational institutions known as the Assistive Technology School Share (ATSS). ATSS is a FREE private members-only online equipment reuse program designed to make it easier for participating schools across the state to get assistive technology for their students with disabilities. ATSS can be accessed by going to <a href="http://www.atschoolshare.org">www.atschoolshare.org</a> Massachusetts has also developed a long-term device loan program, operated by the AFP partner, Easter Seals of Massachusetts. The program allows individuals to borrow AT devices valued under $500 for as long as the devices are needed.</p>
+<p>The REquipment Program gives new life to gently used, high-quality assistive technology (AT) and durable medical equipment (DME). The program accepts, refurbishes, and donates equipment that is no longer needed by its original owner, providing significant cost savings for new users and keeping equipment out of landfills. Available items include wheelchairs, ramps, shower chairs, rollators, and adapted strollers.
 
-<h3>Device Loan</h3>
+How it works: The program provides refurbished equipment to people statewide at no cost.
 
-<p>Massachusetts operates a device loan program. MassMATCH funds two Assistive Technology Regional Centers (ATRCs) which provide device demonstration and loan services. One of the regional centers is located in Boston and operated by Easter Seals of Massachusetts. It serves residents of Eastern Massachusetts. The other regional center is located in Pittsfield and operated by UCP of Berkshire County. It serves residents of Western Massachusetts. Through an online inventory on the MassMATCH website, consumers can view available devices and request device loans from either of the two AT regional centers.</p>
+REquipment AT/DME Reuse Program Contact:
 
-<h3>Device Demonstration</h3>
+Phone: 508-751-6370
 
-<p>Device demonstrations are conducted at either of the two AT regional centers. One of the regional centers is operated by Easter Seals of Massachusetts and is located in Boston. The other regional center is operated by UCP of Berkshire County and is located in Pittsfield.</p>
+Toll-Free: 800-261-9841
+
+Email: info@requipmentma.org
+
+Website: https://requipmentma.org/</p>
+
+<h3>Device Loan and Device Demonstration</h3>
+
+<p>The State AT Act Program funds three Assistive Technology Regional Centers (ATRCs) to provide free services to the public. These centers are operated in partnership with Easterseals of Massachusetts and United Cerebral Palsy (UCP) of Western Massachusetts. The ATRCs allow individuals with disabilities, families, and professionals to:
+
+* Device Loan: Borrow AT devices for up to four weeks to try them out before making a purchase.
+* AT Demonstration: Compare and contrast the functions and features of different devices through hands-on exploration.
+
+These services help users make informed purchase decisions and can also fill short-term equipment needs. You can view available devices and request loans through our online inventory: https://massability.at4all.com/</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>Each year MassMATCH hosts regional AT Expositions to increase public awareness. The program operates a listserv for sending out timely information on AT-related topics as well as a quarterly newsletter. MassMATCH also has a website - <a href="http://www.massmatch.org">www.massmatch.org</a> with a lot of information and resources about Assistive Technology. The website also has a Blog Page and an "Ask An Expert" feature.</p>
+<p>The ATRCs also provide the following valuable services: 
+
+* Public Awareness: Provide information on the availability, benefits, and costs of AT devices and services.
+* Training: Offer instructional events to increase knowledge and skills regarding AT.
+* Technical Assistance: Help organizations make their programs and services accessible to people with disabilities.
+* Information and Assistance (I&A): Provide accurate and timely responses to AT-related questions.</p>
+
+<h3>ATRC Locations and Contact Information</h3>
+
+**Eastern Massachusetts Operating Partner**
+
+Easterseals of MA
+
+89 South Street, Boston, MA 02111	
+
+617-226-2640 - ATRCboston@eastersealsma.org
+
+**Central Massachusetts Operating Partner**
+
+Easterseals of MA	
+
+18 Chestnut Street, Worcester, MA 01608
+
+508-751-6495 - ATRCworcester@eastersealsma.org
+
+**Western Massachusetts Operating Partner**
+
+UCP of Western MA	
+
+75 South Church St., Suite 201, Pittsfield, MA
+
+413-442-1562 -	ATRCpittsfield@ucpwma.org
 </div>
 
 <div id="Michigan">
