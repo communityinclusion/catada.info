@@ -19,8 +19,8 @@ permalink: about/
   <li>Daria Domin, Project Manager </li>
   <li>Diane Cordry Golden, Director of Technical Assistance</li>
   <li>Vance Dhooge, Senior Application Developer</li>
-  <li>John Butterworth, Principal Investigator</li>
-  <li>John Shepard, Data Analyst </li>
+  <li>Jean Winsor, Principal Investigator</li>
+  <li>John Shepard, Research Associate </li>
 </ul>
 
 <hr />
@@ -79,13 +79,11 @@ permalink: about/
 
 <h2>Other Resources </h2>
 
-  
   <div class="col-md-9">
     <h3><a href="https://www.ataporg.org">ATAP</a> </h3>
 
 <p>The Association of Assistive Technology Act Programs (ATAP) is a national, member-based non-profit organization, comprised of state Assistive Technology Act Programs funded under the Assistive Technology Act (AT Act). </p>
   </div>
-
 
   <div class="col-md-9">
     <h3><a href="https://www.at3center.net/home">AT3 </a></h3>
