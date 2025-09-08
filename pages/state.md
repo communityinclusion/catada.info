@@ -829,7 +829,7 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 <div id="Massachusetts">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>MASSACHUSETTS</h2>
 
-<p><img alt="program logo" src="/assets/massachusetts.gif" style="width: 186px; height: 102px; border-width: 1px; border-style: solid;" /></p>
+<p><img alt="program logo" class="img-fluid" src="/assets/Mass-ability-logo.jpg" style="width: 472px; height: 80px; border-width: 1px; border-style: solid;" /></p>
 
 <p><strong>Lead Agency:</strong> MassAbility, Home and Community Living Division</p>
 
@@ -841,84 +841,94 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <h3>State Financing Activities</h3>
 
-<p>Our Alternative Finance Program (AFP) promotes the purchase of AT through financial loans and other initiatives, helping consumers save money. The AFP offers two distinct loan options:
+<p>Our Alternative Finance Program (AFP) promotes the purchase of AT through financial loans and other initiatives, helping consumers save money. The AFP offers two distinct loan options:</p>
 
-* Reduced-interest Financial Loan Program: This program, in partnership with Berkshire Bank, provides loans at low interest rates with no limit on the loan amount to purchase AT devices and services.
-* Mini Loan Program: This program offers zero-interest loans from $100 to $4,000. It has a fast application process and is designed for individuals with low or no credit history.
+<p>
+<ul>
+<li>- Reduced-interest Financial Loan Program: This program, in partnership with Berkshire Bank, provides loans at low interest rates with no limit on the loan amount to purchase AT devices and services.</li>
+<li>- Mini Loan Program: This program offers zero-interest loans from $100 to $4,000. It has a fast application process and is designed for individuals with low or no credit history.</li>
+</ul>
+</p>
 
-In addition, the AFP includes the Long-Term Device Loan Program (LTDLP), which provides brand new AT devices valued at less than $500 to people who have a demonstrated financial need. The equipment can be used for as long as needed, with no repayment required.
+<p>In addition, the AFP includes the Long-Term Device Loan Program (LTDLP), which provides brand new AT devices valued at less than $500 to people who have a demonstrated financial need. The equipment can be used for as long as needed, with no repayment required.</p>
 
-MA Alternative Finance Program Contact:
+<p>MA Alternative Finance Program Contact:<br>
 
-Operated by Easterseals of MA
+Operated by Easterseals of MA<br>
 
-Address: 18 Chestnut Street, Worcester, MA 01608
+Address: 18 Chestnut Street, Worcester, MA 01608<br>
 
-Phone: 508-751-6370
+Phone: 508-751-6370<br>
 
-Email: afp@eastersealsma.org
+Email: <a href="mailto:afp@eastersealsma.org">afp@eastersealsma.org</a><br>
 
-Website: https://www.massalternativefinance.org/ </p>
+Website: <a href="https://www.massalternativefinance.org/"> massalternativefinance.org</a></p>
 
 <h3>Device Reutilization</h3>
 
-<p>The REquipment Program gives new life to gently used, high-quality assistive technology (AT) and durable medical equipment (DME). The program accepts, refurbishes, and donates equipment that is no longer needed by its original owner, providing significant cost savings for new users and keeping equipment out of landfills. Available items include wheelchairs, ramps, shower chairs, rollators, and adapted strollers.
+<p>The REquipment Program gives new life to gently used, high-quality assistive technology (AT) and durable medical equipment (DME). The program accepts, refurbishes, and donates equipment that is no longer needed by its original owner, providing significant cost savings for new users and keeping equipment out of landfills. Available items include wheelchairs, ramps, shower chairs, rollators, and adapted strollers.</p>
 
-How it works: The program provides refurbished equipment to people statewide at no cost.
+<p>How it works: The program provides refurbished equipment to people statewide at no cost.</p>
 
-REquipment AT/DME Reuse Program Contact:
+<p>REquipment AT/DME Reuse Program Contact:<br>
 
-Phone: 508-751-6370
+Phone: 508-751-6370<br>
 
-Toll-Free: 800-261-9841
+Toll-Free: 800-261-9841<br>
 
-Email: info@requipmentma.org
+Email: <a href="mailto:info@requipmentma.org">info@requipmentma.org</a><br>
 
-Website: https://requipmentma.org/</p>
+Website: <a href="https://requipmentma.org/">https://requipmentma.org</a></p>
 
 <h3>Device Loan and Device Demonstration</h3>
 
-<p>The State AT Act Program funds three Assistive Technology Regional Centers (ATRCs) to provide free services to the public. These centers are operated in partnership with Easterseals of Massachusetts and United Cerebral Palsy (UCP) of Western Massachusetts. The ATRCs allow individuals with disabilities, families, and professionals to:
+<p>The State AT Act Program funds three Assistive Technology Regional Centers (ATRCs) to provide free services to the public. These centers are operated in partnership with Easterseals of Massachusetts and United Cerebral Palsy (UCP) of Western Massachusetts. The ATRCs allow individuals with disabilities, families, and professionals to:</p>
 
-* Device Loan: Borrow AT devices for up to four weeks to try them out before making a purchase.
-* AT Demonstration: Compare and contrast the functions and features of different devices through hands-on exploration.
+<p>
+<ul>
+<li>Device Loan: Borrow AT devices for up to four weeks to try them out before making a purchase.</li>
+<li>AT Demonstration: Compare and contrast the functions and features of different devices through hands-on exploration.</li>
+</ul>
+</p>
 
-These services help users make informed purchase decisions and can also fill short-term equipment needs. You can view available devices and request loans through our online inventory: https://massability.at4all.com/</p>
+<p>These services help users make informed purchase decisions and can also fill short-term equipment needs. You can view available devices and request loans through our online inventory: <a href="https://massability.at4all.com/">massability.at4all.com</a>.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>The ATRCs also provide the following valuable services: 
+<p>The ATRCs also provide the following valuable services: </p>
 
-* Public Awareness: Provide information on the availability, benefits, and costs of AT devices and services.
-* Training: Offer instructional events to increase knowledge and skills regarding AT.
-* Technical Assistance: Help organizations make their programs and services accessible to people with disabilities.
-* Information and Assistance (I&A): Provide accurate and timely responses to AT-related questions.</p>
+<p><ul>
+<li>- Public Awareness: Provide information on the availability, benefits, and costs of AT devices and services.</li>
+<li>- Training: Offer instructional events to increase knowledge and skills regarding AT.</li>
+<li>- Technical Assistance: Help organizations make their programs and services accessible to people with disabilities.</li>
+<li>- Information and Assistance (I&A): Provide accurate and timely responses to AT-related questions.</li></ul>
+</p>
 
 <h3>ATRC Locations and Contact Information</h3>
 
-**Eastern Massachusetts Operating Partner**
+<p><b>Eastern Massachusetts Operating Partner</b><br>
 
-Easterseals of MA
+Easterseals of MA<br>
 
-89 South Street, Boston, MA 02111	
+89 South Street, Boston, MA 02111	<br>
 
-617-226-2640 - ATRCboston@eastersealsma.org
+617-226-2640 - ATRCboston@eastersealsma.org</p>
 
-**Central Massachusetts Operating Partner**
+<p><b>Central Massachusetts Operating Partner</b><br>
 
-Easterseals of MA	
+Easterseals of MA	<br>
 
-18 Chestnut Street, Worcester, MA 01608
+18 Chestnut Street, Worcester, MA 01608<br>
 
-508-751-6495 - ATRCworcester@eastersealsma.org
+508-751-6495 - ATRCworcester@eastersealsma.org</p>
 
-**Western Massachusetts Operating Partner**
+<p><b>Western Massachusetts Operating Partner</b><br>
 
-UCP of Western MA	
+UCP of Western MA	<br>
 
-75 South Church St., Suite 201, Pittsfield, MA
+75 South Church St., Suite 201, Pittsfield, MA<br>
 
-413-442-1562 -	ATRCpittsfield@ucpwma.org
+413-442-1562 -	ATRCpittsfield@ucpwma.org</p>
 </div>
 
 <div id="Michigan">
