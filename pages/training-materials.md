@@ -93,7 +93,13 @@ permalink: /training-materials/
 			<h2 class="block-heading"><span>Data TA Videos and Recordings</span></h2>
 			<ul class="list-group">
 
-				
+				<li class="list-group-item"><script src="https://fast.wistia.com/embed/medias/293j0wyxus.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_8wz8xb0vxq popover=true popoverContent=link videoFoam=false" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><em
+					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> Webinar Recording for the APR & State Plan for AT Data Submission 2025 - October 2, 2025</a></span></li>
+				<li class="list-group-item"><a href="/assets/2025/2025-State-Plan-and-APR-data-entry-webinar.pptx"><i class="bi bi-file-earmark-ppt"></i> Presentation for the APR & State Plan for AT Data Submission 2025 - October 2, 2025</a></li>
+				<li class="list-group-item"><a href="/assets/2025/transcript-for-APR-webinar-10.2.25.docx"><em
+					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the APR & State Plan for AT Data Submission 2025 - October 2, 2025
+
+ </a></li>
 				<li class="list-group-item"><a href="/assets/2024/Transcript-for-the-State-Plan-for-AT.docx"><em
 					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
 					<li class="list-group-item"><a href="/assets/2024/2024-State-Plan-and-APR-data-entry-webinar-PPT.pptx"><i class="bi bi-file-earmark-ppt"></i> Presentation for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
