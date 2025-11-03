@@ -16,9 +16,7 @@ permalink: /training-materials/
 				</div>
 				<div class="row">
 					<div class="col-md">
-						
 						<ul class="list-group">
-							
 							<li class="list-group-item"><a
 									href="/assets/reporting2023/Brief-1---APR-Data-Fidelity-Review.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 1: APR Data Fidelity Review</a></li>
@@ -49,12 +47,10 @@ permalink: /training-materials/
 										href="/assets/reporting2023/Brief-8---Flexibility,-Comparability-&-Data-Reporting.docx"><i
 											class="bi bi-file-earmark-word"></i> Brief 8: Flexibility, Comparability and
 										Data Reporting</a></li>
-									
 						</ul>
 					</div>
 					<div class="col-md">
 						<ul class="list-group">
-							
 							<li class="list-group-item"><a
 									href="/assets/reporting2023/Brief-9---Contract-Compensation-Options-&-Data-Reporting-.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 9: Contract Compensation Options and
@@ -91,34 +87,29 @@ permalink: /training-materials/
 					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> Webinar Recording for the APR & State Plan for AT Data Submission 2025 - October 2, 2025</a></span></li>
 				<li class="list-group-item"><a href="/assets/2025/2025-State-Plan-and-APR-data-entry-webinar.pptx"><i class="bi bi-file-earmark-ppt"></i> Presentation for the APR & State Plan for AT Data Submission 2025 - October 2, 2025</a></li>
 				<li class="list-group-item"><a href="/assets/2025/transcript-for-APR-webinar-10.2.25.docx"><em
-					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the APR & State Plan for AT Data Submission 2025 - October 2, 2025
-
- </a></li>
+					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the APR & State Plan for AT Data Submission 2025 - October 2, 2025</a></li>
 				<li class="list-group-item"><a href="/assets/2024/Transcript-for-the-State-Plan-for-AT.docx"><em
 					class="bi bi-file-earmark-word" aria-hidden="true">&nbsp;</em> Transcript for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
 					<li class="list-group-item"><a href="/assets/2024/2024-State-Plan-and-APR-data-entry-webinar-PPT.pptx"><i class="bi bi-file-earmark-ppt"></i> Presentation for the State Plan for AT & APR Data Submission Webinar, July 30, 2024</a></li>
 				<li class="list-group-item"><script src="https://fast.wistia.com/embed/medias/8wz8xb0vxq.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_8wz8xb0vxq popover=true popoverContent=link videoFoam=false" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><em
 					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> Input from AT Act Grantees on Potential Changes to AT Data Collection Instruments - APR and State Plan for AT - September 28, 2023</a></span></li>
-				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=HjvbtmvJnL0#t=5m25s"><em
-					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2022 APR Data Entry Webinar - October 17, 2022</a></li>
-				<li class="list-group-item"><a href="https://youtu.be/KpmeGcEXSLU?t=240"><em
-					class="fas fa-file-video" aria-hidden="true">&nbsp;</em> State Plan for AT: Data Entry 2022 – March 31, 2022</a></li>
-			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=yT1s-METg34"><em
-							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2021 APR Data Entry Webinar - October 14, 2021</a></li>
-			<li class="list-group-item"><a href=" https://youtu.be/8NALCVf2EDY"><em
-							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> NATADS D2D Changes for FY2022 APR – September, 21, 2021</a></li>
-			<li class="list-group-item"><a href="https://www.youtube.com/watch?v=3ERJk7CzSWg"><em
-							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> APR Revisions for FY21 & FY22 – June 8, 2021</a></li>
-				<li class="list-group-item"><a href="https://www.youtube.com/watch?v=W5SfhOQ5eoU&t=580s"><em
-							class="fas fa-file-video" aria-hidden="true">&nbsp;</em> FY 2020 APR Data Entry Webinar -
-						October 6, 2020</a></li>
-				<li class="list-group-item"><a href="https://youtu.be/LVg084q1Ytc"><em class="fas fa-file-video"
-							aria-hidden="true">&nbsp;</em> FY 2019 APR Data Entry Webinar - October 21, 2019</a></li>
-				<li class="list-group-item"><a href="https://youtu.be/aH-QmK8b2Jo"><em class="fas fa-file-video"
-							aria-hidden="true">&nbsp;</em> FY 2018 APR Data Entry Webinar - September 26, 2018</a></li>
-				<li class="list-group-item"><a href="https://youtu.be/iocF1INhBwI"><em class="fas fa-file-video"
-							aria-hidden="true">&nbsp;</em> NATADS day-to-day changes webinar - October 1, 2018</a></li>
-				<ul>
+				</ul>
+				
+				<p></p>
+				<p>
+  <a class="" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    <strong><i class="bi bi-archive"></i> View archived APR Data, State Plan, and NATADS webinars from 2018-2022</strong>
+  </a>
+ 
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    <script src="https://fast.wistia.com/assets/external/channel.js" async></script><link rel="stylesheet" href="https://fast.wistia.com/embed/channel/project/cyxhppzsmp/font.css" /><div class="wistia_channel wistia_async_cyxhppzsmp mode=inline" style="min-height:100vh;position:relative;width:100%;"></div>
+  </div>
+</div>
+
+
+
 				<p><br></p>
 					<h2 class="block-heading"><span>Conference Materials</span></h2>
 					<p><a href="/assets/files/Anecdotes%20Slides.pptx"><i class="bi bi-file-earmark-ppt"></i>PowerPoint slides on how to create a quality
