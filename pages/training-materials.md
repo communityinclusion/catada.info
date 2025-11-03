@@ -97,16 +97,11 @@ permalink: /training-materials/
 				
 				<p></p>
 				<p>
-  <a class="" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    <strong><i class="bi bi-archive"></i> View archived APR Data, State Plan, and NATADS webinars from 2018-2022</strong>
-  </a>
+
+    <a href="https://fast.wistia.com/embed/channel/cyxhppzsmp" target="_new"><strong><i class="bi bi-archive"></i> View archived APR Data, State Plan, and NATADS webinars from 2018-2022</strong></a>
  
 </p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    <script src="https://fast.wistia.com/assets/external/channel.js" async></script><link rel="stylesheet" href="https://fast.wistia.com/embed/channel/project/cyxhppzsmp/font.css" /><div class="wistia_channel wistia_async_cyxhppzsmp mode=inline" style="min-height:100vh;position:relative;width:100%;"></div>
-  </div>
-</div>
+
 
 
 
