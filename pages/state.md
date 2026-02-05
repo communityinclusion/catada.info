@@ -845,8 +845,8 @@ Easterseals Iowa Assistive Technology Program implements the Easterseals Iowa As
 
 <p>
 <ul>
-<li>- Reduced-interest Financial Loan Program: This program, in partnership with Berkshire Bank, provides loans at low interest rates with no limit on the loan amount to purchase AT devices and services.</li>
-<li>- Mini Loan Program: This program offers zero-interest loans from $100 to $4,000. It has a fast application process and is designed for individuals with low or no credit history.</li>
+<li>Reduced-interest Financial Loan Program: This program, in partnership with Berkshire Bank, provides loans at low interest rates with no limit on the loan amount to purchase AT devices and services.</li>
+<li>Mini Loan Program: This program offers zero-interest loans from $100 to $4,000. It has a fast application process and is designed for individuals with low or no credit history.</li>
 </ul>
 </p>
 
@@ -898,10 +898,10 @@ Website: <a href="https://requipmentma.org/">https://requipmentma.org</a></p>
 <p>The ATRCs also provide the following valuable services: </p>
 
 <p><ul>
-<li>- Public Awareness: Provide information on the availability, benefits, and costs of AT devices and services.</li>
-<li>- Training: Offer instructional events to increase knowledge and skills regarding AT.</li>
-<li>- Technical Assistance: Help organizations make their programs and services accessible to people with disabilities.</li>
-<li>- Information and Assistance (I&A): Provide accurate and timely responses to AT-related questions.</li></ul>
+<li>Public Awareness: Provide information on the availability, benefits, and costs of AT devices and services.</li>
+<li>Training: Offer instructional events to increase knowledge and skills regarding AT.</li>
+<li>Technical Assistance: Help organizations make their programs and services accessible to people with disabilities.</li>
+<li>Information and Assistance (I&A): Provide accurate and timely responses to AT-related questions.</li></ul>
 </p>
 
 <h3>ATRC Locations and Contact Information</h3>
