@@ -672,7 +672,7 @@ p.hiddenText {
 
 /*Front Page */
 
-ul {
+ul#servicesflow {
 	margin: 0;
 	padding: 0;
 	list-style: none;
