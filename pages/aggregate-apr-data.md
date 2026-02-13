@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aggregate APR Data 2024
+title: Aggregate APR Data 2025
 permalink: /aggregate-apr-data/
 ---
 <div class="container">
@@ -8,30 +8,32 @@ permalink: /aggregate-apr-data/
 
  <div class="col-12">
 
-<p>These national activity reports were generated from Fiscal year 2024 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
+<p>These national activity reports were generated from Fiscal year 2025 State AT Program Annual Progress Report data from the National Assistive Technology Act Data System.</p>
 <p><a href="#to2019">See below</a> for archived aggregate reports.</p>
 <h2>State - Level Activity Data</h2>
-<div><a href="/assets/aggr_reports24/Device Demo.html">Device Demonstration</a></div>
-<div><a href="/assets/aggr_reports24/Device%20Loan.html">Device Loan</a></div>
-<div><a href="/assets/aggr_reports24/Device%20Reutilization.html">Device Reutilization</a></div>
-<div><a href="/assets/aggr_reports24/Financial%20Loan.html">Financial Loan</a></div>
-<div><a href="/assets/aggr_reports24/State%20Financing%20Other.html">State Financing Other</a></div>
-<div><a href="/assets/aggr_reports24/Acquisition%20Summary.html">Acquisition Summary</a></div>
-<div><a href="/assets/aggr_reports24/State%20Level%20Device%20Summary.html">State Level Device Summary</a></div>
-<div><a href="/assets/aggr_reports24/State%20Level%20Summary.html">State Level Summary&nbsp;</a></div>
+<div><a href="/assets/aggr_reports25/Device Demo.html">Device Demonstration</a></div>
+<div><a href="/assets/aggr_reports25/Device%20Loan.html">Device Loan</a></div>
+<div><a href="/assets/aggr_reports25/Device%20Reutilization.html">Device Reutilization</a></div>
+<div><a href="/assets/aggr_reports25/Financial%20Loan.html">Financial Loan</a></div>
+<div><a href="/assets/aggr_reports25/State%20Financing%20Other.html">State Financing Other</a></div>
+<div><a href="/assets/aggr_reports25/Acquisition%20Summary.html">Acquisition Summary</a></div>
+<div><a href="/assets/aggr_reports25/State%20Level%20Device%20Summary.html">State Level Device Summary</a></div>
+<div><a href="/assets/aggr_reports25/State%20Level%20Summary.html">State Level Summary&nbsp;</a></div>
 <br>
 <h2>State Leadership Activity Data</h2>
-<div><a href="/assets/aggr_reports24/Training.html">Training</a></div>
-<div><a href="/assets/aggr_reports24/Public Awareness - I&A.html">Information and Assistance</a></div>
-<div><a href="/assets/aggr_reports24/Technical%20Assistance.html">Technical Assistance</a></div>
-<div><a href="/assets/aggr_reports24/State%20Improvements.html">State Improvement Outcomes</a></div>
+<div><a href="/assets/aggr_reports25/Training.html">Training</a></div>
+<div><a href="/assets/aggr_reports25/Public Awareness - I&A.html">Information and Assistance</a></div>
+<div><a href="/assets/aggr_reports25/Technical%20Assistance.html">Technical Assistance</a></div>
+<div><a href="/assets/aggr_reports25/State%20Improvements.html">State Improvement Outcomes</a></div>
 <br>
 <h2>Performance Measures &amp; Consumer Satisfaction Data</h2>
-<div><a href="/assets/aggr_reports24/Performance%20Measures.html">Performance Measures</a></div>
-<div><a href="/assets/aggr_reports24/Consumer%20Satisfaction.html">Consumer Satisfaction</a></div>
+<div><a href="/assets/aggr_reports25/Performance%20Measures.html">Performance Measures</a></div>
+<div><a href="/assets/aggr_reports25/Consumer%20Satisfaction.html">Consumer Satisfaction</a></div>
 <div>&nbsp;</div>
 <h2>Leveraged Funding Data</h2>
-<div><a href="/assets/aggr_reports24/Leveraged%20Funds.html">Leveraged Funds</a></div><div><h4 style="margin-top: 20px">Archived APR Reports</h4>
+<div><a href="/assets/aggr_reports25/Leveraged%20Funds.html">Leveraged Funds</a></div>
+<div><h4 style="margin-top: 20px">Archived APR Reports</h4>
+<p id="to2023"><a href="/aggregate-apr-data-2024">Here are archived aggregate APR data reports from 2024.</a></p>
 <p id="to2023"><a href="/aggregate-apr-data-2023">Here are archived aggregate APR data reports from 2023.</a></p>
 <p id="to2022"><a href="/aggregate-apr-data-2022">Here are archived aggregate APR data reports from 2022.</a></p>
 <p id="to2021"><a href="/aggregate-apr-data-2021">Here are archived aggregate APR data reports from 2021.</a></p>
