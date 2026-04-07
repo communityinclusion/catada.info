@@ -86,110 +86,150 @@ These statewide, comprehensive, consumer-driven programs help people of all ages
 <div class="box">
 
 <h2><span> EYE ON DATA</span></h2>
-<p><b>Explore this interactive chart to see the percentage of devices demonstrated across 10 types of AT</b>. In FY 2024, 56 programs demoed 42,614 devices. Speech communication devices were the most common, making up 21% (9,109 demos). For more national data, view the <a href="/assets/aggr_reports24/device%20demo">State Data Summary report</a>.</p>
+<p><strong >Explore training topics by participant count across five topic areas</strong>. In FY 2025, 56 AT programs trained 98,927 participants. The most common training topic focused on assistive technology such as instruction to build skills and competency in using AT and integrating AT across settings, reaching 55.3% of participants. For more national data, view the <a href="/assets/aggr_reports25/training">State Data Summary report</a>.</p>
 
 
 
 	<figure class="chart-container">
 
-    <canvas id="atUsageChart" role="img" tabindex="0" aria-describedby="chart-caption"></canvas>
+    <canvas id="atChart" role="img" tabindex="0" aria-describedby="chart-caption"></canvas>
         <figcaption id="chart-caption">
-     Horizontal bar chart titled "Device Demonstrations by AT Device (2024)", showing the percentage of device demonstrations by device type for all programs in FY 2024.
+Vertical bar chart titled "Training Topics by Number of Participants (2025)", showing the percentage of participants by topic for all programs in FY 2025.
     </figcaption>
   </figure>
 
   <!-- Screen-reader-only data table fallback -->
-  <table class="visually-hidden">
-    <caption>Assistive Technology Device Demonstration Data (2024)</caption>
-    <thead>
-      <tr><th scope="col">Category</th><th scope="col">Percentage</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Speech communication</td><td>21.4%</td></tr>
-      <tr><td>Learning, cognition, developmental</td><td>15.9%</td></tr>
-      <tr><td>Vision</td><td>15.6%</td></tr>
-      <tr><td>Daily living</td><td>14.4%</td></tr>
-      <tr><td>Mobility, seating, positioning</td><td>10.0%</td></tr>
-      <tr><td>Computers & related</td><td>9.0%</td></tr>
-      <tr><td>Hearing</td><td>4.5%</td></tr>
-      <tr><td>Recreation, sports, leisure</td><td>3.5%</td></tr>
-      <tr><td>Environmental adaptations</td><td>3.2%</td></tr>
-      <tr><td>Vehicle modification & transportation</td><td>2.6%</td></tr>
-    </tbody>
-  </table>
+ 
+<table
+  class="sr-only visually-hidden"
+  aria-label="Training Topics by Number of Participants (2025)"
+>
+  <caption>Training Topics by Number of Participants (2025) — 98,927 total participants</caption>
+  <thead>
+    <tr>
+      <th scope="col">Topic</th>
+      <th scope="col">Participants</th>
+      <th scope="col">Percentage of total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AT Products and Services</td>
+      <td>54,727</td>
+      <td>55.3%</td>
+    </tr>
+    <tr>
+      <td>Combination of any/all training topics</td>
+      <td>27,016</td>
+      <td>27.3%</td>
+    </tr>
+    <tr>
+      <td>Info &amp; Communication Technology Accessibility</td>
+      <td>8,000</td>
+      <td>8.1%</td>
+    </tr>
+    <tr>
+      <td>Transition</td>
+      <td>6,854</td>
+      <td>6.9%</td>
+    </tr>
+    <tr>
+      <td>AT Funding/Policy/Practice</td>
+      <td>2,330</td>
+      <td>2.4%</td>
+    </tr>
+  </tbody>
+</table>
 
   <script>
- const ctx = document.getElementById('atUsageChart');
-    new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: [
-          ['Speech', 'communication'],
-          ['Learning, cognition,', 'developmental'],
-          ['Vision'],
-          ['Daily', 'living'],
-          ['Mobility, seating,', 'positioning'],
-          ['Computers', '& related'],
-          ['Hearing'],
-          ['Recreation, sports,', 'leisure'],
-          ['Environmental', 'adaptations'],
-          ['Vehicle modification', '& transportation']
-        ],
-        datasets: [{
-          label: 'Percentage',
-          data: [21.4, 15.9, 15.6, 14.4, 10.0, 9.0, 4.5, 3.5, 3.2, 2.6],
-          backgroundColor: '#5D9732'
-        }]
+Chart.register(ChartDataLabels);
+
+const total = 98927;
+const participants = [54727, 27016, 8000, 6854, 2330];
+const pcts = participants.map(v => parseFloat((v / total * 100).toFixed(1)));
+
+const labels = [
+  ['AT Products', 'and Services'],
+  ['Combination of', 'any/all topics'],
+  ['ICT', 'Accessibility'],
+  ['Transition', ''],
+  ['AT Funding/', 'Policy/Practice']
+];
+
+new Chart(document.getElementById('atChart'), {
+  type: 'bar',
+  data: {
+    labels: labels,
+    datasets: [{
+      label: 'Participants',
+      data: participants,
+      backgroundColor: '#5D9732',
+      borderRadius: 2
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      title: {
+        display: true,
+        text: 'Training Topics by Number of Participants (2025)',
+        font: { size: 16, weight: '500' },
+        color: '#2C2C2A',
+        padding: { bottom: 20 }
       },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        indexAxis: 'y',
-        plugins: {
-          datalabels: {
-            anchor: 'end',
-            align: 'right',
-            formatter: (value) => value + '%',
-            color: '#000',
-            font: { weight: 'bold' }
+      tooltip: {
+        callbacks: {
+          title: function(ctx) {
+            const lbl = ctx[0].chart.data.labels[ctx[0].dataIndex];
+            return Array.isArray(lbl) ? lbl.filter(l => l.trim()).join(' ') : lbl;
           },
-          title: {
-            display: true,
-            text: 'Device Demonstrations by AT Device (2024)',
-            font: { size: 18 }
-          },
-          legend: { display: false },
-          tooltip: {
-            callbacks: {
-              title: function(context) {
-                const index = context[0].dataIndex;
-                const rawLabel = context[0].chart.data.labels[index];
-                return Array.isArray(rawLabel) ? rawLabel.join(' ') : rawLabel;
-              },
-              label: ctx => `${ctx.dataset.label}: ${ctx.parsed.x}%`
-            }
-          }
-        },
-        scales: {
-          x: {
-            title: {
-              display: true,
-              text: 'Percentage (%)'
-            },
-            beginAtZero: true,
-            max: 25
-          },
-          y: {
-            ticks: {
-              font: { size: 11 }
-            }
+          label: function(ctx) {
+            const count = participants[ctx.dataIndex].toLocaleString();
+            const pct = pcts[ctx.dataIndex];
+            return count + ' participants (' + pct + '%)';
           }
         }
       },
-      plugins: [ChartDataLabels]
-    });
+      datalabels: {
+        anchor: 'end',
+        align: 'end',
+        color: '#5D9732',
+        font: { weight: 'bold', size: 11 },
+        formatter: (value, ctx) => pcts[ctx.dataIndex] + '%',
+        clamp: true,
+        clip: false
+      }
+    },
+    scales: {
+      x: {
+        ticks: {
+          autoSkip: false,
+          maxRotation: 70,
+          minRotation: 70,
+          font: { size: 11 },
+          color: '#888780'
+        },
+        grid: { display: false }
+      },
+      y: {
+        beginAtZero: true,
+        ticks: {
+          callback: v => v.toLocaleString(),
+          font: { size: 11 },
+          color: '#888780'
+        },
+        grid: { color: 'rgba(136,135,128,0.15)' }
+      }
+    },
+    layout: { padding: { top: 30, right: 20, bottom: 8, left: 8 } }
+  },
+  plugins: [ChartDataLabels]
+});
+
   </script>
-  <p class="sourcetext small text-muted">SOURCE: National Assistive Technology Act Data System, State Grants for AT Program annual progress report aggregate data for FY 2024.</p>
+  <p class="sourcetext small text-muted">SOURCE: National Assistive Technology Act Data System, State Grants for AT Program annual progress report aggregate data for FY 2025.</p>
    </div>
 
 	        </div>
