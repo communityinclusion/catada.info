@@ -929,6 +929,7 @@ UCP of Western MA	<br>
 75 South Church St., Suite 201, Pittsfield, MA<br>
 
 413-442-1562 -	ATRCpittsfield@ucpwma.org</p>
+
 </div>
 
 <div id="Michigan">
@@ -1202,23 +1203,23 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 
 <h3>State Financing Activities</h3>
 
-<p>ATinNH&nbsp;claims flexibility for state financing activities. As described in Sec. 4(e)(6) of the AT Act, a state may carry out any two or more of the required state-level activities, meaning a state can choose not to conduct up to two activities.</p>
+<p>New Hampshire supports activities of the statewide assistive technology cooperative buying program, AT Discount Sales and Services, which provides discounts on AT products for individuals, families, organizations, state agencies, and education entities..</p>
 
 <h3>Device Reutilization</h3>
 
-<p>ATinNH supports and operates three primary reutilization activities. The Assistive Technology Exchange in New England and New York, GetATStuff.com, is a collaborative effort of the six New England states and New York to maintain, market, and improve a regional resource that facilitates the reuse of used assistive technology devices. The Refurbished Equipment Marketplace, REM, actively refurbishes donated devices for resale to the general public. Chapin Senior Center, located in western N.H., runs a robust open-ended loans program serving many individuals in the surrounding area.</p>
+<p>ATinNH has partnerships with four different organizations who refurbish and reuse assistive technology devices. The Refurbished Equipment Marketplace, REM, actively refurbishes donated devices for resale to the general public. Chapin Senior Center, located in New London NH, and Grafton County Senior Center, located in Littleton, NH both run robust open-ended loans program serving many individuals in the surrounding area. The Loaner's Closet for Durable Medical Equipment located in Derry NH services the greater Derry area  under the COmmunity Caregivers of Greater Derry provideds an extensive long term durable medical equipment lending library that is available for residents of New Hampshire and the boarder towns in Massachusetts.</p>
 
 <h3>Device Loan</h3>
 
-<p>ATinNH provides equipment loans in collaboration with a number of partners. The program continuously improves and updates this capacity to make it as accessible and useful as possible. Loans range from recreation items, to communication equipment and mobility-related technology. ATinNH partners are located throughout the state.</p>
+<p>ATinNH provides equipment loans including  devices such as adapted keyboards switch activated toys, iPads with AAC apps, pediatric mobility and sensory equipment and an array of AT for vision and hearing loss needs.  We constantly reassess the community needs and continuously improve the selection based on the community feedback and requests.  In addition, ATinNH has a few partners such as Northeast Passage to provide more complex recreational assistive technology loans for a small maintenance fee and Strafford Learning Center who support the educational assistive technology loans. ATinNH ships or delivers borrowed items to people across the state.</p>
 
 <h3>Device Demonstration</h3>
 
-<p>ATinNH offers the opportunity to learn about equipment in partnership with a number of organizations throughout the state. ATinNH partners make their equipment available for demonstrations directly to consumers and also for use by professionals working in the field.</p>
+<p>ATinNH offers the opportunity to learn about equipment in partnership with a number of organizations throughout the state. ATinNH staff provide demonstrations across the state related to areas of need and interest. ATinNH also has a number of partners who make their equipment available for demonstrations directly to consumers and also for use by professionals working in the field.</p>
 
 <h3>State Leadership Activities</h3>
 
-<p>ATinNH focuses primarily on the delivery of training opportunities to increase the capacity and awareness regarding the utility and creative development of assistive technology. The program pursues partnerships where possible to deliver training in an affordable manner. Training activities encompass university classes as well as workshops and involve online and traditional content delivery methods.</p>
+<p>ATinNH focuses primarily on the delivery of training opportunities to increase the capacity and awareness regarding the utility and creative development of assistive technology. ATinNH staff The program pursues partnerships where possible to deliver training in an affordable manner. The ATinNH team provides traings for all age groups and disability areas and has a menu of training offerings on our website as well as offering custom deveiloped trainings including both assistive technology devices, processes and accessible educational materials for K-12 school teams.</p>
 </div>
 
 <div id="NewJersey">
