@@ -1191,7 +1191,7 @@ MATP provides email, web-based, and toll-free phone information and assistance s
 <div id="NewHampshire">
  <p class="float-right"><a href="#pageTop"><i class="fas fa-arrow-alt-circle-up"></i> <em>Back to map</em></a></p><h2>NEW HAMPSHIRE</h2>
 
-<p><img alt="" height="138" src="/assets/ATinNH%20logo%20(2).jpg" width="345" /></p>
+<p><img alt="" height="138" src="/assets/UNH_ATNH_RGB_LS_B.png" width="345" /></p>
 
 <p><strong>Lead Agency:</strong> University of New Hampshire, Institute on Disability</p>
 
