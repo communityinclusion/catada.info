@@ -40,7 +40,7 @@ permalink: /training-materials/
 										class="bi bi-file-earmark-word"></i> Brief 6: Annual Data-Fiscal Calendar</a>
 							</li>
 							<li class="list-group-item"><a
-									href="/assets/reporting2023/Brief-7---State-Plan-Expenditure-Tracking-&-Reporting-.docx"><i
+									href="/assets/reporting2023/Brief-7-State-Plan-Expenditure-Tracking-and-Reporting.docx"><i
 										class="bi bi-file-earmark-word"></i> Brief 7: State Plan Expenditure Tracking
 									and Reporting</a></li>
 									<li class="list-group-item"><a

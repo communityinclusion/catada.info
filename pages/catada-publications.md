@@ -7,6 +7,33 @@ permalink: /catada-publications/
 <div class="container">
 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
 	<div class="row">
+    	<div class="col-md-6 d-flex">
+			<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image ">
+								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/AT-Report-FY2025_R-1-thumb.png"
+									alt="A National Data Summary of State AT Programs: Fiscal Year 2025">
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+									A National Data Summary of State AT Programs: Fiscal Year 2025
+								</h4>
+								<h5 class="card-subtitle mb-2 text-muted">Issue No. 18 – 2026</h5>
+								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2025 data and impactful consumer anecdotes.
+								</p>
+								<a href="/assets/2025/AT-Report-FY2025_R.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 				<div class="card-body">
@@ -34,34 +61,6 @@ permalink: /catada-publications/
 				</div>
 			</div>
 		</div>
-		<div class="col-md-6 d-flex">
-			<div class="card bg-light">
-				<div class="card-body">
-					<div class="row">
-						<div class="col-md-3">
-							<div class="image ">
-								<img class="img-fluid"
-									src="/assets/catada_pub_thumbs/ATAP_2024_R_thumb.png"
-									alt="A National Data Summary of State Assistive Technology Programs: Fiscal Year 2023" >
-							</div>
-						</div>
-						<div class="col-md-9">
-							<div class="content">
-								<h4 class="card-title">
-									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2023
-								</h4>
-								<h5 class="card-subtitle mb-2 text-muted">Issue No. 16 - 2024</h5>
-								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2023 data.
-								</p>
-								<a href="/assets/2024/ATAP_2024_R.pdf" class="btn btn-primary">View
-									PDF</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
 	</div>
 	<p><a class="float-right" href="/publications-archive">See Past Reports >></a></p>
 	<br />
@@ -87,15 +86,13 @@ permalink: /catada-publications/
 								<p class="card-text">Go to the <strong><a href="https://acl.gov/about-acl/reports-congress-and-president">ACL Reports to Congress and the President page</a></strong>. Scroll down to the Assistive Technology Act Programs header to get the reports.
 								</p>
 								<p class="card-text">Statewide AT programs are required by law to collect data on their activities and provide annual progress reports to the Administration for Community Living (ACL). These reports are a compilation of data and contain information about the activities of statewide AT programs. </p>
-
     						</div>
     					</div>
     				</div>
     			</div>
     		</div>
     	</div>
-
     	<!--end card-->
-    </div>
+</div>
 
 </div>

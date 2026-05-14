@@ -7,6 +7,33 @@ permalink: /publications-archive/
 <div class="container">
 	 	<h2 class="block-heading"><span>AT Data Briefs</span></h2>
 <div class="row">
+<div class="col-md-6 d-flex">
+			<div class="card bg-light">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="image ">
+								<img class="img-fluid"
+									src="/assets/catada_pub_thumbs/ATAP_2024_R_thumb.png"
+									alt="A National Data Summary of State Assistive Technology Programs: Fiscal Year 2023" >
+							</div>
+						</div>
+						<div class="col-md-9">
+							<div class="content">
+								<h4 class="card-title">
+									A National Data Summary of State Assistive Technology Programs: Fiscal Year 2023
+								</h4>
+								<h5 class="card-subtitle mb-2 text-muted">Issue No. 16 - 2024</h5>
+								<p class="card-text">This AT Act Data Brief is a national summary of State Assistive Technology Programs' FY 2023 data.
+								</p>
+								<a href="/assets/2024/ATAP_2024_R.pdf" class="btn btn-primary">View
+									PDF</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	<div class="col-md-6 d-flex">
 			<div class="card bg-light">
 				<div class="card-body">
@@ -61,7 +88,6 @@ permalink: /publications-archive/
 			</div>
 		</div>
 	</div>
-
 	<div class="col-md-6 d-flex">
 		<div class="card bg-light">
 			<div class="card-body">
