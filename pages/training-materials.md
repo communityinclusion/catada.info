@@ -72,7 +72,7 @@ permalink: /training-materials/
 										Brief 13: When is “demonstrating devices” a Device Demonstration? </a>
 							</li>
 								<li class="list-group-item"><a
-									href="/assets/files/datamatters_accessibleFINAL.pdf"><i class="far fa-file-pdf"></i>
+									href="/assets/files/datamatters_update_R.pdf"><i class="far fa-file-pdf"></i>
 										Why Data Matters: How Your AT Data Can Work For You </a>
 							</li>
 								<li class="list-group-item"><a
