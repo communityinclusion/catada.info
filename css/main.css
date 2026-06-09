@@ -1,0 +1,290 @@
+
+/*Front Page */
+
+ul#servicesflow {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#servicesflow {
+	/* Clear floats */
+	/*overflow: hidden;*/
+	width: 100%;
+	min-width: 230px;
+
+}
+
+#servicesflow ul {
+	   height: 42px;
+ overflow: hidden;
+
+}
+
+
+#servicesflow li {
+	float: left;
+	margin:5px 5px 5px 15px;
+	font-size: 14px;
+
+}
+#servicesflow li a {
+
+   height: 42px;
+	display: flex;
+align-items: center;
+}
+
+
+
+
+
+#servicesflow .step1 a {
+	background: #b12c27;
+padding: 4px ;
+font-weight: 700;
+
+	float: left;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+}
+
+
+
+
+
+
+#servicesflow .step1 a::before  {
+	content: "";
+	position: absolute;
+	top: 50%;
+   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
+	border-style: solid;
+	border-color: #b12c27 #b12c27 #b12c27 transparent;
+	left: -13.75px;
+}
+
+
+#servicesflow .step1 a::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+    	border-left: 14px solid #b12c27;
+	right: -13.75px;
+}
+#servicesflow .step2 a, #servicesflow .step3 a, #servicesflow .step4 a, #servicesflow .step5 a  {
+	background: #D46A6A;
+padding: 4px ;
+	float: left;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+}
+
+
+
+#servicesflow .step2 a::before, #servicesflow .step3 a::before, #servicesflow .step4 a::before, #servicesflow .step5 a::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+   margin-top: -21px;
+      border-width: 21px 0 21.2px 14px;
+	border-style: solid;
+	border-color: #D46A6A #D46A6A #D46A6A transparent;
+	left: -13.75px;
+}
+
+
+
+#servicesflow .step2 a::after, #servicesflow .step3 a::after, #servicesflow .step4 a::after, #servicesflow .step5 a::after  {
+	content: "";
+	position: absolute;
+	top: 50%;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+	border-left: 14px solid #D46A6A;
+	right: -13.75px;
+}
+
+	#servicesflow  .step2 a:hover,#servicesflow  .step3 a:hover,#servicesflow  .step4 a:hover,#servicesflow  .step5 a:hover{
+	  background: #b12c27;
+	}
+
+#servicesflow .step2 a:hover::before, #servicesflow .step3 a:hover::before, #servicesflow .step4 a:hover::before, #servicesflow .step5 a:hover::before{
+	  border-color: #b12c27  #b12c27  #b12c27  transparent;
+	  }
+
+	  	#servicesflow  .step2 a:hover::after, #servicesflow  .step3 a:hover::after, #servicesflow  .step4 a:hover::after, #servicesflow  .step5 a:hover::after{
+	  border-left-color: #b12c27;
+	}
+
+
+
+
+ #servicesflow .step6 a {
+	background: #256497;
+padding: 4px ;
+font-weight: 700;
+	float: left;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+}
+
+
+ #servicesflow .step6 a::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
+	border-style: solid;
+	border-color: #256497 #256497 #256497 transparent;
+	left: -13.75px;
+}
+
+
+#servicesflow .step6 a::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+    	border-left: 14px solid #256497;
+	right: -13.75px;
+}
+
+
+
+  #servicesflow .step7 a,   #servicesflow .step8 a {
+	background: #6595BD;
+padding: 4px ;
+	float: left;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+}
+
+
+
+
+  #servicesflow .step7 a::before, #servicesflow .step8 a::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	   margin-top: -21px;
+    border-width: 21px 0 21.2px 14px;
+	border-style: solid;
+	border-color: #6595BD #6595BD #6595BD transparent;
+	left: -13.75px;
+}
+
+  #servicesflow .step7 a::after, #servicesflow .step8 a::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	  margin-top: -21px;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+	border-left: 14px solid #6595BD;
+	right: -13.75px;
+}
+
+
+	#servicesflow  .step7 a:hover,#servicesflow  .step8 a:hover{
+	  background: #256497;
+	}
+
+#servicesflow .step7 a:hover::before, #servicesflow .step8 a:hover::before{
+	  border-color: #256497 #256497 #256497 transparent;
+	  }
+
+	  	#servicesflow  .step7 a:hover::after, #servicesflow  .step8 a:hover::after{
+	  border-left-color: #256497;
+	}
+
+
+
+
+
+
+/*front page */
+.box{border: #00b4e5 2px solid;
+	padding:10px;
+}
+
+
+
+.feature-box {
+       margin: 10px 0;
+}
+.feature-box h2, .feature-box h3 {
+	color: #256497;
+	text-transform: uppercase
+}
+
+.shadebox{width:100%;
+	height:auto;
+	border: #dddddc solid 2px;
+	padding:10px;
+	   background-clip: padding-box;
+ 
+    
+}
+
+
+
+
+
+.shadebox-trans{
+background-color:#fffef8;}
+
+.shadebox h1 {	text-transform:uppercase;font-size: 36px ; text-align: center;color: #256497;
+ }
+.shadebox h3 {font-size: 18px;border-bottom:#dddddc solid 2px;text-align:center; font-weight: 700;}
+
+ul.block-list {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+
+
+
+/* Eye on Data homepage css for chart */
+
+
+  .chart-container {
+	position: relative;
+	margin: 2rem auto;
+	width: 95%;
+	max-width: 1000px;
+	height: 600px; /* taller chart */
+	padding-bottom: 75px;
+  }
+  canvas {
+	max-width: 100%;
+	height: 100% !important;
+  }
+
+
+  .visually-hidden {
+	position: absolute !important;
+	height: 1px; width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	white-space: nowrap;
+  }
+
+  #chart-caption {display: flex;
+	font-size:16px;
+line-height: 19px;}
