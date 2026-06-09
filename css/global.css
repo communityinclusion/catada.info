@@ -175,3 +175,15 @@ svg {cursor: pointer;}
 .accordion .btn-link[aria-expanded="true"]::after {
   transform: rotate(-180deg);
 }
+
+#stateHolder > div { display: none; }
+#stateHolder div.stateDisplay {display: block; }
+#stateHolder div.stateCompare, .block-content-glider {
+display: block;
+    background-color: #fff;
+    border-radius: 6px 6px 6px 6px;
+    margin-bottom: 30px;
+    padding: 8px;
+    border: 1px solid #5157AD;
+        width: 80%;
+}
