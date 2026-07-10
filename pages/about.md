@@ -9,7 +9,7 @@ permalink: about/
   Section 4 of the AT Act. State AT programs focus on improving the provision of AT through comprehensive, statewide
   programs that are consumer responsive. The goal is to increase access to and acquisition of AT. Programs serve people
   with all types of disabilities, of all ages, in all environments. CATADA is collaborative project between the <a
-    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">Institute for Community Inclusion</a> at UMass Boston, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and the <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer"> Illinois Assistive Technology Program (IATP)</a>.</p>
+    href="http://communityinclusion.org/" target="_blank" rel="noopener noreferrer">ICI/UMass Boston</a>, a <a href="https://www.aucd.org/template/page.cfm?id=24" target="_blank">University Center for Excellence in Developmental Disabilities</a> and the <a href="https://www.iltech.org/" target="_blank" rel="noopener noreferrer"> Illinois Assistive Technology Program (IATP)</a>.</p>
 
 <hr />
 
@@ -99,7 +99,7 @@ permalink: about/
   </h5>
   <div class="card-body">
 
-  <p class="card-text">The Center for Assistive Technology Act Data Assistance (CATADA) is a project supported by the Association of University Centers on Disabilities through Administration for Community Living (ACL) contract #75P00121C00057. CATADA provides technical assistance and supports to State Assistive Technology Programs funded under Section 4 of the 21st Century Assistive Technology Act (Public Law Number 117–263). CATADA is a collaborative project of the Institute for Community Inclusion at the University of Massachusetts Boston, and the Illinois Assistive Technology Program (IATP). The information on this website does not necessarily reflect the position or policy of ACL, and no official endorsement should be inferred.</p>
+  <p class="card-text">The Center for Assistive Technology Act Data Assistance (CATADA) is a project supported by the Association of University Centers on Disabilities through Administration for Community Living (ACL) contract #75P00121C00057. CATADA provides technical assistance and supports to State Assistive Technology Programs funded under Section 4 of the 21st Century Assistive Technology Act (Public Law Number 117–263). CATADA is a collaborative project of the ICI at the University of Massachusetts Boston, and the Illinois Assistive Technology Program (IATP). The information on this website does not necessarily reflect the position or policy of ACL, and no official endorsement should be inferred.</p>
 
   </div>
 
