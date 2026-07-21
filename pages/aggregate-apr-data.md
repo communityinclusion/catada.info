@@ -32,7 +32,7 @@ permalink: /aggregate-apr-data/
 <div>&nbsp;</div>
 <h2>Leveraged Funding Data</h2>
 <div><a href="/assets/aggr_reports25/Leveraged%20Funds.html">Leveraged Funds</a></div>
-<div><h4 style="margin-top: 20px">Archived APR Reports</h4>
+<div><h3 style="margin-top: 20px">Archived APR Reports</h3>
 <p id="to2023"><a href="/aggregate-apr-data-2024">Here are archived aggregate APR data reports from 2024.</a></p>
 <p id="to2023"><a href="/aggregate-apr-data-2023">Here are archived aggregate APR data reports from 2023.</a></p>
 <p id="to2022"><a href="/aggregate-apr-data-2022">Here are archived aggregate APR data reports from 2022.</a></p>

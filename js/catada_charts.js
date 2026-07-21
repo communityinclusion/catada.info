@@ -250,22 +250,22 @@ function summReportChecked() {
     if (summYes == 'summary') {
         jQuery('nav#sidebar').removeClass('sideActivity sideDown');
         jQuery('nav#sidebar').addClass('sideSumm');
-        jQuery('h1#chartTitle').text('Key Summary Tables');
+        jQuery('h2#chartTitle').text('Key Summary Tables');
         jQuery('button#chartRedraw').html('GENERATE <br /> Key Summary Tables');
         jQuery('#summYear').show();
         jQuery('#summCat').show();
         jQuery('#accordion > fieldset').hide();
         jQuery('#accordion .groupYear').hide();
         jQuery('#accordion .groupState').hide();
-        jQuery('#sidebar h4.p-2').hide();
-        jQuery('#sidebar h4.p-2.activityStates').parent().hide();
-        jQuery('#sidebar h4.p-2.activityYears').parent().hide();
-        jQuery('#sidebar #otherOpts h4.p-2').show();
-        jQuery('#sidebar h4.p-2.summCatHed').show();
-        jQuery('#sidebar h4.p-2.summYearHed').show();
+        jQuery('#sidebar h3.p-2').hide();
+        jQuery('#sidebar h3.p-2.activityStates').parent().hide();
+        jQuery('#sidebar h3.p-2.activityYears').parent().hide();
+        jQuery('#sidebar #otherOpts h3.p-2').show();
+        jQuery('#sidebar h3.p-2.summCatHed').show();
+        jQuery('#sidebar h3.p-2.summYearHed').show();
 
-        jQuery('#sidebar h4.p-2.summCatHed').parent().show();
-        jQuery('#sidebar h4.p-2.summYearHed').parent().show();
+        jQuery('#sidebar h3.p-2.summCatHed').parent().show();
+        jQuery('#sidebar h3.p-2.summYearHed').parent().show();
 
 
         //jQuery('button.multiselect.dropdown-toggle').prop('disabled',true);
@@ -285,51 +285,51 @@ function summReportChecked() {
         //jQuery('button.multiselect.dropdown-toggle').removeAttr('disabled');
         //jQuery('#stateDrop').show(); jQuery('#yearDrop').show();
 
-        jQuery('h1#chartTitle').text('Raw Data Files');
+        jQuery('h2#chartTitle').text('Raw Data Files');
         jQuery('button#chartRedraw').html('GENERATE<br />Raw Data for Download');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').hide();
         jQuery('#accordion .groupYear').show();
         jQuery('#accordion .groupState').show();
-        jQuery('#sidebar h4.p-2').hide();
-        jQuery('#sidebar #otherOpts h4.p-2').show();
-        jQuery('#sidebar h4.p-2.downloadStates').show();
-        jQuery('#sidebar h4.p-2.downloadYears').show();
-        jQuery('#sidebar h4.p-2.summCatHed').hide();
-        jQuery('#sidebar h4.p-2.summYearHed').hide();
-        jQuery('#sidebar h4#categoryRadios.p-2').hide();
+        jQuery('#sidebar h3.p-2').hide();
+        jQuery('#sidebar #otherOpts h3.p-2').show();
+        jQuery('#sidebar h3.p-2.downloadStates').show();
+        jQuery('#sidebar h3.p-2.downloadYears').show();
+        jQuery('#sidebar h3.p-2.summCatHed').hide();
+        jQuery('#sidebar h3.p-2.summYearHed').hide();
+        jQuery('#sidebar h3#categoryRadios.p-2').hide();
         jQuery('#otherOpts a#otherDown').hide();
         jQuery('#otherOpts a#otherSumm').show();
         jQuery('#otherOpts a#otherActiv').show();
-        jQuery('#sidebar h4.p-2.summCatHed').parent().hide();
-        jQuery('#sidebar h4.p-2.summYearHed').parent().hide();
+        jQuery('#sidebar h3.p-2.summCatHed').parent().hide();
+        jQuery('#sidebar h3.p-2.summYearHed').parent().hide();
         return 'download';
 
     } else {
         jQuery('nav#sidebar').removeClass('sideDown sideSumm');
         jQuery('nav#sidebar').addClass('sideActivity');
-        jQuery('h1#chartTitle').text('Custom Charts and Tables');
+        jQuery('h2#chartTitle').text('Custom Charts and Tables');
         jQuery('button#chartRedraw').html('GENERATE<br />Charts &amp; Tables');
         jQuery('#summYear').hide();
         jQuery('#summCat').hide();
         jQuery('#accordion > fieldset').show();
         jQuery('#accordion .groupYear').show();
         jQuery('#accordion .groupState').show();
-        jQuery('#sidebar h4.p-2').hide();
-        jQuery('#sidebar #otherOpts h4.p-2').show();
-        jQuery('#sidebar h4.p-2.activityStates').show();
+        jQuery('#sidebar h3.p-2').hide();
+        jQuery('#sidebar #otherOpts h3.p-2').show();
+        jQuery('#sidebar h3.p-2.activityStates').show();
 
-        jQuery('#sidebar h4.p-2.activityStates').parent().show();
+        jQuery('#sidebar h3.p-2.activityStates').parent().show();
 
-        jQuery('#sidebar h4.p-2.activityYears').parent().show();
-        jQuery('#sidebar h4.p-2.activityYears').show();
-        jQuery('#sidebar h4.p-2.summCatHed').hide();
-        jQuery('#sidebar h4.p-2.summYearHed').hide();
-        jQuery('#sidebar h4.p-2.summCatHed').parent().hide();
-        jQuery('#sidebar h4.p-2.summYearHed').parent().hide();
+        jQuery('#sidebar h3.p-2.activityYears').parent().show();
+        jQuery('#sidebar h3.p-2.activityYears').show();
+        jQuery('#sidebar h3.p-2.summCatHed').hide();
+        jQuery('#sidebar h3.p-2.summYearHed').hide();
+        jQuery('#sidebar h3.p-2.summCatHed').parent().hide();
+        jQuery('#sidebar h3.p-2.summYearHed').parent().hide();
 
-        jQuery('#sidebar h4#categoryRadios.p-2').show();
+        jQuery('#sidebar h3#categoryRadios.p-2').show();
 
         jQuery('#otherOpts a#otherDown').show();
         jQuery('#otherOpts a#otherSumm').show();
@@ -952,7 +952,7 @@ function drawSheetName() {
         } else {
             jQuery('#chart_div').empty();
         }
-        jQuery('.downloadButton h5.dlHeading').remove();
+        jQuery('.downloadButton h4.dlHeading').remove();
         if (jQuery('.clearable').hasClass('card-header')) jQuery('.clearable').removeClass('card-header');
         jQuery('.clearable').empty();
         if(!jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').addClass('toggleShow');
@@ -978,10 +978,10 @@ function drawSheetName() {
              if(jQuery('.switchNum.dlChoice').hasClass('toggleShow'))jQuery('.switchNum.dlChoice').removeClass('toggleShow');
          }
         if (summReportChecked() != 'download')  { if(!jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').addClass('toggleShow'); }
-        if (reportchoice == '30') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h5>");
-        else if(reportchoice >= '31' && reportchoice <= '36') jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download a summary spreadsheet" + " for " + yearstext + "</h5>");
-        else if (clearAll) {jQuery('#body_div').empty(); jQuery('.downloadButton').empty(); jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Choose variables at left for another search</h5>"); if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow'); }
-        else jQuery('.downloadButton').prepend("<h5 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h5>");
+        if (reportchoice == '30') jQuery('.downloadButton').prepend("<h4 class=\"dlHeading clearable\">Download a spreadsheet with all categories for " + statenametext + " for " + yearstext + "</h4>");
+        else if(reportchoice >= '31' && reportchoice <= '36') jQuery('.downloadButton').prepend("<h4 class=\"dlHeading clearable\">Download a summary spreadsheet" + " for " + yearstext + "</h4>");
+        else if (clearAll) {jQuery('#body_div').empty(); jQuery('.downloadButton').empty(); jQuery('.downloadButton').prepend("<h4 class=\"dlHeading clearable\">Choose variables at left for another search</h4>"); if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow'); }
+        else jQuery('.downloadButton').prepend("<h4 class=\"dlHeading clearable\">Download results for " + statenametext + " for " + yearstext + "</h4>");
         updateSelectCount('state');
         updateSelectCount('year');
 
@@ -1014,7 +1014,7 @@ function drawSheetName() {
         if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow');
         if(jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').removeClass('toggleShow');
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more states at left.</h5>');
+        jQuery('#chart_div').prepend('<h4 class="clearable selectWarn">Please choose one or more states at left.</h4>');
         jQuery('#chart_div > div').remove();
         if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
     } else if (countChecks('state') != 0 && countChecks('year') == 0 && summReportChecked() != 'summary') {
@@ -1025,7 +1025,7 @@ function drawSheetName() {
         if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow');
         if(jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').removeClass('toggleShow');
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose one or more years at left.</h5>');
+        jQuery('#chart_div').prepend('<h4 class="clearable selectWarn">Please choose one or more years at left.</h4>');
         jQuery('#chart_div > div').remove();
         if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
         if(jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').removeClass('toggleShow');
@@ -1037,7 +1037,7 @@ function drawSheetName() {
         if(jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').removeClass('toggleShow');
         if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow');
         jQuery('.selectWarn').remove();
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please choose an activity, state(s) and year(s) at left to begin.</h5>');
+        jQuery('#chart_div').prepend('<h4 class="clearable selectWarn">Please choose an activity, state(s) and year(s) at left to begin.</h4>');
         jQuery('#chart_div > div').remove();
         if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
     } else if (summReportChecked() == 'summary' && !jQuery('input[name="summChoose"]:checked').val()) {
@@ -1047,7 +1047,7 @@ function drawSheetName() {
         if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
         jQuery('.selectWarn').remove();
         if(jQuery('.switchNum').hasClass('toggleShow'))jQuery('.switchNum').removeClass('toggleShow');
-        jQuery('#chart_div').prepend('<h5 class="clearable selectWarn">Please a year at left for your summary report.</h5>');
+        jQuery('#chart_div').prepend('<h4 class="clearable selectWarn">Please a year at left for your summary report.</h4>');
         jQuery('#chart_div > div').remove();
         if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
         if(jQuery('button#printButton').hasClass('toggleShow')) jQuery('button#printButton').removeClass('toggleShow');
@@ -1185,20 +1185,20 @@ function doQuery(q, i, reportHeader, reportchoice) {
     var tableTitleTarget = 'table_div_' + i + '_title';
     
     /* if(summReportChecked()) {
-        jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h5><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h5>' );
+        jQuery('#' + tableTitleTarget).attr('data-target',tableTarget).addClass('card-header clearable').append('<h4><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#' + tableTarget + '" aria-expanded="false" aria-controls="' + tableTarget + '"><strong>' + reportHeader + (reportchoice == '30' ?' in ' + statenametext : '') + ' for ' + yearstext + '</strong></button></h4>' );
         if(!jQuery('#' + tableTarget).hasClass('collapse'))jQuery('#' + tableTarget).addClass('collapse'); jQuery('#' + tableTarget).attr('aria-labelledby',tableTitleTarget).attr('data-parent','#summ_accordion').attr('aria-expanded',false);
 
     } else */
     if (reportchoice == '30') {
         return;
     } else if (reportchoice >= '31' && reportchoice <= '36') {
-        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' ' + yearstext + '</strong></h5><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
+        jQuery('#' + tableTitleTarget).append('<h4><strong>' + reportHeader + ' ' + yearstext + '</strong></h4><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
         jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
 
     }
      else {
-        jQuery('#' + tableTitleTarget).append('<h5><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h5><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
+        jQuery('#' + tableTitleTarget).append('<h4><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h4><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
         jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
 
@@ -1208,8 +1208,8 @@ function doQuery(q, i, reportHeader, reportchoice) {
         var dataView = new google.visualization.DataView(data);
         var numrows = dataView.getNumberOfRows();
         if (numrows === 0 && i === 0 && !clearAll) {
-            jQuery('#chart_div').prepend('<h5>Your query produced no results.  Try again.</h5>');
-            jQuery('#' + tableTitleTarget + ' h5').remove();
+            jQuery('#chart_div').prepend('<h4>Your query produced no results.  Try again.</h4>');
+            jQuery('#' + tableTitleTarget + ' h4').remove();
             jQuery('#chart_div > div').remove();
             jQuery('#legend_div').empty();
             if(jQuery('button#spreadDL').hasClass('toggleShow')) jQuery('button#spreadDL').removeClass('toggleShow');
