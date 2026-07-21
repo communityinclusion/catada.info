@@ -35,7 +35,7 @@ h2.block-heading span {padding-left:5px;
 
 }
 
-
+a {color:#1d6fb2}
 
 /*-------Nav/Header--------*/
 .disclaimer-bar {
@@ -57,13 +57,13 @@ h2.block-heading span {padding-left:5px;
 	color: #b22d27
 }
 .blue {
-	background-color: #00b4e6
+	background-color: #3f97af
 }
 .bluef {
-	color: #00b4e6
+	color: #1796b8;
 }
 .green {
-	background-color: #5d9732
+	background-color: #51832B
 }
 .greenf {
 	color: #5d9732
@@ -86,7 +86,7 @@ h2.block-heading span {padding-left:5px;
 	}
 }
 nav li {
-	font-size: 18px;
+	font-size: 19px;
 	font-weight: 700;
 	padding-right: 5px;
 }
@@ -106,6 +106,14 @@ nav li a:hover {
 }
 
 
+.alert-primary {background-color:#eff7ff!important;}
+
+.btn-primary {background-color:#1d6fb2; border-color:#1d6fb2; color:#fff;}
+.btn-link {color:#1d6fb2; }
+.btn-primary:hover {background-color:#0056b3;}
+.text-muted {
+    color: #696d71 !important;
+}
 /*-------Footer--------*/
 
 .footer-copyright {
