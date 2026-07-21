@@ -36,6 +36,9 @@ h2.block-heading span {padding-left:5px;
 }
 
 a {color:#1d6fb2}
+main a {
+  text-decoration: underline;
+}
 
 /*-------Nav/Header--------*/
 .disclaimer-bar {
