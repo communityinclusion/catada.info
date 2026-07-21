@@ -77,7 +77,7 @@ font-weight: 700;
 	right: -13.75px;
 }
 #servicesflow .step2 a, #servicesflow .step3 a, #servicesflow .step4 a, #servicesflow .step5 a  {
-	background: #D46A6A;
+	background: #bd5151;
 padding: 4px ;
 	float: left;
 	text-decoration: none;
@@ -94,7 +94,7 @@ padding: 4px ;
    margin-top: -21px;
       border-width: 21px 0 21.2px 14px;
 	border-style: solid;
-	border-color: #D46A6A #D46A6A #D46A6A transparent;
+	border-color: #bd5151 #bd5151 #bd5151 transparent;
 	left: -13.75px;
 }
 
@@ -107,7 +107,7 @@ padding: 4px ;
 	  margin-top: -21px;
     border-top: 21px solid transparent;
     border-bottom: 21px solid transparent;
-	border-left: 14px solid #D46A6A;
+	border-left: 14px solid #bd5151;
 	right: -13.75px;
 }
 
@@ -116,7 +116,7 @@ padding: 4px ;
 	}
 
 #servicesflow .step2 a:hover::before, #servicesflow .step3 a:hover::before, #servicesflow .step4 a:hover::before, #servicesflow .step5 a:hover::before{
-	  border-color: #b12c27  #b12c27  #b12c27  transparent;
+	  border-color: #b12c27  #b12c27  #b12c27 transparent;
 	  }
 
 	  	#servicesflow  .step2 a:hover::after, #servicesflow  .step3 a:hover::after, #servicesflow  .step4 a:hover::after, #servicesflow  .step5 a:hover::after{
@@ -163,7 +163,7 @@ font-weight: 700;
 
 
   #servicesflow .step7 a,   #servicesflow .step8 a {
-	background: #6595BD;
+	background: #537A9B;
 padding: 4px ;
 	float: left;
 	text-decoration: none;
@@ -181,7 +181,7 @@ padding: 4px ;
 	   margin-top: -21px;
     border-width: 21px 0 21.2px 14px;
 	border-style: solid;
-	border-color: #6595BD #6595BD #6595BD transparent;
+	border-color: #537A9B #537A9B #537A9B transparent;
 	left: -13.75px;
 }
 
@@ -192,7 +192,7 @@ padding: 4px ;
 	  margin-top: -21px;
     border-top: 21px solid transparent;
     border-bottom: 21px solid transparent;
-	border-left: 14px solid #6595BD;
+	border-left: 14px solid #537A9B;
 	right: -13.75px;
 }
 
