@@ -107,7 +107,8 @@ nav li a:hover {
 
 
 .alert-primary {background-color:#eff7ff!important;}
-
+.alert-info {background-color:#eff7ff!important;}
+.alert-secondary {background-color:#eee!important;}
 .btn-primary {background-color:#1d6fb2; border-color:#1d6fb2; color:#fff;}
 .btn-link {color:#1d6fb2; }
 .btn-primary:hover {background-color:#0056b3;}
