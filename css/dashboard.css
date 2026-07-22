@@ -651,4 +651,5 @@ th.google-visualization-table-th {background-color: #333;}
 }
 .chartsection:hover {border:1px #000 solid;}
 #chartSelector h3 { font-size: 1.4rem; color: #333;}
-
+.toggleShow .btn-info {font-weight: 600; font-size: 100%;}
+#chartRedraw.btn {font-weight: 600;}
