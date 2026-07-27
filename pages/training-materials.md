@@ -11,7 +11,7 @@ permalink: /training-materials/
 				<div class="row">
 					<div class="alert alert-info" role="alert" style="margin:auto;" >
 					<p><a
-								href="https://docs.communityinclusion.org/training-and-technical-assistance-materials/"><i class="bi bi-filetype-html"></i> See all briefs in our online Resource Briefs tool.</a> <span style="color:red;">New!</span></p>
+								href="https://docs.communityinclusion.org/training-and-technical-assistance-materials/"><i class="bi bi-filetype-html"></i> See all briefs in our online Resource Briefs tool.</a> <span style="color:#d60b0b;">New!</span></p>
 					</div>
 				</div>
 				<div class="row">
@@ -103,7 +103,6 @@ permalink: /training-materials/
     <a href="https://fast.wistia.com/embed/channel/cyxhppzsmp" target="_new"><strong><i class="bi bi-archive"></i> View archived APR Data, State Plan, and NATADS webinars from 2018-2022</strong></a>
 </p>
 				<p><br></p>
-					
 					<hr />
 					<div class="alert alert-secondary" role="alert">
 						Enter your Annual Progress Report (APR) data and day-to-day component into <a

@@ -358,7 +358,7 @@ function legendBuild(legendNum) {
     if (numCount < 1) return;
     //legendStruct = '<div class="legendElem"><div class="legendColorBlock legendNum' + legendNum + '"></div>' + legNumText + '</div>';
     for (i = 0; i < numCount; i++) {
-        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"><img src="/assets/legend' + i + '.png" /></div><div class="legendText">' + arraySub[i] + '</div></div>');
+        legendOut.push('<div class="legendElem"><div class="legendColorBlock legendNum' + i + '"><img src="/assets/legend' + i + '.png" alt="' + arraySub[i] + '" /></div><div class="legendText">' + arraySub[i] + '</div></div>');
 
     }
     return legendOut;
@@ -1194,13 +1194,13 @@ function doQuery(q, i, reportHeader, reportchoice) {
     } else if (reportchoice >= '31' && reportchoice <= '36') {
         jQuery('#' + tableTitleTarget).append('<h4><strong>' + reportHeader + ' ' + yearstext + '</strong></h4><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
-        jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
+        jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion');
 
     }
      else {
         jQuery('#' + tableTitleTarget).append('<h4><strong>' + reportHeader + ' in ' + statenametext + ' for ' + yearstext + '</strong></h4><p class="tableInstruct"><em>Select the table headings to sort table data</em></p>');
         if (jQuery('#' + tableTarget).hasClass('collapse')) jQuery('#' + tableTarget).removeClass('collapse');
-        jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion').attr('aria-expanded', true);
+        jQuery('#' + tableTarget).attr('aria-labelledby', tableTitleTarget).attr('data-parent', '#summ_accordion');
 
     }
     q.send(function(response) {
