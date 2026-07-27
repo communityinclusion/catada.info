@@ -17,6 +17,20 @@
 body {
 	font-family: 'roboto', sans-serif;
 }
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: #fff;
+  padding: 8px 16px;
+  z-index: 100;
+  transition: top 0.2s ease-in-out;
+}
+
+.skip-link:focus {
+  top: 0;
+}
 h1 {
 	margin-bottom: 20px;
 	padding-bottom: 9px;
