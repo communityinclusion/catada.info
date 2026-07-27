@@ -158,6 +158,77 @@ nav li a:hover, nav li button:hover {
 	font-weight: 700
 }
 
+.footer-links {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 6px 16px;
+}
+
+#footer-search {
+	position: relative;
+	flex: 0 1 200px;
+	min-width: 140px;
+}
+
+#footer-search .pagefind-ui {
+	--pagefind-ui-scale: 0.6;
+	--pagefind-ui-primary: #0073AE;
+	--pagefind-ui-text: #333333;
+	--pagefind-ui-background: #ffffff;
+	--pagefind-ui-border: #dddddd;
+}
+
+#footer-search .pagefind-ui__search-input {
+	background-color: rgba(255, 255, 255, 0.15);
+	border-color: rgba(255, 255, 255, 0.6);
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#footer-search .pagefind-ui__search-input::placeholder {
+	color: rgba(255, 255, 255, 0.85);
+	opacity: 1;
+}
+
+#footer-search .pagefind-ui__form::before {
+	background-color: #ffffff;
+}
+
+#footer-search .pagefind-ui__search-clear {
+	color: #ffffff;
+	background-color: transparent;
+}
+
+/* Float results above the input instead of pushing footer content down */
+#footer-search .pagefind-ui__drawer {
+	position: absolute;
+	bottom: 100%;
+	left: 0;
+	margin-bottom: 10px;
+	width: 340px;
+	max-width: 90vw;
+	max-height: 60vh;
+	overflow-y: auto;
+	background: #ffffff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+	z-index: 1050;
+	flex-wrap: nowrap;
+}
+
+@media only screen and (max-width: 767px) {
+	#footer-search {
+		flex: 1 1 100%;
+		min-width: 0;
+	}
+	#footer-search .pagefind-ui__drawer {
+		width: 100%;
+		max-width: 100%;
+	}
+}
 
 .footer-partners {
 	font-size: 12px;

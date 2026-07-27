@@ -32,13 +32,31 @@
 
 
 <div class="row footer-copyright">
-<div class="col-md-8 col-sm-12 footer-copyright-title col-align col-align--center">
+<div class="col-md-6 col-sm-12 footer-copyright-title col-align col-align--center">
 <p> &copy; {{ site.time | date: '%Y' }}<strong>&nbsp;<a href="http://communityinclusion.org">ICI/UMass Boston</a></strong>.</p>
 </div><!--
-    --><div class="col-md-4 col-sm-12 col-align col-align--center">
-<a href="{{ site.baseurl }}/about">ABOUT</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/accessibility">ACCESSIBILITY</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/contact">CONTACT</a></div>
+    --><div class="col-md-6 col-sm-12 col-align col-align--center footer-links">
+<span class="footer-links-text"><a href="{{ site.baseurl }}/about">ABOUT</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/accessibility">ACCESSIBILITY</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/contact">CONTACT</a></span>
+<div id="footer-search"></div>
 </div>
 </div>
+</div>
+
+<link href="{{ site.baseurl }}/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/pagefind/pagefind-ui.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({
+        element: "#footer-search",
+        showSubResults: false,
+        showImages: false,
+        translations: {
+            placeholder: "Search site..."
+        },
+        resetStyles: false
+    });
+});
+</script>
 
 
 
