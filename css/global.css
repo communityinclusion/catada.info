@@ -107,12 +107,22 @@ nav li {
 	font-weight: 700;
 	padding-right: 5px;
 }
-nav li a:hover {
+nav li a:hover, nav li button:hover {
 	color: #fff;
 	opacity: 1
 }
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link {
 	color: rgba(255, 255, 255, 1.0);
+}
+.navbar-nav .dropdown-toggle {
+	-webkit-appearance: none;
+	appearance: none;
+	border: 0;
+	margin: 0;
+	width: 100%;
+	font: inherit;
+	text-align: inherit;
+	cursor: pointer;
 }
 
 .dropdown-toggle::after {
