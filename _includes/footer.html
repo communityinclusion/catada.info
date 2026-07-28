@@ -55,6 +55,19 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         resetStyles: false
     });
+
+    // Pagefind's widget calls preventDefault on Enter itself, so listen
+    // here (delegated, since the input is rendered async) to still send
+    // the user to a full results page.
+    document.getElementById("footer-search").addEventListener("keydown", function (e) {
+        if (e.key !== "Enter" || !e.target.matches(".pagefind-ui__search-input")) {
+            return;
+        }
+        var query = e.target.value.trim();
+        if (query) {
+            window.location.href = "{{ site.baseurl }}/search/?q=" + encodeURIComponent(query);
+        }
+    });
 });
 </script>
 

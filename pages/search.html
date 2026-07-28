@@ -1,0 +1,42 @@
+---
+layout: default
+title: Search Results
+permalink: /search/
+---
+<div id="search-results"></div>
+
+<link href="{{ site.baseurl }}/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/pagefind/pagefind-ui.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({
+        element: "#search-results",
+        showSubResults: false,
+        showImages: false,
+        translations: {
+            placeholder: "Search site..."
+        },
+        resetStyles: false
+    });
+
+    var initialQuery = new URLSearchParams(window.location.search).get("q");
+    if (!initialQuery) {
+        return;
+    }
+
+    // PagefindUI mounts its input asynchronously, so wait for it before
+    // seeding the query from the URL and triggering the search.
+    var tries = 0;
+    var waitForInput = setInterval(function () {
+        var input = document.querySelector("#search-results .pagefind-ui__search-input");
+        tries++;
+        if (input) {
+            clearInterval(waitForInput);
+            input.value = initialQuery;
+            input.dispatchEvent(new Event("input", { bubbles: true }));
+        } else if (tries > 100) {
+            clearInterval(waitForInput);
+        }
+    }, 50);
+});
+</script>

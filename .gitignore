@@ -10,3 +10,4 @@ Gemfile
 Gemfile.lock
 .gitignore
 .DS_Store
+.playwright-mcp
