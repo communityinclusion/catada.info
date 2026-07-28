@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
-ruby "3.1.3"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+gem "mutex_m"
+gem "ostruct"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the

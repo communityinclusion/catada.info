@@ -1,0 +1,104 @@
+---
+layout: default
+title: Search Results
+permalink: /search/
+---
+<form role="search" action="{{ site.baseurl }}/search/" method="get" class="search-page-form">
+<label for="search-page-input">Search this site</label>
+<input type="search" id="search-page-input" name="q">
+<button type="submit">Search</button>
+</form>
+
+<p id="search-status" aria-live="polite"></p>
+
+<ul id="search-results-list" class="search-results-list"></ul>
+
+<button id="search-load-more" type="button" class="search-load-more" hidden>Show more results</button>
+
+<script type="module">
+import * as pagefind from "{{ site.baseurl }}/pagefind/pagefind.js";
+
+const PAGE_SIZE = 20;
+
+const status = document.getElementById("search-status");
+const list = document.getElementById("search-results-list");
+const loadMoreButton = document.getElementById("search-load-more");
+const params = new URLSearchParams(window.location.search);
+const query = params.get("q");
+
+if (document.getElementById("search-page-input")) {
+    document.getElementById("search-page-input").value = query || "";
+}
+
+let rawResults = [];
+let shownCount = 0;
+let currentTerm = "";
+
+function updateStatus() {
+    const total = rawResults.length;
+    if (total === 0) {
+        status.textContent = 'No results found for "' + currentTerm + '".';
+        return;
+    }
+    if (shownCount >= total) {
+        status.textContent = "Showing all " + total + (total === 1 ? " result" : " results") + ' for "' + currentTerm + '".';
+    } else {
+        status.textContent = "Showing " + shownCount + " of " + total + ' results for "' + currentTerm + '".';
+    }
+}
+
+async function showNextPage() {
+    const nextBatch = rawResults.slice(shownCount, shownCount + PAGE_SIZE);
+    const results = await Promise.all(nextBatch.map(function (r) { return r.data(); }));
+
+    results.forEach(function (result) {
+        const item = document.createElement("li");
+        item.className = "search-result";
+
+        const heading = document.createElement("h2");
+        const link = document.createElement("a");
+        link.href = result.url;
+        link.textContent = result.meta && result.meta.title ? result.meta.title : result.url;
+        heading.appendChild(link);
+        item.appendChild(heading);
+
+        const excerpt = document.createElement("p");
+        // result.excerpt is Pagefind-generated HTML (highlighted matches
+        // via <mark>) built from our own indexed page content, not raw
+        // user input, so it's safe to insert directly.
+        excerpt.innerHTML = result.excerpt;
+        item.appendChild(excerpt);
+
+        list.appendChild(item);
+    });
+
+    shownCount += results.length;
+    updateStatus();
+    loadMoreButton.hidden = shownCount >= rawResults.length;
+}
+
+loadMoreButton.addEventListener("click", showNextPage);
+
+async function runSearch(term) {
+    currentTerm = term;
+    status.textContent = "Searching...";
+    list.innerHTML = "";
+    loadMoreButton.hidden = true;
+    shownCount = 0;
+
+    await pagefind.init();
+    const search = await pagefind.search(term);
+    rawResults = search.results;
+
+    if (rawResults.length === 0) {
+        updateStatus();
+        return;
+    }
+
+    await showNextPage();
+}
+
+if (query) {
+    runSearch(query);
+}
+</script>

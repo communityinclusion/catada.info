@@ -29,6 +29,12 @@ theme:
 plugins:
   - jekyll-feed
 
+# Preserve the Pagefind search index/UI assets (written into _site by the
+# `pagefind` CLI after the Jekyll build) so Jekyll's regeneration doesn't
+# delete them.
+keep_files:
+  - pagefind
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
