@@ -1,3 +1,9 @@
 [build]
   command = "bundle exec jekyll build && npx --yes pagefind --site _site"
   publish = "_site"
+
+[build.environment]
+  # Netlify was otherwise falling back to a very old cached Node (v8),
+  # whose npx predates the --yes flag and can't run the Pagefind indexing
+  # step. Pin a modern version explicitly.
+  NODE_VERSION = "20"
