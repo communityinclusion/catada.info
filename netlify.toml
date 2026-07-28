@@ -1,5 +1,9 @@
 [build]
-  command = "bundle exec jekyll build && npx --yes pagefind --site _site"
+  # The --glob list limits indexing to real site content. Without it,
+  # Pagefind also walks apr_reports17-25 (505 auto-exported per-state
+  # report pages, ~4.9M words total) and blows well past Netlify's build
+  # timeout. Add new content directories here as they're created.
+  command = "bundle exec jekyll build && npx --yes pagefind --site _site --glob \"{*.html,about/**/*.html,accessibility/**/*.html,aggregate-apr-data/**/*.html,aggregate-apr-data-2017/**/*.html,aggregate-apr-data-2018/**/*.html,aggregate-apr-data-2019/**/*.html,aggregate-apr-data-2020/**/*.html,aggregate-apr-data-2021/**/*.html,aggregate-apr-data-2022/**/*.html,aggregate-apr-data-2023/**/*.html,aggregate-apr-data-2024/**/*.html,at/**/*.html,catada-publications/**/*.html,chart-tool-tutorials/**/*.html,contact/**/*.html,data-tutorial-videos/**/*.html,effective-state-practices/**/*.html,federal-reporting-forms/**/*.html,innovative-program-ideas/**/*.html,program-participation/**/*.html,publications-archive/**/*.html,search/**/*.html,state-plan-data/**/*.html,stories-from-the-field/**/*.html,training-materials/**/*.html}\""
   publish = "_site"
 
 [build.environment]
