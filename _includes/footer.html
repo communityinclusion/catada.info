@@ -37,39 +37,14 @@
 </div><!--
     --><div class="col-md-6 col-sm-12 col-align col-align--center footer-links">
 <span class="footer-links-text"><a href="{{ site.baseurl }}/about">ABOUT</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/accessibility">ACCESSIBILITY</a> &nbsp; | &nbsp; <a href="{{ site.baseurl }}/contact">CONTACT</a></span>
-<div id="footer-search"></div>
+<form class="footer-search" role="search" action="{{ site.baseurl }}/search/" method="get">
+<label for="footer-search-input" class="sr-only">Search this site</label>
+<input type="search" id="footer-search-input" name="q" placeholder="Search site...">
+<button type="submit">Search</button>
+</form>
 </div>
 </div>
 </div>
-
-<link href="{{ site.baseurl }}/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="{{ site.baseurl }}/pagefind/pagefind-ui.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-    new PagefindUI({
-        element: "#footer-search",
-        showSubResults: false,
-        showImages: false,
-        translations: {
-            placeholder: "Search site..."
-        },
-        resetStyles: false
-    });
-
-    // Pagefind's widget calls preventDefault on Enter itself, so listen
-    // here (delegated, since the input is rendered async) to still send
-    // the user to a full results page.
-    document.getElementById("footer-search").addEventListener("keydown", function (e) {
-        if (e.key !== "Enter" || !e.target.matches(".pagefind-ui__search-input")) {
-            return;
-        }
-        var query = e.target.value.trim();
-        if (query) {
-            window.location.href = "{{ site.baseurl }}/search/?q=" + encodeURIComponent(query);
-        }
-    });
-});
-</script>
 
 
 
