@@ -1,0 +1,184 @@
+- generic [active] [ref=f8e1]:
+  - link "Skip to main content" [ref=f8e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f8e3]:
+    - heading [level=1] [ref=f8e6]:
+      - link "Home" [ref=f8e7] [cursor=pointer]:
+        - /url: /
+        - 'img "Catada: Center for Assistive Technology ACT Data Assistance" [ref=f8e8]'
+  - navigation [ref=f8e9]:
+    - button "Toggle navigation" [ref=f8e11] [cursor=pointer]
+  - alert [ref=f8e13]:
+    - strong [ref=f8e15]:
+      - text: Access
+      - link "NATADS" [ref=f8e16] [cursor=pointer]:
+        - /url: https://www.state572data.net/admin/Login?ReturnUrl=%2fhome
+      - text: to enter data for your State Plan for AT, Annual Progress Report (APR) and the day-to-day data management component. Login is required.
+  - main [ref=f8e17]:
+    - main [ref=f8e19]:
+      - generic [ref=f8e21]:
+        - generic [ref=f8e24]:
+          - heading "Discover What You Can Do on CATADA" [level=1] [ref=f8e25]
+          - paragraph [ref=f8e26]: Whether you're part of an AT program, a policymaker, an advocate, or an individual seeking support, CATADA offers powerful tools and insights.
+        - generic [ref=f8e27]:
+          - generic [ref=f8e29]:
+            - heading "State & Territory AT Programs" [level=3] [ref=f8e30]
+            - paragraph [ref=f8e31]:
+              - text: Use
+              - link "data to compare your program" [ref=f8e32] [cursor=pointer]:
+                - /url: /at/
+              - text: to others across the nation & guide evaluation and growth
+            - paragraph [ref=f8e33]:
+              - text: Get easy access to
+              - link "APR data entry tools and State Plan info" [ref=f8e34] [cursor=pointer]:
+                - /url: /federal-reporting-forms/
+          - generic [ref=f8e36]:
+            - heading "Policymakers & Grant Administrators" [level=3] [ref=f8e37]
+            - paragraph [ref=f8e38]:
+              - text: See the
+              - link "full scope of AT Program activities" [ref=f8e39] [cursor=pointer]:
+                - /url: https://initiatives.catada.info/
+              - text: across the US and Territories
+            - paragraph [ref=f8e40]:
+              - text: Track long-term impacts through
+              - link "multi-year data" [ref=f8e41] [cursor=pointer]:
+                - /url: /at/
+          - generic [ref=f8e43]:
+            - heading "People with Disabilities & Families" [level=3] [ref=f8e44]
+            - paragraph [ref=f8e45]:
+              - text: Explore what AT Programs offer in
+              - link "your state or territory" [ref=f8e46] [cursor=pointer]:
+                - /url: /state
+            - paragraph [ref=f8e47]: Learn how to access services that support independence
+          - generic [ref=f8e49]:
+            - heading "Advocates & Researchers" [level=3] [ref=f8e50]
+            - paragraph [ref=f8e51]:
+              - text: Find inspiring
+              - link "consumer success stories" [ref=f8e52] [cursor=pointer]:
+                - /url: /stories-from-the-field/
+              - text: and
+              - link "cutting-edge practices" [ref=f8e53] [cursor=pointer]:
+                - /url: https://initiatives.catada.info/
+            - paragraph [ref=f8e54]:
+              - link "Tap into reports" [ref=f8e55] [cursor=pointer]:
+                - /url: /at/?report=summary
+              - text: and
+              - link "raw data" [ref=f8e56] [cursor=pointer]:
+                - /url: https://catada.info/at/?report=download
+              - text: for analysis, advocacy, and policy influence
+        - generic [ref=f8e57]:
+          - generic [ref=f8e59]:
+            - heading "ABOUT CATADA" [level=2] [ref=f8e60]
+            - paragraph [ref=f8e61]:
+              - img "CATADA Icon" [ref=f8e62]
+              - text: CATADA is a central hub for data, best practices, consumer stories, and resources focused on improving access to assistive technology (AT) as reported by State and Territory Assistive Technology Programs. The AT Act requires these programs report data annually in a State Plan for AT and Annual Performance Report. CATADA serves as a repository for this data to support program planning and reporting to Congress, the Secretary of Health and Human Services, and other stakeholders, along with real-life stories showcasing the impact of AT programs.
+            - heading "WHAT IS AT?" [level=3] [ref=f8e63]
+            - paragraph [ref=f8e64]: Assistive technology (AT) plays a vital role in supporting independence for people with disabilities. It includes any device, equipment, or system—commercial, modified, or custom-made—used to enhance functional abilities of people with disabilities.
+            - heading "WHAT ARE AT PROGRAMS?" [level=3] [ref=f8e65]
+            - paragraph [ref=f8e66]: State and Territory Assistive Technology programs transform access to life-changing technology! These statewide, comprehensive, consumer-driven programs help people of all ages and abilities discover and obtain the AT tools they need to live, learn, work, and thrive—wherever life takes them.
+            - paragraph [ref=f8e67]: Reauthorized in 2022, the 21st Century Assistive Technology Act provides formula grant funding to 56 state and territory programs to improve access, expand the availability, and raise awareness of AT for people with disabilities and older adults.
+          - generic [ref=f8e69]:
+            - heading "EYE ON DATA" [level=2] [ref=f8e70]
+            - paragraph [ref=f8e71]:
+              - strong [ref=f8e72]: Explore training topics by participant count across five topic areas
+              - text: . In FY 2025, 56 AT programs trained 98,927 participants. The most common training topic focused on assistive technology such as instruction to build skills and competency in using AT and integrating AT across settings, reaching 55.3% of participants. For more national data, view the
+              - link "State Data Summary report" [ref=f8e73] [cursor=pointer]:
+                - /url: /assets/aggr_reports25/training
+              - text: .
+            - figure "Vertical bar chart titled \"Training Topics by Number of Participants (2025)\", showing the percentage of participants by topic for all programs in FY 2025." [ref=f8e74]
+            - table "Training Topics by Number of Participants (2025)" [ref=f8e77]:
+              - caption [ref=f8e78]: Training Topics by Number of Participants (2025) — 98,927 total participants
+              - rowgroup [ref=f8e79]:
+                - row [ref=f8e80]:
+                  - columnheader "Topic" [ref=f8e81]
+                  - columnheader "Participants" [ref=f8e82]
+                  - columnheader "Percentage of total" [ref=f8e83]
+              - rowgroup [ref=f8e84]:
+                - row [ref=f8e85]:
+                  - cell "AT Products and Services" [ref=f8e86]
+                  - cell "54,727" [ref=f8e87]
+                  - cell "55.3%" [ref=f8e88]
+                - row [ref=f8e89]:
+                  - cell "Combination of any/all training topics" [ref=f8e90]
+                  - cell "27,016" [ref=f8e91]
+                  - cell "27.3%" [ref=f8e92]
+                - row [ref=f8e93]:
+                  - cell "Info & Communication Technology Accessibility" [ref=f8e94]
+                  - cell "8,000" [ref=f8e95]
+                  - cell "8.1%" [ref=f8e96]
+                - row [ref=f8e97]:
+                  - cell "Transition" [ref=f8e98]
+                  - cell "6,854" [ref=f8e99]
+                  - cell "6.9%" [ref=f8e100]
+                - row [ref=f8e101]:
+                  - cell "AT Funding/Policy/Practice" [ref=f8e102]
+                  - cell "2,330" [ref=f8e103]
+                  - cell "2.4%" [ref=f8e104]
+            - paragraph [ref=f8e105]: "SOURCE: National Assistive Technology Act Data System, State Grants for AT Program annual progress report aggregate data for FY 2025."
+        - generic [ref=f8e108]:
+          - heading "AT SERVICES FLOW" [level=2] [ref=f8e109]
+          - paragraph [ref=f8e110]: How do you access information about and acquire assistive technology devices for yourself, family members, or clients to enhance life, work, and play? The AT Act authorizes state leadership and state level activities designed to provide an integrated continuum of AT services. Each activity within the continuum provides critical access or acquisition to AT.
+          - paragraph [ref=f8e111]: Scroll over the flow chart to learn more!
+          - list:
+            - listitem [ref=f8e112]:
+              - link "ACCESS" [ref=f8e113] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e114]:
+              - link "PUBLIC AWARENESS & TRAINING" [ref=f8e115] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e116]:
+              - link "INFORMATION & ASSISTANCE" [ref=f8e117] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e118]:
+              - link "DEVICE DEMONSTRATION" [ref=f8e119] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e120]:
+              - link "DEVICE LOAN" [ref=f8e121] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e122]:
+              - link "ACQUISITION" [ref=f8e123] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e124]:
+              - link "DEVICE REUSE" [ref=f8e125] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=f8e126]:
+              - link "STATE FINANCING" [ref=f8e127] [cursor=pointer]:
+                - /url: ""
+  - generic [ref=f8e129]:
+    - generic [ref=f8e130]:
+      - paragraph [ref=f8e132]:
+        - link [ref=f8e133] [cursor=pointer]:
+          - /url: https://www.communityinclusion.org/
+          - img "ICI/UMASS logo" [ref=f8e134]
+      - paragraph [ref=f8e136]:
+        - link [ref=f8e137] [cursor=pointer]:
+          - /url: https://www.acl.gov/
+          - img "administration for community living logo" [ref=f8e138]
+      - paragraph [ref=f8e140]:
+        - link [ref=f8e141] [cursor=pointer]:
+          - /url: https://www.iltech.org/
+          - img "ILLINOIS ASSISTIVE TECHNOLOGY PROGRAM" [ref=f8e142]
+      - generic [ref=f8e143]:
+        - paragraph [ref=f8e144]: "The Center for Assistive Technology Act Data Assistance (CATADA) is a project supported by the Association of University Centers on Disabilities through Administration for Community Living (ACL) contract #75P00121C00057. CATADA provides technical assistance and supports to State Assistive Technology Programs funded under Section 4 of the 21st Century Assistive Technology Act (Public Law Number 117–263). CATADA is a collaborative project of the ICI/UMass Boston, and the Illinois Assistive Technology Program (IATP). The information on this website does not necessarily reflect the position or policy of ACL, and no official endorsement should be inferred."
+        - paragraph
+    - generic [ref=f8e145]:
+      - paragraph [ref=f8e147]:
+        - text: © 2026
+        - strong [ref=f8e148]:
+          - link "ICI/UMass Boston" [ref=f8e149] [cursor=pointer]:
+            - /url: http://communityinclusion.org
+        - text: .
+      - generic [ref=f8e150]:
+        - generic [ref=f8e151]:
+          - link "ABOUT" [ref=f8e152] [cursor=pointer]:
+            - /url: /about
+          - text: "|"
+          - link "ACCESSIBILITY" [ref=f8e153] [cursor=pointer]:
+            - /url: /accessibility
+          - text: "|"
+          - link "CONTACT" [ref=f8e154] [cursor=pointer]:
+            - /url: /contact
+        - search [ref=f8e155]:
+          - generic [ref=f8e156]: Search this site
+          - searchbox "Search this site" [ref=f8e157]
+          - button "Search" [ref=f8e158] [cursor=pointer]
