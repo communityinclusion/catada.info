@@ -103,8 +103,4 @@ permalink: /training-materials/
     <a href="https://fast.wistia.com/embed/channel/cyxhppzsmp" target="_new"><strong><i class="bi bi-archive"></i> View archived APR Data, State Plan, and NATADS webinars from 2018-2022</strong></a>
 </p>
 				<p><br></p>
-					<hr />
-					<div class="alert alert-secondary" role="alert">
-						Enter your Annual Progress Report (APR) data and day-to-day component into <a
-							href="http://www.state572data.net/">NATADS</a>. Login is required.
-					</div>
+	
