@@ -131,6 +131,7 @@ nav li a:hover, nav li button:hover {
     border-bottom: 0;
     border-left: .5em solid transparent;
 }
+#main-content {margin-top: 8px; }
 
 
 .alert-primary {background-color:#eff7ff!important;}
